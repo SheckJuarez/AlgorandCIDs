@@ -16,7 +16,7 @@ def getcidlistfromfile(filename):
 		cidlist = []
 		f = open(cwd + "/" + filename)
 		data = json.load(f)
-		for element in data[0]["Assets"]:
+		for element in data["Assets"]:
 			if "config" in element:
 				cidlist.append(element["config"])
 			if "image" in element:
