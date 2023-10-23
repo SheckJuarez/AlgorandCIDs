@@ -1,0 +1,512 @@
+{
+    "Project": "SeaGods",
+    "CreatorAddress": [
+        "YRBKG74MVJUVFR7BKOMA4YNCAG4L3BJVOVIP7QMDPOVOJBGCLXZHSJPGRY"
+    ],
+    "Assets": [
+        {
+            "assetid": 997207926,
+            "name": "SeaGod-Akkorokamui 001",
+            "url": "ipfs://bafybeidvwtcjecfak6ckzdwjczxf2m6ao2oq7gvctgsfptruen6xjhxzru#i",
+            "image": "bafybeidvwtcjecfak6ckzdwjczxf2m6ao2oq7gvctgsfptruen6xjhxzru"
+        },
+        {
+            "assetid": 997209409,
+            "name": "SeaGod-Susanoo 002",
+            "url": "ipfs://bafybeibslwkqkauytzuvj3nim33jjpdyqbr3b2amex2jdu5cl4mu462ium#i",
+            "image": "bafybeibslwkqkauytzuvj3nim33jjpdyqbr3b2amex2jdu5cl4mu462ium"
+        },
+        {
+            "assetid": 1003826234,
+            "name": "SeaGod-Hafgufa 003",
+            "url": "ipfs://bafybeigrcmedyl2ksu4cspn7qhlxkuhfoownzrssdj447bhj2vdur4xmjq#i",
+            "image": "bafybeigrcmedyl2ksu4cspn7qhlxkuhfoownzrssdj447bhj2vdur4xmjq"
+        },
+        {
+            "assetid": 1003826774,
+            "name": "SeaGod-Phorcys 004",
+            "url": "ipfs://bafybeib53lxz4ymvbizk2asflkur7q6iajpokwo67ns6ujwofikxzwf7ki#i",
+            "image": "bafybeib53lxz4ymvbizk2asflkur7q6iajpokwo67ns6ujwofikxzwf7ki"
+        },
+        {
+            "assetid": 1003827285,
+            "name": "SeaGod-Hydros 005",
+            "url": "ipfs://bafybeibpn6i2eaqgevk54gcok3ofc3p6zjjkcchekkcyr3lvq2gp4kgh5q#i",
+            "image": "bafybeibpn6i2eaqgevk54gcok3ofc3p6zjjkcchekkcyr3lvq2gp4kgh5q"
+        },
+        {
+            "assetid": 1007729418,
+            "name": "SeaGod-Maui 006",
+            "url": "ipfs://bafybeid4igjwtimzo5k7nxmix5xavnqbtlqaq565l275rkd2yh35vknuli#i",
+            "image": "bafybeid4igjwtimzo5k7nxmix5xavnqbtlqaq565l275rkd2yh35vknuli"
+        },
+        {
+            "assetid": 1007730816,
+            "name": "SeaGod-Umih\u014dshi 007",
+            "url": "ipfs://bafybeidbqagznrtex42732gbxrea5ku7ah2bqkp3o3ydminlyejmz2lm3m#i",
+            "image": "bafybeidbqagznrtex42732gbxrea5ku7ah2bqkp3o3ydminlyejmz2lm3m"
+        },
+        {
+            "assetid": 1007731229,
+            "name": "SeaGod-Varuna 008",
+            "url": "ipfs://bafybeiahcmvyplwsdqqlvv3nbb7sk6gkhyhhr3kyaxvf3c4milkhwxhjnq#i",
+            "image": "bafybeiahcmvyplwsdqqlvv3nbb7sk6gkhyhhr3kyaxvf3c4milkhwxhjnq"
+        },
+        {
+            "assetid": 1018875865,
+            "name": "SeaGod-Tiamat 009",
+            "url": "ipfs://bafybeigifuwpifajwq4vo2bnvqsgky5cv2pud3djznqbqgw26c632rgbzy#i",
+            "image": "bafybeigifuwpifajwq4vo2bnvqsgky5cv2pud3djznqbqgw26c632rgbzy"
+        },
+        {
+            "assetid": 1020671854,
+            "name": "SeaGod-Nereus 010",
+            "url": "ipfs://bafybeigyjk4rekaq2yr7wbg4jcelvanlylm67e6bjwztxci6pcnw46m3lq#i",
+            "image": "bafybeigyjk4rekaq2yr7wbg4jcelvanlylm67e6bjwztxci6pcnw46m3lq"
+        },
+        {
+            "assetid": 1022781506,
+            "name": "SeaGod-Abyssal 011",
+            "url": "ipfs://bafybeibvcnde262svejw27q55pk7nzuxykh7pmqaqiutnfrq3diqj64nje#i",
+            "image": "bafybeibvcnde262svejw27q55pk7nzuxykh7pmqaqiutnfrq3diqj64nje"
+        },
+        {
+            "assetid": 1022800092,
+            "name": "SeaGod-Carcinus 012",
+            "url": "ipfs://bafybeif5lng2q4lsj4mb5v4essrjipmr3zrm53wuwvcn7nvmdjxkpeapru#i",
+            "image": "bafybeif5lng2q4lsj4mb5v4essrjipmr3zrm53wuwvcn7nvmdjxkpeapru"
+        },
+        {
+            "assetid": 1026721914,
+            "name": "SeaGod-Aegaeon 013",
+            "url": "ipfs://bafybeifmaa5nekygv3f5fwhua2gm56wzymwawcfyqvtkzqpp6fu4qhthzy#i",
+            "image": "bafybeifmaa5nekygv3f5fwhua2gm56wzymwawcfyqvtkzqpp6fu4qhthzy"
+        },
+        {
+            "assetid": 1026723766,
+            "name": "SeaGod-Pontus 014",
+            "url": "ipfs://bafybeiecbttdkg4zgzh34benr6owjz4n3q44bwpti7yb6jx4socbk22whe#i",
+            "image": "bafybeiecbttdkg4zgzh34benr6owjz4n3q44bwpti7yb6jx4socbk22whe"
+        },
+        {
+            "assetid": 1029157956,
+            "name": "SeaGod-Yemaya 015",
+            "url": "ipfs://bafybeic2rxpxdgvppxpxeva6tbn653sdnz3smxfneifw3zu3jydlbir7mm#i",
+            "image": "bafybeic2rxpxdgvppxpxeva6tbn653sdnz3smxfneifw3zu3jydlbir7mm"
+        },
+        {
+            "assetid": 1029161420,
+            "name": "SeaGod-Thetis 016",
+            "url": "ipfs://bafybeihel4mynszdq6r4lpffw7lmyc5rtsfgglaxyzfsufyp34rwsz5jcq#i",
+            "image": "bafybeihel4mynszdq6r4lpffw7lmyc5rtsfgglaxyzfsufyp34rwsz5jcq"
+        },
+        {
+            "assetid": 1032601447,
+            "name": "SeaGod-Tl\u00e1loc 017",
+            "url": "ipfs://bafybeifvpj4a3arwewgl3ux4l3kqvop235utasgo5cz6bliazvwh3xkhwm#i",
+            "image": "bafybeifvpj4a3arwewgl3ux4l3kqvop235utasgo5cz6bliazvwh3xkhwm"
+        },
+        {
+            "assetid": 1032602380,
+            "name": "SeaGod-Nodens 018",
+            "url": "ipfs://bafybeifi3ufibyafxxdugqzblcmiuxafkqmij5kt5cnnmouihfzy7z4xqe#i",
+            "image": "bafybeifi3ufibyafxxdugqzblcmiuxafkqmij5kt5cnnmouihfzy7z4xqe"
+        },
+        {
+            "assetid": 1035051465,
+            "name": "SeaGod-Caronte 019",
+            "url": "ipfs://bafybeid5lw7o2cyvgelf5swrgnjziapk66qhg3ib3uv4psend5snrks464#i",
+            "image": "bafybeid5lw7o2cyvgelf5swrgnjziapk66qhg3ib3uv4psend5snrks464"
+        },
+        {
+            "assetid": 1035278881,
+            "name": "SeaGod-Water Spirit 020",
+            "url": "ipfs://bafybeifkfluf5sgh4z3i5ija27pocb6dkruhhbe3a3idovi7ufjxraiz7m#i",
+            "image": "bafybeifkfluf5sgh4z3i5ija27pocb6dkruhhbe3a3idovi7ufjxraiz7m"
+        },
+        {
+            "assetid": 1035279443,
+            "name": "SeaGod-Vah Ruta 021",
+            "url": "ipfs://bafybeicarxlr6umhg2f32vogydw7p7patw6t5kqwgpqkos4glrn3s3x6ey#i",
+            "image": "bafybeicarxlr6umhg2f32vogydw7p7patw6t5kqwgpqkos4glrn3s3x6ey"
+        },
+        {
+            "assetid": 1038134534,
+            "name": "SeaGod-Chaac 022",
+            "url": "ipfs://bafybeigsxnil2gk6cdsvqshqsoox7hbuzl5frsjt45k53u6fcspyuzqm2y#i",
+            "image": "bafybeigsxnil2gk6cdsvqshqsoox7hbuzl5frsjt45k53u6fcspyuzqm2y"
+        },
+        {
+            "assetid": 1038151094,
+            "name": "SeaGod-Venti 023",
+            "url": "ipfs://bafybeigbs5t7rdlquv4s3oxoh7mfgt73ov2sebbm3cy2xfw5oxlxjucvoq#i",
+            "image": "bafybeigbs5t7rdlquv4s3oxoh7mfgt73ov2sebbm3cy2xfw5oxlxjucvoq"
+        },
+        {
+            "assetid": 1040508504,
+            "name": "SeaGod-Angler 024",
+            "url": "ipfs://bafybeiehyn3wl5t6lmfwakmodnj6nmnohfyzupc7vtgarj3pyxi3e2rphm#i",
+            "image": "bafybeiehyn3wl5t6lmfwakmodnj6nmnohfyzupc7vtgarj3pyxi3e2rphm"
+        },
+        {
+            "assetid": 1040511129,
+            "name": "SeaGod-Vaatu Raava  025",
+            "url": "ipfs://bafybeidzqlgbsnqdahncmracqd2r6bhkuyenomyi3uxfdnavu25zsq22eu#i",
+            "image": "bafybeidzqlgbsnqdahncmracqd2r6bhkuyenomyi3uxfdnavu25zsq22eu"
+        },
+        {
+            "assetid": 1044594698,
+            "name": "SeaGod-Enki 026",
+            "url": "ipfs://bafybeihdnjobmcayvkvpkenu7cmcilvqesq7wcicvovud3rnxbrasv6cfy#i",
+            "image": "bafybeihdnjobmcayvkvpkenu7cmcilvqesq7wcicvovud3rnxbrasv6cfy"
+        },
+        {
+            "assetid": 1044595699,
+            "name": "SeaGod-Marduk 027",
+            "url": "ipfs://bafybeihimsvzepm5ccqdmfr3cjbnua5wpxdkdlx2zkyl7toelh37fqcz24#i",
+            "image": "bafybeihimsvzepm5ccqdmfr3cjbnua5wpxdkdlx2zkyl7toelh37fqcz24"
+        },
+        {
+            "assetid": 1046787415,
+            "name": "SeaGod-Osiris 028",
+            "url": "ipfs://bafybeibbemukwsbancr2qie3g3cnr72vn6hgmojuw2k4jzd7viqvhbdfom#i",
+            "image": "bafybeibbemukwsbancr2qie3g3cnr72vn6hgmojuw2k4jzd7viqvhbdfom"
+        },
+        {
+            "assetid": 1046789991,
+            "name": "SeaGod-Kyogre 029",
+            "url": "ipfs://bafkreicamhbf2napmzxxcqdmzjtvq2rndku3gqxpuuelieck2tv6qqgah4#i",
+            "image": "bafkreicamhbf2napmzxxcqdmzjtvq2rndku3gqxpuuelieck2tv6qqgah4"
+        },
+        {
+            "assetid": 1049208656,
+            "name": "SeaGod-Poseidon 030",
+            "url": "ipfs://bafybeibnziyr6hoha6fdvk5ypi47dyob55umatykn3qnwcwzcjelqwjv3a#i",
+            "image": "bafybeibnziyr6hoha6fdvk5ypi47dyob55umatykn3qnwcwzcjelqwjv3a"
+        },
+        {
+            "assetid": 1049210571,
+            "name": "SeaGod-Sedna 031",
+            "url": "ipfs://bafybeieorufznafel2avpxbtztncebhnrojidbe6zs3zcf4wyfaxggcl64#i",
+            "image": "bafybeieorufznafel2avpxbtztncebhnrojidbe6zs3zcf4wyfaxggcl64"
+        },
+        {
+            "assetid": 1051060152,
+            "name": "SeaGod-Rahab 032",
+            "url": "ipfs://bafkreiguzz2ctghqw3un57fnhawxt3unupg6huklsnt5ravpcirdxepek4#i",
+            "image": "bafkreiguzz2ctghqw3un57fnhawxt3unupg6huklsnt5ravpcirdxepek4"
+        },
+        {
+            "assetid": 1051060546,
+            "name": "SeaGod-Hades 033",
+            "url": "ipfs://bafybeicw2vxecl7ompvl2fbsl2lvnr7rc77s2ybuoek37ostb3kb5t55ha#i",
+            "image": "bafybeicw2vxecl7ompvl2fbsl2lvnr7rc77s2ybuoek37ostb3kb5t55ha"
+        },
+        {
+            "assetid": 1060093936,
+            "name": "SeaGod-Bukavac 034",
+            "url": "ipfs://bafybeih7aahnpyauuaov4c6iumkuz4lnajsnqkrdoycrqlxx5fq2tdcyoa#i",
+            "image": "bafybeih7aahnpyauuaov4c6iumkuz4lnajsnqkrdoycrqlxx5fq2tdcyoa"
+        },
+        {
+            "assetid": 1060095228,
+            "name": "SeaGod-Njord 035",
+            "url": "ipfs://bafybeiaxetsgto7y2nj2zmzt33ypgzgpakjsu3rnpmvaowevkllexgyrkq#i",
+            "image": "bafybeiaxetsgto7y2nj2zmzt33ypgzgpakjsu3rnpmvaowevkllexgyrkq"
+        },
+        {
+            "assetid": 1062676044,
+            "name": "Seagod-Test",
+            "url": "ipfs://bafybeiat7htboaj3oqwuncizuae47dbpz54ycooqgyvyhg443uvj3tfodq#i",
+            "image": "bafybeiat7htboaj3oqwuncizuae47dbpz54ycooqgyvyhg443uvj3tfodq"
+        },
+        {
+            "assetid": 1062881663,
+            "name": "SeaGod-Iku Turso 036",
+            "url": "ipfs://bafybeihvhuy5zzaxlefvafgxkkfh2f4ilhwinci5nc6jwftexrquty5bbi#i",
+            "image": "bafybeihvhuy5zzaxlefvafgxkkfh2f4ilhwinci5nc6jwftexrquty5bbi"
+        },
+        {
+            "assetid": 1062882108,
+            "name": "SeaGod-Mannam 037",
+            "url": "ipfs://bafybeiapz6hgc62tgnbtxnw2kmrp5njons3s23vdjledf4tazedzhywnzm#i",
+            "image": "bafybeiapz6hgc62tgnbtxnw2kmrp5njons3s23vdjledf4tazedzhywnzm"
+        },
+        {
+            "assetid": 1066497693,
+            "name": "SeaGod-Dagon 038",
+            "url": "ipfs://bafybeibfsvzlxyzdv3bl34kbv7qvxls63ha5ks6j4byfnqchckfwyhfrba#i",
+            "image": "bafybeibfsvzlxyzdv3bl34kbv7qvxls63ha5ks6j4byfnqchckfwyhfrba"
+        },
+        {
+            "assetid": 1066498356,
+            "name": "SeaGod-Dagda 039",
+            "url": "ipfs://bafybeiggwdcbcgwmmp3civ2zjaaot7evohjgqncl6c42ed6gkmazgxtqeu#i",
+            "image": "bafybeiggwdcbcgwmmp3civ2zjaaot7evohjgqncl6c42ed6gkmazgxtqeu"
+        },
+        {
+            "assetid": 1069289381,
+            "name": "Seagod-Cthulhu 040",
+            "url": "ipfs://bafybeiadgs5n3kj34plhpjjhj6rflmgtlwdya3knhpglcu2al3sz53spwi#i",
+            "image": "bafybeiadgs5n3kj34plhpjjhj6rflmgtlwdya3knhpglcu2al3sz53spwi"
+        },
+        {
+            "assetid": 1069293247,
+            "name": "SeaGod-T\u0101whirim\u0101tea 041",
+            "url": "ipfs://bafybeiarel2u2njhgnbw2yv3c42h6ctjdyoxu4e74hu32v6zzyitploeau#i",
+            "image": "bafybeiarel2u2njhgnbw2yv3c42h6ctjdyoxu4e74hu32v6zzyitploeau"
+        },
+        {
+            "assetid": 1071581110,
+            "name": "SeaGod-Quetzalc\u00f3atl 042",
+            "url": "ipfs://bafybeiaurvwckdh5tvx2iwvolgghgh5pjgwm7rg2apy7xjdnlfmpmzf3sq#i",
+            "image": "bafybeiaurvwckdh5tvx2iwvolgghgh5pjgwm7rg2apy7xjdnlfmpmzf3sq"
+        },
+        {
+            "assetid": 1072499767,
+            "name": "SeaGod-Fengbo 043",
+            "url": "ipfs://bafybeidttzmepxwnsjecm5twkee5y7lecjb3gz4o6w32fkze6emz233np4#i",
+            "image": "bafybeidttzmepxwnsjecm5twkee5y7lecjb3gz4o6w32fkze6emz233np4"
+        },
+        {
+            "assetid": 1073944331,
+            "name": "SeaGod-Kraken 044",
+            "url": "ipfs://bafybeia4msb53xuhsaxox65ntasfhv42w7injy2g4njr2cevxufmzw7vva#i",
+            "image": "bafybeia4msb53xuhsaxox65ntasfhv42w7injy2g4njr2cevxufmzw7vva"
+        },
+        {
+            "assetid": 1073944885,
+            "name": "SeaGod-Twilight  045",
+            "url": "ipfs://bafybeigpohwe6abvjev26ibdodedybynayhzkb6konrdlxxhppsjr3uutq#i",
+            "image": "bafybeigpohwe6abvjev26ibdodedybynayhzkb6konrdlxxhppsjr3uutq"
+        },
+        {
+            "assetid": 1076821187,
+            "name": "SeaGod-David Jones 046",
+            "url": "ipfs://bafybeigtinpec25nhwoz7f423u7fbh7dwffbjztv5f34essl37ateeqjle#i",
+            "image": "bafybeigtinpec25nhwoz7f423u7fbh7dwffbjztv5f34essl37ateeqjle"
+        },
+        {
+            "assetid": 1076823260,
+            "name": "SeaGod-Matariel 047",
+            "url": "ipfs://bafybeic7rc5t5w46zkmqgnvh5cvedbqs4jerpd6olepefwhewjyu2uasvm#i",
+            "image": "bafybeic7rc5t5w46zkmqgnvh5cvedbqs4jerpd6olepefwhewjyu2uasvm"
+        },
+        {
+            "assetid": 1079328801,
+            "name": "SeaGod-Cipactli 048",
+            "url": "ipfs://bafybeiaa2334fpuovng6nhad23zao3pkds375ule5325zkkqdt5qbb7ate#i",
+            "image": "bafybeiaa2334fpuovng6nhad23zao3pkds375ule5325zkkqdt5qbb7ate"
+        },
+        {
+            "assetid": 1079329222,
+            "name": "SeaGod-Jotun 049",
+            "url": "ipfs://bafybeiguzoax35nhbrv5pa3v4reh7cc7dpfyk7ctjaecoarywyggfm3rb4#i",
+            "image": "bafybeiguzoax35nhbrv5pa3v4reh7cc7dpfyk7ctjaecoarywyggfm3rb4"
+        },
+        {
+            "assetid": 1082374976,
+            "name": "SeaGod-Sahaqiel 050",
+            "url": "ipfs://bafybeidd2tqfvln2xbsqjfaqijoigegw5qrqnq7wew36g4hglwr2w7xmym#i",
+            "image": "bafybeidd2tqfvln2xbsqjfaqijoigegw5qrqnq7wew36g4hglwr2w7xmym"
+        },
+        {
+            "assetid": 1083872695,
+            "name": "SeaGod-Piscis 051",
+            "url": "ipfs://bafybeihz6k4fckgcxumalelvvh5nqwveg7l3zjej7sx6otcdjgxfpmnyqq#i",
+            "image": "bafybeihz6k4fckgcxumalelvvh5nqwveg7l3zjej7sx6otcdjgxfpmnyqq"
+        },
+        {
+            "assetid": 1084596572,
+            "name": "SeaGod-Aquarius 052",
+            "url": "ipfs://bafybeieie3eei2mpsyhfpepc6ivywv5joh3tqzitibrpen7vgd25qtp6au#i",
+            "image": "bafybeieie3eei2mpsyhfpepc6ivywv5joh3tqzitibrpen7vgd25qtp6au"
+        },
+        {
+            "assetid": 1084596928,
+            "name": "SeaGod-The Moon 053",
+            "url": "ipfs://bafybeihytxmdadg3frmi3rs47fsbvqc62qjm6rre4vulxmpjltytakbc5u#i",
+            "image": "bafybeihytxmdadg3frmi3rs47fsbvqc62qjm6rre4vulxmpjltytakbc5u"
+        },
+        {
+            "assetid": 1087222188,
+            "name": "SeaGod-The Star 054",
+            "url": "ipfs://bafybeidzpehg2e5pk6imbeg53ieqr4ywxftemx2xba4fxobs6easakmzsy#i",
+            "image": "bafybeidzpehg2e5pk6imbeg53ieqr4ywxftemx2xba4fxobs6easakmzsy"
+        },
+        {
+            "assetid": 1087222960,
+            "name": "SeaGod-Remiel 055",
+            "url": "ipfs://bafybeibtp5utxdi6xaif3q5gkhzebodlpkqcciindhmbrpdec6wnmbtkb4#i",
+            "image": "bafybeibtp5utxdi6xaif3q5gkhzebodlpkqcciindhmbrpdec6wnmbtkb4"
+        },
+        {
+            "assetid": 1089490228,
+            "name": "SeaGod-Capricorn 056",
+            "url": "ipfs://bafybeig54s5wm77qvwb7ixhlivpus3fse4lqkb6dlcmb6mjbsvtf6mr3gu#i",
+            "image": "bafybeig54s5wm77qvwb7ixhlivpus3fse4lqkb6dlcmb6mjbsvtf6mr3gu"
+        },
+        {
+            "assetid": 1091981516,
+            "name": "SeaGod-Kokabiel 057",
+            "url": "ipfs://bafybeieiakykl7mbgqx255gcgvjpzpvatup7heaqfkuojbcrngpzmnsnia#i",
+            "image": "bafybeieiakykl7mbgqx255gcgvjpzpvatup7heaqfkuojbcrngpzmnsnia"
+        },
+        {
+            "assetid": 1091981831,
+            "name": "Seagod-The Sun 058",
+            "url": "ipfs://bafybeigdiimylw5ngwnd6lvhkca24fhan73uvt7zaqhvzjyh6hblvowvm4#i",
+            "image": "bafybeigdiimylw5ngwnd6lvhkca24fhan73uvt7zaqhvzjyh6hblvowvm4"
+        },
+        {
+            "assetid": 1093978956,
+            "name": "SeaGod-Dumah 059",
+            "url": "ipfs://bafybeiduw6y2i7zoaunsyzvkap6czv6m7orm55gluzngoyumecrnikkge4#i",
+            "image": "bafybeiduw6y2i7zoaunsyzvkap6czv6m7orm55gluzngoyumecrnikkge4"
+        },
+        {
+            "assetid": 1093980151,
+            "name": "SeaGod-Scorpio 060",
+            "url": "ipfs://bafybeiflculhzm3kj6nl2jwtq4kgvetfh3zrs3oya6f5sm7hqlztysdkdu#i",
+            "image": "bafybeiflculhzm3kj6nl2jwtq4kgvetfh3zrs3oya6f5sm7hqlztysdkdu"
+        },
+        {
+            "assetid": 1096324169,
+            "name": "SeaGod-The Fate 061",
+            "url": "ipfs://bafybeigik6duo2pxz7hxal565xu4objsyizlq42vzzny6bksatlp2xbhti#i",
+            "image": "bafybeigik6duo2pxz7hxal565xu4objsyizlq42vzzny6bksatlp2xbhti"
+        },
+        {
+            "assetid": 1096324421,
+            "name": "SeaGod-Cancer 062",
+            "url": "ipfs://bafybeiaxnmh4t5t2emvrzwbfpxlriu533lr5jo7alzkiyaaizotvcg3tnu#i",
+            "image": "bafybeiaxnmh4t5t2emvrzwbfpxlriu533lr5jo7alzkiyaaizotvcg3tnu"
+        },
+        {
+            "assetid": 1098696630,
+            "name": "SeaGod-The Night 063",
+            "url": "ipfs://bafybeigts4c74qhim5ug5xjkybdqn7dt5alonc6wvftuzppygnvnqbwlia#i",
+            "image": "bafybeigts4c74qhim5ug5xjkybdqn7dt5alonc6wvftuzppygnvnqbwlia"
+        },
+        {
+            "assetid": 1098697596,
+            "name": "SeaGod-Hasmed 064",
+            "url": "ipfs://bafybeibhwzq7da3pkqgbavpmbmv7pk76jwgwk4zrvndzl3qyw7cxup25s4#i",
+            "image": "bafybeibhwzq7da3pkqgbavpmbmv7pk76jwgwk4zrvndzl3qyw7cxup25s4"
+        },
+        {
+            "assetid": 1106971366,
+            "name": "SeaGod-Sunset Guardian 065",
+            "url": "ipfs://bafybeib6mzfytfcrk7ktqv2sy6doyjptu23ffkgoze6qnxsjp4jlhuswhm#i",
+            "image": "bafybeib6mzfytfcrk7ktqv2sy6doyjptu23ffkgoze6qnxsjp4jlhuswhm"
+        },
+        {
+            "assetid": 1127642821,
+            "name": "SeaGod-Apam Napat",
+            "url": "ipfs://bafybeibryx7mpn4exrh5hq3lfcb42s25hlw4wptdnso564ytxojuhrgqjm#i",
+            "image": "bafybeibryx7mpn4exrh5hq3lfcb42s25hlw4wptdnso564ytxojuhrgqjm"
+        },
+        {
+            "assetid": 1128098957,
+            "name": "SeaGod-Kanaloa 067",
+            "url": "ipfs://bafybeibvv5mp2bvlolyrczlfa2thktt3hxjy3222oilbl6wuqt3zyaqpxq#i",
+            "image": "bafybeibvv5mp2bvlolyrczlfa2thktt3hxjy3222oilbl6wuqt3zyaqpxq"
+        },
+        {
+            "assetid": 1132617688,
+            "name": "SeaGod-Gill-Man 068",
+            "url": "ipfs://bafybeickkotircotawd5cmijnjm2i6nixalmmbuy2wxcxgyt4m7yqdlq3y#i",
+            "image": "bafybeickkotircotawd5cmijnjm2i6nixalmmbuy2wxcxgyt4m7yqdlq3y"
+        },
+        {
+            "assetid": 1132618397,
+            "name": "SeaGod-Kubera 069",
+            "url": "ipfs://bafybeigu45vkhhx5nvxrrn5n2of7i2ljnbz3o22n2weepohmt7isqc633m#i",
+            "image": "bafybeigu45vkhhx5nvxrrn5n2of7i2ljnbz3o22n2weepohmt7isqc633m"
+        },
+        {
+            "assetid": 1137464271,
+            "name": "SeaGod-Yaam 070",
+            "url": "ipfs://bafybeia6i6oxcp2slbtfl2v7jrn3in34qwlgaszbkqlqdb27nr34zcmh54#i",
+            "image": "bafybeia6i6oxcp2slbtfl2v7jrn3in34qwlgaszbkqlqdb27nr34zcmh54"
+        },
+        {
+            "assetid": 1137465035,
+            "name": "SeaGod-Tefnut 071",
+            "url": "ipfs://bafybeiap4xxhedttfszl3g7c4ryq4idhowks74zom2ozoubjbndkcu5n3m#i",
+            "image": "bafybeiap4xxhedttfszl3g7c4ryq4idhowks74zom2ozoubjbndkcu5n3m"
+        },
+        {
+            "assetid": 1142335295,
+            "name": "SeaGod-Shamsiel 072",
+            "url": "ipfs://bafybeiebxki7igxzhsdmodmaelj6an4j5zjrag6765k37frp2auof53a5e#i",
+            "image": "bafybeiebxki7igxzhsdmodmaelj6an4j5zjrag6765k37frp2auof53a5e"
+        },
+        {
+            "assetid": 1142335547,
+            "name": "SeaGod-Noa 073",
+            "url": "ipfs://bafybeifadgteapr3v37qrjtinhwwszdsahlzezy3yt5cnwgxbxsypw6dna#i",
+            "image": "bafybeifadgteapr3v37qrjtinhwwszdsahlzezy3yt5cnwgxbxsypw6dna"
+        },
+        {
+            "assetid": 1148096604,
+            "name": "SeaGod-Bryane 074",
+            "url": "ipfs://bafybeicvarj66mwkzb32v7xm2jl7sawv4no2vxbewuyq5zqlaopzofyfd4#i",
+            "image": "bafybeicvarj66mwkzb32v7xm2jl7sawv4no2vxbewuyq5zqlaopzofyfd4"
+        },
+        {
+            "assetid": 1148101702,
+            "name": "SeaGod-Coronides 075",
+            "url": "ipfs://bafybeied772xphobkc2ohdukbt4b5k4irjeib637gr4pmwgnvoxaz53tn4#i",
+            "image": "bafybeied772xphobkc2ohdukbt4b5k4irjeib637gr4pmwgnvoxaz53tn4"
+        },
+        {
+            "assetid": 1153849122,
+            "name": "SeaGod-Khunm 076",
+            "url": "ipfs://bafybeic6ko3n6vrvb34leutxdgyn4khhskk4geu5hiid7vks5kfnt46qzu#i",
+            "image": "bafybeic6ko3n6vrvb34leutxdgyn4khhskk4geu5hiid7vks5kfnt46qzu"
+        },
+        {
+            "assetid": 1153849761,
+            "name": "SeaGod-Chester Moon 077",
+            "url": "ipfs://bafybeiad3y4grqdlmysz6j53z3b3hw77rvqsfcs2foxlk4axpejfscr5xq#i",
+            "image": "bafybeiad3y4grqdlmysz6j53z3b3hw77rvqsfcs2foxlk4axpejfscr5xq"
+        },
+        {
+            "assetid": 1158722038,
+            "name": "SeaGod-Hydra 078",
+            "url": "ipfs://bafybeighisxuwg2mcibqpl6t4i37t7kg3uhejg2hhz6hnly2ucuha2mwqy#i",
+            "image": "bafybeighisxuwg2mcibqpl6t4i37t7kg3uhejg2hhz6hnly2ucuha2mwqy"
+        },
+        {
+            "assetid": 1158722849,
+            "name": "SeaGod-Nimpha 079",
+            "url": "ipfs://bafybeid6gapipvxqbpm7rt57ipaic4utf27ugx2sz2363jktjc4c2zk5g4#i",
+            "image": "bafybeid6gapipvxqbpm7rt57ipaic4utf27ugx2sz2363jktjc4c2zk5g4"
+        },
+        {
+            "assetid": 1163611299,
+            "name": "SeaGod-Euribya 080",
+            "url": "ipfs://bafybeiffxqz4igq7zrlrpryjyp34kwqcjuhytsctestppl7hynnmhrt65i#i",
+            "image": "bafybeiffxqz4igq7zrlrpryjyp34kwqcjuhytsctestppl7hynnmhrt65i"
+        },
+        {
+            "assetid": 1163612830,
+            "name": "SeaGod-Ezili 081",
+            "url": "ipfs://bafybeie433asf2myoa6bbijbvz6wfnxmbsgofctyvd572vlxmv2qwv7cqy#i",
+            "image": "bafybeie433asf2myoa6bbijbvz6wfnxmbsgofctyvd572vlxmv2qwv7cqy"
+        },
+        {
+            "assetid": 1185050034,
+            "name": "SeaGod-Wazu 082",
+            "url": "ipfs://bafybeiev5afuageqmsapvd2cni7pglv74apgsqz3oeq4cdacq4f44md3cm#i",
+            "image": "bafybeiev5afuageqmsapvd2cni7pglv74apgsqz3oeq4cdacq4f44md3cm"
+        },
+        {
+            "assetid": 1185050562,
+            "name": "SeaGod-Ebizu 083",
+            "url": "ipfs://bafybeibnaly2dauh23rayq5egubdbq3gkgvcd3k2z762hvpxhu2ihyl74a#i",
+            "image": "bafybeibnaly2dauh23rayq5egubdbq3gkgvcd3k2z762hvpxhu2ihyl74a"
+        }
+    ]
+}
