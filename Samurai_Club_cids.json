@@ -1,0 +1,533 @@
+{
+    "Project": "Samurai Club",
+    "CreatorAddress": [
+        "ERK6VUFSYOWMMJJWWI7WUOAY4FQEEEOK26JAOZTNJVKCCPBVNJSL3AP4UM"
+    ],
+    "Assets": [
+        {
+            "assetid": 741962286,
+            "name": "Samurai #01",
+            "url": "ipfs://QmWMe7x8Uf1fkquGvtTupFF3V5tTvfgFLB9J4VXGeKHQRi#arc3",
+            "config": "QmWMe7x8Uf1fkquGvtTupFF3V5tTvfgFLB9J4VXGeKHQRi",
+            "image": "QmYLYDoEUJH8Ft5rC2vXGi1mqQKy5NHDgyANdFxd4bkSMc"
+        },
+        {
+            "assetid": 741963414,
+            "name": "Samurai #02",
+            "url": "ipfs://QmSbgbAPbqsJm4exhiLtJ9eui8bmfiAk4qZyf4SPeCR6Pv#arc3",
+            "config": "QmSbgbAPbqsJm4exhiLtJ9eui8bmfiAk4qZyf4SPeCR6Pv",
+            "image": "QmZmgVptfw7SUHmCL1E8kT9TPweDGs8jQvyjXdofzqBDmX"
+        },
+        {
+            "assetid": 741964926,
+            "name": "Samurai #03",
+            "url": "ipfs://QmUByUXPkGeLree2XsMJLRrjNe9yqd2kxcajNYmv2BUsDJ#arc3",
+            "config": "QmUByUXPkGeLree2XsMJLRrjNe9yqd2kxcajNYmv2BUsDJ",
+            "image": "QmZstX1sGcbS3Nyu64EEf28sSeFnpGGnzgbZwVjXcNnL7r"
+        },
+        {
+            "assetid": 741965991,
+            "name": "Samurai #04",
+            "url": "ipfs://QmY55AVaB1gubrS8GNPRNxRq6P1ifk3EnQ2AFE6nNbBtG3#arc3",
+            "config": "QmY55AVaB1gubrS8GNPRNxRq6P1ifk3EnQ2AFE6nNbBtG3",
+            "image": "Qmf2ej5WG5T6qmiL1GYFhkcxnpAaZvbJmLBrsE1tV3gE3t"
+        },
+        {
+            "assetid": 741967678,
+            "name": "Samurai #05",
+            "url": "ipfs://QmQaur1Emx2BBYHGUYQUoZBdfXGiAGapbgqUQe42r2DJcG#arc3",
+            "config": "QmQaur1Emx2BBYHGUYQUoZBdfXGiAGapbgqUQe42r2DJcG",
+            "image": "QmSSy4xwYzcPukiyGUrNc5E55j4B8UmULjcWBrNgpy3WWV"
+        },
+        {
+            "assetid": 741969678,
+            "name": "Samurai #06",
+            "url": "ipfs://QmQ2ZE458pm72errGurswFdfTyF5BXDFKhnwB3ZgpLhkPr#arc3",
+            "config": "QmQ2ZE458pm72errGurswFdfTyF5BXDFKhnwB3ZgpLhkPr",
+            "image": "QmY9RebX4qgfKM3D7vb2zmENCm3A3SK2hfnWyWeYaByTcG"
+        },
+        {
+            "assetid": 751571722,
+            "name": "Samurai #07",
+            "url": "ipfs://QmUQFxMxPhCaeDZWW3Sn8mGmySG2SUcpzYcWJgXFvznFMs#arc3",
+            "config": "QmUQFxMxPhCaeDZWW3Sn8mGmySG2SUcpzYcWJgXFvznFMs",
+            "image": "QmTUVfWYEQgHf7RpJXuwbeXKVFtvtbrVxwQLgvJjempK4n"
+        },
+        {
+            "assetid": 751572327,
+            "name": "Samurai #08",
+            "url": "ipfs://QmYeMnkEHB2b8GB9sHQa644Za18LCQseKgGbmRmhTFk4TS#arc3",
+            "config": "QmYeMnkEHB2b8GB9sHQa644Za18LCQseKgGbmRmhTFk4TS",
+            "image": "QmaLy76A14ERxQvbUv5EUEWZAe2zdGiJu15652ewUSjtRS"
+        },
+        {
+            "assetid": 751572689,
+            "name": "Samurai #09",
+            "url": "ipfs://QmZ9oJ55hWKT2EBNeZkZLYcSHNefFiwSNhkQHkzbFSAXJM#arc3",
+            "config": "QmZ9oJ55hWKT2EBNeZkZLYcSHNefFiwSNhkQHkzbFSAXJM",
+            "image": "Qmb2cBbV2q1EgMzvm8L7n6CwpEx1zFgg1PWUoxuELxTKCx"
+        },
+        {
+            "assetid": 751573032,
+            "name": "Samurai #10",
+            "url": "ipfs://Qmc6PqAtFVEhUyaqyeNHNkrEXNrDRciAnCaxosPohpvi6N#arc3",
+            "config": "Qmc6PqAtFVEhUyaqyeNHNkrEXNrDRciAnCaxosPohpvi6N",
+            "image": "QmWJpBeu7xthQxLHuw49H4soJy8wYRamWwVcgF88nkRLuT"
+        },
+        {
+            "assetid": 751573349,
+            "name": "Samurai #11",
+            "url": "ipfs://QmSzmCQ8mFZ1sHJPxu4dd5h8WcRPfwZiYJQQwf6W9C3tfs#arc3",
+            "config": "QmSzmCQ8mFZ1sHJPxu4dd5h8WcRPfwZiYJQQwf6W9C3tfs",
+            "image": "QmbhjwcULoBMyMzw45nBBZeYEkoaBogZqxpnWAJtJDED8Y"
+        },
+        {
+            "assetid": 759460369,
+            "name": "Samurai #12",
+            "url": "ipfs://QmaKXCVDGehqzmLe1Kai5atEjd6s5atPrGp48cYzD6Gbca#arc3",
+            "config": "QmaKXCVDGehqzmLe1Kai5atEjd6s5atPrGp48cYzD6Gbca",
+            "image": "QmWSfJuzCTNoXBXTFgGFKpif1ovZr1j9vMckKyvb3Ct9TV"
+        },
+        {
+            "assetid": 759460772,
+            "name": "Samurai #13",
+            "url": "ipfs://QmcRBXVqSTeJdqTWMukkfXcNqxQbbt2c9FSx1UKNeeX8pP#arc3",
+            "config": "QmcRBXVqSTeJdqTWMukkfXcNqxQbbt2c9FSx1UKNeeX8pP",
+            "image": "QmVZrU6u5DkYo8VBagcYLrVD4hGX83m7c4RZB6JgqwtS5Y"
+        },
+        {
+            "assetid": 759461346,
+            "name": "Samurai #14",
+            "url": "ipfs://QmV4Pqr4UypHzg5u4WffC4fGAPCeZNx7sfgpuNt6i2WHFh#arc3",
+            "config": "QmV4Pqr4UypHzg5u4WffC4fGAPCeZNx7sfgpuNt6i2WHFh",
+            "image": "QmPxBAPxK4HwesBUckDZJh5vxNgiowzCKFMYvEDCBEWgML"
+        },
+        {
+            "assetid": 759461646,
+            "name": "Samurai #15",
+            "url": "ipfs://QmTGPTdQzrnpwpvWNNf9aEp11iL4PT2VgVaQpSudQcDZq6#arc3",
+            "config": "QmTGPTdQzrnpwpvWNNf9aEp11iL4PT2VgVaQpSudQcDZq6",
+            "image": "QmUBUUwfgxxh7GspbZNC5GpM15oX8XyJ44qgQUB5zWE3jC"
+        },
+        {
+            "assetid": 759461989,
+            "name": "Samurai #16",
+            "url": "ipfs://QmZjiLPvZu4DcX5gHn2TLgjMGT6piZmnpiDhWd7aiCMgmy#arc3",
+            "config": "QmZjiLPvZu4DcX5gHn2TLgjMGT6piZmnpiDhWd7aiCMgmy",
+            "image": "QmRGCzftxzMndzkcr7HRL7PU21bvtmVGzEh1mrzw7Q4W6e"
+        },
+        {
+            "assetid": 767658327,
+            "name": "Samurai #17",
+            "url": "ipfs://Qmd8M7Cd2rDdXafcfzpNd7CA8EGb1p2WHx3sy4toFQdcei#arc3",
+            "config": "Qmd8M7Cd2rDdXafcfzpNd7CA8EGb1p2WHx3sy4toFQdcei",
+            "image": "QmPeVdATgprLQNRDjKyEXgw8CCBxW6yvPxxGq5SqwTv72y"
+        },
+        {
+            "assetid": 767658820,
+            "name": "Samurai #18",
+            "url": "ipfs://QmdFBaXnKDipYfB4NPQqiggm4pwzTNpxWmjpWTwfnDwY2A#arc3",
+            "config": "QmdFBaXnKDipYfB4NPQqiggm4pwzTNpxWmjpWTwfnDwY2A",
+            "image": "QmNm5Mpkn1CZ19guMqZT1JjkjHSHgCkik8FsUFLhKSSnp3"
+        },
+        {
+            "assetid": 767659228,
+            "name": "Samurai #19",
+            "url": "ipfs://QmZRRPdKUR8GxQ13xeYPjwW2BdqyNLv4u22AjQdUx2W3dX#arc3",
+            "config": "QmZRRPdKUR8GxQ13xeYPjwW2BdqyNLv4u22AjQdUx2W3dX",
+            "image": "QmPwfCxhLorqp2R5u8mJw365j15do3p2EauJyFtaebbwYi"
+        },
+        {
+            "assetid": 767659660,
+            "name": "Samurai #20",
+            "url": "ipfs://QmaPDM6ZKu5NypfUw8URx6vM4Poy8QxFbYAexmgVNz1e3q#arc3",
+            "config": "QmaPDM6ZKu5NypfUw8URx6vM4Poy8QxFbYAexmgVNz1e3q",
+            "image": "QmZFKTFMRpxxUqtAYxUzjRWXNMTP81D7n1mPdbQQk6suh1"
+        },
+        {
+            "assetid": 767660088,
+            "name": "Samurai #21",
+            "url": "ipfs://QmbFgfU6quX61HnaDo6VtGx7SQtGzsCxfxPkNMLSgZpDLT#arc3",
+            "config": "QmbFgfU6quX61HnaDo6VtGx7SQtGzsCxfxPkNMLSgZpDLT",
+            "image": "QmT2nmHSvYKNcjkMCxYKgzmhcsY6uLFZQs9G5tqeVcEsTb"
+        },
+        {
+            "assetid": 776221287,
+            "name": "Samurai #22",
+            "url": "ipfs://QmUtMHnU1JjP19i8JxsVkWHMkD5tv1xsYZwD2xUkeCRuqF#arc3",
+            "config": "QmUtMHnU1JjP19i8JxsVkWHMkD5tv1xsYZwD2xUkeCRuqF",
+            "image": "QmT3VCjbv8jDAnTL9kqNHnVjLvhAY7tAxUJQFNrtocmoWH"
+        },
+        {
+            "assetid": 776222033,
+            "name": "Samurai #23",
+            "url": "ipfs://QmNetN98rLP7v3ziLyM3Q8Lkzx4harrV7FPr6SUJyfRbQZ#arc3",
+            "config": "QmNetN98rLP7v3ziLyM3Q8Lkzx4harrV7FPr6SUJyfRbQZ",
+            "image": "QmcN4jfetWuykuuruHn6grBQ1bhVAy5UdRKUoRrJjqiZwB"
+        },
+        {
+            "assetid": 776222625,
+            "name": "Samurai #24",
+            "url": "ipfs://QmXyhCFp14U9LRFKLgZoCkrruDyagTCDVbRoAnV1bwkYTV#arc3",
+            "config": "QmXyhCFp14U9LRFKLgZoCkrruDyagTCDVbRoAnV1bwkYTV",
+            "image": "QmZiexJW4RYT1PnvxFnCQctZcwH7Kr6T7JDGGUx36kYdBa"
+        },
+        {
+            "assetid": 776223069,
+            "name": "Samurai #25",
+            "url": "ipfs://QmPg5WrQJacEuq2mfTnGVvQ9PT1oTm3e3EAz9X3ycP1JRA#arc3",
+            "config": "QmPg5WrQJacEuq2mfTnGVvQ9PT1oTm3e3EAz9X3ycP1JRA",
+            "image": "Qmf6EpkUBDPfHpeijCqYLTczX58XyV752CVVm4X6nxVGVr"
+        },
+        {
+            "assetid": 776223545,
+            "name": "Samurai #26",
+            "url": "ipfs://QmQSfWjViVSUwgdV6rJUoGTD3XPdZRrTChTXiaWG4NRAku#arc3",
+            "config": "QmQSfWjViVSUwgdV6rJUoGTD3XPdZRrTChTXiaWG4NRAku",
+            "image": "QmPqy4W4iKEQNf1sxwSbbC9cfbGdEHJs2GWDP12VX7ocUV"
+        },
+        {
+            "assetid": 776223958,
+            "name": "Samurai #27",
+            "url": "ipfs://QmczWm8fQfrDan9u4V3J4VY5o5enAniCSuvn41jfL5D7CB#arc3",
+            "config": "QmczWm8fQfrDan9u4V3J4VY5o5enAniCSuvn41jfL5D7CB",
+            "image": "QmbWVuwKbvya6sGUyM5x5brnqkiWJ4bByn7QHCYutwuqkL"
+        },
+        {
+            "assetid": 776224359,
+            "name": "Samurai #28",
+            "url": "ipfs://QmekaC6ksHCtUPR55D6VMWR1pxxDs1BmYHVEr3RHwRak6F#arc3",
+            "config": "QmekaC6ksHCtUPR55D6VMWR1pxxDs1BmYHVEr3RHwRak6F",
+            "image": "QmPv6oC9HVhUZMEt4dSCfr5CPWvGritz5zXEYnHDH7ds6g"
+        },
+        {
+            "assetid": 776257635,
+            "name": "Samurai #29",
+            "url": "ipfs://QmPn43XwtQBS5nTynq1oSUKBQUJV6ZQHxzn1oLrT41yRH6#arc3",
+            "config": "QmPn43XwtQBS5nTynq1oSUKBQUJV6ZQHxzn1oLrT41yRH6",
+            "image": "QmNy4TX4txNaD7V6ifNKXpTLit5ADnNZshSQqQjgZyXUXi"
+        },
+        {
+            "assetid": 776258112,
+            "name": "Samurai #30",
+            "url": "ipfs://QmYTa1ecr6KgmquXujNqou4AxoFmad7FgHVvwEJAXVHK7e#arc3",
+            "config": "QmYTa1ecr6KgmquXujNqou4AxoFmad7FgHVvwEJAXVHK7e",
+            "image": "QmSe9HUupEedQCNb9qwPMp8F5uMb8NBDxdnbkGKS9UVLrx"
+        },
+        {
+            "assetid": 784056002,
+            "name": "Samurai #31",
+            "url": "ipfs://QmUGdyAMvX3zrKLjH1FTNiCfpey3Fnv68ysxWMgUbdPok8#arc3",
+            "config": "QmUGdyAMvX3zrKLjH1FTNiCfpey3Fnv68ysxWMgUbdPok8",
+            "image": "Qma9WrrCexWfvBrjV6pzvqT7BK1sQHRPDizjz1gh1iTFjL"
+        },
+        {
+            "assetid": 784056293,
+            "name": "Samurai #32",
+            "url": "ipfs://QmbmFURKyfb5U8cSwuEr6JZLdgRJia5hxRRLmZFriq5ZYF#arc3",
+            "config": "QmbmFURKyfb5U8cSwuEr6JZLdgRJia5hxRRLmZFriq5ZYF",
+            "image": "QmWEs5aQEGMVTNSE8FhLtMcs9HgqPJcJ6EH1YQLvUVZHR1"
+        },
+        {
+            "assetid": 784056607,
+            "name": "Samurai #33",
+            "url": "ipfs://QmdvXcBjGKncSzGEykxW5YTKbS9dwgSU3gxYzssXHWFpPs#arc3",
+            "config": "QmdvXcBjGKncSzGEykxW5YTKbS9dwgSU3gxYzssXHWFpPs",
+            "image": "QmZPwRUR8LMAdNJv29nbENionySAhkNGcXKsXXud7FEv1e"
+        },
+        {
+            "assetid": 784056889,
+            "name": "Samurai #34",
+            "url": "ipfs://QmdSHUBATPX8wAh3ArbnfDAFiWqZb2WpZWoMTEfzfihRJH#arc3",
+            "config": "QmdSHUBATPX8wAh3ArbnfDAFiWqZb2WpZWoMTEfzfihRJH",
+            "image": "QmdwxDGdyAU7ZvRbFvJc2EGxpK2R4kAm5Xr4pQLwMePgse"
+        },
+        {
+            "assetid": 784057182,
+            "name": "Samurai #35",
+            "url": "ipfs://QmXCL5s8SPuact9r7zBq1SM22Hy4AoUMj7RrAdom6QBHJB#arc3",
+            "config": "QmXCL5s8SPuact9r7zBq1SM22Hy4AoUMj7RrAdom6QBHJB",
+            "image": "QmXTtC1eUoBoVB1xoGocfaVwHxF3MrXHfTfdpaUXsaEqfY"
+        },
+        {
+            "assetid": 784057519,
+            "name": "Samurai #36",
+            "url": "ipfs://QmSMYxxrSNcTqXdAzrPNTdU7dTUmuEiRxnmCo9dubTJLsT#arc3",
+            "config": "QmSMYxxrSNcTqXdAzrPNTdU7dTUmuEiRxnmCo9dubTJLsT",
+            "image": "QmbYkSipMT3UW1YiZF4EbUziagC8WStMEtwjyHGY5eu31g"
+        },
+        {
+            "assetid": 784057752,
+            "name": "Samurai #37",
+            "url": "ipfs://QmRfFR9qnJnmoMZeWf3KrwcWwHBJAik37LnSJcYB5SAujk#arc3",
+            "config": "QmRfFR9qnJnmoMZeWf3KrwcWwHBJAik37LnSJcYB5SAujk",
+            "image": "QmcxVg741CWrVrSMKtr8ikPDdNj8vcSCJ7h6PgjXZYfuxZ"
+        },
+        {
+            "assetid": 784057983,
+            "name": "Samurai #38",
+            "url": "ipfs://QmQEnCBCy9drKnJDpMyh2ozb8p1BrPzJfkzNMLhqXNbxm4#arc3",
+            "config": "QmQEnCBCy9drKnJDpMyh2ozb8p1BrPzJfkzNMLhqXNbxm4",
+            "image": "QmS9m5zmNHzwVZQDJspX3NmZqrfMq7n4h13U81y81yss9N"
+        },
+        {
+            "assetid": 784058260,
+            "name": "Samurai #39",
+            "url": "ipfs://QmPoY8UxLi6jhiUwsqxPwjxQcEcUQSaTqeHWM5SaEMAK1R#arc3",
+            "config": "QmPoY8UxLi6jhiUwsqxPwjxQcEcUQSaTqeHWM5SaEMAK1R",
+            "image": "QmVKkin6EQdoW2CuteqYVN1vJmNPdKhN2YQekNyHKwFLUW"
+        },
+        {
+            "assetid": 784058544,
+            "name": "Samurai #40",
+            "url": "ipfs://QmQeG1acUR5UkdcJ5HHcP73SLsVu66iDnsWVeJ1FiZoa4M#arc3",
+            "config": "QmQeG1acUR5UkdcJ5HHcP73SLsVu66iDnsWVeJ1FiZoa4M",
+            "image": "QmSrNn35sdwoUcEGe7TuQnPMfYYzhv1jdLesiaaCgvi87d"
+        },
+        {
+            "assetid": 907388004,
+            "name": "YYC",
+            "url": "ipfs://QmeF2PkCQtDXjykd1xLzUV682FgBCRTD8VdyvMoMJ6KSkE#arc3",
+            "config": "QmeF2PkCQtDXjykd1xLzUV682FgBCRTD8VdyvMoMJ6KSkE",
+            "image": "QmP5qkiQCjGMSaU9oGDsKA84wMhCx6w14ESWvJy9qdZsyb"
+        },
+        {
+            "assetid": 907388424,
+            "name": "YYC",
+            "url": "ipfs://QmQ628h3wavDdcZz9FtLjnFxLzEeNwz3DXi3CbPGzXR1eN#arc3",
+            "config": "QmQ628h3wavDdcZz9FtLjnFxLzEeNwz3DXi3CbPGzXR1eN",
+            "image": "QmNqxUDn7YxEAP1a4hzZg5QQkbCxNajWSFTEeRCwMEx5U3"
+        },
+        {
+            "assetid": 907388670,
+            "name": "YYC",
+            "url": "ipfs://QmRSvsJjw35o6tp4BdzXV7BmGeerzS12uo3FKc9XVR42fE#arc3",
+            "config": "QmRSvsJjw35o6tp4BdzXV7BmGeerzS12uo3FKc9XVR42fE",
+            "image": "QmfJGndqFrDA6HXxEjQ8RVKiBTWpNvfV6Yo9uG6XG5xcix"
+        },
+        {
+            "assetid": 907388917,
+            "name": "YYC",
+            "url": "ipfs://QmYVZvDnhW6Dm87b93AdhciMSxcg7JV68LoSwQHMGuXhaK#arc3",
+            "config": "QmYVZvDnhW6Dm87b93AdhciMSxcg7JV68LoSwQHMGuXhaK",
+            "image": "QmQ4371bWf1rr5e6cFL4cEwjm2bDbFvAjp6NLU2pG21LQy"
+        },
+        {
+            "assetid": 907389171,
+            "name": "YYC",
+            "url": "ipfs://QmVUEoe4JQqKGtrsqAgeTvBt1dTVPo9psLJApuzbzwHXR8#arc3",
+            "config": "QmVUEoe4JQqKGtrsqAgeTvBt1dTVPo9psLJApuzbzwHXR8",
+            "image": "QmY2EE6YzfD14Tu1h6FMWpKj2W9cwRYftRgtLLrRhxnzfD"
+        },
+        {
+            "assetid": 907398340,
+            "name": "YYC",
+            "url": "ipfs://QmU8xoSS6AcDzCD2aYP7bkVKyqSbhtJvPBhuvqyFMeMRRD#arc3",
+            "config": "QmU8xoSS6AcDzCD2aYP7bkVKyqSbhtJvPBhuvqyFMeMRRD",
+            "image": "QmVohdoYZKNjCLpncASdsGhAiVWtKBvP2imaLVeNUE3NDP"
+        },
+        {
+            "assetid": 907398606,
+            "name": "YYC",
+            "url": "ipfs://QmQppDM7o5ujSuq5DWBxRyUPuyU54YyReryghwHqiUxo9B#arc3",
+            "config": "QmQppDM7o5ujSuq5DWBxRyUPuyU54YyReryghwHqiUxo9B",
+            "image": "QmcAmpoWJZ7QtKnGGCroQq6VrnJgjfjs2ZxiioSNzPhAV5"
+        },
+        {
+            "assetid": 907398836,
+            "name": "YYC",
+            "url": "ipfs://QmVmrRXygUzDX7xSUpiCys1athM5DeEJoYKqpX6SbGz4We#arc3",
+            "config": "QmVmrRXygUzDX7xSUpiCys1athM5DeEJoYKqpX6SbGz4We",
+            "image": "QmTxpFPe4HbBsfCNhwiDSeRAsB7QtdqPZwP7xDNVpNtW6Q"
+        },
+        {
+            "assetid": 907399050,
+            "name": "YYC",
+            "url": "ipfs://QmUHXL7JoPakM5S15CQSWBxATzh1DgS6R8aXLSqYy75Vmi#arc3",
+            "config": "QmUHXL7JoPakM5S15CQSWBxATzh1DgS6R8aXLSqYy75Vmi",
+            "image": "QmQCmp1UBZjG5AEW8xn9hsp819J3sVEi7zBb6qxp6xpPgn"
+        },
+        {
+            "assetid": 907399311,
+            "name": "YYC",
+            "url": "ipfs://QmajQ3PGLzgLEPNCecw6JtGNZ4po3Censu2dGEtfTXJXxa#arc3",
+            "config": "QmajQ3PGLzgLEPNCecw6JtGNZ4po3Censu2dGEtfTXJXxa",
+            "image": "QmU7mNBLjc7txpoRxPnPSJEuNWXkycnN6eATvE8wd6A3Y6"
+        },
+        {
+            "assetid": 907644856,
+            "name": "YYC",
+            "url": "ipfs://QmRoRBhQA3XDZqdc6YBmGBjdmcHMYwPFoUWhaY9p8UdHNz#arc3",
+            "config": "QmRoRBhQA3XDZqdc6YBmGBjdmcHMYwPFoUWhaY9p8UdHNz",
+            "image": "QmZUcmZEGuhQx5bQLidizvyJ7tS8Uu7Wy8YxRmSZUvkDKy"
+        },
+        {
+            "assetid": 907645222,
+            "name": "YYC",
+            "url": "ipfs://QmZnVf2swUeff51V9QNZZ2BJZvhLkx9jvhUC4YPeWgaaKo#arc3",
+            "config": "QmZnVf2swUeff51V9QNZZ2BJZvhLkx9jvhUC4YPeWgaaKo",
+            "image": "QmcDSxPGWRPtRPXtqAnVS8pr5BvcsMZa4PbiwmJmZFNq6g"
+        },
+        {
+            "assetid": 907645507,
+            "name": "YYC",
+            "url": "ipfs://QmaqqVZ5BPEha8CiVwzdgdjHt9RQL4cKwHFpYXBPgjszLS#arc3",
+            "config": "QmaqqVZ5BPEha8CiVwzdgdjHt9RQL4cKwHFpYXBPgjszLS",
+            "image": "QmQZM81RNSf5iDZg8PjxuNSzMG2rfL6Mx7XnshgahuCiEe"
+        },
+        {
+            "assetid": 907647538,
+            "name": "YYC",
+            "url": "ipfs://QmY2YtwzVu52nTCQcqzmWFsExp3Q2ULjRxcyVrKiv87i98#arc3",
+            "config": "QmY2YtwzVu52nTCQcqzmWFsExp3Q2ULjRxcyVrKiv87i98",
+            "image": "QmacQpdjoLw79eLdEmzWRwrSUFapqG7qpTXvinJSw7rSBf"
+        },
+        {
+            "assetid": 907647884,
+            "name": "YYC",
+            "url": "ipfs://QmPxDmGuNchy9hnEqFUVDjYv4Kpnn3gvEhqx15nyUqDiRy#arc3",
+            "config": "QmPxDmGuNchy9hnEqFUVDjYv4Kpnn3gvEhqx15nyUqDiRy",
+            "image": "QmT4FVDK8QZDZc6zaHcfWysx68RRHDxp3g8pj5hPFY4qKQ"
+        },
+        {
+            "assetid": 907648179,
+            "name": "YYC",
+            "url": "ipfs://QmSQmeYxFoKqZF84QHqVrzSUXVVZ61Q3r8EVZiy6QB4bLR#arc3",
+            "config": "QmSQmeYxFoKqZF84QHqVrzSUXVVZ61Q3r8EVZiy6QB4bLR",
+            "image": "QmWDRE4qWhM1AJ6QvyrSUQiHmWf2n6EyGRUEes2qtJcpYB"
+        },
+        {
+            "assetid": 907648470,
+            "name": "YYC",
+            "url": "ipfs://Qmeh7GPXCPUD2VUpz9cLEYrgztJX1mPxWUYDABunjZPtTa#arc3",
+            "config": "Qmeh7GPXCPUD2VUpz9cLEYrgztJX1mPxWUYDABunjZPtTa",
+            "image": "QmayPumPAVxQwzjwtKUuarD6VKQ4pWHMVXgzVWEYZgpGGc"
+        },
+        {
+            "assetid": 907648858,
+            "name": "YYC",
+            "url": "ipfs://QmTTyTqyw892DtbfKQUbYn2w2C1izng2zJGKq8H4BdQ7zv#arc3",
+            "config": "QmTTyTqyw892DtbfKQUbYn2w2C1izng2zJGKq8H4BdQ7zv",
+            "image": "QmdBhmQR2to9ehQZShW6MRysHpkfuGJQD6WiqJLAsRPVNp"
+        },
+        {
+            "assetid": 907649137,
+            "name": "YYC",
+            "url": "ipfs://QmSCtXwKGyD17ULoVNjczg4DKLBSv5P214ifn9cxjPxMWW#arc3",
+            "config": "QmSCtXwKGyD17ULoVNjczg4DKLBSv5P214ifn9cxjPxMWW",
+            "image": "QmavFphr7jLJ1DGYPycHvDMvzv7tUeYc3hQrvR8y3Wk5Nc"
+        },
+        {
+            "assetid": 907649402,
+            "name": "YYC",
+            "url": "ipfs://QmfJfsogrZT4wZeJ6TFJZ3P4XvTB7PEzZVAkLHC61e96AC#arc3",
+            "config": "QmfJfsogrZT4wZeJ6TFJZ3P4XvTB7PEzZVAkLHC61e96AC",
+            "image": "QmSMJrBmnNAprSGRezJeuS3bYnDiW2Rkr7xbc967rscGRW"
+        },
+        {
+            "assetid": 908398966,
+            "name": "YYC",
+            "url": "ipfs://QmPbQDpK6goPAEFyV4MRBddkPnb44kevGjSXYSgd8no4vx#arc3",
+            "config": "QmPbQDpK6goPAEFyV4MRBddkPnb44kevGjSXYSgd8no4vx",
+            "image": "QmTmEnCpEJSQ1KHUizHEw74DwCb1htRu92mper31rrFreg"
+        },
+        {
+            "assetid": 908399467,
+            "name": "YYC",
+            "url": "ipfs://QmNrEg3CmAUQkqHpHeXsj9pPGe5notPP4NeW7XM2dc2apo#arc3",
+            "config": "QmNrEg3CmAUQkqHpHeXsj9pPGe5notPP4NeW7XM2dc2apo",
+            "image": "QmUtCCvMxpUANzdFaPGp1r3sUagMmN7aAYyMpunvDMsd6b"
+        },
+        {
+            "assetid": 908399984,
+            "name": "YYC",
+            "url": "ipfs://QmT4KTJMs7GEi3xpySjVKre7AnL92B7QfigeHFVbJwYiYk#arc3",
+            "config": "QmT4KTJMs7GEi3xpySjVKre7AnL92B7QfigeHFVbJwYiYk",
+            "image": "QmRUfiZijqrj1pMySj1fvv5AyXm3N7S5yyLzdjtUBSHSz4"
+        },
+        {
+            "assetid": 908400621,
+            "name": "YYC",
+            "url": "ipfs://Qmcrvy8qyZPdSTCg7jDR5C3nyb9anTmvnVgTKiP5giFcAL#arc3",
+            "config": "Qmcrvy8qyZPdSTCg7jDR5C3nyb9anTmvnVgTKiP5giFcAL",
+            "image": "QmXRz5Q17kezL3wrBtg7VedQFWgktMhTnnnhPn2D58fzuT"
+        },
+        {
+            "assetid": 908401224,
+            "name": "YYC",
+            "url": "ipfs://QmWA3C1JKvN3KFm2vDsjQKdFJvCKuumLRJL2U26c1Ms41W#arc3",
+            "config": "QmWA3C1JKvN3KFm2vDsjQKdFJvCKuumLRJL2U26c1Ms41W",
+            "image": "Qmb2Px6Pxaiwgk9utgEd7CGMJfHuS4xn5YysANSTeNJBHP"
+        },
+        {
+            "assetid": 908401729,
+            "name": "YYC",
+            "url": "ipfs://QmYxwybbMAtrt1udLve4xJh288b2JHzsVrxfYxN4wH7Zbp#arc3",
+            "config": "QmYxwybbMAtrt1udLve4xJh288b2JHzsVrxfYxN4wH7Zbp",
+            "image": "QmfLLqkZErE7T4jZ6qCiexa2tPqcoKENQNYnJSGPXeFHoy"
+        },
+        {
+            "assetid": 908402151,
+            "name": "YYC",
+            "url": "ipfs://QmScPizi6pCjZ1Z5i1PFFWj4nktw8iWbbmsTPmQWpTfDBX#arc3",
+            "config": "QmScPizi6pCjZ1Z5i1PFFWj4nktw8iWbbmsTPmQWpTfDBX",
+            "image": "QmThFMfGsSME6egWwKf2eUtSpcgAcsRW9ihGYzT2iLyaPM"
+        },
+        {
+            "assetid": 908402521,
+            "name": "YYC",
+            "url": "ipfs://QmQ25nUWpBsX9cNgEhbSzqxfYed3VCFg3xkxQ4uCX35KQa#arc3",
+            "config": "QmQ25nUWpBsX9cNgEhbSzqxfYed3VCFg3xkxQ4uCX35KQa",
+            "image": "QmPwg7JQc1oixnUPDiT7pTJxAYxxn1EzR8ARGHeLR5kEuF"
+        },
+        {
+            "assetid": 908403106,
+            "name": "YYC",
+            "url": "ipfs://QmWPfpyR8DLssUGVNnUrQxFktQF7KSBS1p83S7iDhZv8Ny#arc3",
+            "config": "QmWPfpyR8DLssUGVNnUrQxFktQF7KSBS1p83S7iDhZv8Ny",
+            "image": "QmaDSS1WpWG7KyWtLHLsZcfxkzxKVd5wFyYm1SXG5c76xt"
+        },
+        {
+            "assetid": 908403941,
+            "name": "YYC",
+            "url": "ipfs://QmPPhJbTxoKTXZmzUe6YXfNJrADp3LQqY7zndTkx4Rv15j#arc3",
+            "config": "QmPPhJbTxoKTXZmzUe6YXfNJrADp3LQqY7zndTkx4Rv15j",
+            "image": "QmepC7Rfrf1Bwb3c4FVT3Z67CdGETG3jNQVSY3ucqHLH2A"
+        },
+        {
+            "assetid": 980893532,
+            "name": "YYC#31",
+            "url": "ipfs://QmdUK5BitjdBJpNqTymASUTiDfvuvo53BP1rY9fWd7C9Zb#arc3",
+            "config": "QmdUK5BitjdBJpNqTymASUTiDfvuvo53BP1rY9fWd7C9Zb",
+            "image": "QmYJPT56fK4JC9dzU75aCf2TGcyK8yawHVEve2KHM9rCrC"
+        },
+        {
+            "assetid": 980893896,
+            "name": "YYC#32",
+            "url": "ipfs://QmXc1mpc46jenRqEJNh8gWLM6MMrCEujkyynHKNJzPGYsn#arc3",
+            "config": "QmXc1mpc46jenRqEJNh8gWLM6MMrCEujkyynHKNJzPGYsn",
+            "image": "QmTWapdNBKkvJB1eiQzf9KXjfyMCW3ExHf9VCXcsTSszPw"
+        },
+        {
+            "assetid": 980894112,
+            "name": "YYC#33",
+            "url": "ipfs://QmdqAxTZZeKDVQbukD1Tr7ZS2RwBiXhtrDXfj44Fnecq88#arc3",
+            "config": "QmdqAxTZZeKDVQbukD1Tr7ZS2RwBiXhtrDXfj44Fnecq88",
+            "image": "QmbFnnCt6cPTtM6RvzxrNbQ9QcmwYWTk2BEXAuX2rAwzDV"
+        },
+        {
+            "assetid": 980894445,
+            "name": "YYC#34",
+            "url": "ipfs://QmaXZnkNqoNBPa5ZW2LeGykLWHL2b8giV9S3aBoLk5vFBB#arc3",
+            "config": "QmaXZnkNqoNBPa5ZW2LeGykLWHL2b8giV9S3aBoLk5vFBB",
+            "image": "QmbpL3QM2n7H36b6iENgfPhBCNbHFDbNCjndh9mMoUVDkG"
+        },
+        {
+            "assetid": 980894819,
+            "name": "YYC#35",
+            "url": "ipfs://QmSTLu92t4qc8GpihXtNetf7P5RMWrDq3q8g18T9dduaPb#arc3",
+            "config": "QmSTLu92t4qc8GpihXtNetf7P5RMWrDq3q8g18T9dduaPb",
+            "image": "QmScY1TLMAVVJEgTytSVBUsJuLNk1DszQe4jfcb2XT7t7V"
+        }
+    ]
+}
