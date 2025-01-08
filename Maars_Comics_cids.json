@@ -1,5 +1,6 @@
 {
     "Project": "Maars Comics",
+    "Creator": "Maars",
     "CreatorAddress": [
         "7PWMEGVTGLHQ427HEWC4ZNYYOHPXKUIANUUMSWPLEFMI7KNNJU6PG4WHZM"
     ],
@@ -401,12 +402,6 @@
             "image": "bafkreig236mw5sbv6g6q6h6acmvffc2aw7u2jwueixeknljzg2ccjdckyq"
         },
         {
-            "assetid": 690687621,
-            "name": "Free Mint",
-            "url": "ipfs://bafkreictzy7drqazsbunovjvbsqq56hzup4aznbs5saobq4wxzhbe3s5kq#i",
-            "image": "bafkreictzy7drqazsbunovjvbsqq56hzup4aznbs5saobq4wxzhbe3s5kq"
-        },
-        {
             "assetid": 690690115,
             "name": "50 OFF",
             "url": "ipfs://bafkreiaver7mhplkl6cnwnpk7r5tm7ruwxhicd6xnooxzu7ztokrlqnlti#i",
@@ -527,13 +522,6 @@
             "image": "bafybeibvpzkqref4osrtgpem7z4xluipwmg73cshenkrbsowtmigcdpddm"
         },
         {
-            "assetid": 1142628158,
-            "name": "Connection",
-            "url": "ipfs://QmPcG7fw5tc1G4m6FStiZvhakVDDYXcKEGCK1mi24SUd4P#arc3",
-            "config": "QmPcG7fw5tc1G4m6FStiZvhakVDDYXcKEGCK1mi24SUd4P",
-            "image": "QmSpTbMMdxMQeKmSXKKJJvshQ6XsAAzUitcqoTHzxhp2YK"
-        },
-        {
             "assetid": 1207882141,
             "name": "Red Cube",
             "url": "ipfs://bafybeigmaqgvytcowery2hju46jllkni4es6izusp6a7eydlyogeqi5rvi#i",
@@ -550,6 +538,547 @@
             "name": "Blockchain beach day",
             "url": "ipfs://bafybeibwdgeg2gj5qpn72ilogqwoo2ckrf67rw6fg4szzp5ot5gxrapxrq#i",
             "image": "bafybeibwdgeg2gj5qpn72ilogqwoo2ckrf67rw6fg4szzp5ot5gxrapxrq"
+        },
+        {
+            "assetid": 1225411115,
+            "name": "D4O",
+            "url": "ipfs://bafybeietz6ijj2f724ffx2xqf3nelguwm6vlnmnjeynrnfdxhiccmpr7ci#i",
+            "image": "bafybeietz6ijj2f724ffx2xqf3nelguwm6vlnmnjeynrnfdxhiccmpr7ci"
+        },
+        {
+            "assetid": 1229866925,
+            "name": "Algoween 2023",
+            "url": "ipfs://bafybeidcbhvg7xhvhpwvxgdk4xkbuln33nni5yw6m2f6pnmehcywfxccqq#i",
+            "image": "bafybeidcbhvg7xhvhpwvxgdk4xkbuln33nni5yw6m2f6pnmehcywfxccqq"
+        },
+        {
+            "assetid": 1247206292,
+            "name": "Custom Bot Ticket",
+            "url": "ipfs://bafybeiejsiymryuoxmddpjw7hap4f7xv3bllusmqzcuoxnh3s4lwmmbr7i#i",
+            "image": "bafybeiejsiymryuoxmddpjw7hap4f7xv3bllusmqzcuoxnh3s4lwmmbr7i"
+        },
+        {
+            "assetid": 1247270630,
+            "name": "Maars",
+            "url": "ipfs://bafybeia5ynra77gkotdzcpyu4q5roemcnsujx4inptdhu3akbwz6eqxafu#i",
+            "image": "bafybeia5ynra77gkotdzcpyu4q5roemcnsujx4inptdhu3akbwz6eqxafu"
+        },
+        {
+            "assetid": 1251850734,
+            "name": "Prezident",
+            "url": "ipfs://bafybeida4yqpcccwojusxaca22cvlyzue5mc7t5aje56nlurmtz4bwwfdu#i",
+            "image": "bafybeida4yqpcccwojusxaca22cvlyzue5mc7t5aje56nlurmtz4bwwfdu"
+        },
+        {
+            "assetid": 1261732563,
+            "name": "El Greko",
+            "url": "ipfs://bafybeiefyzq2rk4e3shfreyizcldslldpyk772bsyxlj5y3wr3luw6xfvu#i",
+            "image": "bafybeiefyzq2rk4e3shfreyizcldslldpyk772bsyxlj5y3wr3luw6xfvu"
+        },
+        {
+            "assetid": 1269912211,
+            "name": "B4D",
+            "url": "ipfs://bafybeifvtoknpq2wwkbmj2gzmi7fwoig7wep7pnrirrvmqrqu3c3yhfe4e#i",
+            "image": "bafybeifvtoknpq2wwkbmj2gzmi7fwoig7wep7pnrirrvmqrqu3c3yhfe4e"
+        },
+        {
+            "assetid": 1271855813,
+            "name": "HippieNerdFarmer",
+            "url": "ipfs://bafybeiaardir3ghglk7hp7zyxtlhjja5ecvkfyb54qtstat2hpl5a3arvm#i",
+            "image": "bafybeiaardir3ghglk7hp7zyxtlhjja5ecvkfyb54qtstat2hpl5a3arvm"
+        },
+        {
+            "assetid": 1281221024,
+            "name": "Johnny Botchain",
+            "url": "ipfs://bafybeie6dowbtlyskqrmv46ycilse2m5lb54rlzjxewdn3a3hbiddlokum#i",
+            "image": "bafybeie6dowbtlyskqrmv46ycilse2m5lb54rlzjxewdn3a3hbiddlokum"
+        },
+        {
+            "assetid": 1285249822,
+            "name": "MJ & Shaggy",
+            "url": "ipfs://bafybeiejipganzoffczuhcoou27nzsybb7ihcig4wo5pqzkem2urknudum#i",
+            "image": "bafybeiejipganzoffczuhcoou27nzsybb7ihcig4wo5pqzkem2urknudum"
+        },
+        {
+            "assetid": 1286812359,
+            "name": "Snow Pelt",
+            "url": "ipfs://bafybeihknnqpkno6pelontotsaberoumpzebwz6lhbovuret624dxynqtm#i",
+            "image": "bafybeihknnqpkno6pelontotsaberoumpzebwz6lhbovuret624dxynqtm"
+        },
+        {
+            "assetid": 1286813527,
+            "name": "Purple Hat",
+            "url": "ipfs://bafybeihao2bngzskqipsc4ml5t4zdz6bahj7j5dc3u4b3de3kbi7ffdpya#i",
+            "image": "bafybeihao2bngzskqipsc4ml5t4zdz6bahj7j5dc3u4b3de3kbi7ffdpya"
+        },
+        {
+            "assetid": 1286814430,
+            "name": "Santa Bot Head",
+            "url": "ipfs://bafybeih6k7sjttgbea73oaooh53i67yrbcipizf7werzubgohxjeokwmuq#i",
+            "image": "bafybeih6k7sjttgbea73oaooh53i67yrbcipizf7werzubgohxjeokwmuq"
+        },
+        {
+            "assetid": 1286815592,
+            "name": "Marvin tree",
+            "url": "ipfs://bafybeig3yjyleaxxh7y7qckncjq6f3rxotcncrntr73igzrx5lmzrz25ae#i",
+            "image": "bafybeig3yjyleaxxh7y7qckncjq6f3rxotcncrntr73igzrx5lmzrz25ae"
+        },
+        {
+            "assetid": 1286818132,
+            "name": "Frozen Ginger",
+            "url": "ipfs://bafybeia7z4oab3iz4aqmthuzqrfsyb7gosfp74ihqwluqa7wxgqmlmzr2a#i",
+            "image": "bafybeia7z4oab3iz4aqmthuzqrfsyb7gosfp74ihqwluqa7wxgqmlmzr2a"
+        },
+        {
+            "assetid": 1286819174,
+            "name": "Glow Daddy",
+            "url": "ipfs://bafybeieqtd2aprvpinua4kdc2im66ixk3ctrb2dhgzmmwfzordteykirk4#i",
+            "image": "bafybeieqtd2aprvpinua4kdc2im66ixk3ctrb2dhgzmmwfzordteykirk4"
+        },
+        {
+            "assetid": 1286821034,
+            "name": "Festive Socks",
+            "url": "ipfs://bafybeic3xn637ih4eusgrzrgfo7srddvdbqain6geemvt5ol7p54asnv5y#i",
+            "image": "bafybeic3xn637ih4eusgrzrgfo7srddvdbqain6geemvt5ol7p54asnv5y"
+        },
+        {
+            "assetid": 1286822113,
+            "name": "Red Suit",
+            "url": "ipfs://bafybeigoldr3vp3ypg3hcmkzwei47elkiwvvpmqjvvfmsnepolsdmio2wu#i",
+            "image": "bafybeigoldr3vp3ypg3hcmkzwei47elkiwvvpmqjvvfmsnepolsdmio2wu"
+        },
+        {
+            "assetid": 1286823329,
+            "name": "Yellow Snow Pelt",
+            "url": "ipfs://bafybeifqsh54xkbawda5mvkwwwzfti3gei2zxf2yvybxjhyezkohdzkdwy#i",
+            "image": "bafybeifqsh54xkbawda5mvkwwwzfti3gei2zxf2yvybxjhyezkohdzkdwy"
+        },
+        {
+            "assetid": 1286824873,
+            "name": "Yippee Ki Yay",
+            "url": "ipfs://bafybeiane3uvfyffwixzutrfv6oueuwihq63irin3yrielddxeld7ja75q#i",
+            "image": "bafybeiane3uvfyffwixzutrfv6oueuwihq63irin3yrielddxeld7ja75q"
+        },
+        {
+            "assetid": 1293213748,
+            "name": "Blueshark",
+            "url": "ipfs://bafybeidbglvrnf3nenjnpsovir4ahw7z6x7hvlyssuzxu7xgh7r7nca4e4#i",
+            "image": "bafybeidbglvrnf3nenjnpsovir4ahw7z6x7hvlyssuzxu7xgh7r7nca4e4"
+        },
+        {
+            "assetid": 1306623484,
+            "name": "Ambyent",
+            "url": "ipfs://bafybeih72ximgtgkkmjw5ztkt4ewoe7qgdp6bmlvrdxl3w7jsfgeldjwuu#i",
+            "image": "bafybeih72ximgtgkkmjw5ztkt4ewoe7qgdp6bmlvrdxl3w7jsfgeldjwuu"
+        },
+        {
+            "assetid": 1447443965,
+            "name": "SaintMichael",
+            "url": "ipfs://bafybeiburaowsbxmg25ufhahsp6czpysrfvzw4vqa52vvmq5ddhlyxgc7i#i",
+            "image": "bafybeiburaowsbxmg25ufhahsp6czpysrfvzw4vqa52vvmq5ddhlyxgc7i"
+        },
+        {
+            "assetid": 1451599386,
+            "name": "Dominatrix D",
+            "url": "ipfs://bafybeibaeafc2ol63xv2kuj3nvwxum4q6rzjnrljq2qhhs7mp65durix7u#i",
+            "image": "bafybeibaeafc2ol63xv2kuj3nvwxum4q6rzjnrljq2qhhs7mp65durix7u"
+        },
+        {
+            "assetid": 1535611655,
+            "name": "JoeJo",
+            "url": "ipfs://bafybeifmbs3o7y24y2qsdjnwuhs7uyjimamslfgv72bijsajpth4byj4bu#i",
+            "image": "bafybeifmbs3o7y24y2qsdjnwuhs7uyjimamslfgv72bijsajpth4byj4bu"
+        },
+        {
+            "assetid": 1594749343,
+            "name": "Freaks",
+            "url": "ipfs://bafybeidurlxbp6nelxqoutwa2u5oev3vpvr6wqq27t2obiuqwfdyrqmkvy#i",
+            "image": "bafybeidurlxbp6nelxqoutwa2u5oev3vpvr6wqq27t2obiuqwfdyrqmkvy"
+        },
+        {
+            "assetid": 1608943520,
+            "name": "R& Man",
+            "url": "ipfs://bafybeihvujc7b343duprz2eu5tdlnaf5kjrtf4ofkme35e33egnlszg23y#i",
+            "image": "bafybeihvujc7b343duprz2eu5tdlnaf5kjrtf4ofkme35e33egnlszg23y"
+        },
+        {
+            "assetid": 1612146884,
+            "name": "Samus",
+            "url": "ipfs://bafybeia3sll7f7kb24fkbbseyqn3gakdasopv725riqynelawnrl6jwdrq#i",
+            "image": "bafybeia3sll7f7kb24fkbbseyqn3gakdasopv725riqynelawnrl6jwdrq"
+        },
+        {
+            "assetid": 1630987089,
+            "name": "Mori Bot",
+            "url": "ipfs://bafybeigk5lekdnzt6ms3nzzysmc65jqqwz2c7uowq6pn2wjji4x2gyxvry#i",
+            "image": "bafybeigk5lekdnzt6ms3nzzysmc65jqqwz2c7uowq6pn2wjji4x2gyxvry"
+        },
+        {
+            "assetid": 1634775073,
+            "name": "DC Purp",
+            "url": "ipfs://bafybeiga3e6wyhkx7kiqzk3dqnxas5q5naabhja5ttlx32ltnqitbol4mi#i",
+            "image": "bafybeiga3e6wyhkx7kiqzk3dqnxas5q5naabhja5ttlx32ltnqitbol4mi"
+        },
+        {
+            "assetid": 1706848112,
+            "name": "PIMP Bot",
+            "url": "ipfs://bafybeiemplmgpsl2d6ruxks32h476oqwnbweagj75efvq3t4pkjtzv4a3i#i",
+            "image": "bafybeiemplmgpsl2d6ruxks32h476oqwnbweagj75efvq3t4pkjtzv4a3i"
+        },
+        {
+            "assetid": 1727793360,
+            "name": "Pygo #1",
+            "url": "ipfs://bafybeifombvcvihlbgjkbewbkjekyyc6efahye4qopm7g6hs5yvcox6nbq#i",
+            "image": "bafybeifombvcvihlbgjkbewbkjekyyc6efahye4qopm7g6hs5yvcox6nbq"
+        },
+        {
+            "assetid": 1727796871,
+            "name": "Pygo #2",
+            "url": "ipfs://bafybeic3fxpd5kz3ai44m4nttlp4kmsqh73zihct4pxgzhta5n7fqvuylq#i",
+            "image": "bafybeic3fxpd5kz3ai44m4nttlp4kmsqh73zihct4pxgzhta5n7fqvuylq"
+        },
+        {
+            "assetid": 1727802337,
+            "name": "Pygo #3",
+            "url": "ipfs://bafybeih2ioyadq5hwok7tmmgns3owux6ge7co56neg6wrqq5hn4b7o4qrm#i",
+            "image": "bafybeih2ioyadq5hwok7tmmgns3owux6ge7co56neg6wrqq5hn4b7o4qrm"
+        },
+        {
+            "assetid": 1727804605,
+            "name": "Pygo #4",
+            "url": "ipfs://bafybeifiomesh3pd7zeyt4osu3vjk6eafm2jb6m2nt3oompwlvqvfhv4ge#i",
+            "image": "bafybeifiomesh3pd7zeyt4osu3vjk6eafm2jb6m2nt3oompwlvqvfhv4ge"
+        },
+        {
+            "assetid": 1749971258,
+            "name": "Pygo #5",
+            "url": "ipfs://bafybeidptlulsrdqtkfypcvpwpeo2o7z6cddxtptobgjp7zqk35cs5q7v4#i",
+            "image": "bafybeidptlulsrdqtkfypcvpwpeo2o7z6cddxtptobgjp7zqk35cs5q7v4"
+        },
+        {
+            "assetid": 1749972288,
+            "name": "Pygo #6",
+            "url": "ipfs://bafybeieql4uq7gki6teizgj5rvtcvkx2y5rpzkcgakeh2ikvnp5wxblwfu#i",
+            "image": "bafybeieql4uq7gki6teizgj5rvtcvkx2y5rpzkcgakeh2ikvnp5wxblwfu"
+        },
+        {
+            "assetid": 1749973544,
+            "name": "Pygo #7",
+            "url": "ipfs://bafybeihiuoxyczvxqtest6thria63w2wuth3f6drs6vtbisifvmytxuzia#i",
+            "image": "bafybeihiuoxyczvxqtest6thria63w2wuth3f6drs6vtbisifvmytxuzia"
+        },
+        {
+            "assetid": 1749974208,
+            "name": "Pygo #8",
+            "url": "ipfs://bafybeidratvkhalq6tm7x3ls6np7jxyma2uuc2yy5t65dfex42cebmpbgq#i",
+            "image": "bafybeidratvkhalq6tm7x3ls6np7jxyma2uuc2yy5t65dfex42cebmpbgq"
+        },
+        {
+            "assetid": 1777876925,
+            "name": "Pygo #9",
+            "url": "ipfs://bafybeifhvttae3wltlo63xrh3dybndguekn5ar6uxr4bojeu2gocncx72e#i",
+            "image": "bafybeifhvttae3wltlo63xrh3dybndguekn5ar6uxr4bojeu2gocncx72e"
+        },
+        {
+            "assetid": 1777883931,
+            "name": "Pygo #10",
+            "url": "ipfs://bafybeign6b4fbluesnvydncnxjghqhs47f5xb2vinkbsvrdb7atrodl77m#i",
+            "image": "bafybeign6b4fbluesnvydncnxjghqhs47f5xb2vinkbsvrdb7atrodl77m"
+        },
+        {
+            "assetid": 1777887165,
+            "name": "Pygo #11",
+            "url": "ipfs://bafybeigugr2zrmlpnaruhftbkuvk5pj4v2ozoqzb4sliadidt3pjgjiyxq#i",
+            "image": "bafybeigugr2zrmlpnaruhftbkuvk5pj4v2ozoqzb4sliadidt3pjgjiyxq"
+        },
+        {
+            "assetid": 1777890240,
+            "name": "Pygo #12",
+            "url": "ipfs://bafybeib2qi2zyrptnmpyf7hjbgs4wilcciqihm6h6il6f2vsi3iwbs3xwy#i",
+            "image": "bafybeib2qi2zyrptnmpyf7hjbgs4wilcciqihm6h6il6f2vsi3iwbs3xwy"
+        },
+        {
+            "assetid": 1796366611,
+            "name": "Wizard Bot",
+            "url": "ipfs://bafybeia34lqtf37tptalnms6xchymjikizkkzf4m4qanrtart656iwp2ce#i",
+            "image": "bafybeia34lqtf37tptalnms6xchymjikizkkzf4m4qanrtart656iwp2ce"
+        },
+        {
+            "assetid": 1800347779,
+            "name": "Pygo #13",
+            "url": "ipfs://bafybeig44jttofdg55hy4ldm7624lzfccdqutzvxqc2pnbko7s565iywv4#i",
+            "image": "bafybeig44jttofdg55hy4ldm7624lzfccdqutzvxqc2pnbko7s565iywv4"
+        },
+        {
+            "assetid": 1800348248,
+            "name": "Pygo #14",
+            "url": "ipfs://bafybeihvkplphl2mmjxt74rwnd3snz6i6256ulo3l6tpyphexx2c43mfda#i",
+            "image": "bafybeihvkplphl2mmjxt74rwnd3snz6i6256ulo3l6tpyphexx2c43mfda"
+        },
+        {
+            "assetid": 1800348969,
+            "name": "Pygo #15",
+            "url": "ipfs://bafybeie56qg6bnh3thl7czgqyqhtpgdw43tlcthgradt6hf2isqtkygzne#i",
+            "image": "bafybeie56qg6bnh3thl7czgqyqhtpgdw43tlcthgradt6hf2isqtkygzne"
+        },
+        {
+            "assetid": 1800349474,
+            "name": "Pygo #16",
+            "url": "ipfs://bafybeigul4fny6wdgtiyauohyrqpyms5cfhlnbz63s7byma4cadb4vn6ou#i",
+            "image": "bafybeigul4fny6wdgtiyauohyrqpyms5cfhlnbz63s7byma4cadb4vn6ou"
+        },
+        {
+            "assetid": 1860990628,
+            "name": "IceAge",
+            "url": "ipfs://bafybeiffsybi2ai7kfnsewohicukmpowymhgvs5tn2ee57ai6xg3unqbpe#i",
+            "image": "bafybeiffsybi2ai7kfnsewohicukmpowymhgvs5tn2ee57ai6xg3unqbpe"
+        },
+        {
+            "assetid": 1865948324,
+            "name": "Hope",
+            "url": "ipfs://bafybeictz457iafklacaflzhoxq7eyecq2lrffip25gzc56pzewvkcjpiy#i",
+            "image": "bafybeictz457iafklacaflzhoxq7eyecq2lrffip25gzc56pzewvkcjpiy"
+        },
+        {
+            "assetid": 1926960224,
+            "name": "BlueLinePD",
+            "url": "ipfs://bafybeidgjxjrr53qq2fd4xsnwb5m6y5fsrto43lmabgvlp635hjju6bmvi#i",
+            "image": "bafybeidgjxjrr53qq2fd4xsnwb5m6y5fsrto43lmabgvlp635hjju6bmvi"
+        },
+        {
+            "assetid": 2146520735,
+            "name": "Decipher NFT Round Table",
+            "url": "ipfs://bafybeihaf3oov3n2h7otzdodlsi6nn3wn5q32pu5q5h4siqrosin7sjzyy",
+            "image": "bafybeihaf3oov3n2h7otzdodlsi6nn3wn5q32pu5q5h4siqrosin7sjzyy"
+        },
+        {
+            "assetid": 2290890671,
+            "name": "Quigley Silverward",
+            "url": "ipfs://bafybeia7zzjxvkkyzvc6tgami7g6udt6ardquyh2fgwtznk2tgs24kxq3a",
+            "image": "bafybeia7zzjxvkkyzvc6tgami7g6udt6ardquyh2fgwtznk2tgs24kxq3a"
+        },
+        {
+            "assetid": 2290893887,
+            "name": "Vala Shimmerwood",
+            "url": "ipfs://bafybeih4jq5pzrxec2twdbbwucgjxhwicdajdmq37554ljk6i5oay3f66i",
+            "image": "bafybeih4jq5pzrxec2twdbbwucgjxhwicdajdmq37554ljk6i5oay3f66i"
+        },
+        {
+            "assetid": 2402429024,
+            "name": "Bitman",
+            "url": "ipfs://bafybeibspuwzotrsftjfx53tghwnr5hefszbes3tru2oelfhaedwn52fre",
+            "image": "bafybeibspuwzotrsftjfx53tghwnr5hefszbes3tru2oelfhaedwn52fre"
+        },
+        {
+            "assetid": 2453347517,
+            "name": "Bear",
+            "url": "ipfs://bafkreiggkrqzqxaz73ifd2atj7iezpoh7styul6fxonzyn7vci5gnp536u",
+            "image": "bafkreiggkrqzqxaz73ifd2atj7iezpoh7styul6fxonzyn7vci5gnp536u"
+        },
+        {
+            "assetid": 2453355163,
+            "name": "Mental juice",
+            "url": "ipfs://bafkreihhwt4bhxnsq2myrqydi7ly4s73s4apatphb4daayo6z3vuzlyhte",
+            "image": "bafkreihhwt4bhxnsq2myrqydi7ly4s73s4apatphb4daayo6z3vuzlyhte"
+        },
+        {
+            "assetid": 2453363122,
+            "name": "Mug",
+            "url": "ipfs://bafkreifjfubohaezyb7xyully3egwgz6otqnmpgpbkl2735nudqninh3ia",
+            "image": "bafkreifjfubohaezyb7xyully3egwgz6otqnmpgpbkl2735nudqninh3ia"
+        },
+        {
+            "assetid": 2453367768,
+            "name": "JUNK shirt",
+            "url": "ipfs://bafkreibz34qlfgn2flta7h7t4fcmj6zh3eocnmf7khiz3pe33uyahl62im",
+            "image": "bafkreibz34qlfgn2flta7h7t4fcmj6zh3eocnmf7khiz3pe33uyahl62im"
+        },
+        {
+            "assetid": 2453377071,
+            "name": "Bear crown",
+            "url": "ipfs://bafkreihkjnxgl3zpeafhru4ojwmgzoz263zt7dewovjec5utdbvbpvvucy",
+            "image": "bafkreihkjnxgl3zpeafhru4ojwmgzoz263zt7dewovjec5utdbvbpvvucy"
+        },
+        {
+            "assetid": 2453386327,
+            "name": "Boomer tech",
+            "url": "ipfs://bafkreigluhnjvmscz3bg2tknmjkp7bcksnbbzycw6jh4p75bgmjnt4gnxe",
+            "image": "bafkreigluhnjvmscz3bg2tknmjkp7bcksnbbzycw6jh4p75bgmjnt4gnxe"
+        },
+        {
+            "assetid": 2453389725,
+            "name": "Fine junk",
+            "url": "ipfs://bafkreic5y5cpavi2zbaiqaw4svuy37hbbzrjfeexexgqlm22iuhzuebcme",
+            "image": "bafkreic5y5cpavi2zbaiqaw4svuy37hbbzrjfeexexgqlm22iuhzuebcme"
+        },
+        {
+            "assetid": 2453393137,
+            "name": "Fire balls",
+            "url": "ipfs://bafkreifziyh5daatpseqaqvyo2zq6iif3xde6rlqugdn5kmuqgmy6hkg2m",
+            "image": "bafkreifziyh5daatpseqaqvyo2zq6iif3xde6rlqugdn5kmuqgmy6hkg2m"
+        },
+        {
+            "assetid": 2453396757,
+            "name": "Fire gloves",
+            "url": "ipfs://bafkreie75ymsgb67qvh2hkan5eqsijqircwymlgzmmyp7cef3ydm3w2xx4",
+            "image": "bafkreie75ymsgb67qvh2hkan5eqsijqircwymlgzmmyp7cef3ydm3w2xx4"
+        },
+        {
+            "assetid": 2453401807,
+            "name": "Sturdy junk",
+            "url": "ipfs://bafkreiao34v2bttayat2mqjr6nyxji4iuz7fr572bktdiai5dqlvxpcbpa",
+            "image": "bafkreiao34v2bttayat2mqjr6nyxji4iuz7fr572bktdiai5dqlvxpcbpa"
+        },
+        {
+            "assetid": 2453407002,
+            "name": "Comic eyes",
+            "url": "ipfs://bafkreiemaywtloubzkwme5lrzhstc5tbdrhynakp3moai4ryuvlssq7vfm",
+            "image": "bafkreiemaywtloubzkwme5lrzhstc5tbdrhynakp3moai4ryuvlssq7vfm"
+        },
+        {
+            "assetid": 2453409640,
+            "name": "Really bro eyes",
+            "url": "ipfs://bafkreibo2f7i6nxkhkctiitxdfrpdmmg7jgvufruyqqt5j7zg4atf6ofqm",
+            "image": "bafkreibo2f7i6nxkhkctiitxdfrpdmmg7jgvufruyqqt5j7zg4atf6ofqm"
+        },
+        {
+            "assetid": 2453412672,
+            "name": "Squint eyes",
+            "url": "ipfs://bafkreiceyjlzx7qw5mqw3geqrd6sj2s7xf32kayxddraay5hw74ibr5fla",
+            "image": "bafkreiceyjlzx7qw5mqw3geqrd6sj2s7xf32kayxddraay5hw74ibr5fla"
+        },
+        {
+            "assetid": 2453417233,
+            "name": "Torn cover",
+            "url": "ipfs://bafkreianfzx54okdcjvkwgyrrs5jcr6q3vohpjplbdlj7ql7a6bmrjcn24",
+            "image": "bafkreianfzx54okdcjvkwgyrrs5jcr6q3vohpjplbdlj7ql7a6bmrjcn24"
+        },
+        {
+            "assetid": 2453431198,
+            "name": "Catitout background",
+            "url": "ipfs://bafkreif7c2cubejqnyx3e3ikqflsjj36wota7is3k4p5zhe5sl5kiciiim",
+            "image": "bafkreif7c2cubejqnyx3e3ikqflsjj36wota7is3k4p5zhe5sl5kiciiim"
+        },
+        {
+            "assetid": 2453433634,
+            "name": "City background",
+            "url": "ipfs://bafkreieomzndj6xeuak4qqroaoiwfv6wclhieh7ucyjmiwsqefc2mofbiq",
+            "image": "bafkreieomzndj6xeuak4qqroaoiwfv6wclhieh7ucyjmiwsqefc2mofbiq"
+        },
+        {
+            "assetid": 2453436388,
+            "name": "Monster background",
+            "url": "ipfs://bafkreia2b7mvz4yz5blveroih4btb2odxcb2h5whbeiomhootssifpjqbm",
+            "image": "bafkreia2b7mvz4yz5blveroih4btb2odxcb2h5whbeiomhootssifpjqbm"
+        },
+        {
+            "assetid": 2453440210,
+            "name": "Mortality background",
+            "url": "ipfs://bafkreif7mhbjxv743htcyqfojjwdefjmb2vgbest5bxfctqss74pa7wwz4",
+            "image": "bafkreif7mhbjxv743htcyqfojjwdefjmb2vgbest5bxfctqss74pa7wwz4"
+        },
+        {
+            "assetid": 2453443994,
+            "name": "Rain background",
+            "url": "ipfs://bafkreigvzruagnoyhcwgzmxg2apabwmunft2t3um7tigfdmp5f424vyqd4",
+            "image": "bafkreigvzruagnoyhcwgzmxg2apabwmunft2t3um7tigfdmp5f424vyqd4"
+        },
+        {
+            "assetid": 2634825992,
+            "name": "Candy",
+            "url": "ipfs://bafkreibkjde2yiadodiew76jcaf6smzqbl63ddl7ipqallk27i2v625g7u",
+            "image": "bafkreibkjde2yiadodiew76jcaf6smzqbl63ddl7ipqallk27i2v625g7u"
+        },
+        {
+            "assetid": 2634831043,
+            "name": "Elfhat",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhoJZG4p8j2UorPYYm3wfX3hm6J3cEys2aHCfuAybKq9kA",
+            "image": "bafkreicopftskztlc5ndgea5cuqbeldqpxtu5ayq5udnxzhp3wicgle7su"
+        },
+        {
+            "assetid": 2634833278,
+            "name": "Elfworms",
+            "url": "ipfs://bafkreidvjvoauf7m34mu5bqhz4ullauxgplmc3o6tfvupn5lngqholoruy",
+            "image": "bafkreidvjvoauf7m34mu5bqhz4ullauxgplmc3o6tfvupn5lngqholoruy"
+        },
+        {
+            "assetid": 2634834654,
+            "name": "Frozies",
+            "url": "ipfs://bafkreia6q4dg5ytpoxu57d76i3dypyqakccsapkha55manilkmgcy5i3qe",
+            "image": "bafkreia6q4dg5ytpoxu57d76i3dypyqakccsapkha55manilkmgcy5i3qe"
+        },
+        {
+            "assetid": 2634835918,
+            "name": "Garland",
+            "url": "ipfs://bafkreid2phdgn7yt75s2wpqzmu3qlfna4ztju5m6pf2lfwaxzjhwaw63k4",
+            "image": "bafkreid2phdgn7yt75s2wpqzmu3qlfna4ztju5m6pf2lfwaxzjhwaw63k4"
+        },
+        {
+            "assetid": 2634837267,
+            "name": "Griin",
+            "url": "ipfs://bafkreihbcx5dktjqeiu4khbbeb3mas5pzj3ay736how46b6tzovxjk2gcu",
+            "image": "bafkreihbcx5dktjqeiu4khbbeb3mas5pzj3ay736how46b6tzovxjk2gcu"
+        },
+        {
+            "assetid": 2634838125,
+            "name": "Grinchies",
+            "url": "ipfs://bafkreic2vbnw5mkyrtj7ze67vaqh62lhismkgfd6qn7oninxlztnrw7zti",
+            "image": "bafkreic2vbnw5mkyrtj7ze67vaqh62lhismkgfd6qn7oninxlztnrw7zti"
+        },
+        {
+            "assetid": 2634839102,
+            "name": "Grineyes",
+            "url": "ipfs://bafkreidhek2wjvmfbcghylcotm6ojaujgvqvekdvh2mcwik5mtlk5ootqu",
+            "image": "bafkreidhek2wjvmfbcghylcotm6ojaujgvqvekdvh2mcwik5mtlk5ootqu"
+        },
+        {
+            "assetid": 2634839932,
+            "name": "Krampus",
+            "url": "ipfs://bafkreidp55v7773kyb2fhhrbclen6vxmwitdfix6ogi2trw3msgzroc66q",
+            "image": "bafkreidp55v7773kyb2fhhrbclen6vxmwitdfix6ogi2trw3msgzroc66q"
+        },
+        {
+            "assetid": 2634840923,
+            "name": "Lsdhat",
+            "url": "ipfs://bafkreieslqn2vpe5cdnjkqnd6wigts6on2n2xknwsebixdm4d3o5mepnkq",
+            "image": "bafkreieslqn2vpe5cdnjkqnd6wigts6on2n2xknwsebixdm4d3o5mepnkq"
+        },
+        {
+            "assetid": 2634842748,
+            "name": "Ogglie",
+            "url": "ipfs://bafkreifybyf4xaxjhkhfvnpmrn6ztdhwvacvpxa2wbidbgtrlq33d4d5dq",
+            "image": "bafkreifybyf4xaxjhkhfvnpmrn6ztdhwvacvpxa2wbidbgtrlq33d4d5dq"
+        },
+        {
+            "assetid": 2634843722,
+            "name": "Purpsuit",
+            "url": "ipfs://bafkreifzb5txmh2dxzuwdjjkvgyymytkqtznt4gue5intbnldfadpf3kmm",
+            "image": "bafkreifzb5txmh2dxzuwdjjkvgyymytkqtznt4gue5intbnldfadpf3kmm"
+        },
+        {
+            "assetid": 2634844582,
+            "name": "RGB",
+            "url": "ipfs://bafkreifginmx3wvjrgctcj5eana4bpnubqottc4obanaxtrac6roefwon4",
+            "image": "bafkreifginmx3wvjrgctcj5eana4bpnubqottc4obanaxtrac6roefwon4"
+        },
+        {
+            "assetid": 2634845524,
+            "name": "Santabeard",
+            "url": "ipfs://bafkreibwoefpld5aphz3skpdbvgvkyerugfdj4hjsnmgmakpnoqi3j6fs4",
+            "image": "bafkreibwoefpld5aphz3skpdbvgvkyerugfdj4hjsnmgmakpnoqi3j6fs4"
+        },
+        {
+            "assetid": 2634846474,
+            "name": "Skate",
+            "url": "ipfs://bafkreieohuh43b4ylwqve6gmnyz5dry4aoroc3grlyzdyev6l473ajwuta",
+            "image": "bafkreieohuh43b4ylwqve6gmnyz5dry4aoroc3grlyzdyev6l473ajwuta"
+        },
+        {
+            "assetid": 2634847742,
+            "name": "Snowball",
+            "url": "ipfs://bafkreihf5u2rotqdyz5h5ocsjzwtbvrhd7avxx5pnuwnnhtqesmewrjxqm",
+            "image": "bafkreihf5u2rotqdyz5h5ocsjzwtbvrhd7avxx5pnuwnnhtqesmewrjxqm"
         }
     ]
 }

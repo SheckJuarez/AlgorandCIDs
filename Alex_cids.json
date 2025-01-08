@@ -1,5 +1,6 @@
 {
     "Project": "Alex",
+    "Creator": "Sevanya",
     "CreatorAddress": [
         "KVC4EZQTW7M3RQWJZZXVDJ7W6THDKK7SEOKAYYSXVBN3U6HD3KKNZ2QL4E"
     ],
@@ -974,7 +975,7 @@
             "assetid": 761843798,
             "name": "Alex #160",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "template-{ipfscid:0:dag-pb:reserve:sha2-256}"
+            "image": "QmNfEdnS8zfKuRv1a646M2bJzX5ik5UwTeE8qpK8QHCk4n"
         },
         {
             "assetid": 770303371,
@@ -1323,6 +1324,18 @@
             "name": "Alex #214",
             "url": "ipfs://QmV7AmYBHNKwPsjKYFH273c1Ff34nzueSSY1yASQqHboRP",
             "image": "QmV7AmYBHNKwPsjKYFH273c1Ff34nzueSSY1yASQqHboRP"
+        },
+        {
+            "assetid": 1871535693,
+            "name": "Alex #215",
+            "url": "ipfs://QmWUJQwpamp6XH42dhWF7rdWCWe8s8MfrfKy43eFo64DqG",
+            "image": "QmWUJQwpamp6XH42dhWF7rdWCWe8s8MfrfKy43eFo64DqG"
+        },
+        {
+            "assetid": 1871537027,
+            "name": "Alex #216",
+            "url": "ipfs://QmPh8d6rxzjjnGkcoHk17Vch63AQ4g6wFBNGBLGHDfBQYp",
+            "image": "QmPh8d6rxzjjnGkcoHk17Vch63AQ4g6wFBNGBLGHDfBQYp"
         }
     ]
 }

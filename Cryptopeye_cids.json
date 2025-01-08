@@ -1,5 +1,6 @@
 {
     "Project": "Cryptopeye",
+    "Creator": "Cryptopeye",
     "CreatorAddress": [
         "HTRAYKYN3AUNPAQUHXJ5O437H36D4LNPJ4URHAPPCCMJPFGX4VTYJ64WLU"
     ],
@@ -1430,8 +1431,7 @@
             "assetid": 463947361,
             "name": "Alone #2",
             "url": "ipfs://QmUrbDJDT4r2dSh2yHBTycRUcDYczckHTmc1HNbBMvJ48v#arc3",
-            "config": "QmUrbDJDT4r2dSh2yHBTycRUcDYczckHTmc1HNbBMvJ48v",
-            "image": "QmSFwXd2EXPBzo3kqFHJoAEwRYCaxCmxoabukNkNPfxFyc"
+            "image": "QmUrbDJDT4r2dSh2yHBTycRUcDYczckHTmc1HNbBMvJ48v"
         },
         {
             "assetid": 466485997,
@@ -2235,15 +2235,13 @@
             "assetid": 873558486,
             "name": "Up",
             "url": "ipfs://QmPujjpVr7mbrk3PMapEDjx7TknK6jo5V9K8nLy6NBvDDG#arc3",
-            "config": "QmPujjpVr7mbrk3PMapEDjx7TknK6jo5V9K8nLy6NBvDDG",
-            "image": "QmcRgPJE3mDEfUMAJdCwbwAL5Ba8hNdJfVByviGT2PK5ko"
+            "image": "QmPujjpVr7mbrk3PMapEDjx7TknK6jo5V9K8nLy6NBvDDG"
         },
         {
             "assetid": 875815815,
             "name": "Invasion",
             "url": "ipfs://QmZFR9tmyrmYpVH1MatJLerKm9gxBCJxzgtswMsDjKCSn7#arc3",
-            "config": "QmZFR9tmyrmYpVH1MatJLerKm9gxBCJxzgtswMsDjKCSn7",
-            "image": "QmYaP4JFLckAyDM8gogVtPzJMB7wJrGMbRzXJaa8w5cFQx"
+            "image": "QmZFR9tmyrmYpVH1MatJLerKm9gxBCJxzgtswMsDjKCSn7"
         },
         {
             "assetid": 878445606,
@@ -2261,85 +2259,73 @@
             "assetid": 887416804,
             "name": "Paper Boats",
             "url": "ipfs://QmRbHC89c3jwsziVFPebPsQ16Uun4n6q3t7DDvTVjyDqzK#arc3",
-            "config": "QmRbHC89c3jwsziVFPebPsQ16Uun4n6q3t7DDvTVjyDqzK",
-            "image": "QmapPjV8wYkD9YJUeDu2ShXSD6BvudiBovuJqabuocgzHq"
+            "image": "QmRbHC89c3jwsziVFPebPsQ16Uun4n6q3t7DDvTVjyDqzK"
         },
         {
             "assetid": 888331826,
             "name": "Love & Robots #01",
             "url": "ipfs://Qmc6YBLs37zgrJuav9w4DtBqhvGVLFcc4XvgvY311mDqsb#arc3",
-            "config": "Qmc6YBLs37zgrJuav9w4DtBqhvGVLFcc4XvgvY311mDqsb",
-            "image": "QmQWwKmKo56nBjBVmqcue5AhnV8cWsAT59xTD6ufrHpu9Q"
+            "image": "Qmc6YBLs37zgrJuav9w4DtBqhvGVLFcc4XvgvY311mDqsb"
         },
         {
             "assetid": 888332048,
             "name": "Love & Robots #02",
             "url": "ipfs://QmULwncg5nurWYXt9W13neXfVvjXh7Jggh7GCF3ggo9Wns#arc3",
-            "config": "QmULwncg5nurWYXt9W13neXfVvjXh7Jggh7GCF3ggo9Wns",
-            "image": "QmaA25qtjKs6EjNwRQkwRWfzfHnnJWKfWzewiJsDC4K6Nv"
+            "image": "QmULwncg5nurWYXt9W13neXfVvjXh7Jggh7GCF3ggo9Wns"
         },
         {
             "assetid": 888332320,
             "name": "Love & Robots #03",
             "url": "ipfs://QmPXJimc7CLi4Q8sWJiEcttKprbFBphL1PuRxzkrzzv6U1#arc3",
-            "config": "QmPXJimc7CLi4Q8sWJiEcttKprbFBphL1PuRxzkrzzv6U1",
-            "image": "QmPrzmZpbuJtGPhphuHcecdkzwCgtxvnPrmpcPU4mjsxsH"
+            "image": "QmPXJimc7CLi4Q8sWJiEcttKprbFBphL1PuRxzkrzzv6U1"
         },
         {
             "assetid": 888332563,
             "name": "Love & Robots #04",
             "url": "ipfs://QmXNm5Lb6ZndJZKRRBhfLs7soCZSNzb9fcYWnkwxbLQQur#arc3",
-            "config": "QmXNm5Lb6ZndJZKRRBhfLs7soCZSNzb9fcYWnkwxbLQQur",
-            "image": "Qmcnvdodx4LYTyJE58L1b5sR4ngUrLHCgxspUsD8PbbTV4"
+            "image": "QmXNm5Lb6ZndJZKRRBhfLs7soCZSNzb9fcYWnkwxbLQQur"
         },
         {
             "assetid": 888332887,
             "name": "Love & Robots #05",
             "url": "ipfs://QmeCB2Udh8nDj8NkvGRvHcp5S28MrqGFej4S5aNCs9BpwR#arc3",
-            "config": "QmeCB2Udh8nDj8NkvGRvHcp5S28MrqGFej4S5aNCs9BpwR",
-            "image": "QmR9q2yqyMVPZ6PEjKtKh3C16aKHFwVGuURG9R99vNr8AU"
+            "image": "QmeCB2Udh8nDj8NkvGRvHcp5S28MrqGFej4S5aNCs9BpwR"
         },
         {
             "assetid": 888333892,
             "name": "Love & Robots #06",
             "url": "ipfs://QmXDiBk7b1g4wft9rZe1sm2capiUEd68cnYLrAPoAenC9P#arc3",
-            "config": "QmXDiBk7b1g4wft9rZe1sm2capiUEd68cnYLrAPoAenC9P",
-            "image": "QmQYWZrDfcWq9fnc6qMDz4wTY5YMtUPm6BrA894r1r2FRn"
+            "image": "QmXDiBk7b1g4wft9rZe1sm2capiUEd68cnYLrAPoAenC9P"
         },
         {
             "assetid": 888334511,
             "name": "Love & Robots #07",
             "url": "ipfs://QmdRLsV8s5epWVuW8ETgFDytjjDdFwZv5N8tAXVJnBMyaV#arc3",
-            "config": "QmdRLsV8s5epWVuW8ETgFDytjjDdFwZv5N8tAXVJnBMyaV",
-            "image": "QmTd9jQCYEHWhhHts2RGLgYJGPtt4Up4dhg9RoHvqJjebG"
+            "image": "QmdRLsV8s5epWVuW8ETgFDytjjDdFwZv5N8tAXVJnBMyaV"
         },
         {
             "assetid": 888334953,
             "name": "Love & Robots #08",
             "url": "ipfs://QmWfaZqi4q7k2J2D9bj6UErPScqU87m1163yQPDkDuxahY#arc3",
-            "config": "QmWfaZqi4q7k2J2D9bj6UErPScqU87m1163yQPDkDuxahY",
-            "image": "QmNe97xUzUh63dNAR5uDGFSZDqA296fVz5W7QthXxraY9Z"
+            "image": "QmWfaZqi4q7k2J2D9bj6UErPScqU87m1163yQPDkDuxahY"
         },
         {
             "assetid": 888335432,
             "name": "Love & Robots #09",
             "url": "ipfs://QmXeQ6UfhSBNVSKi8pJAJdowuHLridXeXiJUbsRS8zotJK#arc3",
-            "config": "QmXeQ6UfhSBNVSKi8pJAJdowuHLridXeXiJUbsRS8zotJK",
-            "image": "QmdjCCPrEWwWsvCHNku1TSc8Ag5gtSUH3EHGJczQPmJ4d3"
+            "image": "QmXeQ6UfhSBNVSKi8pJAJdowuHLridXeXiJUbsRS8zotJK"
         },
         {
             "assetid": 888335937,
             "name": "Love & Robots #10",
             "url": "ipfs://QmWZ8qVAC2iFTgvT1sz5B87ULZA8Xq4PdeAuivx7fE31eY#arc3",
-            "config": "QmWZ8qVAC2iFTgvT1sz5B87ULZA8Xq4PdeAuivx7fE31eY",
-            "image": "QmPmgnh5Y5g9nGqio46xgvNRcer1EN4UVMJtvZmEFZouSE"
+            "image": "QmWZ8qVAC2iFTgvT1sz5B87ULZA8Xq4PdeAuivx7fE31eY"
         },
         {
             "assetid": 888336925,
             "name": "Love & Robots #11",
             "url": "ipfs://QmcZdJon6XsUFNNnB4CRHumwoLkSsBRYZRz55F3hESTfZ5#arc3",
-            "config": "QmcZdJon6XsUFNNnB4CRHumwoLkSsBRYZRz55F3hESTfZ5",
-            "image": "QmdqAMDvESARWZLL7XMki8UgVBn2vnvPgjfGCjiZQDAtKj"
+            "image": "QmcZdJon6XsUFNNnB4CRHumwoLkSsBRYZRz55F3hESTfZ5"
         },
         {
             "assetid": 891379037,
@@ -2351,29 +2337,25 @@
             "assetid": 893119907,
             "name": "Love & Robots #12",
             "url": "ipfs://QmcaxGRje82CBtEXAw4o4qiu29U6EW98twFTNpfyzudC8L#arc3",
-            "config": "QmcaxGRje82CBtEXAw4o4qiu29U6EW98twFTNpfyzudC8L",
-            "image": "Qmb8irjzWJvYLDHWxanwkcqCpQ3hLS1xztmuQke6bHCtZU"
+            "image": "QmcaxGRje82CBtEXAw4o4qiu29U6EW98twFTNpfyzudC8L"
         },
         {
             "assetid": 893270478,
             "name": "Love & Robots #13",
             "url": "ipfs://QmesMoWCjd2omkTeickZXaGGds7MvwfBzw8YNBxMmRfyD4#arc3",
-            "config": "QmesMoWCjd2omkTeickZXaGGds7MvwfBzw8YNBxMmRfyD4",
-            "image": "QmTFzvWQpXjLdXRLWPZjvSDTz55mRTfLsGiwGZqGb1suY2"
+            "image": "QmesMoWCjd2omkTeickZXaGGds7MvwfBzw8YNBxMmRfyD4"
         },
         {
             "assetid": 893511314,
             "name": "Love & Robots #14",
             "url": "ipfs://QmaMfrXM7U5WdCAxfbngXNzvbWg6gghCBg2tSAX8R5f3TW#arc3",
-            "config": "QmaMfrXM7U5WdCAxfbngXNzvbWg6gghCBg2tSAX8R5f3TW",
-            "image": "QmYmiGt4DaxFcZfNtp3xMAjG5y1Siwv4h748worX8HUwvW"
+            "image": "QmaMfrXM7U5WdCAxfbngXNzvbWg6gghCBg2tSAX8R5f3TW"
         },
         {
             "assetid": 893542259,
             "name": "Love & Robots #15",
             "url": "ipfs://QmbfBYmtt1FD15tjaLd3eJCiG4eWFP2HAauG9sovxjnvvy#arc3",
-            "config": "QmbfBYmtt1FD15tjaLd3eJCiG4eWFP2HAauG9sovxjnvvy",
-            "image": "QmbLhw97w9Bp7dfZ1W5UrWGNcN9Tt68CGGgYmLgFRbV7oC"
+            "image": "QmbfBYmtt1FD15tjaLd3eJCiG4eWFP2HAauG9sovxjnvvy"
         },
         {
             "assetid": 894031638,
@@ -2391,15 +2373,13 @@
             "assetid": 895457950,
             "name": "The Bitclown",
             "url": "ipfs://QmcFJdB2pEzuThjHJ6UqazHqmBMNbnsoSjCaYxEJUM9RDY#arc3",
-            "config": "QmcFJdB2pEzuThjHJ6UqazHqmBMNbnsoSjCaYxEJUM9RDY",
-            "image": "QmQMBz3aJ7bjDdwVZU4i4eSo6CWe8qUr2KnXjMDhzC5fRn"
+            "image": "QmcFJdB2pEzuThjHJ6UqazHqmBMNbnsoSjCaYxEJUM9RDY"
         },
         {
             "assetid": 895509589,
             "name": "Tenderly Bullish",
             "url": "ipfs://QmSQrFfFBrasGUnev6fYvQ79SN1zgZESrjEw2UnQ1GyaCr#arc3",
-            "config": "QmSQrFfFBrasGUnev6fYvQ79SN1zgZESrjEw2UnQ1GyaCr",
-            "image": "QmZcrBZWtKWruJq9eCsBwUqYVFrNVcP28YLbZYwekzqwPe"
+            "image": "QmSQrFfFBrasGUnev6fYvQ79SN1zgZESrjEw2UnQ1GyaCr"
         },
         {
             "assetid": 895910752,
@@ -2429,22 +2409,19 @@
             "assetid": 897528467,
             "name": "Love & Robots #16",
             "url": "ipfs://QmS6kWbyaey8XHyuhQZMfnHqAJRBNn7GSCLYA8Ea8egbw1#arc3",
-            "config": "QmS6kWbyaey8XHyuhQZMfnHqAJRBNn7GSCLYA8Ea8egbw1",
-            "image": "QmQGdskXGgcAkqzH1YfSXV7x5AmEpT27k6rZQ13BqMq5Gz"
+            "image": "QmS6kWbyaey8XHyuhQZMfnHqAJRBNn7GSCLYA8Ea8egbw1"
         },
         {
             "assetid": 900405767,
             "name": "Love & Robots #17",
             "url": "ipfs://QmTK5iQB54EwCYU51GD4SotMrmuxvVENxS5CTkimLR2xGx#arc3",
-            "config": "QmTK5iQB54EwCYU51GD4SotMrmuxvVENxS5CTkimLR2xGx",
-            "image": "QmUpcoF1kYLD6xmXwwzV2S6X43c7XkcU8WJnk1Jf76f8ZE"
+            "image": "QmTK5iQB54EwCYU51GD4SotMrmuxvVENxS5CTkimLR2xGx"
         },
         {
             "assetid": 900766130,
             "name": "Smonkey",
             "url": "ipfs://QmTEAmzHQqYUFL5CHGYo7yhfYqM6fxP6W7G43youDdBeG8#arc3",
-            "config": "QmTEAmzHQqYUFL5CHGYo7yhfYqM6fxP6W7G43youDdBeG8",
-            "image": "QmQghiFuC7k9DeJpFX7Zqk43PCCwDS5YhZDJj74ADytV7z"
+            "image": "QmTEAmzHQqYUFL5CHGYo7yhfYqM6fxP6W7G43youDdBeG8"
         },
         {
             "assetid": 901260888,
@@ -2462,29 +2439,25 @@
             "assetid": 903397194,
             "name": "Unlikely Friends #01",
             "url": "ipfs://QmegSBfM1ACaUPmZu6sHjn9zCE5kKk5xWnAL5PkjvX1Lxs#arc3",
-            "config": "QmegSBfM1ACaUPmZu6sHjn9zCE5kKk5xWnAL5PkjvX1Lxs",
-            "image": "QmUUDrYXpNw1Y3cD9DHiYLNgELUKRKeVQe3amJCNvrsEPt"
+            "image": "QmegSBfM1ACaUPmZu6sHjn9zCE5kKk5xWnAL5PkjvX1Lxs"
         },
         {
             "assetid": 904347296,
             "name": "Love & Robots #18",
             "url": "ipfs://QmasWFYvzszYDnuLrRhCDgd8B5oDZpiSECFYdxAktAwfc7#arc3",
-            "config": "QmasWFYvzszYDnuLrRhCDgd8B5oDZpiSECFYdxAktAwfc7",
-            "image": "QmaJPEALJcTfVv1xBbEKWttKpZ2Hu6nmKzQufD2AfTt3pF"
+            "image": "QmasWFYvzszYDnuLrRhCDgd8B5oDZpiSECFYdxAktAwfc7"
         },
         {
             "assetid": 904385770,
             "name": "Boys will be ?",
             "url": "ipfs://QmW1FYL5djT9t47oUMzJPUj11uCNNNyr32TXXNwgo4PUdA#arc3",
-            "config": "QmW1FYL5djT9t47oUMzJPUj11uCNNNyr32TXXNwgo4PUdA",
-            "image": "QmfLFVd8QCPQW1siJ6oZfPWHMSDQJn6QN3tLaxseG6DYGm"
+            "image": "QmW1FYL5djT9t47oUMzJPUj11uCNNNyr32TXXNwgo4PUdA"
         },
         {
             "assetid": 905340722,
             "name": "Love & Robots #19",
             "url": "ipfs://QmWepVirZ7Axd4GrECsPRWetudNSTFkdLm8naUpJkxdQnc#arc3",
-            "config": "QmWepVirZ7Axd4GrECsPRWetudNSTFkdLm8naUpJkxdQnc",
-            "image": "QmdfnkdEP8ymC2R3U4EKz5RwBtRETGCF8m1h24CvzSRaMf"
+            "image": "QmWepVirZ7Axd4GrECsPRWetudNSTFkdLm8naUpJkxdQnc"
         },
         {
             "assetid": 906001497,
@@ -2496,8 +2469,7 @@
             "assetid": 906754875,
             "name": "Love & Robots #20",
             "url": "ipfs://QmQ4hMr5WTvQRRrMUCv8XiNeusWFmJBmPhwwyFXZivLdET#arc3",
-            "config": "QmQ4hMr5WTvQRRrMUCv8XiNeusWFmJBmPhwwyFXZivLdET",
-            "image": "QmZ5UwCsSKYBSJw76T5M7aUAsdub1aeE9zvuFcAaimVA37"
+            "image": "QmQ4hMr5WTvQRRrMUCv8XiNeusWFmJBmPhwwyFXZivLdET"
         },
         {
             "assetid": 907313089,
@@ -2509,85 +2481,73 @@
             "assetid": 909596545,
             "name": "Love & Robots 21",
             "url": "ipfs://QmdsrXVkh2agawcmum28HNuXnaERtUoxRZCbaANTtMqrPm#arc3",
-            "config": "QmdsrXVkh2agawcmum28HNuXnaERtUoxRZCbaANTtMqrPm",
-            "image": "QmdzA7zgrPkt1Q6FzAbCruBjZJJM2M4B4YeTVidcD36JRL"
+            "image": "QmdsrXVkh2agawcmum28HNuXnaERtUoxRZCbaANTtMqrPm"
         },
         {
             "assetid": 909901712,
             "name": "Reading #01",
             "url": "ipfs://QmePgUQkTxDod9B4Tz4MKBfHk2jnHWtBp1nmRczXmb4tvm#arc3",
-            "config": "QmePgUQkTxDod9B4Tz4MKBfHk2jnHWtBp1nmRczXmb4tvm",
-            "image": "QmSCj2U7kFZaNq5MSeMLKnbfahZ1RgMoyvr7CjVHf3vU8E"
+            "image": "QmePgUQkTxDod9B4Tz4MKBfHk2jnHWtBp1nmRczXmb4tvm"
         },
         {
             "assetid": 910033014,
             "name": "Greed !",
             "url": "ipfs://QmUvmB1cWQGrcEXhaMecZtB3aUtJN7FVPiCHfF9tSYzy45#arc3",
-            "config": "QmUvmB1cWQGrcEXhaMecZtB3aUtJN7FVPiCHfF9tSYzy45",
-            "image": "QmWLLCGUcnB8oac5kKEdTTKUtoXmf6y6sSZguBhSj2SZu7"
+            "image": "QmUvmB1cWQGrcEXhaMecZtB3aUtJN7FVPiCHfF9tSYzy45"
         },
         {
             "assetid": 911192286,
             "name": "Reading #02",
             "url": "ipfs://QmQhR2UTLEwJ1eTnvKg97J4E6yjtJTspYi5cM6JDM4d5BN#arc3",
-            "config": "QmQhR2UTLEwJ1eTnvKg97J4E6yjtJTspYi5cM6JDM4d5BN",
-            "image": "QmbNTdh4BPCp7UXtQaXdWg98qw4TKJMiuKQXsC2CKnP4D1"
+            "image": "QmQhR2UTLEwJ1eTnvKg97J4E6yjtJTspYi5cM6JDM4d5BN"
         },
         {
             "assetid": 912682971,
             "name": "Reading  #03",
             "url": "ipfs://QmXxLQUBKx7jhSGbnNTnVCVV5rtghJrck4ST5EWDzXHCb2#arc3",
-            "config": "QmXxLQUBKx7jhSGbnNTnVCVV5rtghJrck4ST5EWDzXHCb2",
-            "image": "QmZ59w9auRyQ3zFbLnWwEY7gu6Tkb89USUBNYgMBNTGoct"
+            "image": "QmXxLQUBKx7jhSGbnNTnVCVV5rtghJrck4ST5EWDzXHCb2"
         },
         {
             "assetid": 913075766,
             "name": "Lost",
             "url": "ipfs://QmXTU6u8h9psMCXV3CmsMH5hb9fHP6MadeRjckoefrNJVh#arc3",
-            "config": "QmXTU6u8h9psMCXV3CmsMH5hb9fHP6MadeRjckoefrNJVh",
-            "image": "QmPz8a54m2bgSW2Y1tZaumD9izd6cJJ94nqHzUYFmBtdK3"
+            "image": "QmXTU6u8h9psMCXV3CmsMH5hb9fHP6MadeRjckoefrNJVh"
         },
         {
             "assetid": 915182061,
             "name": "Self-portrait",
             "url": "ipfs://QmfGCjb81mGTYo6UCuZ9jpGjnjxHRzsqmaoizaPjcRkRKQ#arc3",
-            "config": "QmfGCjb81mGTYo6UCuZ9jpGjnjxHRzsqmaoizaPjcRkRKQ",
-            "image": "QmRN7UCJCTacenhoKZqqf92tiy37hcCuSHzKtjpjiVz1Dt"
+            "image": "QmfGCjb81mGTYo6UCuZ9jpGjnjxHRzsqmaoizaPjcRkRKQ"
         },
         {
             "assetid": 919508360,
             "name": "Self-portrait : my best side",
             "url": "ipfs://QmRTxYC2bVevh97dAXHsx8LAhLG1RSXuJR8RLYbLbSbKnY#arc3",
-            "config": "QmRTxYC2bVevh97dAXHsx8LAhLG1RSXuJR8RLYbLbSbKnY",
-            "image": "QmYwFXqEuVYe1sZB9JDXnrzxZ5S9PaBLFFLzpC4GNHGcQy"
+            "image": "QmRTxYC2bVevh97dAXHsx8LAhLG1RSXuJR8RLYbLbSbKnY"
         },
         {
             "assetid": 920909790,
             "name": "Yum",
             "url": "ipfs://QmWkBz1WydPexSbDsNRy1tJysUWUZstaur71a7joi3XvjB#arc3",
-            "config": "QmWkBz1WydPexSbDsNRy1tJysUWUZstaur71a7joi3XvjB",
-            "image": "QmPr2Cxym8VmveYUVu7yVbcdhSVv6q3uos7eo3EPPhF63s"
+            "image": "QmWkBz1WydPexSbDsNRy1tJysUWUZstaur71a7joi3XvjB"
         },
         {
             "assetid": 921946343,
             "name": "Algoween 22",
             "url": "ipfs://QmdN6u51sBmhR9upy1uZ3FBCsRBpWDpWDXXhuSBiGqjJcD#arc3",
-            "config": "QmdN6u51sBmhR9upy1uZ3FBCsRBpWDpWDXXhuSBiGqjJcD",
-            "image": "QmWAXJcoBxqDhznFvun4auz8VPakN8Wt53de5MKdCB8mkU"
+            "image": "QmdN6u51sBmhR9upy1uZ3FBCsRBpWDpWDXXhuSBiGqjJcD"
         },
         {
             "assetid": 930295266,
             "name": "Need Art",
             "url": "ipfs://QmRRtavgsW5UVqUwMkp3CQG9vAafjg9ejrjkmchSojQPNY#arc3",
-            "config": "QmRRtavgsW5UVqUwMkp3CQG9vAafjg9ejrjkmchSojQPNY",
-            "image": "QmcdsypMDEBisT5ozv9Xp9j4ZZ7TRuXtaFrM3ueCiZUfFs"
+            "image": "QmRRtavgsW5UVqUwMkp3CQG9vAafjg9ejrjkmchSojQPNY"
         },
         {
             "assetid": 930638985,
             "name": "Artcore",
             "url": "ipfs://QmfNPKxiMAyRvBHjsJzSJHRfAFRvD6eDVy8HCWF2viGGzQ#arc3",
-            "config": "QmfNPKxiMAyRvBHjsJzSJHRfAFRvD6eDVy8HCWF2viGGzQ",
-            "image": "QmWat9VujnansNRe8pzCmHcq6qWLNvvQDmfZju4sVDbUbm"
+            "image": "QmfNPKxiMAyRvBHjsJzSJHRfAFRvD6eDVy8HCWF2viGGzQ"
         },
         {
             "assetid": 932134117,
@@ -2599,29 +2559,25 @@
             "assetid": 932396797,
             "name": "Dead-End",
             "url": "ipfs://QmW5okeeB9xPTSzViSsL7XA6Z8mDV6xZQDX5SBDZixUeFJ#arc3",
-            "config": "QmW5okeeB9xPTSzViSsL7XA6Z8mDV6xZQDX5SBDZixUeFJ",
-            "image": "QmRAV3tNhyQnr9zgiodkeTKxXuMJzEuvH16ANH9YBxuUGe"
+            "image": "QmW5okeeB9xPTSzViSsL7XA6Z8mDV6xZQDX5SBDZixUeFJ"
         },
         {
             "assetid": 932711948,
             "name": "$8 sir",
             "url": "ipfs://QmbeqwB4WPcSmHpbtuQerq9Uvd6bj6jFaRkF7L22t8cmES#arc3",
-            "config": "QmbeqwB4WPcSmHpbtuQerq9Uvd6bj6jFaRkF7L22t8cmES",
-            "image": "QmQXpN4Mvs3j15mKe9WAG5KBkQ4FZeET8BttftUYBeFw3h"
+            "image": "QmbeqwB4WPcSmHpbtuQerq9Uvd6bj6jFaRkF7L22t8cmES"
         },
         {
             "assetid": 936064318,
             "name": "Art-ificial",
             "url": "ipfs://QmSPCbmmp67dwn84iMc4CAxkjCeZeSWwb161oxNT4y5PVS#arc3",
-            "config": "QmSPCbmmp67dwn84iMc4CAxkjCeZeSWwb161oxNT4y5PVS",
-            "image": "QmQfQnDDBSP2Z3P1vRidofKeWkU7e7C8Zm8VzWBgwMNigd"
+            "image": "QmSPCbmmp67dwn84iMc4CAxkjCeZeSWwb161oxNT4y5PVS"
         },
         {
             "assetid": 937464829,
             "name": "Need Art #06",
             "url": "ipfs://QmfKYxxSNvCz3edxJEbZ6ExrswDSxux3HQiiecsmEDoKfw#arc3",
-            "config": "QmfKYxxSNvCz3edxJEbZ6ExrswDSxux3HQiiecsmEDoKfw",
-            "image": "QmZb4duZxsTXFiFRb1dkUUmCNYDDWoAQc3wLh2bA5GfbcD"
+            "image": "QmfKYxxSNvCz3edxJEbZ6ExrswDSxux3HQiiecsmEDoKfw"
         },
         {
             "assetid": 943813459,
@@ -2633,22 +2589,19 @@
             "assetid": 968118865,
             "name": "Distant confusion",
             "url": "ipfs://QmeBB2h6qVKAMBWc6erUnfgKZGT81px78YWT73jj3nmG1J#arc3",
-            "config": "QmeBB2h6qVKAMBWc6erUnfgKZGT81px78YWT73jj3nmG1J",
-            "image": "QmYmSe4ou5kvDcaBNckJGjGeQtqm6zeYwVx1fn8dJy7mhF"
+            "image": "QmeBB2h6qVKAMBWc6erUnfgKZGT81px78YWT73jj3nmG1J"
         },
         {
             "assetid": 973133603,
             "name": "Inaccessible",
             "url": "ipfs://QmYNc2o9xYzYKhLcgh4qYvhmzRAmvDRK4iVuJ4kBM9vAWC#arc3",
-            "config": "QmYNc2o9xYzYKhLcgh4qYvhmzRAmvDRK4iVuJ4kBM9vAWC",
-            "image": "QmVm5PVKteoesotFRXbjgyt4p7mG2p3bcoQqs8hsHUk6m6"
+            "image": "QmYNc2o9xYzYKhLcgh4qYvhmzRAmvDRK4iVuJ4kBM9vAWC"
         },
         {
             "assetid": 973248097,
             "name": "Carrot",
             "url": "ipfs://QmcJgo8X4SxYTZVZnSjRHyGGvfzKvG2Tz3icMvTRFucGxN#arc3",
-            "config": "QmcJgo8X4SxYTZVZnSjRHyGGvfzKvG2Tz3icMvTRFucGxN",
-            "image": "QmSGCKKCM1Npkf42JiA5dX7ULyx1AN6KgzkM4Gp6GW9s3t"
+            "image": "QmcJgo8X4SxYTZVZnSjRHyGGvfzKvG2Tz3icMvTRFucGxN"
         },
         {
             "assetid": 978462239,
@@ -2660,8 +2613,7 @@
             "assetid": 983219244,
             "name": "Wired",
             "url": "ipfs://Qme2bX6ckka9AdYkM8qqJt27MMjhRq36EU8RVePhMudkbC#arc3",
-            "config": "Qme2bX6ckka9AdYkM8qqJt27MMjhRq36EU8RVePhMudkbC",
-            "image": "QmZgzdMcT7N9MVg4LSeRFcLX5HaVHio75M8ogbhtbD68bu"
+            "image": "Qme2bX6ckka9AdYkM8qqJt27MMjhRq36EU8RVePhMudkbC"
         },
         {
             "assetid": 990805870,
@@ -2679,162 +2631,139 @@
             "assetid": 1000571118,
             "name": "Dark Thoughts",
             "url": "ipfs://QmPKALuFpq1S6KBwbmLu4JZmZ9d2VLosXmHWojMMYzpJ1E#arc3",
-            "config": "QmPKALuFpq1S6KBwbmLu4JZmZ9d2VLosXmHWojMMYzpJ1E",
-            "image": "QmVcSb4BpnsoWxq9YmGM2Zasm5F3ideoyWrtbDBCbrTy5M"
+            "image": "QmPKALuFpq1S6KBwbmLu4JZmZ9d2VLosXmHWojMMYzpJ1E"
         },
         {
             "assetid": 1000718319,
             "name": "Family",
             "url": "ipfs://QmUVVLr4vAfmXipjiJnnj9zeQmvL8s7neKkq22xvoGG7gb#arc3",
-            "config": "QmUVVLr4vAfmXipjiJnnj9zeQmvL8s7neKkq22xvoGG7gb",
-            "image": "QmefgtNzpakrPWf8qKyAjuHuwh55jAmo8cHukS7Swmh95e"
+            "image": "QmUVVLr4vAfmXipjiJnnj9zeQmvL8s7neKkq22xvoGG7gb"
         },
         {
             "assetid": 1001725204,
             "name": "Smile #001",
             "url": "ipfs://QmVbR3L8YoxM3VvB3rGCt5ZwLAeUsDxzZFh8Ze2TQTtJkK#arc3",
-            "config": "QmVbR3L8YoxM3VvB3rGCt5ZwLAeUsDxzZFh8Ze2TQTtJkK",
-            "image": "QmSpHtTtZBdfui5SdFopgrTUdNdvxX9U2bnoStJtFjKYNb"
+            "image": "QmVbR3L8YoxM3VvB3rGCt5ZwLAeUsDxzZFh8Ze2TQTtJkK"
         },
         {
             "assetid": 1001726536,
             "name": "Smile #002",
             "url": "ipfs://QmNwfuDQPAvYQMc3tW2xZ8wG6wGQwAZzoPtxqU5eHUmA9s#arc3",
-            "config": "QmNwfuDQPAvYQMc3tW2xZ8wG6wGQwAZzoPtxqU5eHUmA9s",
-            "image": "QmckezYz8SQ4oXzpkHBNRmcshwixfF4Vvx44NEP4BRSQSx"
+            "image": "QmNwfuDQPAvYQMc3tW2xZ8wG6wGQwAZzoPtxqU5eHUmA9s"
         },
         {
             "assetid": 1001729915,
             "name": "Smile #003",
             "url": "ipfs://QmdBypC6vsH1e1BxneDUzruUGobiYVqD5RsykPASxdUE7D#arc3",
-            "config": "QmdBypC6vsH1e1BxneDUzruUGobiYVqD5RsykPASxdUE7D",
-            "image": "QmQ6VfenctyMaa46JMxfPsCDuV3mgDDECztpTm5BvxN8mY"
+            "image": "QmdBypC6vsH1e1BxneDUzruUGobiYVqD5RsykPASxdUE7D"
         },
         {
             "assetid": 1001732711,
             "name": "Smile #004",
             "url": "ipfs://Qmd3DtQW88hmoRAehR8sJUuvkMS4LFotSGLeVKU6WLBvTJ#arc3",
-            "config": "Qmd3DtQW88hmoRAehR8sJUuvkMS4LFotSGLeVKU6WLBvTJ",
-            "image": "QmdD3uh1rUZbPZGKgqWTinCeyYmnSRbqRBpkQBpepNmRAg"
+            "image": "Qmd3DtQW88hmoRAehR8sJUuvkMS4LFotSGLeVKU6WLBvTJ"
         },
         {
             "assetid": 1001734331,
             "name": "Smile #005",
             "url": "ipfs://QmPnfvPuznZjDh5nRDaXYZGHd5zz5fZ3CaJFdfw375YvDX#arc3",
-            "config": "QmPnfvPuznZjDh5nRDaXYZGHd5zz5fZ3CaJFdfw375YvDX",
-            "image": "QmNx3LdYwqZ8DGr59qBcj19TpK75Lg6u1XddDrTfe5Nb1R"
+            "image": "QmPnfvPuznZjDh5nRDaXYZGHd5zz5fZ3CaJFdfw375YvDX"
         },
         {
             "assetid": 1001735252,
             "name": "Smile #006",
             "url": "ipfs://QmehW1pXBQCoyh7nm4fYsKMAEunh7qvL9D85gafvufamCd#arc3",
-            "config": "QmehW1pXBQCoyh7nm4fYsKMAEunh7qvL9D85gafvufamCd",
-            "image": "QmZuZ9SsZqR5WwmBELDx465yGavqk1KF432y5May8jjpNn"
+            "image": "QmehW1pXBQCoyh7nm4fYsKMAEunh7qvL9D85gafvufamCd"
         },
         {
             "assetid": 1001736190,
             "name": "Smile #007",
             "url": "ipfs://QmTFFQH82eyN533Pb5dqi9TJnvACsURSp7FQiGg4dgxcig#arc3",
-            "config": "QmTFFQH82eyN533Pb5dqi9TJnvACsURSp7FQiGg4dgxcig",
-            "image": "QmSqvD2osgF5ZZ3hhjYMrYAC1kTxjQiFahLvwsq5KwCEco"
+            "image": "QmTFFQH82eyN533Pb5dqi9TJnvACsURSp7FQiGg4dgxcig"
         },
         {
             "assetid": 1001737553,
             "name": "Smile #008",
             "url": "ipfs://QmezeQZ6sVbdsK42LuHrxE7ACHinkMXqZVK5NbwZiGASWY#arc3",
-            "config": "QmezeQZ6sVbdsK42LuHrxE7ACHinkMXqZVK5NbwZiGASWY",
-            "image": "QmcNsqc7kiUjEBsnsB7aVgisghBFXKMB3UxDdor6YcjzuQ"
+            "image": "QmezeQZ6sVbdsK42LuHrxE7ACHinkMXqZVK5NbwZiGASWY"
         },
         {
             "assetid": 1001751245,
             "name": "Smile #009",
             "url": "ipfs://QmaLKtHnwVGr3i2JkB1AX3WCwEBq1H4JDcXBr8KeuN3fnD#arc3",
-            "config": "QmaLKtHnwVGr3i2JkB1AX3WCwEBq1H4JDcXBr8KeuN3fnD",
-            "image": "QmNZMcKipddkDzL53oT6nqkyLXnFTpJbHsoJKDqL4C5FMp"
+            "image": "QmaLKtHnwVGr3i2JkB1AX3WCwEBq1H4JDcXBr8KeuN3fnD"
         },
         {
             "assetid": 1003334169,
             "name": "Smile #010",
             "url": "ipfs://QmaxBD9W2ErxnwwmEEc2kcXmnxDmcUfnA2y9pMvSkXZvfk#arc3",
-            "config": "QmaxBD9W2ErxnwwmEEc2kcXmnxDmcUfnA2y9pMvSkXZvfk",
-            "image": "QmQ2ZyAxMhggkXQtQQmydVfjC47eVkWznxSnEU3YoB3QcV"
+            "image": "QmaxBD9W2ErxnwwmEEc2kcXmnxDmcUfnA2y9pMvSkXZvfk"
         },
         {
             "assetid": 1003690785,
             "name": "Smile #011",
             "url": "ipfs://QmP3xtV3PEJaiX28jMzem2HUkUHzmCTi81uunSmEVsviCX#arc3",
-            "config": "QmP3xtV3PEJaiX28jMzem2HUkUHzmCTi81uunSmEVsviCX",
-            "image": "QmYaBXinQxxBYaXdU5C3fr6WitHqMVmV66WWoojfJFxqUt"
+            "image": "QmP3xtV3PEJaiX28jMzem2HUkUHzmCTi81uunSmEVsviCX"
         },
         {
             "assetid": 1004494599,
             "name": "Smile #012",
             "url": "ipfs://QmeKs2rySdWwjz9C7ZqhgTzXogKwFnSBMoHnk8HvSt2fTR#arc3",
-            "config": "QmeKs2rySdWwjz9C7ZqhgTzXogKwFnSBMoHnk8HvSt2fTR",
-            "image": "QmQTyqfuKkEdCk8Cc7EuXuSpTiYTe5iLGEGeRY7KSTY8dC"
+            "image": "QmeKs2rySdWwjz9C7ZqhgTzXogKwFnSBMoHnk8HvSt2fTR"
         },
         {
             "assetid": 1006488213,
             "name": "Smile #013",
             "url": "ipfs://QmVQia7qAHgVCKXbHsCJXUueswyuUkMKj7dKHAomKMJKa4#arc3",
-            "config": "QmVQia7qAHgVCKXbHsCJXUueswyuUkMKj7dKHAomKMJKa4",
-            "image": "QmR7dckmGJCqrKr4SKUT1tv5vzqzcVEYRUBCYDP22zaJ4B"
+            "image": "QmVQia7qAHgVCKXbHsCJXUueswyuUkMKj7dKHAomKMJKa4"
         },
         {
             "assetid": 1007366048,
             "name": "Smile #014",
             "url": "ipfs://QmdUz714YFVGQCxTmZeKRn2yZh8YB8WJkaJnpSLrcgRnac#arc3",
-            "config": "QmdUz714YFVGQCxTmZeKRn2yZh8YB8WJkaJnpSLrcgRnac",
-            "image": "Qmd86Gpbd5TAAJ5zjNaC3irVFAmocgeX1cW4YbjSgSbr21"
+            "image": "QmdUz714YFVGQCxTmZeKRn2yZh8YB8WJkaJnpSLrcgRnac"
         },
         {
             "assetid": 1011010277,
             "name": "Smile #015",
             "url": "ipfs://QmU7ovoYfRrdfuYCTGKHHBnAPGKeep5bgKnbeYckjEydWK#arc3",
-            "config": "QmU7ovoYfRrdfuYCTGKHHBnAPGKeep5bgKnbeYckjEydWK",
-            "image": "QmTkKnauMTngFuHHeyDqgCbPnKt4tgtmG9s5bEseaRNpAW"
+            "image": "QmU7ovoYfRrdfuYCTGKHHBnAPGKeep5bgKnbeYckjEydWK"
         },
         {
             "assetid": 1011375481,
             "name": "Stray",
             "url": "ipfs://QmUD5X16cedYPZP7YoTShDonwQ97eMVba8pumKNR1a1mb7#arc3",
-            "config": "QmUD5X16cedYPZP7YoTShDonwQ97eMVba8pumKNR1a1mb7",
-            "image": "QmPvWeJ32rHYMi6PDv31kMYVdEJYRBiA7Lnhsf4EQe91rn"
+            "image": "QmUD5X16cedYPZP7YoTShDonwQ97eMVba8pumKNR1a1mb7"
         },
         {
             "assetid": 1014047971,
             "name": "Different",
             "url": "ipfs://QmfNgK11kLARud3zjvrAbr2hDtYs3KvbLWf7GSizAnGrMi#arc3",
-            "config": "QmfNgK11kLARud3zjvrAbr2hDtYs3KvbLWf7GSizAnGrMi",
-            "image": "QmWtxeemLcNSo5gFGmcmHYKzEDXFgzp3XsvwwH1GMejbxW"
+            "image": "QmfNgK11kLARud3zjvrAbr2hDtYs3KvbLWf7GSizAnGrMi"
         },
         {
             "assetid": 1014815998,
             "name": "Inside",
             "url": "ipfs://QmUkgVeM3csbRt4tt7jLkvkutyrCpkT2e8mDQYp9xTbpC6#arc3",
-            "config": "QmUkgVeM3csbRt4tt7jLkvkutyrCpkT2e8mDQYp9xTbpC6",
-            "image": "QmQ6CzbTAHWeSDgtAhSVPKCehT3g94tS1HRKRRaCiBZikh"
+            "image": "QmUkgVeM3csbRt4tt7jLkvkutyrCpkT2e8mDQYp9xTbpC6"
         },
         {
             "assetid": 1015777512,
             "name": "Destiny",
             "url": "ipfs://QmenN6UttFYj87LLrjzJFVXkp16ognXKAEVkxEWkxcuhhn#arc3",
-            "config": "QmenN6UttFYj87LLrjzJFVXkp16ognXKAEVkxEWkxcuhhn",
-            "image": "QmTtvQC8RKuLxoehU7ZysAXd1A5wJa8PpFnmcBqZAcEi5i"
+            "image": "QmenN6UttFYj87LLrjzJFVXkp16ognXKAEVkxEWkxcuhhn"
         },
         {
             "assetid": 1018858970,
             "name": "Blood Meridian",
             "url": "ipfs://QmUS6prFbBkrsLAGufvvBrrUuZWAc8LFKc5E3cV3iEUMvr#arc3",
-            "config": "QmUS6prFbBkrsLAGufvvBrrUuZWAc8LFKc5E3cV3iEUMvr",
-            "image": "QmQK1vts2sQHyYswftg3pJTsoM9JV4mbcg99pUJRikJq1G"
+            "image": "QmUS6prFbBkrsLAGufvvBrrUuZWAc8LFKc5E3cV3iEUMvr"
         },
         {
             "assetid": 1032362677,
             "name": "The future is a long past",
             "url": "ipfs://QmYJhT5R7oiTZZiq7Mu7au2n3t9Mifopo6oueQdgZUcznH#arc3",
-            "config": "QmYJhT5R7oiTZZiq7Mu7au2n3t9Mifopo6oueQdgZUcznH",
-            "image": "QmeqPR1ZUQ7LKnnC8Ye1ACqfyxz7BqAvU7WksBdGXCEogE"
+            "image": "QmYJhT5R7oiTZZiq7Mu7au2n3t9Mifopo6oueQdgZUcznH"
         },
         {
             "assetid": 1054284614,

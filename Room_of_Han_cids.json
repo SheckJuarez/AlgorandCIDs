@@ -1,5 +1,6 @@
 {
     "Project": "Room of Han",
+    "Creator": "Room of Han",
     "CreatorAddress": [
         "Z6TJQQXRXCADCSJZ4H754PK7KZOALCA2IYREFAKADARAHSSVYVGJHDCDQE"
     ],
@@ -710,13 +711,6 @@
             "url": "ipfs://QmPzcL232FLhJhpNPu3xLzoLDzBm5g2iAwCqnCVjRgn8VQ#arc3",
             "config": "QmPzcL232FLhJhpNPu3xLzoLDzBm5g2iAwCqnCVjRgn8VQ",
             "image": "QmSygCpb2eeRCoPfdL3P6rJ4q2zkfcCJQurDBzzQYaX5GY"
-        },
-        {
-            "assetid": 810874265,
-            "name": "HAN 71",
-            "url": "ipfs://QmT1U16CcyLqGQHnL7JdbSL9JC1xhC5HTBcGvd7QZzZKFL#arc3",
-            "config": "QmT1U16CcyLqGQHnL7JdbSL9JC1xhC5HTBcGvd7QZzZKFL",
-            "image": "QmWygSdJq6qy5XwaAwazetj9fDsLrUMbeD7ECCSnuTHGwK"
         },
         {
             "assetid": 810874511,
@@ -3252,8 +3246,7 @@
             "assetid": 1144228641,
             "name": "HANxHAND",
             "url": "ipfs://QmdYV2aw4mnHeBEsMyjbZHLbm5Hu7zQ5nLyihqF8wsLVQ3#arc3",
-            "config": "QmdYV2aw4mnHeBEsMyjbZHLbm5Hu7zQ5nLyihqF8wsLVQ3",
-            "image": "Qmdpdcskv3v7NubFQ5UiE3KK3KEHXy75EHjzNboFAHUXy8"
+            "image": "QmdYV2aw4mnHeBEsMyjbZHLbm5Hu7zQ5nLyihqF8wsLVQ3"
         },
         {
             "assetid": 1146098719,
@@ -3392,12 +3385,6 @@
             "name": "ROH 206",
             "url": "ipfs://bafybeied32p3espwk335w4ibnhezuaflaipiqvhx2xfjvdxvq45rujnnca#i",
             "image": "bafybeied32p3espwk335w4ibnhezuaflaipiqvhx2xfjvdxvq45rujnnca"
-        },
-        {
-            "assetid": 1166290780,
-            "name": "ROh 207",
-            "url": "ipfs://bafybeie6lxoxi2u2iemi6e3ryauutijykk4y5pllavad5xnc6wa65npdei#i",
-            "image": "bafybeie6lxoxi2u2iemi6e3ryauutijykk4y5pllavad5xnc6wa65npdei"
         },
         {
             "assetid": 1166292400,
@@ -3541,13 +3528,39 @@
             "assetid": 1209217759,
             "name": "ROH 163",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
-            "image": "template-{ipfscid:1:raw:reserve:sha2-256}"
+            "config": "zb2rhjwsVErRM4R7txiARpS5R6qbeSp9aTQtWxzmMmmLWvtXV",
+            "image": "bafybeihyix52s2pi65wm3e76h72uauo6xshjwa2etw2n6booaxz3oky7wu"
         },
         {
             "assetid": 1210808727,
             "name": "ROH 70",
             "url": "ipfs://bafybeig4nxtvkgoiyh7girtjmk5qqkrqm6yebtn6mhe7hy4vhpgdjvpu6u#i",
             "image": "bafybeig4nxtvkgoiyh7girtjmk5qqkrqm6yebtn6mhe7hy4vhpgdjvpu6u"
+        },
+        {
+            "assetid": 1242216823,
+            "name": "HAN 071",
+            "url": "ipfs://bafybeid7qgk2jawpdxk2fngmotn7im6flgab5yaat6ocnyhfsreslucknm#i",
+            "image": "bafybeid7qgk2jawpdxk2fngmotn7im6flgab5yaat6ocnyhfsreslucknm"
+        },
+        {
+            "assetid": 1438810516,
+            "name": "ROH 207",
+            "url": "ipfs://bafybeib4ocacdt25nlh5gix3v3iifiqacnbsmzaovopkksqkacn7wizw2q#i",
+            "image": "bafybeib4ocacdt25nlh5gix3v3iifiqacnbsmzaovopkksqkacn7wizw2q"
+        },
+        {
+            "assetid": 1893723655,
+            "name": "Soul fire",
+            "url": "ipfs://bafybeia6qlzbh5wbzr5g3blatmsqm4bujyx6fyadphuw6aoa3viuqqwuje#v",
+            "image": "bafybeia6qlzbh5wbzr5g3blatmsqm4bujyx6fyadphuw6aoa3viuqqwuje"
+        },
+        {
+            "assetid": 2502904936,
+            "name": "Custom roh 117",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rheHzrKSbbqoMHQppmHCrT5BFEF5gKXzfaFnR2g9yqpr8r",
+            "image": "bafybeifx6gqroaul7jobfr3vgwxfn65eovyqv5b27y2qaoorpkmebb5vvi"
         }
     ]
 }
