@@ -1,0 +1,163 @@
+{
+    "Project": "Ivory Humans",
+    "Creator": "Ivory Tower Collection",
+    "CreatorAddress": [
+        "R7Q3T47WL5IJHOHIRONFW3VFLGPM6BXRGYCWGV6JDLZBGUJCIQDUTULI4M"
+    ],
+    "Assets": [
+        {
+            "assetid": 2547491814,
+            "name": "Vivip Ticker",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhfeEjLyeQVUR6znRwcPSoYHHF2rTEGs8NSr8kFzgY4kTn",
+            "image": "bafybeifxvivqypkm5xe4wp26dxob373zleeedkyhv5vjg56y4qrbcp36rm"
+        },
+        {
+            "assetid": 2547500045,
+            "name": "Vivifam Ticker",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhdjRQd7bSRhnkWFjFgSMqiC5Kcd82K3MxWPY5TXTZqvam",
+            "image": "bafybeift3ejk72sfebpmxpsg6hyevd2doknjpj6bxmv6miszv6eb4xczrq"
+        },
+        {
+            "assetid": 2578879955,
+            "name": "Bronze Stopwatch",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhbVgUPnLVYjeuLtmaKWpq21DeyTSxvNNWRmpdiMFouBNz",
+            "image": "bafybeiasoiydwuuwmrllmiu4x5bfvol5bqjuhsa75njwh63u4id7uwgrw4"
+        },
+        {
+            "assetid": 2578903507,
+            "name": "Silver Stopwatch",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhc3WHrGvbcsr56mf3GmP4AAwtah5k59AjVe5WW4epbD9Y",
+            "image": "bafybeif42j4guqhg22xm67uy2dl6lojlw6cjfb4xzkvkeadwmo6kdkdkuy"
+        },
+        {
+            "assetid": 2578912324,
+            "name": "Platinum Stopwatch",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhmfaHXyAr5e8HLWd6pMhiMDQhavdaFmRRpBSfbUyEx5bJ",
+            "image": "bafybeidvyqxjjvoqr7fmlndfd55rstxthp7qbcjfsi64nojza4xzc6l7be"
+        },
+        {
+            "assetid": 2578919918,
+            "name": "Axinite Clock",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhdEBmy2DXsbxb1Vi3Q9khHb2WjTPZrahtm8XJFpaAx2wW",
+            "image": "bafybeic675ccplvehsfqcnjc2lizafecz5letroy4yq4vgihvhk3ycgeyi"
+        },
+        {
+            "assetid": 2578925570,
+            "name": "Argentite Clock",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhbZafwDeph4VJxJyXAnMx7HGrjdc9fGRTURoQoeSt5w9j",
+            "image": "bafybeiap3yl2zxbeatavbbv2eldb2w3dbdqwck2ydu5zzzsvvxlayqp44i"
+        },
+        {
+            "assetid": 2578929357,
+            "name": "Chrysoberyl Clock",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhjE96PmPQCsbE65VAHJRTGd3wacMJvmF2pyGcCyePeXvE",
+            "image": "bafybeiguvswlmuvu57wqhfnkgoofsu37qx64k6w35tkrndatzasodoghru"
+        },
+        {
+            "assetid": 2583780951,
+            "name": "Metal Generator",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhbRQcapj9mMpUZARMxX8tSGhZWD2awGbihs9oSvDDBzjq",
+            "image": "bafybeifxkcc6pvfyufwbae3ldz6pbbfy5mmwekssjidsvq2srnw33hix3i"
+        },
+        {
+            "assetid": 2583787320,
+            "name": "Stone Generator",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhacixDNeAfTMJA9q7bR23QotJMByPsoavxqm46JEFo6hC",
+            "image": "bafybeialpx52inbd3wpwyw2ospomt5rb4kxhlw7eutvge2hed2dinwuozq"
+        },
+        {
+            "assetid": 2583792404,
+            "name": "Sand Generator",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhnCNa6np5m7mEF3bvFKvEFHGsFqMBC9C7HjjjT4DKtkJA",
+            "image": "bafybeicea6ilrx33ol5nm4mkj57px2xqcg5s3kt3mtb3d5rii4ooueaczu"
+        },
+        {
+            "assetid": 2583797706,
+            "name": "Wood Generator",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhoZci3rSnox6HxjfjAijcmqyRhdEJa8r4qjfh2juVgYHw",
+            "image": "bafybeidmgzosnbg6m7qsyovyvhpchckvf2fuq2o52h3nkck7whaaglvz5q"
+        },
+        {
+            "assetid": 2583803289,
+            "name": "Amber Generator",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhawKVRbSNJesxt2mEjhRuzVc3iq8L23BXJniYWVcberra",
+            "image": "bafybeie6kroyu6tmptr5gauilrds3vtpqnadih4zurnzetjsvrhrlpg5cy"
+        },
+        {
+            "assetid": 2583811400,
+            "name": "Gold Generator",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhiFJHPBSCjzJ4Wz9SfPaQEkR6SRmCqMdeB5cERWLGjotz",
+            "image": "bafybeicdzrcrz5whgurj3kxju3pzp6xqm3aicqvkhex7uasmwneftp5qte"
+        },
+        {
+            "assetid": 2623001592,
+            "name": "Ruby Vivip",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhonca9ZQtspthfZ7xBPdTzxrtTiJtmfbSUWHBjH7Zjgz8",
+            "image": "bafybeiaqii35gnuhu27nv6odoo6cmvunkx3fqcsqnyti4q27v6dcara4ja"
+        },
+        {
+            "assetid": 2623011434,
+            "name": "Sapphire Vivip",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhj4iuDC9UhYERRNrjTUy2M9Ath8KeQTYG6ifNpDeR8tc3",
+            "image": "bafybeiad2cnfu3dkxem4g62emjeuixuydd6rwwszvnhtkwgy5mmopsbh7a"
+        },
+        {
+            "assetid": 2623017612,
+            "name": "Jade Vivip",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhfmcVaEua1AEvrkPRWGg8Tio9Gbsn2JBCdZfvQbjtmrX9",
+            "image": "bafybeibzlg4lku34dgx7soc6krcmslmwbwzmdy3xbwabt45vimldgcrrze"
+        },
+        {
+            "assetid": 2623035072,
+            "name": "Topaz Vivip",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rheuPytNUeBdPQ2LSatqgRwydLSDBgamuBkpX44uFgjFBt",
+            "image": "bafybeielhsoy3ytpjrhbw4pm3f7g44anmhcgrbs5umts5df2dcda2lmc2u"
+        },
+        {
+            "assetid": 2825494177,
+            "name": "Ruby Human",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhoD6qx3PKmRXyjDfDdcAErgNKpUFQexyD9VeMcPY7y7Tb",
+            "image": "bafybeidrujpj7q4zaktqmcdg2itsor74j7xa5oahaicnvklqrhzwbeed7e"
+        },
+        {
+            "assetid": 2825495691,
+            "name": "Sapphire Human",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhbQKYepRrZYiJuxaTSde6W5A6YuWfzdmDgiwLTKPchDfX",
+            "image": "bafybeieidl3cbcqpgcy4qk2zo3ncs3n7ic2twzqutj2q42qmtiv5o4iw7q"
+        },
+        {
+            "assetid": 2825497343,
+            "name": "Jade Human",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhcyFisjKHTpwsm2UpyZ4HmjVkk316WJRrN1pPUNcK4dRW",
+            "image": "bafybeid3wvmxpyddnn3rdjo6sd6ajqrc74dumwt7i3ecdtv4l264ehwvvi"
+        },
+        {
+            "assetid": 2825498722,
+            "name": "Topaz Human",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhhkGRqo9LLPmy6MHSf6zr6GWDdDcMsiRGkTKdaHcuByQb",
+            "image": "bafybeiaamdluajuydovw7abahnlw6jgixt7vwdyxo7wkdjie5shubbzz6e"
+        }
+    ]
+}
