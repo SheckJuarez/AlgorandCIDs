@@ -1,0 +1,642 @@
+{
+    "Project": "Basic Zukei",
+    "Creator": "Purdoodles",
+    "CreatorAddress": [
+        "LC56HKBKLEREYXIE2TVMRKMHX2L4X3UFPCAZNQCXRRFEYIDXS7SJ5LY5KQ"
+    ],
+    "Assets": [
+        {
+            "assetid": 1216243744,
+            "name": "Shootout S1 Season Final Ticket",
+            "url": "ipfs://bafybeigsm46kx5juxwenz3hhol6gulqaupwic2wsex4otabtot7jtjru4u#i",
+            "image": "bafybeigsm46kx5juxwenz3hhol6gulqaupwic2wsex4otabtot7jtjru4u"
+        },
+        {
+            "assetid": 1408256454,
+            "name": "Basic Doll #1",
+            "url": "ipfs://bafybeiemmax367was7ss6ozjfmzwvmnss3qkmybsoyhrixskb6ejekzp5e#i",
+            "image": "bafybeiemmax367was7ss6ozjfmzwvmnss3qkmybsoyhrixskb6ejekzp5e"
+        },
+        {
+            "assetid": 1408260420,
+            "name": "Basic Doll #2",
+            "url": "ipfs://bafybeia6wpok5km5pqefhlmktesz5kvher43rkvopdnjkk4g6lrloezqoy#i",
+            "image": "bafybeia6wpok5km5pqefhlmktesz5kvher43rkvopdnjkk4g6lrloezqoy"
+        },
+        {
+            "assetid": 1408261679,
+            "name": "Basic Doll #3",
+            "url": "ipfs://bafybeicvczo6jartbhswp5usynolun3icipw7yc7pwwmv5pk7zzk6ysnje#i",
+            "image": "bafybeicvczo6jartbhswp5usynolun3icipw7yc7pwwmv5pk7zzk6ysnje"
+        },
+        {
+            "assetid": 1408262897,
+            "name": "Basic Doll #4",
+            "url": "ipfs://bafybeiekyyo5uozzocaexotd4pqydtl4kjirqfodq5smhjz7wd5akytaxq#i",
+            "image": "bafybeiekyyo5uozzocaexotd4pqydtl4kjirqfodq5smhjz7wd5akytaxq"
+        },
+        {
+            "assetid": 1408263408,
+            "name": "Basic Doll #5",
+            "url": "ipfs://bafybeicsxtoautm3f4baffbaecmecrwwucutpnfosldkt6alhzecwvb3wa#i",
+            "image": "bafybeicsxtoautm3f4baffbaecmecrwwucutpnfosldkt6alhzecwvb3wa"
+        },
+        {
+            "assetid": 1423100860,
+            "name": "Barb Doll",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhkTWukeJTjGJyhZfnxFAVBSKBDhPcPZiwFQSLUf6FydL1",
+            "image": "bafybeiedoajxhdui2eqlruaaelj3kbdqp5q7ylctdua6fzjdcmnz44pdlq"
+        },
+        {
+            "assetid": 1442715283,
+            "name": "Basic Doll #6",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhYmmynuTK1Qex6PmiBLzNcp6u4swnt5vPZzGTzS1jxorV",
+            "image": "bafybeihp4p64li7wgvzzbzu3cb54a5oodngm2k6bvlgntz6hejdxlwn56u"
+        },
+        {
+            "assetid": 1442988632,
+            "name": "Buddy Doll #1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhZn4g45M36WpiadG9UuUu6mFe84ii8X4zeGpG18BDTP8T",
+            "image": "bafkreidnkwz2ul3korfftyxp64it7rtyj366qkzyafcc777dladv4mvxsu"
+        },
+        {
+            "assetid": 1442991528,
+            "name": "Buddy Doll #2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhkneo3zDUpf3DT83LRz6M4vC2ijPMkvVE3xbdjhsypgm1",
+            "image": "bafybeifuzjmtz7uqdh6akyg743nbovlq6qd6h37dez6fv4f3slg25kufpu"
+        },
+        {
+            "assetid": 1442993932,
+            "name": "Buddy Doll #3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhbGNNZuUTH6RStf3AVXRjdxuum5KfYcaDahjgfJjVWPnv",
+            "image": "bafybeihsx6veivnk7kxtvne5lifzast4qspnccdcf554kyv6wn7dzkk5hm"
+        },
+        {
+            "assetid": 1443007314,
+            "name": "Buddy Doll #4",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhdWXDAPsxSZnT9byranWrsxN28uQ2vPphJZdmEPa8GV7k",
+            "image": "bafybeias34riq7y4dkytcgz5tjrnevvr52vmwps3f4patvhatw2aakpgsu"
+        },
+        {
+            "assetid": 1443010453,
+            "name": "Buddy Doll #5",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhZTdopobDxK3k5BmUt8NisfH76UJr1KXVgrCtjn2QdPaR",
+            "image": "bafybeihff4ybtk64pt2jrxdk4x74npdt2bnjteh3mzti6s7t3fjqsx44tu"
+        },
+        {
+            "assetid": 1443012467,
+            "name": "Buddy Doll #6",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhamXmB1hztAYnJkeanFYob2ZcoQGyhiCptXJgJ49vaUyt",
+            "image": "bafkreigplppm2cfkgqgjczi6fdn3fvodpfvsq47hdkm5k4rfazmdogyy4u"
+        },
+        {
+            "assetid": 1443015363,
+            "name": "Buddy Doll #7",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rheqAZXfxC3QcKHCVBaptKZRPd5sfjxxEfP2q8f3iDjZpq",
+            "image": "bafybeic74ugqve73djzwdxjm65h7xy756ki6osq5pby4mg73vop6pxwaim"
+        },
+        {
+            "assetid": 1443017128,
+            "name": "Buddy Doll #8",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhZYpr4uDW2U7cdXxnmyTKcf8pqMa3cxx9u3htkRDxfSFn",
+            "image": "bafkreiagz2vrktlzuexputmpfgmcxnbz6p7mkwmptouwcfgnaoyzn5f6nu"
+        },
+        {
+            "assetid": 1629979021,
+            "name": "Jizzbo",
+            "url": "ipfs://bafybeiauamjdujimlmyhly4c3quywuq3unkjctdknq7teq7ybbetof4gfa#i",
+            "image": "bafybeiauamjdujimlmyhly4c3quywuq3unkjctdknq7teq7ybbetof4gfa"
+        },
+        {
+            "assetid": 1677127666,
+            "name": "Penguins on the block",
+            "url": "ipfs://bafybeig54leppsfxyh5z2gwbdsqdagttwun7a35nlzdtl3eliyyhkcgouu#i",
+            "image": "bafybeig54leppsfxyh5z2gwbdsqdagttwun7a35nlzdtl3eliyyhkcgouu"
+        },
+        {
+            "assetid": 1686098639,
+            "name": "Wen Buddy met JoeJo",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhZCEuEC2R8JqaEZ7c1dVwBB285jk5QA69Sjo6JwnojbHA",
+            "image": "bafybeidu3y4e664mejhexu23secbvax2zd5wbvdmzmc2dbzqealxl3vj6i"
+        },
+        {
+            "assetid": 1697025132,
+            "name": "Wen Buddy met JoeJo #2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhWvUVJxCoLpfnNE4HHzTAyurtAdM7SCkn1mCaTPvkJheV",
+            "image": "bafybeicwcupzty7kdrbhpisqb3cg4ynwtbv3jdmxs3ykkzohso2fdixmza"
+        },
+        {
+            "assetid": 1707033508,
+            "name": "Buddy Doll #9",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhaQY4tgx6GAtdNy4C5qyGkR3c8KAffaLaB6dXVrCuPh9G",
+            "image": "bafybeico4cho2u25nenxwj4xax5otwt442fnw62aqffokjlhgr5osyvvvm"
+        },
+        {
+            "assetid": 1707040684,
+            "name": "Buddy Doll #10",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhfG6hhgE5s1rNire5KfMbL99Wnfjfk25L2fEki8dM64Ft",
+            "image": "bafkreigrvhetc24muwuyxcpl47iigye6g4kkntj5y3yivobytmygyawhlu"
+        },
+        {
+            "assetid": 1707042790,
+            "name": "Buddy Doll #11",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhZTjsBVsB6yzpZFuCSQK6hiwJacPrrxaSs6kcySTyGnKx",
+            "image": "bafybeibuchoijfj5otsm7zhxud3iqwcpyjnw56wv3lgs64rntbhjmpjfam"
+        },
+        {
+            "assetid": 1707044633,
+            "name": "Buddy Doll #12",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhYTCGCSGMWajHhmZA9VzZjQ7K5DeVrtqZKcy462uCyomd",
+            "image": "bafybeig7lfmfch2zans2tii3kzr2nzhcccmxzeq3ua2qhvekaixs4su6jm"
+        },
+        {
+            "assetid": 1707050147,
+            "name": "Buddy Doll #13",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhg84CfHcxCw12Eu8kgmCovzxLBVTep25s1HjShB8PxfgM",
+            "image": "bafybeiey4syy6fuljtif46oi534zwpoto3fv7blpcxwlnldtv6mi2kvlay"
+        },
+        {
+            "assetid": 1707051887,
+            "name": "Buddy Doll #14",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhmKVbTt717iyF13cGj8xwtKwPkrFBgS1Qx6S6MabtqLo9",
+            "image": "bafybeihherirocvbjwjthl6gsewvch7ktgopdekttjqfoip3imdruwim6i"
+        },
+        {
+            "assetid": 1707055068,
+            "name": "Wen Buddy met JoeJo #3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhmjFnvjcrdDkThzZfmJK4LE6Ty4MLaDf85gwN9tP7z4hz",
+            "image": "bafybeia5rdql6d7wm7dhqjuaooc3ejjfwlegdz3ctpgsucqjjkdwrr3hwy"
+        },
+        {
+            "assetid": 1707056674,
+            "name": "Wen Buddy met JoeJo #4",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhcMU6M4BP4YecoS4gjuLwzLbmcvzBHN64rJp1hd3Sg18A",
+            "image": "bafybeie23wfxferqeysus4dfhwm5b66orp7qcme74tyc3oj5yts6uro7ha"
+        },
+        {
+            "assetid": 1710029843,
+            "name": "Unrugged Joe Set #1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhY1Snbufmqsdo7DKb1Z2uSwgLXSZ63SMNTFVVnTj3FWMy",
+            "image": "bafybeihaezcgj6yhtprjqflgadppy4y62hp7lzo3ozcras6hzeoo2kpzza"
+        },
+        {
+            "assetid": 1710136878,
+            "name": "Basic Egg #1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhbenNnK21dVnNJ8YouoksZUAi5fDtZvN3EEVfgEjbPr2E",
+            "image": "bafybeia5ygg7y332n3qvrki34647dct2lu6jevxnrp4sz3s7jrxam5xlam"
+        },
+        {
+            "assetid": 1710136913,
+            "name": "Basic Egg #2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhjdvEiMyFfXw43VWSKWVMrcVGKZSNKKAn1PAFth3cD2eg",
+            "image": "bafybeif5knw2fstkqnjhsz24galh3e7vjeekcqsg3g7kkcn65uk3pipuue"
+        },
+        {
+            "assetid": 1710136917,
+            "name": "Basic Egg #3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhXktpvZyWPPgh4cF5gG46213UvQ28mt4Jmcx4qAogosSy",
+            "image": "bafybeichkftxydenyjergsnfifppdmmfzv5otg3ne77denzlaof5f5g3re"
+        },
+        {
+            "assetid": 1710136921,
+            "name": "Basic Egg #4",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhaBDD28d13wW6KdbLPvnxaPaTbzSbArsxjKtQCqG7gP7R",
+            "image": "bafybeihburtjocwy5kbmzzthhdaxhesai7jeo7kmxs3cujgdf5f2thpa3a"
+        },
+        {
+            "assetid": 1710136924,
+            "name": "Basic Egg #5",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhafdwEp5uxCBJX7GStuqVHv5ZXragKVfnCDeTBxuriC3s",
+            "image": "bafybeiey4cwfljeolg6uqg2bnc3ij2epyx2bjtnyaxsgeujzkkvaypajfy"
+        },
+        {
+            "assetid": 1710136928,
+            "name": "Basic Egg #6",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhnKHf3kSBg3eNMNGdWmctL3uLbZvdLFUuPiKZjWhKmhPk",
+            "image": "bafybeia7w5huwdxv5cvyjekk3whg6tre3xuzyrqsubzviw5c6uu3y6flqi"
+        },
+        {
+            "assetid": 1710136930,
+            "name": "Basic Egg #7",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhdTgBt3sbP47bc3nENeWt8QkXTamBXW7neB8zaRBkj1p6",
+            "image": "bafybeidex27523yonkcjkjhxpsu44e2e4vfijml4zfrdsjaooxtm44na6i"
+        },
+        {
+            "assetid": 1710136966,
+            "name": "Basic Egg #8",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhazuoRrwvbHdRrA6HugxjGEL9H4LFPWS84woEhD3ChAUR",
+            "image": "bafybeierlb6f7pszo4mtznmqk2gq57cks5l7ybmkmo7cyzw7oz7k5xnt6y"
+        },
+        {
+            "assetid": 1710136968,
+            "name": "Basic Egg #9",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhgiNdBB7zE1YVXMetA49QdnebrDDhDAryZveE5iR6b7xN",
+            "image": "bafybeie6wsggaamjtawfxqk3gqxhisauhzsr6zaqcfxbbguphkmgxu73jq"
+        },
+        {
+            "assetid": 1710136971,
+            "name": "Basic Egg #10",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhifTNsqNqxwBPyvWdBPEFUocBf261wmwcGorVDSoKB2Tv",
+            "image": "bafybeiann2izdyuzszu5r6hxywxy2a5l53oiiy64336rd5ljjkbrb4a4yq"
+        },
+        {
+            "assetid": 1710136973,
+            "name": "Basic Egg #11",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhoU4x919iYN1ieTPdSLxoiiTvmr8nJXzUcY3o9FArvyoM",
+            "image": "bafybeia2ofxymxyk6g3ybo7gav73vtixffwa25ni74e4bnzcimeliybs6y"
+        },
+        {
+            "assetid": 1710136975,
+            "name": "Basic Egg #12",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhfUSJ1s78whE7KSzoUnG3wwCDBxk2WjvZ59MuZSNhPDhC",
+            "image": "bafybeihmro6ev3wttcelatc23cnggpypiybapmghu5y2u3ntmf4twxceem"
+        },
+        {
+            "assetid": 1710136977,
+            "name": "Basic Egg #13",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhoNo1AqTzpTWS6NKyaWrwdnFRQs8x8mAi76Cd8w9Dqds1",
+            "image": "bafybeiab2xdjftubx5i7t4lc4vtf73eecep5c37cqh3zem7kym7fjcsoqm"
+        },
+        {
+            "assetid": 1710136983,
+            "name": "Basic Egg #14",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhjHqTrACoQt5RtYeU86NrhRnB1BoDVDQFizkbaSTtM5f7",
+            "image": "bafybeihm5tta3s3aijr3xars7kpaudxtaf3tuvo6uet4spsk6kndpknycu"
+        },
+        {
+            "assetid": 1710136989,
+            "name": "Basic Egg #15",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhcoTMNJrsFka6qAC7CyW1hDPXt1wWvKYW6wFkDByk1vhG",
+            "image": "bafybeiggchxr4yts7nngaztsil3s6v5b3f6jdapj2ffzycskoipisskzou"
+        },
+        {
+            "assetid": 1710136992,
+            "name": "Basic Egg #16",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhg7hCFi5kQqPz6HqMyFpgoyVnmPkPZisx9aPrvUz15M5v",
+            "image": "bafybeihdehxemnqsysjqcn3hc7fh236v553kmcmple45v5esya3bdczbsm"
+        },
+        {
+            "assetid": 1710137004,
+            "name": "Basic Egg #17",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhePT9zjBog2A7vq8kFyYREBRWxyWd13UF4z95thvRcTPe",
+            "image": "bafybeia425l55p6mrbxhmg2ewz3bbohmrbikas5v4bwzmlohpk4uzfacre"
+        },
+        {
+            "assetid": 1710137014,
+            "name": "Basic Egg #18",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhn6g8csnepGt3d5vgHQFpBfMaJ8H4GyctFa3AfJAEHjRp",
+            "image": "bafybeidykpurtapx2ec2emojulushogiqbtuodeihnjhtmrc7vmbziirsm"
+        },
+        {
+            "assetid": 1710137016,
+            "name": "Basic Egg #19",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhf645VoeKLemwnaVBJDtbTJASHByLPFGB46N2zyGQ32Ej",
+            "image": "bafybeigltz2qktuzuk3vki2xqyojcn4dh73ew3brheddsr253p2kjg6xm4"
+        },
+        {
+            "assetid": 1710137018,
+            "name": "Basic Egg #20",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhkEW6fSjYLBxzdtoh9gpM2ndPw5SR7yPeB8g5pLjK4yKS",
+            "image": "bafybeih7eoplv4kzvaun5xllvrp64uknr4tgnudw6pvupsixbu7xhorip4"
+        },
+        {
+            "assetid": 2029296499,
+            "name": "Basic Buddies OG Collector Badge",
+            "url": "ipfs://bafybeialtsxoaksnhhhu7pwjpgntk2t4j7i7fpixx2yfy4l5vun263zlwm",
+            "image": "bafybeialtsxoaksnhhhu7pwjpgntk2t4j7i7fpixx2yfy4l5vun263zlwm"
+        },
+        {
+            "assetid": 2137306145,
+            "name": "Basic Koala Hangout",
+            "url": "ipfs://bafybeihgtdazb2wushnx425c2z7kovyqqnaxiyv4z3ifuai3nb4g77jn5e",
+            "image": "bafybeihgtdazb2wushnx425c2z7kovyqqnaxiyv4z3ifuai3nb4g77jn5e"
+        },
+        {
+            "assetid": 2137319956,
+            "name": "Basic Penguins and Hearts",
+            "url": "ipfs://bafybeihi73n3zpzmlglmutk3ebf4p4x2wqtio5itex7ui7eusckjovtmve",
+            "image": "bafybeihi73n3zpzmlglmutk3ebf4p4x2wqtio5itex7ui7eusckjovtmve"
+        },
+        {
+            "assetid": 2207684343,
+            "name": "Basic Buddies 1st BDay Badge 001",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rheLkrbzRJDFACTCNy3RnCZ5ZTJCHSi3DQ2kqgSUh1DkMf",
+            "image": "bafybeiapc4swntdrvigzwi5ymtumrp5rrpqin4q5skpt42uuabpjd6gpy4"
+        },
+        {
+            "assetid": 2207686184,
+            "name": "Basic Buddies 1st BDay Badge 002",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhdxN1VWjQbpyapkn65FDxdLrQ1VyiTQGXCymKW9gP9XbN",
+            "image": "bafybeiexpzavjreyecmpyef7tdkdsugczfyn6bjiyfgtgnn4gu5kvh46aq"
+        },
+        {
+            "assetid": 2207687800,
+            "name": "Basic Buddies 1st BDay Badge 003",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "config": "zb2rhcDL6wAToGh864pha1H5p9NkrGdaiD3Kv5nAofEEfsdR3",
+            "image": "bafybeicligqvyzcge7w7dq56mrl2nnhyahk6y4djiyylg5blck7hkrouim"
+        },
+        {
+            "assetid": 2232280333,
+            "name": "BASICSNAKE.xlm",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "Qmco1yDg8DP8wDk6s5AbtRpLw1hcbGUvhr26MzqF89oZmK",
+            "image": "Qmc3WAth1N7tbZjbChcypL4i4FNZ3Qpd4arJyRDEFJNdVt"
+        },
+        {
+            "assetid": 2306704852,
+            "name": "Warm up for winter",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmTqCqAZDVJGbpWuczA5vDTNBcGakhCEePhNAZrqPA9h5a",
+            "image": "Qmd2MLySapacW95By8UoAtpKGzMqcBaLhuQKf6JjkRDGTS"
+        },
+        {
+            "assetid": 2543730719,
+            "name": "Basic Advent Calendar",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmZ5SinwzsmZG7LSi2KwgKKeTKqRo82e8huHcN6YoRsGGj",
+            "image": "QmRd7uXvNWVXKPNkwXyQcx6YxZv23ny8zFaJ2Z4jaZxg5U"
+        },
+        {
+            "assetid": 2656184194,
+            "name": "Testing will delete ",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmVMmaav4XzhqHuYtuNASjL63YhAvBRqkWUrGfFufBmRCL",
+            "image": "Qma7cBSyJEddxzqspPV4LDUQsSsxbhMd3hjfE6jYmgxKaK"
+        },
+        {
+            "assetid": 2667206122,
+            "name": "Basic snow globe #1",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmXvWkdf3dNci3WoaXzzUQM11NDYEtDiQowrkL4yTH8o37",
+            "image": "QmRTnWGpQyMBpnCAxvodac57RHiD6mPzxN1YRRTztTnXpX"
+        },
+        {
+            "assetid": 2667218381,
+            "name": "Basic snow globe #2",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmNWkWxrXQE3gfyAPTexmP7XTEr7Vf8nRj6azZTMDiZGnP",
+            "image": "QmQ27uStmdiWadYeMJiZxTDqCvcXzhrxR5Jo1eFMFtYH9u"
+        },
+        {
+            "assetid": 2667222820,
+            "name": "Basic snow globe #3",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmWdcqatmTKKkaKopyfcwMZY3Pyj9pQ86NxSNqD3fuHW3U",
+            "image": "Qmd5YL1PEmQauJFmgLdTLi9gELWng3uwvd3ofTEXKpZZPV"
+        },
+        {
+            "assetid": 2667224870,
+            "name": "Basic snow globe #4",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmYbYb9GGeMZhRyCmUdXGuQw93cw7Mk7QDY5Qu1jQG3aW7",
+            "image": "QmUuDxKRr9R4cKrNSeVHVR4GD7nQwWX9NkWiEYr79UsKir"
+        },
+        {
+            "assetid": 2667237240,
+            "name": "Basic snow globe #5",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmQMm2JEvTpJp39EuTrnN6nQbR3Qth5zxZjqvxKgth4S4S",
+            "image": "QmV1dsprnbcEbtE7u3S3mguj6Xueuq6TVfDYWAkNwdQ4fS"
+        },
+        {
+            "assetid": 2667240572,
+            "name": "Basic snow globe #6",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "Qme7ERjK2EASSEAupWzuhU4Vqh5bM4T866EBkxD8Fbjs8d",
+            "image": "QmXjDuStA2NvSnEJ77bwHvPLqsRsh2Sbhz82QktVFPr2en"
+        },
+        {
+            "assetid": 2667247606,
+            "name": "Basic snow globe #7",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmPygK2eLoYVZ3Njr19gTmZsu4ojBSGBPEgMVYFcUHVozn",
+            "image": "QmQipfazz8Zh4BNcB1rya1se42ktAQDAVEqzWApso6FmLX"
+        },
+        {
+            "assetid": 2667249911,
+            "name": "Basic snow globe #9",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmaXvMSXo6bqmfaD3Vsr1s9DQ2UctbgQ36ZQzjX4VnUoBB",
+            "image": "QmcYQBtK9Wup5ZmjntYMgHLvvnF63cuttFhLTSsbvofsa4"
+        },
+        {
+            "assetid": 2667265893,
+            "name": "Basic snow globe #8",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmQyY3Zi2B62Tth1PuJP8824KpxMyTPhtoftFjrfG3okSh",
+            "image": "QmfN73UBUtZZnNrzp3m1VibEfs8SBTjhFZ9ZnZTZLz3urg"
+        },
+        {
+            "assetid": 2667269064,
+            "name": "Basic snow globe #10",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmPmybkLQfLcbEffvehBGEC6FAfJrJQosuetgUBtAhP9Ph",
+            "image": "QmaF9q8wcte7CFzgYmszkk5tfSs7priHMoeL77MfZ5bJJp"
+        },
+        {
+            "assetid": 2667281544,
+            "name": "Basic snow globe #11",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmVrG9DpT17tjxFYQxFUHLcW9JrYbbwGd3JLw79a7iT7sh",
+            "image": "QmNpdp2kBZW2Y8Ke9FKNo6x3pqnzhFDCqPdbRtEufS67Xi"
+        },
+        {
+            "assetid": 2667287555,
+            "name": "Basic snow globe #12",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmX9CfQGkUudKMK3N9a4sY4PqUVsDLqYXriefjTJAwxpLp",
+            "image": "QmeKb3GopXCq5M9LGhrmmNJZyp1Vskq2DiHvSpbDbs34LQ"
+        },
+        {
+            "assetid": 2667289448,
+            "name": "Basic snow globe #13",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmVUMNhUkwPDNEhaaTnvussqTKJfyhqgWpF31BfSYxdugT",
+            "image": "QmTpMEbAiKHeFKeM4TXqVgzm6srnugmK8XbnbdTZMemnjC"
+        },
+        {
+            "assetid": 2930370483,
+            "name": "Basic Zukei 01",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmRaj4kBCqvUZSHD5uDWNDsSJgE5TjCADVEWSRD6YQ8T1T",
+            "image": "QmVZMEBXGd2RHDQRDnURDZue9B5nRwnDYgzLJYAdf629a7"
+        },
+        {
+            "assetid": 2930380020,
+            "name": "Basic Zukei 02",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmdjWJkkk3s3o6rY553QiYZEvokgjz5e67HnwLMrTB8QeV",
+            "image": "QmT1nZY69GvNJPSNS6X5oCYUUbkgXqbWbcPs1PD8gh2fzj"
+        },
+        {
+            "assetid": 2930388370,
+            "name": "Basic Zukei 03",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmdQA7prp1wQGNv6Jods2HWMo5BLhtoghS8ugjWYZpFSCr",
+            "image": "QmardB7jNbWZYf8SzWRnF6A5dgVNzwjgtvy6ZyanhTEqTU"
+        },
+        {
+            "assetid": 2930397187,
+            "name": "Basic Zukei 04",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "Qmeh5cVAND2u99mjyVzgzJ3YqvL4Kbe1dpCeXo4AfbcxZr",
+            "image": "QmfSLK6QtcQDviU4dwrJ5RfcVwKrSeL4JuHe9gzHro33KJ"
+        },
+        {
+            "assetid": 2930402279,
+            "name": "Basic Zukei 05",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmQau6Czh4qLaRjwNbKKP5e7KbRjcCV6r3GQ8kCGcRW3kF",
+            "image": "QmWuHuQAJPtD2Psc4i2BcuYiMtmqD2HFV7SmcE29GDG2mf"
+        },
+        {
+            "assetid": 2930403855,
+            "name": "Basic Zukei 06",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmQDjCdxy5TcKrgK5GwActGEtPcBVYyqH29gvc39rcdSeP",
+            "image": "QmQioCU6kaaski9NRq8aJaxVrywKMMSee1p9ebSuiLVJkv"
+        },
+        {
+            "assetid": 2930406179,
+            "name": "Basic Zukei 07",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmaTuFS9Cwfp2Hd3DR7tW8LBxULCLctWvDZ2hsWvcCmFLe",
+            "image": "QmU5SgeybU6gNQCn2FFMTbqTDGytKDv246X7SVQ5tWqswX"
+        },
+        {
+            "assetid": 2930415704,
+            "name": "Basic Zukei 08",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmadodUZpd4D4VyLewYkMh79Fq3xA1RP4zcMnU6FGbEtFw",
+            "image": "QmVAWrgvbAgmSKY3jqDKBRRYXeac5rDKDQ5m67FkhXksac"
+        },
+        {
+            "assetid": 2930424381,
+            "name": "Basic Zukei 09",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmW7VJXQfFWk1YKAe5bLvsf7pTfdA4eTjeo9hT4aoT5NZF",
+            "image": "QmRijXUni4nfY7e5kCWqs8abrY8C3DwARpCEgyQyQRDkHo"
+        },
+        {
+            "assetid": 2930427161,
+            "name": "Basic Zukei 10",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmYNtrkoD7NX84LdqJWMS5ZZGDQfSFY6yncKVFA2joWEWJ",
+            "image": "QmcaDefnZuz9vAwcwU698A7t5uvZt1kYRb91ja9h5qvWrj"
+        },
+        {
+            "assetid": 2930428941,
+            "name": "Basic Zukei 11",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmPFZnTnJKzrP6RWfPu1ha61MvGFPhRvzZgy1ZGyCLh8kH",
+            "image": "QmQaaxBvKzHfLXcJBbXYBBou78Crmuo4FbvneSSTtBsiZx"
+        },
+        {
+            "assetid": 2930432508,
+            "name": "Basic Zukei 12",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmWDCQ3nVKMtHP58s6gm3UsXbzUZLhDPX5f9mkPv7c4ap4",
+            "image": "QmcSFEPh3kiSGi1ndNX5vanpmocGoCP6MusT6Cg1GbwJ6b"
+        },
+        {
+            "assetid": 2930435880,
+            "name": "Basic Zukei 13",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmXiodQ9hZfuZ1qVCCNXguez2QAvw6TUQDjFdZpcNkUt7K",
+            "image": "QmYBkruuHMvTT4iwMacusRaNqWu9xf5H3c3hE8TUqHmjEq"
+        },
+        {
+            "assetid": 2930438700,
+            "name": "Basic Zukei 14",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmcBoaabDKriQnTo3iiCSmMCbQq42YDJcv4eUsx2zT3qZx",
+            "image": "QmdvJpDG8HUwgY3JgXG1igCXnxYGobaQ5qpMccbQzb31eR"
+        },
+        {
+            "assetid": 2930443553,
+            "name": "Basic Zukei 15",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmatWMoytXrygcjyssboEwgz578zLd7an28LadmeytNEgu",
+            "image": "QmV7NxsbNrGHE2gQyVZUvbxzU4o87fpwj72YqkmVKiaLU3"
+        },
+        {
+            "assetid": 2930450263,
+            "name": "Basic Zukei 16",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmZdVD7oBmT7VMvDTBJK4kP7dvCHobJi8odo5kSVodB24w",
+            "image": "QmWXAQCp7GuqerkzCfZZ4STQpWvXAwYtuL1nshqULpcGU4"
+        },
+        {
+            "assetid": 2930454588,
+            "name": "Basic Zukei 17",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmPVn6TJQEqaQmgMB6QXcG37ptQZ3LdH12vMsYTHkBAHhr",
+            "image": "QmWxAKdL7bJ3V2kEskupsP9TH4VMt6fY55K2vZdDzHxyLR"
+        },
+        {
+            "assetid": 2930458386,
+            "name": "Basic Zukei 18",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "Qma4xpWwQtqyrdCSbQFy27TgPpgzJK4vMYEDTW4ADw2B3Y",
+            "image": "QmS2gQ2Npr4jcYomrTE4FRg1YrqypGkoCPap1uq7pKb7jr"
+        },
+        {
+            "assetid": 2930461667,
+            "name": "Basic Zukei 19",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmQy9jJPLuR5DSQd9rLcSCFMx8R1JRgChFY9Rra9QnjSnK",
+            "image": "QmeUeuLLWLyWDq3EZvDAwHCqseHgZJHZRZjFfY4Mr13izU"
+        },
+        {
+            "assetid": 2930463526,
+            "name": "Basic Zukei 20",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "config": "QmS4mMeerZxPGQU4L7JwrhZZhrXh8oq4Fn1UrvNqhhrQRr",
+            "image": "QmRT3r76rH5x2N85vuy4CMDa52D3w6af24UPd7mVG6twgx"
+        }
+    ]
+}
