@@ -1,0 +1,2191 @@
+{
+    "Project": "AlgoFamBoy",
+    "Creator": "AlgoFamBoy",
+    "CreatorAddress": [
+        "M64PFBXTAIML7YKLGXXE2DSDXWQAHGFSP6HKNKVM3QCOENMQDLT2EFOP3E"
+    ],
+    "Assets": [
+        {
+            "assetid": 2861236277,
+            "name": "Sh\u014djoAlgo (\u5c11\u5973\u30a2\u30eb\u30b4) #0",
+            "url": "https://algoxnft.com/inscriptions",
+            "image": "https:"
+        },
+        {
+            "assetid": 2884420165,
+            "name": "Pera AlgoBoy",
+            "url": "ipfs://bafkreigfyq7hoxfebuv2qhvrb4r55uakqth4tp3s2xzo2i6jgagwayywzy#arc3",
+            "config": "bafkreigfyq7hoxfebuv2qhvrb4r55uakqth4tp3s2xzo2i6jgagwayywzy",
+            "image": "bafybeib6ut3jtthmp5hghort5sr4yonqjnb3mjnqvzfzobvqm5ecaru3ui"
+        },
+        {
+            "assetid": 2885680978,
+            "name": "Crypto Dev Thom\u023as",
+            "url": "ipfs://bafkreidjr2mapizsrqehbfs773yiixrbcvgqvxkb4ogv6npap27anjpi5m#arc3",
+            "config": "bafkreidjr2mapizsrqehbfs773yiixrbcvgqvxkb4ogv6npap27anjpi5m",
+            "image": "bafybeicqn3dr7fhjorkhqv7f3kb7ehjt3yxvqp6r75fgmq3vigvkbgzy24"
+        },
+        {
+            "assetid": 2900848384,
+            "name": "01 AlgoFox",
+            "url": "ipfs://bafkreihrlawgqqbs2fuantag5dxegjszdoojbzaei5zk5coduyxxrabko4#arc3",
+            "config": "bafkreihrlawgqqbs2fuantag5dxegjszdoojbzaei5zk5coduyxxrabko4",
+            "image": "bafybeihdjxxqlolvowbimjerawof3tem66zzgi2n2fuinszm464ami5wdm"
+        },
+        {
+            "assetid": 2900848393,
+            "name": "02 AlgoAlien",
+            "url": "ipfs://bafkreigqrs264rhosllc46gvsdqfo74nsk4alhmh3gr3eb5yauvgyoxqsm#arc3",
+            "config": "bafkreigqrs264rhosllc46gvsdqfo74nsk4alhmh3gr3eb5yauvgyoxqsm",
+            "image": "bafybeie53mgkxf2w7adkxrbqkam35fvyzzzeezp665js2fxd54f6hfszim"
+        },
+        {
+            "assetid": 2900848396,
+            "name": "03 AlgoHacker (Green)",
+            "url": "ipfs://bafkreibioypuo52abojgrfu47jcl2o77spwg7kjwn2dop4xzwwp7sjnf3e#arc3",
+            "config": "bafkreibioypuo52abojgrfu47jcl2o77spwg7kjwn2dop4xzwwp7sjnf3e",
+            "image": "bafybeicxyag6rskn3lmvx3hu246oaazftfmgsk4u24fp37pxzr6gu4fkwy"
+        },
+        {
+            "assetid": 2900848399,
+            "name": "04 AlgoAlien (Green)",
+            "url": "ipfs://bafkreifz3es23yf7w2ljm6w27hni7dqq7gwy7ddhtddze2rkni5kvbuoim#arc3",
+            "config": "bafkreifz3es23yf7w2ljm6w27hni7dqq7gwy7ddhtddze2rkni5kvbuoim",
+            "image": "bafybeiboxriasaza4g6sgxlpsaxmr7resyauakc2bdv25275ivsstmlbky"
+        },
+        {
+            "assetid": 2900848405,
+            "name": "05 AlgoDragon",
+            "url": "ipfs://bafkreiarv4yfhsgg4u3yrgue757u3y7szqz5dxzraxf2hrfnmdifunsyka#arc3",
+            "config": "bafkreiarv4yfhsgg4u3yrgue757u3y7szqz5dxzraxf2hrfnmdifunsyka",
+            "image": "bafybeic7dsragenaag7ycwcmj43gbycbm5lwwmfwlzmtnf4q7ww22kyypa"
+        },
+        {
+            "assetid": 2900848410,
+            "name": "06 AlgoTimekeeper",
+            "url": "ipfs://bafkreifqor5bduelki4e5h24n2xcinpkbl2k74mk3adjvwathdwaf2fxju#arc3",
+            "config": "bafkreifqor5bduelki4e5h24n2xcinpkbl2k74mk3adjvwathdwaf2fxju",
+            "image": "bafybeidtxhowktdapikbtqfznkelpizouuegpltzcvs44vsbc45cpme6aa"
+        },
+        {
+            "assetid": 2900848418,
+            "name": "07 AlgoSamurai",
+            "url": "ipfs://bafkreiaehr2yz7lupwn5vnhejclm5f5fwd2whjwx3xle6tarh366ercxfu#arc3",
+            "config": "bafkreiaehr2yz7lupwn5vnhejclm5f5fwd2whjwx3xle6tarh366ercxfu",
+            "image": "bafybeidpq7krd2baguwzwee4zxzxhkq6xec2fzv5yx4zlqfxkvrg7j2vre"
+        },
+        {
+            "assetid": 2900848427,
+            "name": "08 AlgoMedic",
+            "url": "ipfs://bafkreibqvtuntximmubeb2jmz7of4smolmc4wdgny7a6ihl6ylaambtyte#arc3",
+            "config": "bafkreibqvtuntximmubeb2jmz7of4smolmc4wdgny7a6ihl6ylaambtyte",
+            "image": "bafybeiae2sfgfss5xrqnwn7t2stdeqxqe4knvx5nzjo3jmodszvvnnpxia"
+        },
+        {
+            "assetid": 2900848441,
+            "name": "09 AlgoAlien (Purple)",
+            "url": "ipfs://bafkreihth4v7fsly54kjyruqo2u3n37vracxsobsni7vk36jiufvtqfmre#arc3",
+            "config": "bafkreihth4v7fsly54kjyruqo2u3n37vracxsobsni7vk36jiufvtqfmre",
+            "image": "bafybeibx6nbtc363hbjr4aclzm45xrclbvoev2pkmxtduvw2cei2daioqy"
+        },
+        {
+            "assetid": 2900848447,
+            "name": "10 AlgoRockstar",
+            "url": "ipfs://bafkreibytanymm24dxi7tyrbsc3gufhaoe6i4tbryfxoqprclhi5emioxq#arc3",
+            "config": "bafkreibytanymm24dxi7tyrbsc3gufhaoe6i4tbryfxoqprclhi5emioxq",
+            "image": "bafybeidl5t2ofctzfxaltjx6l4sxju3mnkb3ufftolyya4e4j7arn5mrv4"
+        },
+        {
+            "assetid": 2900848452,
+            "name": "11 AlgoWizard",
+            "url": "ipfs://bafkreielw6xz3zauceu33mq4yhq5m43hqnyb4uvnzjsdp7gdmupzlegmim#arc3",
+            "config": "bafkreielw6xz3zauceu33mq4yhq5m43hqnyb4uvnzjsdp7gdmupzlegmim",
+            "image": "bafybeie6ams5tybtokib53kqpnbocrrv24vmskucbqrg7v5ppkod63hkgy"
+        },
+        {
+            "assetid": 2900848458,
+            "name": "12 AlgoCentaur",
+            "url": "ipfs://bafkreigpdbkyidznfcpztojevs77j3vw7bholbw56pq25orgsi474pesnq#arc3",
+            "config": "bafkreigpdbkyidznfcpztojevs77j3vw7bholbw56pq25orgsi474pesnq",
+            "image": "bafybeiduqhrljijz3v6wljwmoaubd56oc4rxg2hwdaubeuhvu7xa7p3mnq"
+        },
+        {
+            "assetid": 2900848469,
+            "name": "13 AlgoBotanist",
+            "url": "ipfs://bafkreidjgbkadujrot4t6g45xkctou3cwdqih33hyzap2r66fjxztda77m#arc3",
+            "config": "bafkreidjgbkadujrot4t6g45xkctou3cwdqih33hyzap2r66fjxztda77m",
+            "image": "bafybeicfxmzgojmnxkmqfluwahtaynzbaoggo5w65cgolmvptiln5tkhou"
+        },
+        {
+            "assetid": 2900848484,
+            "name": "14 AlgoMammoth",
+            "url": "ipfs://bafkreibbuk52xhjeso44eqov3bibqkguww4yrgbd66nbst4z3iqexqkfwq#arc3",
+            "config": "bafkreibbuk52xhjeso44eqov3bibqkguww4yrgbd66nbst4z3iqexqkfwq",
+            "image": "bafybeifu352ojf34zezpkpvceqednrawrra4qdszyxh6gaaxi4toxn6b4q"
+        },
+        {
+            "assetid": 2900848502,
+            "name": "15 AlgoAstronaut (Purple)",
+            "url": "ipfs://bafkreigxkxet6eetjk3wblzw7f2lrgcnw5dnj6cb72orhwcoepmxxayfyi#arc3",
+            "config": "bafkreigxkxet6eetjk3wblzw7f2lrgcnw5dnj6cb72orhwcoepmxxayfyi",
+            "image": "bafybeiemnror4t3y2otrh3q3nugvwomnojmc37zzeakkcgae6uahi77oq4"
+        },
+        {
+            "assetid": 2900848512,
+            "name": "16 AlgoAlien (Space Explorer)",
+            "url": "ipfs://bafkreihkejn4hmdc6tazfoy4lbzmuqncerpljqeynep4w3wm5wasq7rwmy#arc3",
+            "config": "bafkreihkejn4hmdc6tazfoy4lbzmuqncerpljqeynep4w3wm5wasq7rwmy",
+            "image": "bafybeigu6ucrp4slcdt6awyvbjbiuiqp4e4bw6mjqaigvvpomypwgt2aqq"
+        },
+        {
+            "assetid": 2900848516,
+            "name": "17 AlgoDinosaur",
+            "url": "ipfs://bafkreieqijn2gwxcfv2v7peryvsbkh5eeo4yvdrghjmjbcl7bgyungqu2e#arc3",
+            "config": "bafkreieqijn2gwxcfv2v7peryvsbkh5eeo4yvdrghjmjbcl7bgyungqu2e",
+            "image": "bafybeibbcikkxexzb66n44wtu6qix2djzeuex476ib25jzg2gkbgsezmei"
+        },
+        {
+            "assetid": 2900848524,
+            "name": "18 AlgoStargazer",
+            "url": "ipfs://bafkreif5oafogrfdpffiek5wizsmvqmwtnwo5gx3gqal2tn3ytpp3lmkca#arc3",
+            "config": "bafkreif5oafogrfdpffiek5wizsmvqmwtnwo5gx3gqal2tn3ytpp3lmkca",
+            "image": "bafybeig7mtb674wt6uk3s2u46luftmmxi7l2sgij7aih64rwlnolnt4s64"
+        },
+        {
+            "assetid": 2900848530,
+            "name": "19 AlgoDino",
+            "url": "ipfs://bafkreibwzhoikyh6yabaw5gcubxp5nn3vvawll2lp3qkv5lizqbm4goany#arc3",
+            "config": "bafkreibwzhoikyh6yabaw5gcubxp5nn3vvawll2lp3qkv5lizqbm4goany",
+            "image": "bafybeig2mnuuytn5fi5foacglcormodlqqht2dtvj4osh64mn42o2o4kfq"
+        },
+        {
+            "assetid": 2900848534,
+            "name": "20 AlgoWizard (Alien)",
+            "url": "ipfs://bafkreid55vffojbbwnofwtagelzpstmezy5kgaq2x3xzwok67zo75sddmm#arc3",
+            "config": "bafkreid55vffojbbwnofwtagelzpstmezy5kgaq2x3xzwok67zo75sddmm",
+            "image": "bafybeif4tns6oivdi3izhpn7ekmmfk43xn7ceanb67sw2grfo2acyuabka"
+        },
+        {
+            "assetid": 2900848542,
+            "name": "21 AlgoKnight",
+            "url": "ipfs://bafkreibdf2nk6hz52ssbwuv5wshlm6qz4hvedwx4sxtmn44d3jg3bru664#arc3",
+            "config": "bafkreibdf2nk6hz52ssbwuv5wshlm6qz4hvedwx4sxtmn44d3jg3bru664",
+            "image": "bafybeiatuxwguuwwzqrt767fafvnqz73emgeb5mtlojmtp2rxzuk6ve7ke"
+        },
+        {
+            "assetid": 2900848544,
+            "name": "22 AlgoDragon (Flame)",
+            "url": "ipfs://bafkreicmio5iqoypv53u4nvfmabhuzzb3lobdxfimoti7sjwctiu7rpohy#arc3",
+            "config": "bafkreicmio5iqoypv53u4nvfmabhuzzb3lobdxfimoti7sjwctiu7rpohy",
+            "image": "bafybeib3nw4bkcaz27djv2dtcy5hgbt564454jgbd7xtffjgusrds64bly"
+        },
+        {
+            "assetid": 2900848548,
+            "name": "23 AlgoKnight (Sword)",
+            "url": "ipfs://bafkreiguqpamc7xk5oi23em5eallrxaqkctibem6hp3zeohkg7p7ob6egm#arc3",
+            "config": "bafkreiguqpamc7xk5oi23em5eallrxaqkctibem6hp3zeohkg7p7ob6egm",
+            "image": "bafybeiabc2kynxgligqyi7d7wpeb7glp4sqyoqulqgwzobxkuywue6psma"
+        },
+        {
+            "assetid": 2900848554,
+            "name": "24 AlgoAlien (Tentacle)",
+            "url": "ipfs://bafkreifqypd2hikv5sd6yvtamk5z76p7f6jz3ssd3pqgat2zsb4bpiepbe#arc3",
+            "config": "bafkreifqypd2hikv5sd6yvtamk5z76p7f6jz3ssd3pqgat2zsb4bpiepbe",
+            "image": "bafybeiashsknhynlmhdaxqau72ymxx5uid3ltxiclmzoyuxpwzp3umhc6i"
+        },
+        {
+            "assetid": 2900848560,
+            "name": "25 AlgoBuilder",
+            "url": "ipfs://bafkreibpn4w22jzqmbx7a62ovm5xia26puubhjadqpypcqf7f4o6ff7m6q#arc3",
+            "config": "bafkreibpn4w22jzqmbx7a62ovm5xia26puubhjadqpypcqf7f4o6ff7m6q",
+            "image": "bafybeic7bkfowgg7t4g2qpklvahs57fapskuxgjfk3lz53hsvmttugjfd4"
+        },
+        {
+            "assetid": 2900848566,
+            "name": "26 AlgoFestival",
+            "url": "ipfs://bafkreicu2ephesgdypdwzyc7ttuuimmbbfrriftlkldn3loaw55gwyju44#arc3",
+            "config": "bafkreicu2ephesgdypdwzyc7ttuuimmbbfrriftlkldn3loaw55gwyju44",
+            "image": "bafybeicai55eea5pfrwab5joi2opirajweba32imd7ikfgutr6qkd6qkoe"
+        },
+        {
+            "assetid": 2900848568,
+            "name": "27 AlgoSorcerer",
+            "url": "ipfs://bafkreiagxohlo64miiew57vf7isw54nel4gqzlyoeihtzrtd7ash7ol6m4#arc3",
+            "config": "bafkreiagxohlo64miiew57vf7isw54nel4gqzlyoeihtzrtd7ash7ol6m4",
+            "image": "bafybeiglgm6e67pdsjyvmp55h34rrzhkwqq3kkovjei7j3ia32ltwlew3u"
+        },
+        {
+            "assetid": 2900848570,
+            "name": "28 AlgoWorldbuilder",
+            "url": "ipfs://bafkreifdfp646gvmk5c4x5uiiocb2r4n2fiqvdz7243ap6wt55viaf2jdm#arc3",
+            "config": "bafkreifdfp646gvmk5c4x5uiiocb2r4n2fiqvdz7243ap6wt55viaf2jdm",
+            "image": "bafybeibz4gywzijm4gj63pkfm6mh5f7q22k62r7tczg7jk6fry3bkgmfju"
+        },
+        {
+            "assetid": 2900848575,
+            "name": "29 AlgoAlien (Moon Edition)",
+            "url": "ipfs://bafkreihv5camzjhflng3p6aloxzekpc7dy4smhyllc27ll32few4tybncu#arc3",
+            "config": "bafkreihv5camzjhflng3p6aloxzekpc7dy4smhyllc27ll32few4tybncu",
+            "image": "bafybeigfr6hjgbbgejb7g3rwpk3fxz6r57ee3nwgwiww32ev56fe2v4jl4"
+        },
+        {
+            "assetid": 2900848577,
+            "name": "30 AlgoAquanaut",
+            "url": "ipfs://bafkreiasfs5btgafr7c22hgyb3x73sofq7yahr2h2bz5bbtmga5bitv6ly#arc3",
+            "config": "bafkreiasfs5btgafr7c22hgyb3x73sofq7yahr2h2bz5bbtmga5bitv6ly",
+            "image": "bafybeihdo62j2ieeu52xfisrej3jjdk6u7uxrgwqvojauz25wdr66wf6hu"
+        },
+        {
+            "assetid": 2900848583,
+            "name": "31 AlgoHuskyWizard",
+            "url": "ipfs://bafkreiccagvn3pzcjfjanaycqwathrtf47cnwwh7rkns2p67n4stjjemya#arc3",
+            "config": "bafkreiccagvn3pzcjfjanaycqwathrtf47cnwwh7rkns2p67n4stjjemya",
+            "image": "bafybeihkb6nvihlxvzra5s7btqflbzl37s6zj4ltlf3ojjzizblgehnbdi"
+        },
+        {
+            "assetid": 2900848591,
+            "name": "32 AlgoFishExplorer",
+            "url": "ipfs://bafkreidhdooug2mwflbgblhz7qyuaqd5os4373r5lz6pf3c6vkorpuwk2y#arc3",
+            "config": "bafkreidhdooug2mwflbgblhz7qyuaqd5os4373r5lz6pf3c6vkorpuwk2y",
+            "image": "bafybeihaxlsrnegz7nshvqojdwzf5cxh5azjbwkunx75dxalb2nirti66y"
+        },
+        {
+            "assetid": 2900848593,
+            "name": "33 AlgoClimber",
+            "url": "ipfs://bafkreiepjcrtzky4achyamff2d4h4a72zjaiukxvwqsasj3ba6wxihcoei#arc3",
+            "config": "bafkreiepjcrtzky4achyamff2d4h4a72zjaiukxvwqsasj3ba6wxihcoei",
+            "image": "bafybeiejtpxujek5qhwcthbumegb23b4jilajhlbjqfhzjrlk2nmvsu4ji"
+        },
+        {
+            "assetid": 2900848601,
+            "name": "34 AlgoAlien (Cosmic Edition)",
+            "url": "ipfs://bafkreihelkz3kg3qhdrealqq6pkbhjxpl7gqpkzjygefnah6s5wwvobvri#arc3",
+            "config": "bafkreihelkz3kg3qhdrealqq6pkbhjxpl7gqpkzjygefnah6s5wwvobvri",
+            "image": "bafybeianzbbd2pypb4o6z7pctwtv6vwhp7dfskqmkpujgbozchmb74hg2u"
+        },
+        {
+            "assetid": 2900848613,
+            "name": "35 AlgoKnight (Neon Edition)",
+            "url": "ipfs://bafkreidofola7p22zi53a6ueiwsbzeke6yxu7fpvwaroc53ynts7jbgx7u#arc3",
+            "config": "bafkreidofola7p22zi53a6ueiwsbzeke6yxu7fpvwaroc53ynts7jbgx7u",
+            "image": "bafybeihcceaa4yrhfiddjs6ecs6benjm4wb4psvnufa42hhg33u2y4reha"
+        },
+        {
+            "assetid": 2900848625,
+            "name": "36 AlgoPizza",
+            "url": "ipfs://bafkreig62ihievqrjh6xvjl5jf4o3urbtrgfqxxl6pgzistu7khfiuqgka#arc3",
+            "config": "bafkreig62ihievqrjh6xvjl5jf4o3urbtrgfqxxl6pgzistu7khfiuqgka",
+            "image": "bafybeiftc73rel53myauzpohvj5pugyffwnyg4uenimhnaznsk2osrbpny"
+        },
+        {
+            "assetid": 2900848629,
+            "name": "37 AlgoDonut",
+            "url": "ipfs://bafkreiauwfvdtrev3ukqytjmni2x5z6vhbjupecm73ypl3fcjjwg7prroy#arc3",
+            "config": "bafkreiauwfvdtrev3ukqytjmni2x5z6vhbjupecm73ypl3fcjjwg7prroy",
+            "image": "bafybeibypkio4g7e4t3apznq7tkemg3p3cpu573gwmshhrfufujch4fnue"
+        },
+        {
+            "assetid": 2900848631,
+            "name": "38 AlgoPharaoh",
+            "url": "ipfs://bafkreibmx74qq3a6nz7r54d2cwy7mltxxjucln6qu3ny7t3ajbbalvia4i#arc3",
+            "config": "bafkreibmx74qq3a6nz7r54d2cwy7mltxxjucln6qu3ny7t3ajbbalvia4i",
+            "image": "bafybeicpsm4mp3cnt26bguunci2xcdwqk6twj22ziba7orbtcvba32xmwm"
+        },
+        {
+            "assetid": 2900848634,
+            "name": "39 AlgoHacker",
+            "url": "ipfs://bafkreibgys44ygjkhshxdyifjuxhffqnzocnjukwqwc54qkzdczahwrvsi#arc3",
+            "config": "bafkreibgys44ygjkhshxdyifjuxhffqnzocnjukwqwc54qkzdczahwrvsi",
+            "image": "bafybeif774y4vpltsubn5lwb34mpjs5yqfzetwbbrhdr73vt6nsrwy3lme"
+        },
+        {
+            "assetid": 2900848636,
+            "name": "40 AlgoAstronaut",
+            "url": "ipfs://bafkreid7hico6a3mnioly32gijw4pab3r6h2lb3imb2obag3ewev4ee5da#arc3",
+            "config": "bafkreid7hico6a3mnioly32gijw4pab3r6h2lb3imb2obag3ewev4ee5da",
+            "image": "bafybeifgvecyago66lrr4cxnsgawhuxxiwh3yath6ftg7gknggmoueciea"
+        },
+        {
+            "assetid": 2900848642,
+            "name": "41 AlgoChronomancer",
+            "url": "ipfs://bafkreifnxfx5krza7tzuhadrf4jr3yh5hdixdlindqsi7ryyab2tstbloq#arc3",
+            "config": "bafkreifnxfx5krza7tzuhadrf4jr3yh5hdixdlindqsi7ryyab2tstbloq",
+            "image": "bafybeifvpv2xyxfdlkuc7hzstrxvqczqpi4gzh7fptcnv3bmzhoo7dv4ce"
+        },
+        {
+            "assetid": 2900848644,
+            "name": "42 AlgoFirefighter",
+            "url": "ipfs://bafkreiezwo4dleqytuwfrzxlt53cpsytccdyyghzq3iqca2b2wii3o56oq#arc3",
+            "config": "bafkreiezwo4dleqytuwfrzxlt53cpsytccdyyghzq3iqca2b2wii3o56oq",
+            "image": "bafybeiffvuhv63r7se7qcbcl3cno426o2tezx5nwmacdndf7r57j6yg4yy"
+        },
+        {
+            "assetid": 2900848663,
+            "name": "43 AlgoGhost",
+            "url": "ipfs://bafkreiemz4ho35pfobg6rnmlh5mjhrraobtuywsofwtgtyajys5uofiixm#arc3",
+            "config": "bafkreiemz4ho35pfobg6rnmlh5mjhrraobtuywsofwtgtyajys5uofiixm",
+            "image": "bafybeifp64ebig77x4a55dgvv4hgsrjdh5kzffntzrorw5l2x4p7cphwh4"
+        },
+        {
+            "assetid": 2900848673,
+            "name": "44 AlgoSageCentaur",
+            "url": "ipfs://bafkreic3ljdbceaqks6nzunrvasmjmckc7myscjvq6sjafghfelwtt3e44#arc3",
+            "config": "bafkreic3ljdbceaqks6nzunrvasmjmckc7myscjvq6sjafghfelwtt3e44",
+            "image": "bafybeicnubhnfz2sqtnb2ltasqrowsbqz6flz6qmzjrfqgrf5ajasdbz5m"
+        },
+        {
+            "assetid": 2900848679,
+            "name": "45 AlgoGoblinWizard",
+            "url": "ipfs://bafkreigrn7dcx7h5e3fsngxdi4loylr7hhlr6f4x2dq5jfqwwsjgcodrjy#arc3",
+            "config": "bafkreigrn7dcx7h5e3fsngxdi4loylr7hhlr6f4x2dq5jfqwwsjgcodrjy",
+            "image": "bafybeiafnsmyvqpyz246pl5tfzl5fgkdw5zycyuejyrask3alw7isex6uq"
+        },
+        {
+            "assetid": 2900848689,
+            "name": "46 AlgoPandaWizard",
+            "url": "ipfs://bafkreicvz6ixzrypzm2obux4vigyk5swa4fu7zvrgdfug5xeu5hqpzmvuu#arc3",
+            "config": "bafkreicvz6ixzrypzm2obux4vigyk5swa4fu7zvrgdfug5xeu5hqpzmvuu",
+            "image": "bafybeifwnsmm22anlr4pm2bnj4d2vzuu4n4o4tgvqhy5d5rbhqgi5iqcd4"
+        },
+        {
+            "assetid": 2900848696,
+            "name": "47 AlgoPinkMonster",
+            "url": "ipfs://bafkreialcgzjaayv7ac7dpxkywyxcessfix4dshvn5mpadr4r36xt45cfm#arc3",
+            "config": "bafkreialcgzjaayv7ac7dpxkywyxcessfix4dshvn5mpadr4r36xt45cfm",
+            "image": "bafybeihxtxh7fswfg6ijvxyx27u35mma7yucwponp2lgt54usqlrf7hxu4"
+        },
+        {
+            "assetid": 2900848704,
+            "name": "48 AlgoRedPanda",
+            "url": "ipfs://bafkreiadwmekrz4q4edu3l3m45zaik43yy3b74kfehlwlxy4bna2lkaxzy#arc3",
+            "config": "bafkreiadwmekrz4q4edu3l3m45zaik43yy3b74kfehlwlxy4bna2lkaxzy",
+            "image": "bafybeidg4e7eiyrmidvkrmoyb3i2s4xleqfxcmk22wfiorktarpgzwsssm"
+        },
+        {
+            "assetid": 2900848717,
+            "name": "49 AlgoShiba",
+            "url": "ipfs://bafkreibzxcssnd32t54cqrzm64ewxpy2xwwbrlgsbf6uyu7bou7uufziri#arc3",
+            "config": "bafkreibzxcssnd32t54cqrzm64ewxpy2xwwbrlgsbf6uyu7bou7uufziri",
+            "image": "bafybeihgy6dheijryoq7ininm5sjhyqtwrn7vo7oq4marnfcqonbdrqqje"
+        },
+        {
+            "assetid": 2900848721,
+            "name": "50 AlgoExplorer",
+            "url": "ipfs://bafkreig2736tjpbpd4lxe2hlyjwedl4kllfcn3ixl7xmfdnfw22cxswbsu#arc3",
+            "config": "bafkreig2736tjpbpd4lxe2hlyjwedl4kllfcn3ixl7xmfdnfw22cxswbsu",
+            "image": "bafybeigqnfmgsj4ghvjyubqre3c4b6wx3p27tpmaw4kxbu47lz4ll3zj2i"
+        },
+        {
+            "assetid": 2903434404,
+            "name": "AlgoTitanPigeon",
+            "url": "ipfs://bafkreigx2gyns2gfga73p7njphlkb72r53t53cnl67u7wgv7phqiacrexu#arc3",
+            "config": "bafkreigx2gyns2gfga73p7njphlkb72r53t53cnl67u7wgv7phqiacrexu",
+            "image": "bafybeiegnxrhiykug3vnowmuyzcrmwfh7rchwqulfdyq2frmchn7b2n47q"
+        },
+        {
+            "assetid": 2903443738,
+            "name": "AlgoSorcererPigeon",
+            "url": "ipfs://bafkreifnls6hbzwhhquhcxe3j7gibs2aqaecerdggzrgkbzykph4bobrhy#arc3",
+            "config": "bafkreifnls6hbzwhhquhcxe3j7gibs2aqaecerdggzrgkbzykph4bobrhy",
+            "image": "bafybeibbguqwojue5x7vt2nw7amacqvdxe2td4cswmt7aos3bm5gbasbyq"
+        },
+        {
+            "assetid": 2904057921,
+            "name": "AlgoFamNumberNo1",
+            "url": "ipfs://bafkreid6go7wzsev72cze62chayqm4zh4h7npr7vlu6vyw6iko4hcumrze#arc3",
+            "config": "bafkreid6go7wzsev72cze62chayqm4zh4h7npr7vlu6vyw6iko4hcumrze",
+            "image": "bafybeieh5yvww36xxhppcvjmnv3onj5getjmt7yj6prwvdxr6tc732vmyi"
+        },
+        {
+            "assetid": 2905810102,
+            "name": "AlgoWizard Dark",
+            "url": "ipfs://bafkreicvbua63x4urdpnszfd7ry4re7fykga3drzsgzzlxqawmztrhgkuu#arc3",
+            "config": "bafkreicvbua63x4urdpnszfd7ry4re7fykga3drzsgzzlxqawmztrhgkuu",
+            "image": "bafybeigfl6yhyyjo2fvzjuv3lpge5aahgarjtwznj2sp7iwu2u6v3quzwq"
+        },
+        {
+            "assetid": 2905810104,
+            "name": "AlgoWizard Green",
+            "url": "ipfs://bafkreib5aweazozzo7aohud56sdkhpzgy4z2pva2a7y2lkvvxh6qhsrpau#arc3",
+            "config": "bafkreib5aweazozzo7aohud56sdkhpzgy4z2pva2a7y2lkvvxh6qhsrpau",
+            "image": "bafybeifaems6rqlx4aguf7b7hjrqvuc3vpyydtrzetmnmreyag6jrdwugu"
+        },
+        {
+            "assetid": 2905810106,
+            "name": "AlgoBeMonko",
+            "url": "ipfs://bafkreibrpbkpzgskdw47g3cwxoxdnekn7243ci3qrki7kqd5twdrpjmily#arc3",
+            "config": "bafkreibrpbkpzgskdw47g3cwxoxdnekn7243ci3qrki7kqd5twdrpjmily",
+            "image": "bafybeihxhet4cud4hx2dnejmk2ngnjhr5q7tytyh4aoclg5o7jwnbipwjy"
+        },
+        {
+            "assetid": 2905810108,
+            "name": "AlgoIPTKing",
+            "url": "ipfs://bafkreigvad5rzhojidzy3sdh7ehx6etk57tjztmzw7fwghq47pvovnbotm#arc3",
+            "config": "bafkreigvad5rzhojidzy3sdh7ehx6etk57tjztmzw7fwghq47pvovnbotm",
+            "image": "bafybeigok27ubp3pysxgcxrgaqviz2sax47gyvbuglo6m52sv77fb5iudm"
+        },
+        {
+            "assetid": 2905810110,
+            "name": "AlgoAstroIPT",
+            "url": "ipfs://bafkreidkmvw2e3tky7b7sdvbac3rhcldced5q5rsqof3bu7bfdnt64ltr4#arc3",
+            "config": "bafkreidkmvw2e3tky7b7sdvbac3rhcldced5q5rsqof3bu7bfdnt64ltr4",
+            "image": "bafybeiblw3xs2nudv6ehbux7wqhwfq7w4qz7co3g5hinjpwteb2pjub7uy"
+        },
+        {
+            "assetid": 2905810112,
+            "name": "AlgoIPTSentinel",
+            "url": "ipfs://bafkreib6n5e2j2skhy545tvbdzvqwfzwdvlzchauxxvsrdvaxnrmlvffoe#arc3",
+            "config": "bafkreib6n5e2j2skhy545tvbdzvqwfzwdvlzchauxxvsrdvaxnrmlvffoe",
+            "image": "bafybeiexxmplojqdeh6m4tkqavxo6uec4ntbnpa4qh4uejtoowk2qt243y"
+        },
+        {
+            "assetid": 2911328581,
+            "name": "AlgoFishSticks",
+            "url": "ipfs://bafkreifauytad32lb6kue6dvpaxcv46hhksddlqq6jdgeq652vs3esrctu#arc3",
+            "config": "bafkreifauytad32lb6kue6dvpaxcv46hhksddlqq6jdgeq652vs3esrctu",
+            "image": "bafybeib6qq63jdgq2iojkcyiulzqigt3rdsnodszrqb4wui3nj5dbdhfii"
+        },
+        {
+            "assetid": 2911328596,
+            "name": "AlgoVikingFish",
+            "url": "ipfs://bafkreibnvlyk3kjhl2cbc65zgdo5r4mt3oeye6pul3wxodobdy4ocbzg7a#arc3",
+            "config": "bafkreibnvlyk3kjhl2cbc65zgdo5r4mt3oeye6pul3wxodobdy4ocbzg7a",
+            "image": "bafybeiakw76rs2kew4xzofd2nox2luctyd2p56wf74m4j7gb3p5a3cmzum"
+        },
+        {
+            "assetid": 2911328601,
+            "name": "AlgoSpartanFish",
+            "url": "ipfs://bafkreiaedcaefipddqgrbsabelojciob4ckw3wcfzhpvt7ebilil62e6gy#arc3",
+            "config": "bafkreiaedcaefipddqgrbsabelojciob4ckw3wcfzhpvt7ebilil62e6gy",
+            "image": "bafybeifm4oaodvyzzvgfhi3whsbtnorznqehdfvxbl3o5bnulkzkx2vfku"
+        },
+        {
+            "assetid": 2911328603,
+            "name": "AlgoPirateFish",
+            "url": "ipfs://bafkreigpxbk6b4qg5ayww6cmsbm5bdcvxylnv6e4uujugcm7n32cidpu4m#arc3",
+            "config": "bafkreigpxbk6b4qg5ayww6cmsbm5bdcvxylnv6e4uujugcm7n32cidpu4m",
+            "image": "bafybeih47xwbdybeekwpnybljjtar5v6urai4wby4qjfthyjgtryzn5c6y"
+        },
+        {
+            "assetid": 2911328606,
+            "name": "AlgoEmbryoOG",
+            "url": "ipfs://bafkreia6hh62xxmq3jaxnzbnunfebndd4g2manqvngjw5wemsh3y53lfsa#arc3",
+            "config": "bafkreia6hh62xxmq3jaxnzbnunfebndd4g2manqvngjw5wemsh3y53lfsa",
+            "image": "bafybeiahpxg6k7eevlebhzlxajojj2l7g7rdg64no3abnih3xhuruj464e"
+        },
+        {
+            "assetid": 2911328608,
+            "name": "AlgoEmbryoSamurai",
+            "url": "ipfs://bafkreiczdj6cl7hvnbtlhhlkk2e56mqddvq7svtrptaui62s4w7utcdq5y#arc3",
+            "config": "bafkreiczdj6cl7hvnbtlhhlkk2e56mqddvq7svtrptaui62s4w7utcdq5y",
+            "image": "bafybeid4cdvlb2pc6n66buop52ejwtan3ssqfkxregq42idutsp7s3dpg4"
+        },
+        {
+            "assetid": 2911328611,
+            "name": "AlgoMonkoMaxi",
+            "url": "ipfs://bafkreiekdtex2pdzwvqnm6t3x2oxbogdprfffyw3nlol6jjvkchenfjwvi#arc3",
+            "config": "bafkreiekdtex2pdzwvqnm6t3x2oxbogdprfffyw3nlol6jjvkchenfjwvi",
+            "image": "bafybeihy56ukms57kbirmno3ssj33pi67zev5z6jpfcdlewfqiysk34cci"
+        },
+        {
+            "assetid": 2911358075,
+            "name": "51 AlgoZeus",
+            "url": "ipfs://bafkreicc2yoz3venlelhaywhcjv6qvrkr2wur3livzq53nvtfien2apx3m#arc3",
+            "config": "bafkreicc2yoz3venlelhaywhcjv6qvrkr2wur3livzq53nvtfien2apx3m",
+            "image": "bafybeidchkzlse2nemrut7zcuct5g2mssrutfktas5nxfziygacbelln7i"
+        },
+        {
+            "assetid": 2911358077,
+            "name": "52 AlgoPoseidon",
+            "url": "ipfs://bafkreigcptjivbvp5s3iv7d42gtorikoa3qdloxcgtf4huvyz23mzg6ppi#arc3",
+            "config": "bafkreigcptjivbvp5s3iv7d42gtorikoa3qdloxcgtf4huvyz23mzg6ppi",
+            "image": "bafybeibdqa2hxsuu5k3q4zvbzzuzptzgrkhwkhbmpmucpl2thpc5zubxfu"
+        },
+        {
+            "assetid": 2911358080,
+            "name": "53 AlgoAres",
+            "url": "ipfs://bafkreibq2swoezf6cs33swg6ip6kzjtygowl37q25trzmo47qzujggu5im#arc3",
+            "config": "bafkreibq2swoezf6cs33swg6ip6kzjtygowl37q25trzmo47qzujggu5im",
+            "image": "bafybeiab7w4gnay2tpvhibtik6gjy7qgmqxr4nee725rpb4ggj6p5whhmm"
+        },
+        {
+            "assetid": 2911358082,
+            "name": "54 AlgoHermes",
+            "url": "ipfs://bafkreid5me4s5tlzpqfjyhhrvl6uwhfn63q5c5y3ubq7vfyqyqqjcjjerm#arc3",
+            "config": "bafkreid5me4s5tlzpqfjyhhrvl6uwhfn63q5c5y3ubq7vfyqyqqjcjjerm",
+            "image": "bafybeiaerihtyixbzklmxdn757ot27z2obgp7cu4iuwpktlhkrvxc5w6fi"
+        },
+        {
+            "assetid": 2911358085,
+            "name": "55 AlgoAthena",
+            "url": "ipfs://bafkreialc2l6u5wbpg3cxgmc7gmmmflcfy46rh7imf56eeaeec3qzbhlbu#arc3",
+            "config": "bafkreialc2l6u5wbpg3cxgmc7gmmmflcfy46rh7imf56eeaeec3qzbhlbu",
+            "image": "bafybeifvojycu66eja4ux7xhmqhgfiy735qxygfqq2ardvspcqssxbbqby"
+        },
+        {
+            "assetid": 2911358088,
+            "name": "56 AlgoHades",
+            "url": "ipfs://bafkreibz2yxavn6w7bnzljovmpwu5ljihoor2pclpeclp4vmocq7m757ia#arc3",
+            "config": "bafkreibz2yxavn6w7bnzljovmpwu5ljihoor2pclpeclp4vmocq7m757ia",
+            "image": "bafybeial5ld2rchtuid2xli6se7dz36nkw4243dns2k4o4vvw2tchv6w3u"
+        },
+        {
+            "assetid": 2911358091,
+            "name": "57 AlgoDionysus",
+            "url": "ipfs://bafkreiesj3tj27hrkr6wggeghvh2o4frshovetidhzshjghkrtx5xapugi#arc3",
+            "config": "bafkreiesj3tj27hrkr6wggeghvh2o4frshovetidhzshjghkrtx5xapugi",
+            "image": "bafybeidj2fikr7sspede6sxkiaw3ljgdbogk4pt3ezmuwjkjwkmwxxhnt4"
+        },
+        {
+            "assetid": 2911358093,
+            "name": "58 AlgoApollo",
+            "url": "ipfs://bafkreigl4ysxruquv77mw3kmf2gzasjfvlguenjnq4avcihnuojusamg2m#arc3",
+            "config": "bafkreigl4ysxruquv77mw3kmf2gzasjfvlguenjnq4avcihnuojusamg2m",
+            "image": "bafybeiej4bw3dh42fyxy6jwo75xxpyf7y6mpjxhymagunv4k4wcz3ole6q"
+        },
+        {
+            "assetid": 2911358095,
+            "name": "59 AlgoArtemis",
+            "url": "ipfs://bafkreiday5zodi3asv7yncbs73cbqa7k4zwg42cf5kfjeryrjegthulvue#arc3",
+            "config": "bafkreiday5zodi3asv7yncbs73cbqa7k4zwg42cf5kfjeryrjegthulvue",
+            "image": "bafybeie6z4mldyhvzqgn3tlr7i3ts4lnek73d6glhlrfxcdevglsxd4tqa"
+        },
+        {
+            "assetid": 2916956580,
+            "name": "AlgoMonkoBee",
+            "url": "ipfs://bafkreiczijbhsbd3outprmfws3rpcnkmkifofspsuctoaopxvil4ah2m5a#arc3",
+            "config": "bafkreiczijbhsbd3outprmfws3rpcnkmkifofspsuctoaopxvil4ah2m5a",
+            "image": "bafybeic5w32djtf5xzkylva4cndpoav4ev4xv5frs6brp6i764ge5rad64"
+        },
+        {
+            "assetid": 2917243306,
+            "name": "AlgoFamBoyGH",
+            "url": "ipfs://bafkreicqmjlcpxsuqjfcugx5vukuql25scbzrvwgegpa7u53oxw5dcxgwe#arc3",
+            "config": "bafkreicqmjlcpxsuqjfcugx5vukuql25scbzrvwgegpa7u53oxw5dcxgwe",
+            "image": "bafybeiczwkzbiohsq5m4tmss4ur4yvn75yvqkjw4aleoxzts226adzpmgq"
+        },
+        {
+            "assetid": 2918022433,
+            "name": "AlgoFamBoyOG",
+            "url": "ipfs://bafkreiff6rrsbceglagvdrhstiohxrqaw4suaistq6nsyl4cldusb7hivu#arc3",
+            "config": "bafkreiff6rrsbceglagvdrhstiohxrqaw4suaistq6nsyl4cldusb7hivu",
+            "image": "bafybeiaybohdhepuayyyv6unjmiwcpjrkqcdcxnn7arjwsmxzusyeapjka"
+        },
+        {
+            "assetid": 2918022435,
+            "name": "AlgoAries",
+            "url": "ipfs://bafkreigbirwl2pulk6atik7klq26e4ccy2orblfdczsx5x5jp7ygz275p4#arc3",
+            "config": "bafkreigbirwl2pulk6atik7klq26e4ccy2orblfdczsx5x5jp7ygz275p4",
+            "image": "bafybeiej3mvcnbciz4lovfr645jiem54xyqosa34a7jpxwhkanbbp54t3q"
+        },
+        {
+            "assetid": 2918022437,
+            "name": "AlgoTaurus",
+            "url": "ipfs://bafkreiajxv5tlkefimtgxnhu3sedwo5ley2c3h4oy6fatlcgdgk54qpqlu#arc3",
+            "config": "bafkreiajxv5tlkefimtgxnhu3sedwo5ley2c3h4oy6fatlcgdgk54qpqlu",
+            "image": "bafybeiderzojzj4gg7pb5vergqx4nhthlvjkyxaovcjup5y7yrmi7d6yre"
+        },
+        {
+            "assetid": 2918022439,
+            "name": "AlgoGemini",
+            "url": "ipfs://bafkreibtc5rhjribghu54nnbuamwdjqaz5wewwcnnrwauie54ddqtryfqe#arc3",
+            "config": "bafkreibtc5rhjribghu54nnbuamwdjqaz5wewwcnnrwauie54ddqtryfqe",
+            "image": "bafybeigtscu4ka2hj27do5pawhazbxcl4vozrfdd6slgnev4un7ytyoqsy"
+        },
+        {
+            "assetid": 2918022441,
+            "name": "AlgoCancer",
+            "url": "ipfs://bafkreih34dueywssfe2iyrfiax2kxeutun44cueunwvke4tulenktubisy#arc3",
+            "config": "bafkreih34dueywssfe2iyrfiax2kxeutun44cueunwvke4tulenktubisy",
+            "image": "bafybeie7s5xiydtctizhm5cwmq4lf2at6jiomvvztsqfsdmh22uxxb7b3e"
+        },
+        {
+            "assetid": 2918022443,
+            "name": "AlgoLeo",
+            "url": "ipfs://bafkreia2xrtxpqribuy5al76xag4qn3uq6cedzs6uiotkoo6lctx4ffg7e#arc3",
+            "config": "bafkreia2xrtxpqribuy5al76xag4qn3uq6cedzs6uiotkoo6lctx4ffg7e",
+            "image": "bafybeigjdnfau25i5kixflfhhpppxmlqdm4kpzouxixyh5nqurfxce6jbi"
+        },
+        {
+            "assetid": 2918022445,
+            "name": "AlgoVirgo",
+            "url": "ipfs://bafkreihpzvhvi6lmi7htjusofmclzps7q67f74pt2fbgtgtsflnkopdkea#arc3",
+            "config": "bafkreihpzvhvi6lmi7htjusofmclzps7q67f74pt2fbgtgtsflnkopdkea",
+            "image": "bafybeicjaxfelqpfhhewgsfg4rfzt6mvvuxq4dzfye5vixncyo2ssqiqgy"
+        },
+        {
+            "assetid": 2918022447,
+            "name": "AlgoLibra",
+            "url": "ipfs://bafkreidcgj6lzgiso2ul2ls3s5vz3777cqy6oqoh7zhqnqgni7rrzpurnu#arc3",
+            "config": "bafkreidcgj6lzgiso2ul2ls3s5vz3777cqy6oqoh7zhqnqgni7rrzpurnu",
+            "image": "bafybeicql2scn324pdpg2vyjmf3gvozjecceuayoc2b3axhulskulbhp3i"
+        },
+        {
+            "assetid": 2918022453,
+            "name": "AlgoScorpio",
+            "url": "ipfs://bafkreibtxinm2xqlaehixbpe3e4lns57pqg35jtsfr37kbdibfkcztx6au#arc3",
+            "config": "bafkreibtxinm2xqlaehixbpe3e4lns57pqg35jtsfr37kbdibfkcztx6au",
+            "image": "bafybeiaznfmz6m37luyc6ckzw6p5wei6y2cbpkmvgipjpk4rn63hp73ue4"
+        },
+        {
+            "assetid": 2918022455,
+            "name": "AlgoSagittarius",
+            "url": "ipfs://bafkreidumqexulr4rt733723pbxjpovuzji4ojnfaczd7tnfbjak5gm4wy#arc3",
+            "config": "bafkreidumqexulr4rt733723pbxjpovuzji4ojnfaczd7tnfbjak5gm4wy",
+            "image": "bafybeiaplykm66dnklckwi4jdydgcnsjx76vfajj3hh5wtonaqk4s4d6ju"
+        },
+        {
+            "assetid": 2918022457,
+            "name": "AlgoCapricorn",
+            "url": "ipfs://bafkreifrmgvvcy4q5omd2ecf3waospflj2q4v262rufs7l7g53hu4z2ipq#arc3",
+            "config": "bafkreifrmgvvcy4q5omd2ecf3waospflj2q4v262rufs7l7g53hu4z2ipq",
+            "image": "bafybeihd7fzuw3iicvqwydwsiuyy2wiz4knk5l3yhgxs2zvocf5mjwl7aq"
+        },
+        {
+            "assetid": 2918022459,
+            "name": "AlgoAquarius",
+            "url": "ipfs://bafkreibqhtgmt5psm5k4qq7prrzzzjjsluwkzefttlv6w3y2ngxpwjswyu#arc3",
+            "config": "bafkreibqhtgmt5psm5k4qq7prrzzzjjsluwkzefttlv6w3y2ngxpwjswyu",
+            "image": "bafybeibh42qsx2cei6hsyl3e6xttgz6a2wzezp6ksfapribo3evfpgzlk4"
+        },
+        {
+            "assetid": 2918022461,
+            "name": "AlgoPisces",
+            "url": "ipfs://bafkreidhqphtzreicgcpshqmzpj6axczchn3hguo5h672h3yrzrwg7szpi#arc3",
+            "config": "bafkreidhqphtzreicgcpshqmzpj6axczchn3hguo5h672h3yrzrwg7szpi",
+            "image": "bafybeiethvz3yq4e56ijornm4zxphovksuc7tyewqqrlj2qtknnhhtxml4"
+        },
+        {
+            "assetid": 2929240059,
+            "name": "Zyphor BeMonko",
+            "url": "ipfs://bafkreidkyash6x6koruhzeac5capklsjspqjgcyqbt3tgbs5k27hagehqm#arc3",
+            "config": "bafkreidkyash6x6koruhzeac5capklsjspqjgcyqbt3tgbs5k27hagehqm",
+            "image": "QmfJtyHFfmdytPo214bQ5uBDRBxuQFPcHnhjrpoWwm4fCP"
+        },
+        {
+            "assetid": 2929240062,
+            "name": "Zentha GhettoPigeons",
+            "url": "ipfs://bafkreidntduphs7fnxyc6tfv7ryvwcfpllke5hewvdsrjzs6tksridyyri#arc3",
+            "config": "bafkreidntduphs7fnxyc6tfv7ryvwcfpllke5hewvdsrjzs6tksridyyri",
+            "image": "QmS7MZ5KAwRhLDe4wUGoZSGsGw9hMkBePaUv7vDr1uWHhN"
+        },
+        {
+            "assetid": 2929240064,
+            "name": "Kelvix Rxelms",
+            "url": "ipfs://bafkreig5psgyz266ievrbog6xyve27amettb5xqjsbgvqgcfdcbn3jtt7m#arc3",
+            "config": "bafkreig5psgyz266ievrbog6xyve27amettb5xqjsbgvqgcfdcbn3jtt7m",
+            "image": "QmUUkAUXckc4iqPymq6jT6NjGnhJSB9tkQZzq8j9Y5vMCt"
+        },
+        {
+            "assetid": 2929240066,
+            "name": "Tarnok IPT",
+            "url": "ipfs://bafkreibfigjtlua6quak5xitcro3nuiojzeqqpr4q5g7ogaio2ppgbkz2q#arc3",
+            "config": "bafkreibfigjtlua6quak5xitcro3nuiojzeqqpr4q5g7ogaio2ppgbkz2q",
+            "image": "QmfB2vcKF3vw42fPEDe2PwWVbugxMP2n8gnjYnNc6hoWLT"
+        },
+        {
+            "assetid": 2929240068,
+            "name": "Mebrak CrazyEmbryoClub",
+            "url": "ipfs://bafkreiemrvt2utf34f6jkyca5y4qyclb5h7wsyls3nx2vujn3m7w4x37me#arc3",
+            "config": "bafkreiemrvt2utf34f6jkyca5y4qyclb5h7wsyls3nx2vujn3m7w4x37me",
+            "image": "QmS9XGRTJ9TiBmgQMSsbzs3unaCCdd2mNdw73wG5sbJKP1"
+        },
+        {
+            "assetid": 2929240070,
+            "name": "Drivon FishSticks",
+            "url": "ipfs://bafkreib6rz5f47s22kskf5kobrswrxdcbx74nhw3g3ztakkmld2eyisiyy#arc3",
+            "config": "bafkreib6rz5f47s22kskf5kobrswrxdcbx74nhw3g3ztakkmld2eyisiyy",
+            "image": "QmUsHXBTz3uGtPLiBLxuzigGY6V9hN8C4psFsVLiLkYsa9"
+        },
+        {
+            "assetid": 2929240072,
+            "name": "Lurox AlgoNumbers",
+            "url": "ipfs://bafkreib2sbo3yixue6ue5l4w6rpzelyysychns6ascxerwkyjnzdexisha#arc3",
+            "config": "bafkreib2sbo3yixue6ue5l4w6rpzelyysychns6ascxerwkyjnzdexisha",
+            "image": "QmdgzEbY4qvgGVAnpYjEL6mkkQub6JD7x417WHQ78Y9aGN"
+        },
+        {
+            "assetid": 2929240087,
+            "name": "Varnul",
+            "url": "ipfs://bafkreidpno4r4wqqaout6l22vwmnqq6gyivsuz6h5ycmi3xcvmlnatxuha#arc3",
+            "config": "bafkreidpno4r4wqqaout6l22vwmnqq6gyivsuz6h5ycmi3xcvmlnatxuha",
+            "image": "QmRJGYCAfbXGxGVoZ7vsUyL33tajMrtXo16vUAqXzVVPGb"
+        },
+        {
+            "assetid": 2929240089,
+            "name": "Krexil",
+            "url": "ipfs://bafkreifqex4i4spegokxnpq6lfx6cuwpnnftpdgttnbvrsn6d7hhpmxnae#arc3",
+            "config": "bafkreifqex4i4spegokxnpq6lfx6cuwpnnftpdgttnbvrsn6d7hhpmxnae",
+            "image": "QmaV2pWyJdPUnAGam3JhjiYCVMjXyd5KXXCfhDNmKEcLYY"
+        },
+        {
+            "assetid": 2929240091,
+            "name": "Othura",
+            "url": "ipfs://bafkreif22kjs72vpuk7yyr777h2u77gbubnokouhr2q6mpcaf33o7s6uxa#arc3",
+            "config": "bafkreif22kjs72vpuk7yyr777h2u77gbubnokouhr2q6mpcaf33o7s6uxa",
+            "image": "QmUTfmyGxnxzUrMqYPMRxuVH1JTrkr9wAFzkS4no4NTL4v"
+        },
+        {
+            "assetid": 2929240093,
+            "name": "Zarnak",
+            "url": "ipfs://bafkreicdhn5dsfcce3wm5tbqmbqpsnoo6kbah2l3b4z22zvaixccmc6ewm#arc3",
+            "config": "bafkreicdhn5dsfcce3wm5tbqmbqpsnoo6kbah2l3b4z22zvaixccmc6ewm",
+            "image": "QmNckpG6HPcEybsiGhLqpza8WphKPR4Ldc8GXhCf1gwZtb"
+        },
+        {
+            "assetid": 2929240095,
+            "name": "Jexlor",
+            "url": "ipfs://bafkreid6neet7oeecmn7kkjvevtan7nfja2dzftanxgokc2q3vra5qs7na#arc3",
+            "config": "bafkreid6neet7oeecmn7kkjvevtan7nfja2dzftanxgokc2q3vra5qs7na",
+            "image": "QmTUbv1P5ZjE7s2zjUsUtyaN9TXFUpM3sjgeLes16HmEHG"
+        },
+        {
+            "assetid": 2929240097,
+            "name": "Quenol",
+            "url": "ipfs://bafkreickijktmxa4n2bcfrh7mhr75meyv2rjsqfocxe3tujupnbwpkxjd4#arc3",
+            "config": "bafkreickijktmxa4n2bcfrh7mhr75meyv2rjsqfocxe3tujupnbwpkxjd4",
+            "image": "QmYrZNyckdGEdQrFbhcssqAToUrRwWVNhTzzbfUcsG6xrE"
+        },
+        {
+            "assetid": 2929240099,
+            "name": "Ravith",
+            "url": "ipfs://bafkreifyd67ti2pvff3scprgtced53tetdamt6cchejpjsbytncb2ru674#arc3",
+            "config": "bafkreifyd67ti2pvff3scprgtced53tetdamt6cchejpjsbytncb2ru674",
+            "image": "QmdUVsDtJEBtiQ1SSFwiDrS3rX7HWnADa9DJhQKJqFUeeU"
+        },
+        {
+            "assetid": 2929240101,
+            "name": "Neldor",
+            "url": "ipfs://bafkreiatmmnvc5hozgsdpwp5zzilg2stfktlsx5yvcvriaic4xskw7grqm#arc3",
+            "config": "bafkreiatmmnvc5hozgsdpwp5zzilg2stfktlsx5yvcvriaic4xskw7grqm",
+            "image": "QmPNAmQVy1keYf7qrny44Hj2DwyN3uTHwXKBxc6X4J7THZ"
+        },
+        {
+            "assetid": 2929240103,
+            "name": "Vuxari",
+            "url": "ipfs://bafkreib3kmbbjc62lzonifmygulep2oytjrxd7miupoo5w26rkxhwzrfri#arc3",
+            "config": "bafkreib3kmbbjc62lzonifmygulep2oytjrxd7miupoo5w26rkxhwzrfri",
+            "image": "QmWd8sfdCWLHk6JgEuX4MYt2cnfeuoSiVyueDMGGN9DbsB"
+        },
+        {
+            "assetid": 2929240105,
+            "name": "Drynok",
+            "url": "ipfs://bafkreih5dqefzxxxoceai6lyl4bqimb57f2tbeb7rq5x2i3pa56sezhmty#arc3",
+            "config": "bafkreih5dqefzxxxoceai6lyl4bqimb57f2tbeb7rq5x2i3pa56sezhmty",
+            "image": "Qme6PUt6ZnWwzLEAjZQPNkpXpECBtcY6KLwraZgez8otCj"
+        },
+        {
+            "assetid": 2929240107,
+            "name": "Shylox",
+            "url": "ipfs://bafkreielksvk4fvojowskhxqez7kgjtmylf6k2y5ljvi3vadrb66gpu3g4#arc3",
+            "config": "bafkreielksvk4fvojowskhxqez7kgjtmylf6k2y5ljvi3vadrb66gpu3g4",
+            "image": "QmP6aXnQTn5sT2k5CFGAig44e2K4aHC81XcmEkL1B6Zqxx"
+        },
+        {
+            "assetid": 2929240117,
+            "name": "Garniv",
+            "url": "ipfs://bafkreibpxdcnx6pafr2mzeo5decflgwx7z74hfuknwl7bgfcmlo5a2vzlu#arc3",
+            "config": "bafkreibpxdcnx6pafr2mzeo5decflgwx7z74hfuknwl7bgfcmlo5a2vzlu",
+            "image": "QmT4vTST85yXBas5nFqfLCzQFmtPLycTN7Zc3uQQHcK6U6"
+        },
+        {
+            "assetid": 2929240125,
+            "name": "Vektol",
+            "url": "ipfs://bafkreifrvh6i3jjaoji4otg4eyksrylvp5idszk5gvfyjrpgfodhf5sehu#arc3",
+            "config": "bafkreifrvh6i3jjaoji4otg4eyksrylvp5idszk5gvfyjrpgfodhf5sehu",
+            "image": "QmP2dkdmqfdsp6XAi7fLTpbjkjh3qNxy9tJb14UsLeis4g"
+        },
+        {
+            "assetid": 2929240129,
+            "name": "Fronar",
+            "url": "ipfs://bafkreifkpmckfryiri5l7bvyqjanq73zkm2gzjvykexhg3axz5lxa3yaea#arc3",
+            "config": "bafkreifkpmckfryiri5l7bvyqjanq73zkm2gzjvykexhg3axz5lxa3yaea",
+            "image": "QmPuAN8HrAV9RLi8CYsWhGR99p6QvdzQ44nMhtuYMiqG75"
+        },
+        {
+            "assetid": 2929240131,
+            "name": "Ultrix",
+            "url": "ipfs://bafkreidicgtuoohxv2ki7sndfcec3wvv5zgblyduleuggapyiey2mg475u#arc3",
+            "config": "bafkreidicgtuoohxv2ki7sndfcec3wvv5zgblyduleuggapyiey2mg475u",
+            "image": "QmQ9uqrarTASv6JHnb6SgQVbRMGyK2nLmHiqqJiRkdzAHA"
+        },
+        {
+            "assetid": 2929240134,
+            "name": "Nebari",
+            "url": "ipfs://bafkreigme744zrcdlso6o2dxwejt4t4iqb4ynabihe4wgy5brfyphkzy3q#arc3",
+            "config": "bafkreigme744zrcdlso6o2dxwejt4t4iqb4ynabihe4wgy5brfyphkzy3q",
+            "image": "QmcEJUtsP6HdcoSDXihja3ff37gJ1WXKLkB8THRrz3iFmn"
+        },
+        {
+            "assetid": 2929240137,
+            "name": "Zalkon",
+            "url": "ipfs://bafkreiafvvmexypwlrn43p7eyjm5bgreo5rkwkyagzq7pw76wnbe7hotsu#arc3",
+            "config": "bafkreiafvvmexypwlrn43p7eyjm5bgreo5rkwkyagzq7pw76wnbe7hotsu",
+            "image": "Qma1zqa6cziPfA3DJTwVGWVtEkjy1icXjHUpUqkM4eEScE"
+        },
+        {
+            "assetid": 2929240139,
+            "name": "Klygor",
+            "url": "ipfs://bafkreiacliuxnl3efcgklfycoqzbwklhakj3xg5euvxscbt2f7nqyqam4a#arc3",
+            "config": "bafkreiacliuxnl3efcgklfycoqzbwklhakj3xg5euvxscbt2f7nqyqam4a",
+            "image": "QmZC5TVPG77k5CTdPJxX1f3dTQQRsTURd6XRWqwz6b3bYN"
+        },
+        {
+            "assetid": 2929240142,
+            "name": "Thurni",
+            "url": "ipfs://bafkreihasntjkykthqhmuuqoaih3rdm6k2xsqmte2vvl4b2xtppcg6erwu#arc3",
+            "config": "bafkreihasntjkykthqhmuuqoaih3rdm6k2xsqmte2vvl4b2xtppcg6erwu",
+            "image": "QmSVaNqBJiVwnmYhTZK2t8mcxMZq73eit5UbRCTVYKG6Bn"
+        },
+        {
+            "assetid": 2929240153,
+            "name": "Xadrel",
+            "url": "ipfs://bafkreigwanuwq4hfdgadhlpfr25gevdlijqt76ewdctlkyg3wtd24paor4#arc3",
+            "config": "bafkreigwanuwq4hfdgadhlpfr25gevdlijqt76ewdctlkyg3wtd24paor4",
+            "image": "QmTsWox3zi4RedJQyR9KyvCwzcyFjzTzkcezZDaBfjmXk2"
+        },
+        {
+            "assetid": 2929240155,
+            "name": "Orthon",
+            "url": "ipfs://bafkreihln35fc5dleuxbhmeza2aitpck2qnxuv7kb5jphwm75mxwkicety#arc3",
+            "config": "bafkreihln35fc5dleuxbhmeza2aitpck2qnxuv7kb5jphwm75mxwkicety",
+            "image": "QmVnXWnjtXYHPeqj3zCa3k81juD6QAFgoo5sQPpHW6Yxxi"
+        },
+        {
+            "assetid": 2929240159,
+            "name": "Naxiva",
+            "url": "ipfs://bafkreibdw64xpc5d32d4xfwg46gbvipkzyxuypdqvxx4sussdza3hsgypu#arc3",
+            "config": "bafkreibdw64xpc5d32d4xfwg46gbvipkzyxuypdqvxx4sussdza3hsgypu",
+            "image": "QmZZWWiF68pi5AzWjTKZSmkw7qyuufnpUX8BPSm4kyiZyP"
+        },
+        {
+            "assetid": 2929240161,
+            "name": "Trexor",
+            "url": "ipfs://bafkreid6nl2epmd7fsh4fna7os62qckbivejytfex5zgnny6ozl4lx4xqu#arc3",
+            "config": "bafkreid6nl2epmd7fsh4fna7os62qckbivejytfex5zgnny6ozl4lx4xqu",
+            "image": "QmTVb3fMuPmf9238pK7kFtHqumqPadiEJ7MkfrpFjSozGa"
+        },
+        {
+            "assetid": 2929240163,
+            "name": "Yarvik",
+            "url": "ipfs://bafkreifavdyesclbtoiegxnlqbpn55a32nu5jm3dod56ffjcebdqwa34by#arc3",
+            "config": "bafkreifavdyesclbtoiegxnlqbpn55a32nu5jm3dod56ffjcebdqwa34by",
+            "image": "QmWthgjiRcuybc12d2Yj4pB6P9aALvCognSbjcX1PdXEqR"
+        },
+        {
+            "assetid": 2929240165,
+            "name": "Glonex",
+            "url": "ipfs://bafkreibctcvlqj6yh57xc2cm4r3xl64tqc2x3xx3lox6mubc7vtwyxevi4#arc3",
+            "config": "bafkreibctcvlqj6yh57xc2cm4r3xl64tqc2x3xx3lox6mubc7vtwyxevi4",
+            "image": "QmP8xZ2322X9fYxX87psDYa41GTJjLbdA9XgZA7LmMpGsX"
+        },
+        {
+            "assetid": 2929240167,
+            "name": "Uvroth",
+            "url": "ipfs://bafkreigyrcxkpsh6otgy5wqjacweqo6q7wwxhygpurrscd57lbmev7ahgy#arc3",
+            "config": "bafkreigyrcxkpsh6otgy5wqjacweqo6q7wwxhygpurrscd57lbmev7ahgy",
+            "image": "QmQL4Lgpfk4Z8ND6yYnzvGLZDPz2DcXJp6CQMutN9aAeaR"
+        },
+        {
+            "assetid": 2929240170,
+            "name": "Zyvorn",
+            "url": "ipfs://bafkreib7dcutobu2vxdls6dqismsnqebm4mq2zv5kargk2ykfsuqyhq22u#arc3",
+            "config": "bafkreib7dcutobu2vxdls6dqismsnqebm4mq2zv5kargk2ykfsuqyhq22u",
+            "image": "QmfBr4MNEZcuiHrUyatHmyLa3g9gUe5Jx5AQhPJyxEPCCZ"
+        },
+        {
+            "assetid": 2929240172,
+            "name": "Drakil",
+            "url": "ipfs://bafkreigluanj4i4duare7ytqgbczcmgjsc63i4e4a2hdkjvdkqs3uafdym#arc3",
+            "config": "bafkreigluanj4i4duare7ytqgbczcmgjsc63i4e4a2hdkjvdkqs3uafdym",
+            "image": "QmS7pKsHwYvB66pZ5iXnba8MLZ75Jqxx2HPMEvxw9A1ZtQ"
+        },
+        {
+            "assetid": 2929240176,
+            "name": "Tharok",
+            "url": "ipfs://bafkreieahmoxpkvvmbjjyk7vlvq5wcjq4pzr6nhue2tr52grqxhh6owgqu#arc3",
+            "config": "bafkreieahmoxpkvvmbjjyk7vlvq5wcjq4pzr6nhue2tr52grqxhh6owgqu",
+            "image": "QmaJmCo9PhhmHkgaEQU4ZG3SnTiV6wMKr3N3sPQymEAbcy"
+        },
+        {
+            "assetid": 2929240180,
+            "name": "Evkron",
+            "url": "ipfs://bafkreibn5udzj32grqtwaynav4vk4urgki3765udkoodqp5unq3umecrnu#arc3",
+            "config": "bafkreibn5udzj32grqtwaynav4vk4urgki3765udkoodqp5unq3umecrnu",
+            "image": "QmfB8J1KNjJFJsj81Fu9bDydyWZtShmdAjKBjyh8eH4UsE"
+        },
+        {
+            "assetid": 2929240182,
+            "name": "Rokmir",
+            "url": "ipfs://bafkreib7vrctvzdekghrbzuvroytpgmlmcld2clgynxchnknibegksqj3u#arc3",
+            "config": "bafkreib7vrctvzdekghrbzuvroytpgmlmcld2clgynxchnknibegksqj3u",
+            "image": "QmPNh8CeoCxRRBZvNTWN9xzpWCRfy6FCe2UY6NfLkZJNK1"
+        },
+        {
+            "assetid": 2929240184,
+            "name": "Telyra",
+            "url": "ipfs://bafkreidp7qwfabsxhjiclao74zec2oet6xon3sic7ub6u5vzk4jdq6nkga#arc3",
+            "config": "bafkreidp7qwfabsxhjiclao74zec2oet6xon3sic7ub6u5vzk4jdq6nkga",
+            "image": "QmSdAbF3b82mCLozZGYDGnyJswn5xdu5XFfu3VajKoM3GA"
+        },
+        {
+            "assetid": 2929240186,
+            "name": "Zurnox",
+            "url": "ipfs://bafkreiceetp7fe34x2cmwev4trina4qioa7czwvngsxjb2eanyk4thvmea#arc3",
+            "config": "bafkreiceetp7fe34x2cmwev4trina4qioa7czwvngsxjb2eanyk4thvmea",
+            "image": "QmRd7gWHTYY8zyoLwztV46h8Tghi5jo6YixWmAqWTKbmNx"
+        },
+        {
+            "assetid": 2929240188,
+            "name": "Grovik",
+            "url": "ipfs://bafkreifpgs4jexn7usynjfpkyat5hv6zxq4nkymcgj5n22kcc3jnczar7u#arc3",
+            "config": "bafkreifpgs4jexn7usynjfpkyat5hv6zxq4nkymcgj5n22kcc3jnczar7u",
+            "image": "Qme5zyNdCb4etxLox2YKUetcRuNRdUqPF8hMcEU4Dus8Ky"
+        },
+        {
+            "assetid": 2929240190,
+            "name": "Valrex",
+            "url": "ipfs://bafkreicxprr4e5gtufvg6ysu7vziqekxn26vx2cikubddbjb4jyd6crvj4#arc3",
+            "config": "bafkreicxprr4e5gtufvg6ysu7vziqekxn26vx2cikubddbjb4jyd6crvj4",
+            "image": "QmPedZ93SCN7V2sRaoi3AWAEGxQXmVaRk92XtjKaseJXwZ"
+        },
+        {
+            "assetid": 2929240193,
+            "name": "Jorvik",
+            "url": "ipfs://bafkreidtovsj7x4dgq45n3rrop4jwhj2yr4axu7umuxjd2zeks7jvx4y5a#arc3",
+            "config": "bafkreidtovsj7x4dgq45n3rrop4jwhj2yr4axu7umuxjd2zeks7jvx4y5a",
+            "image": "QmcnBsQamGsLWNLkoB5bqFrS16h2yDV5hZ2CXk8XxzbDgW"
+        },
+        {
+            "assetid": 2929240195,
+            "name": "Hexron",
+            "url": "ipfs://bafkreifppxxwo6iuefe6eoot26bw3jo4g3qwe6mnrmko76647oh7yfpy5m#arc3",
+            "config": "bafkreifppxxwo6iuefe6eoot26bw3jo4g3qwe6mnrmko76647oh7yfpy5m",
+            "image": "QmNxLbbwrPmtGKLsWY7xNrcSTtyHqarjjYtYbKuDH8qaf7"
+        },
+        {
+            "assetid": 2929240198,
+            "name": "Larnex",
+            "url": "ipfs://bafkreihtxuywdwmgj7rgeayfg4hggm2iohuynt3f4rumv2zldqv6ba5mha#arc3",
+            "config": "bafkreihtxuywdwmgj7rgeayfg4hggm2iohuynt3f4rumv2zldqv6ba5mha",
+            "image": "Qmc4xqNCDyFk6YkUXyHSEx7MhBfDt5m38Jf8jgME6UvFdF"
+        },
+        {
+            "assetid": 2929240200,
+            "name": "Vornik",
+            "url": "ipfs://bafkreihrptp5tjeb3fgga2w23vuc2xa7mgaob3hm5heggx7rcirenc4tda#arc3",
+            "config": "bafkreihrptp5tjeb3fgga2w23vuc2xa7mgaob3hm5heggx7rcirenc4tda",
+            "image": "QmeB1YYornm5KwcQn24myNMWqaqqcdsh3pSxSeowfn2r4t"
+        },
+        {
+            "assetid": 2929240202,
+            "name": "Kelzor",
+            "url": "ipfs://bafkreicfp3b7akviymjhxo3pahh62ux4gbhl67fa7p73dogxtgkyxfpvji#arc3",
+            "config": "bafkreicfp3b7akviymjhxo3pahh62ux4gbhl67fa7p73dogxtgkyxfpvji",
+            "image": "QmdGMXrLYYEPVLDdKXHqrJM7c21T1HBjFFvY83NNB1SKDc"
+        },
+        {
+            "assetid": 2929240204,
+            "name": "Axilon",
+            "url": "ipfs://bafkreif7yksstlswgyijpaxkwc5cnme53tajadr5q2qbwvjww5j22qpyg4#arc3",
+            "config": "bafkreif7yksstlswgyijpaxkwc5cnme53tajadr5q2qbwvjww5j22qpyg4",
+            "image": "QmavMqdc7JkaYJrLD3nPBDDFYS83rUgFcawPD6g2H3aFEn"
+        },
+        {
+            "assetid": 2929240206,
+            "name": "Thravi",
+            "url": "ipfs://bafkreib72q6cajyk6nkkh7kn2rdw2c4i6ovooupgzkrqxrd4qvqryabwiq#arc3",
+            "config": "bafkreib72q6cajyk6nkkh7kn2rdw2c4i6ovooupgzkrqxrd4qvqryabwiq",
+            "image": "QmceGYmudtjFG8wN8ehGLV9Sj8TYnckuzwQM53eqoc6sws"
+        },
+        {
+            "assetid": 2929240208,
+            "name": "Zyntek",
+            "url": "ipfs://bafkreigcwlsgm2h257vmnezer7vwgai44czrvlvdjdsbkgoe3n5gjahg5y#arc3",
+            "config": "bafkreigcwlsgm2h257vmnezer7vwgai44czrvlvdjdsbkgoe3n5gjahg5y",
+            "image": "QmNnSGsg8TQyfzqunbJ3ZzehwrJfLPwJFVFv25DzksHECp"
+        },
+        {
+            "assetid": 2929240216,
+            "name": "Orbax",
+            "url": "ipfs://bafkreidl2nkcetlv3aq5nuzmex5wjooj2ez4pauklwuvbv3ovk7xkwtzki#arc3",
+            "config": "bafkreidl2nkcetlv3aq5nuzmex5wjooj2ez4pauklwuvbv3ovk7xkwtzki",
+            "image": "Qmcn2RpnSgcnjVNwbWkbiJNH6pjjby7sK1w8icWvuHTQJ2"
+        },
+        {
+            "assetid": 2929240218,
+            "name": "Mygrox",
+            "url": "ipfs://bafkreig2cvsl4tsdmr3g4jiyagf64a6qhkufgywmwi6kfznwmuv56s3i6i#arc3",
+            "config": "bafkreig2cvsl4tsdmr3g4jiyagf64a6qhkufgywmwi6kfznwmuv56s3i6i",
+            "image": "QmSjFVy7dL9wycYVf6EFgVZLzJk6mCNQhiB18SYEdgPeYx"
+        },
+        {
+            "assetid": 2929240220,
+            "name": "Quarnu",
+            "url": "ipfs://bafkreiaxbfqfydtb7bdggswl5ti7x3x3l4jiduo42nf3mrephvfunjcjgi#arc3",
+            "config": "bafkreiaxbfqfydtb7bdggswl5ti7x3x3l4jiduo42nf3mrephvfunjcjgi",
+            "image": "QmNfsf21BBpsNPsF3Jcq5f5sDoSA8QNwTf3EWrvKpcTkhM"
+        },
+        {
+            "assetid": 2929240222,
+            "name": "Fenrix",
+            "url": "ipfs://bafkreifr23sczcoyt5qzbfqjqw2xcnfvvcdtq3lfxjn7sziwbyvn6abfwe#arc3",
+            "config": "bafkreifr23sczcoyt5qzbfqjqw2xcnfvvcdtq3lfxjn7sziwbyvn6abfwe",
+            "image": "QmaxNsDWeSzUZmgWGhiJLxpZaNSfQm39pmCbazxrBuLydZ"
+        },
+        {
+            "assetid": 2929240224,
+            "name": "Tholun",
+            "url": "ipfs://bafkreidbbzh42ivl2tmbyjfq3hpsod4rnpeirp2ntewelfk5aaoyzwsod4#arc3",
+            "config": "bafkreidbbzh42ivl2tmbyjfq3hpsod4rnpeirp2ntewelfk5aaoyzwsod4",
+            "image": "QmeoDGJ5ZAQDaJcfeUtoH1zzvwD4aUT53JXryVLRYshA8p"
+        },
+        {
+            "assetid": 2929240226,
+            "name": "Xerani",
+            "url": "ipfs://bafkreiepe3lyuaf72tgnk56oe6kprlfjx36bpktioxwlufy2tzgclkn4ia#arc3",
+            "config": "bafkreiepe3lyuaf72tgnk56oe6kprlfjx36bpktioxwlufy2tzgclkn4ia",
+            "image": "QmX5ZQaixMneqDs8ecfWujJeBHh5QgK1kBz5oq7NDj9ziw"
+        },
+        {
+            "assetid": 2929240228,
+            "name": "Gorvus",
+            "url": "ipfs://bafkreieh6myxzzyu2vb5qlzqcqueeuixzjkrtprnabtptnwpjlxomw4ynm#arc3",
+            "config": "bafkreieh6myxzzyu2vb5qlzqcqueeuixzjkrtprnabtptnwpjlxomw4ynm",
+            "image": "QmXFxjABDyxc8yD4fhDJdpGgTeacecEzq9AwqJVGWfZa1b"
+        },
+        {
+            "assetid": 2929240230,
+            "name": "Velkyr",
+            "url": "ipfs://bafkreidrxvfbz3bdk4lh5wg36zcqiynuqiabfypipapibbpfaqyrhe7yzy#arc3",
+            "config": "bafkreidrxvfbz3bdk4lh5wg36zcqiynuqiabfypipapibbpfaqyrhe7yzy",
+            "image": "QmUjsJmTbHv2aVwUpvnJA8eNuiAvEoFqE85YRDHutaFxkk"
+        },
+        {
+            "assetid": 2929240232,
+            "name": "Nartho",
+            "url": "ipfs://bafkreibtj2566yi25dfxed3zqavclw6nvbtkyzrhxc6xlsofwpatqekw6a#arc3",
+            "config": "bafkreibtj2566yi25dfxed3zqavclw6nvbtkyzrhxc6xlsofwpatqekw6a",
+            "image": "QmPSMHvbXcqvHRcNECrvPsiMoeVbpzAjCyE5XCFRQGQdda"
+        },
+        {
+            "assetid": 2929240234,
+            "name": "Ombrak",
+            "url": "ipfs://bafkreid2a4zf5y6yubkbvaa5sdps5atpeu4ubf3umw5iokzw6i6hxebqha#arc3",
+            "config": "bafkreid2a4zf5y6yubkbvaa5sdps5atpeu4ubf3umw5iokzw6i6hxebqha",
+            "image": "QmX98txrQpyqDFP17BF5n1MDwJHtyNd2rjNMFvamYS84tv"
+        },
+        {
+            "assetid": 2929240236,
+            "name": "Drival",
+            "url": "ipfs://bafkreie24dho4swjufqfwfuy3xtiv4suz3zjl33df44vagg55coms42zam#arc3",
+            "config": "bafkreie24dho4swjufqfwfuy3xtiv4suz3zjl33df44vagg55coms42zam",
+            "image": "QmcejQUh3cD2HynzXXKg4ikBn7eGst36r7rLBrxswLyhxY"
+        },
+        {
+            "assetid": 2929240238,
+            "name": "Karnex",
+            "url": "ipfs://bafkreie5myigvcqyrs4xu6y7hhe7ddeqbmyq5wtk5zsijgs3aeihqk2afy#arc3",
+            "config": "bafkreie5myigvcqyrs4xu6y7hhe7ddeqbmyq5wtk5zsijgs3aeihqk2afy",
+            "image": "QmUr6qdq2RyrXDmHhHDfxTswiusLXZytBCohbu4JRpmJti"
+        },
+        {
+            "assetid": 2929240240,
+            "name": "Trezor",
+            "url": "ipfs://bafkreiavsznwfeulelme76nv2exzllsetwrsy6izfmjpyyqtjsodmezpk4#arc3",
+            "config": "bafkreiavsznwfeulelme76nv2exzllsetwrsy6izfmjpyyqtjsodmezpk4",
+            "image": "QmQ9nQtQRHKYgFKAi61bt8i22puLwFXqjtBwp6nRcBANGG"
+        },
+        {
+            "assetid": 2929240242,
+            "name": "Uvorith",
+            "url": "ipfs://bafkreidpmf5t7ihmdd54io7idsxjyrctj462fwwxl5g5bwnf3q535dj524#arc3",
+            "config": "bafkreidpmf5t7ihmdd54io7idsxjyrctj462fwwxl5g5bwnf3q535dj524",
+            "image": "QmUuLJYWJTXEFHdvmKxTUs8gshFFiHCHVBASLc93mwTEdR"
+        },
+        {
+            "assetid": 2929240244,
+            "name": "Xelvar",
+            "url": "ipfs://bafkreidlb6ebf4h5f4ll7fvxu7fhlnewjkhautk7ymfgqwcnv2ykbiyw6q#arc3",
+            "config": "bafkreidlb6ebf4h5f4ll7fvxu7fhlnewjkhautk7ymfgqwcnv2ykbiyw6q",
+            "image": "QmPPKuyLdAG4hKx9oX2Zpq6C6JaYtX1jLakHAi9krhYrvN"
+        },
+        {
+            "assetid": 2929240246,
+            "name": "Norvyn",
+            "url": "ipfs://bafkreidi54be243gpermkwqtexsm6q5xk3epbav522pxusqut6dkbdcdpu#arc3",
+            "config": "bafkreidi54be243gpermkwqtexsm6q5xk3epbav522pxusqut6dkbdcdpu",
+            "image": "QmPi33MBvdqz5e94fYsUusCTE8th3g6LAXWWMfd4zEDUa1"
+        },
+        {
+            "assetid": 2929240248,
+            "name": "Ralvon",
+            "url": "ipfs://bafkreicx7t6v5pngzj7oslwimh2np2tsuqiycvza3ikw4atdpfs6gykczm#arc3",
+            "config": "bafkreicx7t6v5pngzj7oslwimh2np2tsuqiycvza3ikw4atdpfs6gykczm",
+            "image": "QmeQTh4nCBgrbp83nrceXZWc1F6XhAmEJC4pNoKYi4yDMD"
+        },
+        {
+            "assetid": 2929240252,
+            "name": "Fyrron",
+            "url": "ipfs://bafkreia6j2jla5jmtja6e7pzkvjkj2w7xwmvy3rhb6xf6nkucnxhhdeixe#arc3",
+            "config": "bafkreia6j2jla5jmtja6e7pzkvjkj2w7xwmvy3rhb6xf6nkucnxhhdeixe",
+            "image": "QmYqvYhVVqu2pWvzttjbNvgZztWXSW9NESttrDgXLXxXsx"
+        },
+        {
+            "assetid": 2929240254,
+            "name": "Zyther",
+            "url": "ipfs://bafkreibyab3t4duha3dqwhrmmmldrhr3p6la26gtue4idesgrwngtx2p6i#arc3",
+            "config": "bafkreibyab3t4duha3dqwhrmmmldrhr3p6la26gtue4idesgrwngtx2p6i",
+            "image": "QmWuVe3j9hP4MauDoQs2RzcyaG8ZNJwz9cWoL14snysJtx"
+        },
+        {
+            "assetid": 2929240256,
+            "name": "Lomvek",
+            "url": "ipfs://bafkreigkrz2hjuso56sfl3crmwfro2jr53a4weumpi6bqyxqkpciswd5dq#arc3",
+            "config": "bafkreigkrz2hjuso56sfl3crmwfro2jr53a4weumpi6bqyxqkpciswd5dq",
+            "image": "QmWffhNSXMq7F3YJ2QrjKBfb1pwKg8oU3S9fRWhraiXKLA"
+        },
+        {
+            "assetid": 2929240259,
+            "name": "Jarnak",
+            "url": "ipfs://bafkreia5fq6cqo6rmbii5frgjwmxfylo7to2ggzslwsh7rmz5vkfibcota#arc3",
+            "config": "bafkreia5fq6cqo6rmbii5frgjwmxfylo7to2ggzslwsh7rmz5vkfibcota",
+            "image": "QmTd5pkkh2KKtN3WN41QAYA8nEZW4DcWzR8yjxT6gxsia9"
+        },
+        {
+            "assetid": 2929240261,
+            "name": "Nivrok",
+            "url": "ipfs://bafkreifm7nqyfrbvw4kpl6y3zmmicvw5v2wxmroaj5v2wltuq2zfqhmm2a#arc3",
+            "config": "bafkreifm7nqyfrbvw4kpl6y3zmmicvw5v2wxmroaj5v2wltuq2zfqhmm2a",
+            "image": "QmVHNm3Zwyakj7AQTbCQJiV5RhzHRSUSmHSsgejeUJUnju"
+        },
+        {
+            "assetid": 2929240264,
+            "name": "Ruzhar",
+            "url": "ipfs://bafkreidvuxjsnwmkhfrdt5anapjgob2y7ov32ltoc7prbndllgzg23wwbi#arc3",
+            "config": "bafkreidvuxjsnwmkhfrdt5anapjgob2y7ov32ltoc7prbndllgzg23wwbi",
+            "image": "QmaYW7cG7r83bndU3iUT9SQ3fuhYzR4qzdooRKdgyWH5dP"
+        },
+        {
+            "assetid": 2929240266,
+            "name": "Xyvalk",
+            "url": "ipfs://bafkreifnhjwlttoqvwlzu54ywiyr4c4efwadgtknfmyypcfo36kv76emii#arc3",
+            "config": "bafkreifnhjwlttoqvwlzu54ywiyr4c4efwadgtknfmyypcfo36kv76emii",
+            "image": "QmZHCiVwvPCU6ZnyfRmCYfGXD4668VW2nPFpHdhUT99TBo"
+        },
+        {
+            "assetid": 2929240268,
+            "name": "Udraka",
+            "url": "ipfs://bafkreidqxgac264cpirs2sbufsjbrl23iq37kegeywnftbo6gx6xtqz4t4#arc3",
+            "config": "bafkreidqxgac264cpirs2sbufsjbrl23iq37kegeywnftbo6gx6xtqz4t4",
+            "image": "QmPCQxWUjurc5Fnt5fiUzHM8zi1Tz5Am4dGPyCdc7v3ziM"
+        },
+        {
+            "assetid": 2929240270,
+            "name": "Velmor",
+            "url": "ipfs://bafkreicxfhyxr6daauhmne3z623dbsb5io2vfmcmuqt7vdwg4e2dvycwkq#arc3",
+            "config": "bafkreicxfhyxr6daauhmne3z623dbsb5io2vfmcmuqt7vdwg4e2dvycwkq",
+            "image": "QmWMV27qPNVQVWpKwJgFdaAbsYfBEqkMBUVRRoiUyfRZwr"
+        },
+        {
+            "assetid": 2929240272,
+            "name": "Xarnok",
+            "url": "ipfs://bafkreifk4ssgv4kg7qjxsmwzwcq5m36uhekozktpujphulruof36g7p4ga#arc3",
+            "config": "bafkreifk4ssgv4kg7qjxsmwzwcq5m36uhekozktpujphulruof36g7p4ga",
+            "image": "QmUmcDrw3nCfhyNmXtUH5k5Pka5LCm6dF23EqkkDPRj2HM"
+        },
+        {
+            "assetid": 2929240274,
+            "name": "Trogur",
+            "url": "ipfs://bafkreicxi5vkatwxpo56j3kpinlomtuhss6stwowqwykltq4zolpssxwom#arc3",
+            "config": "bafkreicxi5vkatwxpo56j3kpinlomtuhss6stwowqwykltq4zolpssxwom",
+            "image": "QmQ9pzvWGSAosnVUXZRSj25r6QRCZL4kYPMazNUkqFfhVp"
+        },
+        {
+            "assetid": 2929240276,
+            "name": "Kyvrax",
+            "url": "ipfs://bafkreidkxfee5puklshrs6yzir7zrs7ily2ogtaumxemn6pbqqwmmxxhh4#arc3",
+            "config": "bafkreidkxfee5puklshrs6yzir7zrs7ily2ogtaumxemn6pbqqwmmxxhh4",
+            "image": "QmRkfievH3v5bPPRm4FY6yQMbZkWiF7bGYwy8kHGg3kDh2"
+        },
+        {
+            "assetid": 2929240281,
+            "name": "Olyron",
+            "url": "ipfs://bafkreicnfc3nusrsyggti4i6qul3q4fv2zkwurclvhnolahz6rn2eozdcy#arc3",
+            "config": "bafkreicnfc3nusrsyggti4i6qul3q4fv2zkwurclvhnolahz6rn2eozdcy",
+            "image": "QmTzwmwHeBMG9kHGiqTYuDbYMfDNVHBE8Goe2BM3eQnRkg"
+        },
+        {
+            "assetid": 2929240284,
+            "name": "Zenthra",
+            "url": "ipfs://bafkreiapwnqzmhvoyuzcxgic7exgdckptaihncsunszgjnxggdw7p5csgq#arc3",
+            "config": "bafkreiapwnqzmhvoyuzcxgic7exgdckptaihncsunszgjnxggdw7p5csgq",
+            "image": "QmZQmaxPwUwGfckeVvVsNnhg2hV7KfUCxrbg8uaNAuAXMe"
+        },
+        {
+            "assetid": 2929240292,
+            "name": "Wyrnok",
+            "url": "ipfs://bafkreifkiceabjxtud3fzehxdptfp23du6vorenezryehpnnl66wp4haxm#arc3",
+            "config": "bafkreifkiceabjxtud3fzehxdptfp23du6vorenezryehpnnl66wp4haxm",
+            "image": "QmRT1Wcg9YYrYZqBDxnFAAN1jyYhTkdsDYUH3DGgH26ctU"
+        },
+        {
+            "assetid": 2929240295,
+            "name": "Kordul",
+            "url": "ipfs://bafkreihe5dxnc2akvw6sqk2gd74a5qk5sqgbo4sf57cr723p5yi3cc5r2e#arc3",
+            "config": "bafkreihe5dxnc2akvw6sqk2gd74a5qk5sqgbo4sf57cr723p5yi3cc5r2e",
+            "image": "QmaEyDuxvberdq7SBJACvZxXqJ3gUKcSRroz4zGVcfC5r9"
+        },
+        {
+            "assetid": 2929240299,
+            "name": "Izthar",
+            "url": "ipfs://bafkreiexvwr7zki3etap55uztt46vyn4ertw5ywu2exipe7pcbtxkju4qe#arc3",
+            "config": "bafkreiexvwr7zki3etap55uztt46vyn4ertw5ywu2exipe7pcbtxkju4qe",
+            "image": "QmPwKFdVcZpCQvyRR59Y2HUXuJ67zQtjayh8Q8mFHbgb9A"
+        },
+        {
+            "assetid": 2929240303,
+            "name": "Vraken",
+            "url": "ipfs://bafkreicg6e2pr4ogxg2uqgvdmjwhi7kyqrll5a2fw5uv4urnc7pqoedv7q#arc3",
+            "config": "bafkreicg6e2pr4ogxg2uqgvdmjwhi7kyqrll5a2fw5uv4urnc7pqoedv7q",
+            "image": "QmcUqSbVxsLEbfyNbAa2CbumCP55qgBXpiqjVQiZSgMPM9"
+        },
+        {
+            "assetid": 2929240305,
+            "name": "Xalmer",
+            "url": "ipfs://bafkreie26gkpvbmfudman26tz2thwowpsjqt3ryojym45iqie26anmwaqm#arc3",
+            "config": "bafkreie26gkpvbmfudman26tz2thwowpsjqt3ryojym45iqie26anmwaqm",
+            "image": "QmVC4UvVuJkNmcRse15dvZsHaBMX4XALZuCwHPwWcgwZaQ"
+        },
+        {
+            "assetid": 2929240307,
+            "name": "Grozik",
+            "url": "ipfs://bafkreidfu5fxegzvz35iagkq4qlrp2dv4aelvbjmqv6xawhumiuaa2se5i#arc3",
+            "config": "bafkreidfu5fxegzvz35iagkq4qlrp2dv4aelvbjmqv6xawhumiuaa2se5i",
+            "image": "Qmcc5TRXyZ1QGhvFZyooS4xuNLSNchF3uPHy5XLNt8xaVv"
+        },
+        {
+            "assetid": 2929240309,
+            "name": "Pylorn",
+            "url": "ipfs://bafkreihtjnsmpvcr7psabnhige4gwl7v764yu7n77udunnvadnwvdu5v7e#arc3",
+            "config": "bafkreihtjnsmpvcr7psabnhige4gwl7v764yu7n77udunnvadnwvdu5v7e",
+            "image": "QmZS6DdfwhN6jXzW8tZ6kqemUUdXw1k6aQboTp23NoWU42"
+        },
+        {
+            "assetid": 2929240311,
+            "name": "Ombrul",
+            "url": "ipfs://bafkreih374vce23xwq2hq5put6y6wn2pbg42qbgthqfwktf7xvxev6mkum#arc3",
+            "config": "bafkreih374vce23xwq2hq5put6y6wn2pbg42qbgthqfwktf7xvxev6mkum",
+            "image": "QmXoNXHag2QL85JS4JpAeYzfqJh6PZAtLqJtvAmGjk3XYy"
+        },
+        {
+            "assetid": 2929240314,
+            "name": "Jelvok",
+            "url": "ipfs://bafkreiatdbu23uz6y2paqclaw7duifuaidm4t5zwbbmyoqoiqijaqruqyu#arc3",
+            "config": "bafkreiatdbu23uz6y2paqclaw7duifuaidm4t5zwbbmyoqoiqijaqruqyu",
+            "image": "Qmc6TtAQmXBShqJnvUQe3N6FUFNFn7dAUSSoEbNwNGkycq"
+        },
+        {
+            "assetid": 2929240316,
+            "name": "Zarkon",
+            "url": "ipfs://bafkreidh4f4tm7rezyuze5pmldb4pkgauqm5rnzreag733xytzaxq2abpm#arc3",
+            "config": "bafkreidh4f4tm7rezyuze5pmldb4pkgauqm5rnzreag733xytzaxq2abpm",
+            "image": "QmVcxwJZfQT4SKoVCPJKaNgj9zh22D2eXXZ8LSbyKEVfFb"
+        },
+        {
+            "assetid": 2929240319,
+            "name": "Flunor",
+            "url": "ipfs://bafkreia3oexcgbwpldrc3jr7opqasvi7hgdn5qfosajvvg4ezgn3rgmshq#arc3",
+            "config": "bafkreia3oexcgbwpldrc3jr7opqasvi7hgdn5qfosajvvg4ezgn3rgmshq",
+            "image": "QmeTC2MzfyjnvcMN1Z8erz61zD8WYqwyDFPiMfYJejaxZk"
+        },
+        {
+            "assetid": 2929240321,
+            "name": "Harnak",
+            "url": "ipfs://bafkreibjsggngqsubk3klnu36go6lq6pkqdpmvm2nqgwmvai2yl6mlpzxu#arc3",
+            "config": "bafkreibjsggngqsubk3klnu36go6lq6pkqdpmvm2nqgwmvai2yl6mlpzxu",
+            "image": "QmTxSGkNZ79Kx9h4BFQwjHXj6Gd8KPPxqoTuY2zkrQ3JdD"
+        },
+        {
+            "assetid": 2929240323,
+            "name": "Volrix",
+            "url": "ipfs://bafkreig3wszo57fb3humelmbiqrf4e6qu2yngm5zosyzim4vtcfaroxjsm#arc3",
+            "config": "bafkreig3wszo57fb3humelmbiqrf4e6qu2yngm5zosyzim4vtcfaroxjsm",
+            "image": "QmfFNhf6W2K12Mo7fuwcffB9GWFg3CukhAL84ezsarKcRF"
+        },
+        {
+            "assetid": 2929240325,
+            "name": "Exmira",
+            "url": "ipfs://bafkreic3cuu32gtvbj5bkmml3qfwqsngjtviaioireou4xgddcg7iv5bwm#arc3",
+            "config": "bafkreic3cuu32gtvbj5bkmml3qfwqsngjtviaioireou4xgddcg7iv5bwm",
+            "image": "QmTT4HXPrBFnZSPVrJwdZGeG15EAjWzdBTep8vYLV1CZ5k"
+        },
+        {
+            "assetid": 2929240327,
+            "name": "Klurnox",
+            "url": "ipfs://bafkreid3ivzo4xwskcbxm5vdvxnuyfh6x3pgvtvjm2q6hc6ajrx2cjrche#arc3",
+            "config": "bafkreid3ivzo4xwskcbxm5vdvxnuyfh6x3pgvtvjm2q6hc6ajrx2cjrche",
+            "image": "QmdG837WV2znQSYrvK74xxqHRDcSJ8aD56eySjHBQpDvNP"
+        },
+        {
+            "assetid": 2929240330,
+            "name": "Zarnith",
+            "url": "ipfs://bafkreiatannv6ammevktvsdfv3nlxk4hc2kmsxmyoyayppffk3lr2p5c4q#arc3",
+            "config": "bafkreiatannv6ammevktvsdfv3nlxk4hc2kmsxmyoyayppffk3lr2p5c4q",
+            "image": "QmZHmQoHkvPh9d4tyedLxzP1sKG3Ht9ycEndDrdchv7Ydc"
+        },
+        {
+            "assetid": 2929240332,
+            "name": "Yuvrax",
+            "url": "ipfs://bafkreiapj2c2i5pdodxtchkytcik3oesnatblohjsmujbtxlqpma2vdai4#arc3",
+            "config": "bafkreiapj2c2i5pdodxtchkytcik3oesnatblohjsmujbtxlqpma2vdai4",
+            "image": "QmQ55pyqqvoNQurKurSkJyWvaEU6GgsHE7N597pCxAuSfu"
+        },
+        {
+            "assetid": 2929240334,
+            "name": "Brelok",
+            "url": "ipfs://bafkreic6dvsurzyb7wvhn3rcgk2n2m6srvnb565fa2wxuo7ashz22uqane#arc3",
+            "config": "bafkreic6dvsurzyb7wvhn3rcgk2n2m6srvnb565fa2wxuo7ashz22uqane",
+            "image": "QmepSQjZ6g9RRcsqcdFeMyzXMCTkZLYX97ReiLYAEqQ6fv"
+        },
+        {
+            "assetid": 2929240336,
+            "name": "Glurak",
+            "url": "ipfs://bafkreide532mhmvmpkbb55ss7he5orjn4kfb7edbppsdzlveotcejbqvey#arc3",
+            "config": "bafkreide532mhmvmpkbb55ss7he5orjn4kfb7edbppsdzlveotcejbqvey",
+            "image": "QmaPg1FDEq6Lh4UVH6eDbGp1UgpTJmrijBfhGGwKgtu1AG"
+        },
+        {
+            "assetid": 2929240350,
+            "name": "Tarnel",
+            "url": "ipfs://bafkreicq3ryntqldoynyacxthg5an7bfiapgnm5rc3yt4xcuvf5h3ivvh4#arc3",
+            "config": "bafkreicq3ryntqldoynyacxthg5an7bfiapgnm5rc3yt4xcuvf5h3ivvh4",
+            "image": "QmPUvSKkAG6Ldp6BwG2oDY3U1V122cLxMaXGvr6wwKBPCt"
+        },
+        {
+            "assetid": 2929240357,
+            "name": "Obrath",
+            "url": "ipfs://bafkreidytnghixuazzuezhjiw2qzpf52llci3si3blt6nkxsyt366q6kmm#arc3",
+            "config": "bafkreidytnghixuazzuezhjiw2qzpf52llci3si3blt6nkxsyt366q6kmm",
+            "image": "QmUYXjkojHcXgvNiCobybo4zDCib7g5VWCSCUtkEbVe1ce"
+        },
+        {
+            "assetid": 2929240359,
+            "name": "Joryan",
+            "url": "ipfs://bafkreiflr4ja4nzonpzdnmdgbdtzg56yywoxsbac2sajekmwd4vt4fwkxa#arc3",
+            "config": "bafkreiflr4ja4nzonpzdnmdgbdtzg56yywoxsbac2sajekmwd4vt4fwkxa",
+            "image": "QmWc5nsQgjWyZND94s1XrMvDnLkp9SdnuSAZEmLnF4j9zL"
+        },
+        {
+            "assetid": 2929240362,
+            "name": "Ulzrok",
+            "url": "ipfs://bafkreigcefinrdjnvhjzgf7oqejvbkzuxmuv2bjniwsiws43l3k73n7doa#arc3",
+            "config": "bafkreigcefinrdjnvhjzgf7oqejvbkzuxmuv2bjniwsiws43l3k73n7doa",
+            "image": "QmXwCZzUqFgq6m85Cbfcku3w2SrYypfi12SRGX8ii6Hfss"
+        },
+        {
+            "assetid": 2929240364,
+            "name": "Quazil",
+            "url": "ipfs://bafkreifqx7rpxnypokxtwhttqotw7ypghoymghxherkwflkttvpcpb46wq#arc3",
+            "config": "bafkreifqx7rpxnypokxtwhttqotw7ypghoymghxherkwflkttvpcpb46wq",
+            "image": "QmRXx2z2wJTpkFxYLUGPoMtoGqLDG4NfQcn5qPC7FtsF8U"
+        },
+        {
+            "assetid": 2929240380,
+            "name": "Surnok",
+            "url": "ipfs://bafkreidcs2f4r3oyvjqehyuxze7cjxz2gramzoiomscabfberpatxebtx4#arc3",
+            "config": "bafkreidcs2f4r3oyvjqehyuxze7cjxz2gramzoiomscabfberpatxebtx4",
+            "image": "QmZwdEyuYGGZgjxrbYU9f4fZtNZFxxRa8EcwakdLBVLe7g"
+        },
+        {
+            "assetid": 2929240382,
+            "name": "Vrallax",
+            "url": "ipfs://bafkreicvt4ma5tozu34uwnaxdvv2ovn263i5brpuuljc26hpsbyxrkpmla#arc3",
+            "config": "bafkreicvt4ma5tozu34uwnaxdvv2ovn263i5brpuuljc26hpsbyxrkpmla",
+            "image": "QmPkTXzivHTMKFC1dgaNxG66vJqNvxrBFTkSHnZddQsPE4"
+        },
+        {
+            "assetid": 2929240384,
+            "name": "Drekon",
+            "url": "ipfs://bafkreiaac5x7l66rxlm7xouph2rc5lstgw3sqauofrspdh45gpefc3n5ie#arc3",
+            "config": "bafkreiaac5x7l66rxlm7xouph2rc5lstgw3sqauofrspdh45gpefc3n5ie",
+            "image": "Qmae6jNLe6JrkSuLD1qBxdo3LYYPnCbRvFcSkvCuR3ZMsZ"
+        },
+        {
+            "assetid": 2929240386,
+            "name": "Thymor",
+            "url": "ipfs://bafkreifh7fjqdzbyw3jv7znyckku5nipzu42o3swu7lrgd37pkdxdsajp4#arc3",
+            "config": "bafkreifh7fjqdzbyw3jv7znyckku5nipzu42o3swu7lrgd37pkdxdsajp4",
+            "image": "QmSzKwxBicZ6mtGVRnrnZaohikN4jBfJZRrT98eybXo6y6"
+        },
+        {
+            "assetid": 2929240389,
+            "name": "Kalzun",
+            "url": "ipfs://bafkreihbuiok5rytxyqpzgmfvoikzjrz5tfduaiejtdsecuwr2xatw7vpi#arc3",
+            "config": "bafkreihbuiok5rytxyqpzgmfvoikzjrz5tfduaiejtdsecuwr2xatw7vpi",
+            "image": "QmSPCBUbHyUP3QacTXoKxxqkCA5mTebiGNnoGVsVEsFDun"
+        },
+        {
+            "assetid": 2929240391,
+            "name": "Orvyn",
+            "url": "ipfs://bafkreihvvg4aqop4kwi27pap6gksunim7lhjqin7mdn5kl2rj6ucap4yqe#arc3",
+            "config": "bafkreihvvg4aqop4kwi27pap6gksunim7lhjqin7mdn5kl2rj6ucap4yqe",
+            "image": "QmZK57viQxPUnPFzvwYhUzqFDyqohQ1Q7VsZ9wxaw1TVrk"
+        },
+        {
+            "assetid": 2929240393,
+            "name": "Nemrak",
+            "url": "ipfs://bafkreibzjr2c6qatuhxocvbxs5q4lkvf5ryflhnxdnvukqmtlthfpzlfbe#arc3",
+            "config": "bafkreibzjr2c6qatuhxocvbxs5q4lkvf5ryflhnxdnvukqmtlthfpzlfbe",
+            "image": "QmQf5yvtnPqZ7hjvrtz3EPGw57ojpp4ccJjZdaWJxw5ETT"
+        },
+        {
+            "assetid": 2929240395,
+            "name": "Zelkos",
+            "url": "ipfs://bafkreifux5jzmb2im2c57dpre6mti5oz3r3dnoo2kwkl5dcyzij5qtu3aq#arc3",
+            "config": "bafkreifux5jzmb2im2c57dpre6mti5oz3r3dnoo2kwkl5dcyzij5qtu3aq",
+            "image": "QmXiyrCf5Cz3f6JbEr4hVj9ewjnuUDo9h9LFZB7chJ78SE"
+        },
+        {
+            "assetid": 2929240397,
+            "name": "Karnyx",
+            "url": "ipfs://bafkreif55vpwaep6jbhjcgbdmoiqcnva6fpqfjvcv2fz2q4yehonjvr23y#arc3",
+            "config": "bafkreif55vpwaep6jbhjcgbdmoiqcnva6fpqfjvcv2fz2q4yehonjvr23y",
+            "image": "QmcyvERgsmKNFDeLCasg97dQx2EcjZPoCZQxytmHv9pjYD"
+        },
+        {
+            "assetid": 2929240399,
+            "name": "Tronix",
+            "url": "ipfs://bafkreid7b5l6vvtdyzl57ibz6gweqzt76hclant66r2vgeidjnhgcna3eu#arc3",
+            "config": "bafkreid7b5l6vvtdyzl57ibz6gweqzt76hclant66r2vgeidjnhgcna3eu",
+            "image": "QmdrEJ5KaNoY5owPsjz63B2g5jFQWv9Z6MqcVDxHCeuX3v"
+        },
+        {
+            "assetid": 2929240401,
+            "name": "Uralon",
+            "url": "ipfs://bafkreib3zo3myb6io5qrbu3tiqhj4aiyzr7pnn756tyawtwq2el536rypm#arc3",
+            "config": "bafkreib3zo3myb6io5qrbu3tiqhj4aiyzr7pnn756tyawtwq2el536rypm",
+            "image": "QmVMurj5ZP18bX7b7vHionXsjBtwo46zw6kYzDvZsYNT6p"
+        },
+        {
+            "assetid": 2929240403,
+            "name": "Valdox",
+            "url": "ipfs://bafkreiegrwujup6rphb4lq4f2ufd6gm4j2k2zs3spwrimy6lpdt4bdi3my#arc3",
+            "config": "bafkreiegrwujup6rphb4lq4f2ufd6gm4j2k2zs3spwrimy6lpdt4bdi3my",
+            "image": "QmQjptc6ZefQQVw2ajnu3gZn41bYVSUPnPDyUh8oVfkYYG"
+        },
+        {
+            "assetid": 2929240405,
+            "name": "Xarniv",
+            "url": "ipfs://bafkreidgriq6wag3bqm3r5h7g3zlcsbetan4r3nhkf3dgerm4v3gziv43i#arc3",
+            "config": "bafkreidgriq6wag3bqm3r5h7g3zlcsbetan4r3nhkf3dgerm4v3gziv43i",
+            "image": "QmcP2GuW6potNHYX44F6teCBQZpsah8gZmL8944fgLtaii"
+        },
+        {
+            "assetid": 2929240407,
+            "name": "Fraxil",
+            "url": "ipfs://bafkreihzsza7ld3kwcr3vitusou33dy4rrwpprtmqcrxeuakh6lg6pbepe#arc3",
+            "config": "bafkreihzsza7ld3kwcr3vitusou33dy4rrwpprtmqcrxeuakh6lg6pbepe",
+            "image": "QmPjGhGgYMVLckGSbwBEKum27saBAHwUpVRixRicpGbF81"
+        },
+        {
+            "assetid": 2929240409,
+            "name": "Zephar",
+            "url": "ipfs://bafkreibv7ip3tluyly2ugz3xoeeerdoqh7kkb35iv6vdzlcf2cq2hf74iu#arc3",
+            "config": "bafkreibv7ip3tluyly2ugz3xoeeerdoqh7kkb35iv6vdzlcf2cq2hf74iu",
+            "image": "Qmedjsq2vnnCjFxJ7tLtD8xtsvyK6QAF8Ft7ZXCiyC6Fuf"
+        },
+        {
+            "assetid": 2929240411,
+            "name": "Nuxaro",
+            "url": "ipfs://bafkreiakxccrn2gzammrzelh7enjscqjcozizp7x36x6eskggznzjtxnim#arc3",
+            "config": "bafkreiakxccrn2gzammrzelh7enjscqjcozizp7x36x6eskggznzjtxnim",
+            "image": "QmeBtZg7dRQyjtQXkFJZaMCwGPCfYtX3ksoYggxtXCoD4K"
+        },
+        {
+            "assetid": 2929240414,
+            "name": "Jirvok",
+            "url": "ipfs://bafkreia36zu4qpvih43i4647igbjbdfkepyeu543m6jwo2b5xokjaj4a6m#arc3",
+            "config": "bafkreia36zu4qpvih43i4647igbjbdfkepyeu543m6jwo2b5xokjaj4a6m",
+            "image": "QmWamdCEY5Uvd6Mu1wZYX6kxXcncWLUgNKWwZNDEH7EL5f"
+        },
+        {
+            "assetid": 2929240416,
+            "name": "Trovon",
+            "url": "ipfs://bafkreiczbwdqre5trblhyaweizz6dp3476wnbbvllivrfnb62eiel2hcmy#arc3",
+            "config": "bafkreiczbwdqre5trblhyaweizz6dp3476wnbbvllivrfnb62eiel2hcmy",
+            "image": "QmfSz73t7BUfgNiPEreQagJh983oDK6yjofbxqsGPBFg4D"
+        },
+        {
+            "assetid": 2929240418,
+            "name": "Yalvor",
+            "url": "ipfs://bafkreiem2g5n3jpwmg33hehwxet7mi7v6qu2zbtiud756njqn644iqo7qu#arc3",
+            "config": "bafkreiem2g5n3jpwmg33hehwxet7mi7v6qu2zbtiud756njqn644iqo7qu",
+            "image": "Qmef65sKRnTDz4X8357a6uECwz8qent3u7fHUwUbnHni2s"
+        },
+        {
+            "assetid": 2929240420,
+            "name": "Kyvren",
+            "url": "ipfs://bafkreialvcm2whpdqpd3v44ok4quahi42yyhy6agry6bbkgyfqhqwz7dme#arc3",
+            "config": "bafkreialvcm2whpdqpd3v44ok4quahi42yyhy6agry6bbkgyfqhqwz7dme",
+            "image": "QmZfG23XQb9AyTuaxJVF6peyjhkCxRD43P9bMDTyxfx3Ey"
+        },
+        {
+            "assetid": 2929240422,
+            "name": "Zymark",
+            "url": "ipfs://bafkreib5aqxeug4tces7pfm5ofpwojurhhgogtg6vjeccxy2lgith4kupu#arc3",
+            "config": "bafkreib5aqxeug4tces7pfm5ofpwojurhhgogtg6vjeccxy2lgith4kupu",
+            "image": "QmNYp2qvHm7DQmK2bUx8jtH14zyiYzseH1aYE2GNCbNhJf"
+        },
+        {
+            "assetid": 2929240424,
+            "name": "Drakor",
+            "url": "ipfs://bafkreiepn5wipi7aagu6mtysya5eto2joonllklasngc5ybmohoxa2ntsa#arc3",
+            "config": "bafkreiepn5wipi7aagu6mtysya5eto2joonllklasngc5ybmohoxa2ntsa",
+            "image": "QmVCPnybb32DdgQLjfhQAKzsH8T1SWUGh2W5N8zqbSUD5V"
+        },
+        {
+            "assetid": 2929240426,
+            "name": "Verlax",
+            "url": "ipfs://bafkreicltuimc7tdru3yd6we3e6z7fejnchnmkksmdldv54agguzvhpwp4#arc3",
+            "config": "bafkreicltuimc7tdru3yd6we3e6z7fejnchnmkksmdldv54agguzvhpwp4",
+            "image": "QmPeAwoPQtpqAX8b3ijiy7NtNkWGoq2oPYeRkHFbkaeC1q"
+        },
+        {
+            "assetid": 2929240434,
+            "name": "Ulneth",
+            "url": "ipfs://bafkreif5vgfgbnchwajadnwojruktglwqusrcg54vfzi3r7gns4bu4lvc4#arc3",
+            "config": "bafkreif5vgfgbnchwajadnwojruktglwqusrcg54vfzi3r7gns4bu4lvc4",
+            "image": "QmeGa65wJaDfycgAz245n9qx6gCzT5P3J8pLVC6bmwbrm8"
+        },
+        {
+            "assetid": 2929240436,
+            "name": "Othurx",
+            "url": "ipfs://bafkreif7vjp2nbbektis3uv7pfk3pzfggrgzli6vusainq6uvffqyvc7qi#arc3",
+            "config": "bafkreif7vjp2nbbektis3uv7pfk3pzfggrgzli6vusainq6uvffqyvc7qi",
+            "image": "QmQPbLTG28gL4bceyHaASKHujhDgUyG9KXVrvB9mZ9v9Qh"
+        },
+        {
+            "assetid": 2929240438,
+            "name": "Grovax",
+            "url": "ipfs://bafkreibvgqwf6lqyulrvictvwwrktiha5xq3xxu5yu7lmwvtzgojdxe35a#arc3",
+            "config": "bafkreibvgqwf6lqyulrvictvwwrktiha5xq3xxu5yu7lmwvtzgojdxe35a",
+            "image": "Qmb79u7VTmtP56xgW5jqCttddFk2i9ZdtzRXH8fAsGx5BA"
+        },
+        {
+            "assetid": 2929240440,
+            "name": "Marnix",
+            "url": "ipfs://bafkreih6yejewz2lqwvpojzladmrt4nqm23ehblustys673dtx2446ktgi#arc3",
+            "config": "bafkreih6yejewz2lqwvpojzladmrt4nqm23ehblustys673dtx2446ktgi",
+            "image": "QmYb9ATimidh8hrj64FpwTYikeU7tcmoMe9PUg51uBVEkP"
+        },
+        {
+            "assetid": 2929240442,
+            "name": "Thronal",
+            "url": "ipfs://bafkreihq2vp5q5jiwf23p5cl5ef6obun76gig5smack6yjppf5amo63rrq#arc3",
+            "config": "bafkreihq2vp5q5jiwf23p5cl5ef6obun76gig5smack6yjppf5amo63rrq",
+            "image": "QmVYVDbhae5LNidhxfT6WtsezSdd9CYUGAMAYhqknYBGQv"
+        },
+        {
+            "assetid": 2929240444,
+            "name": "Vyrelk",
+            "url": "ipfs://bafkreigfr7oqeemf7b5qxdjhp2w2n7hkavstzlbnqd2zoteelmapoovslm#arc3",
+            "config": "bafkreigfr7oqeemf7b5qxdjhp2w2n7hkavstzlbnqd2zoteelmapoovslm",
+            "image": "QmcsZngqFAuDEPzKSrVxnWTM1f96bTNAA4RVLmtktxSfau"
+        },
+        {
+            "assetid": 2929240446,
+            "name": "Zarnyx",
+            "url": "ipfs://bafkreihcyh57engragodg6qyfeqvl4ltdmc4f25ryhde3k3ctsria4ijlq#arc3",
+            "config": "bafkreihcyh57engragodg6qyfeqvl4ltdmc4f25ryhde3k3ctsria4ijlq",
+            "image": "QmPJtR9VoP8ud5hc2BUgaeB4RubT8LjCtbDDwnPQxuSpLP"
+        },
+        {
+            "assetid": 2929240448,
+            "name": "Loryth",
+            "url": "ipfs://bafkreicxapfk3jqm5njb4rm73ogem2pfbkv6ahh7f6dm3xomcgwlsub4uu#arc3",
+            "config": "bafkreicxapfk3jqm5njb4rm73ogem2pfbkv6ahh7f6dm3xomcgwlsub4uu",
+            "image": "QmSh4MfzcGjb19Vsw9MPsdmBYyg5BCCMw6pF97pVaDteiV"
+        },
+        {
+            "assetid": 2929240452,
+            "name": "Xentur",
+            "url": "ipfs://bafkreibxjrxgldp6hcj3zr534jypnzv242d4h75cf3ymvjipd2wnruxrfa#arc3",
+            "config": "bafkreibxjrxgldp6hcj3zr534jypnzv242d4h75cf3ymvjipd2wnruxrfa",
+            "image": "QmdC2qw8pwrGbdEvyCKsF6TXBtmpQuGeEppFwEHxemsrP2"
+        },
+        {
+            "assetid": 2929240459,
+            "name": "Omvron",
+            "url": "ipfs://bafkreidhtjcwpc2ofp3kjdxc2pgmd3ricbnjtw64c2pxgmrbzvxi5q43gi#arc3",
+            "config": "bafkreidhtjcwpc2ofp3kjdxc2pgmd3ricbnjtw64c2pxgmrbzvxi5q43gi",
+            "image": "QmZFMVZL8gPD3cCVaBrPYJv2Tqub3N16RSwcba9zGYvmgC"
+        },
+        {
+            "assetid": 2929240464,
+            "name": "Dralix",
+            "url": "ipfs://bafkreiccayhh6gpxbn7e5ppqidujmwd6knuiwjceixx27g54rugc3e5hxu#arc3",
+            "config": "bafkreiccayhh6gpxbn7e5ppqidujmwd6knuiwjceixx27g54rugc3e5hxu",
+            "image": "QmXoWgxJMqmytnkd9REekDr2w8Vc3geZHp8rL6BGLoGN6B"
+        },
+        {
+            "assetid": 2929240473,
+            "name": "Kroven",
+            "url": "ipfs://bafkreihtyptv6bfncknk65joyvwxvc22434ijdtaz5625cijgjaetvxr6a#arc3",
+            "config": "bafkreihtyptv6bfncknk65joyvwxvc22434ijdtaz5625cijgjaetvxr6a",
+            "image": "QmS9wcFpZgbzyHfoXztDYKJCh6s9S9CmwENnmvKitNSiW1"
+        },
+        {
+            "assetid": 2929240475,
+            "name": "Yurnak",
+            "url": "ipfs://bafkreihx57di5vndp3n4hekbtjpun2wqshgd4ojobvy7awq254ljttzksa#arc3",
+            "config": "bafkreihx57di5vndp3n4hekbtjpun2wqshgd4ojobvy7awq254ljttzksa",
+            "image": "QmeeGTeXpW2CWDJeBgoYGi9o9phmg2RqCThU45Xi7xJwGw"
+        },
+        {
+            "assetid": 2929240477,
+            "name": "Zevral",
+            "url": "ipfs://bafkreihy57zxv4mkuu2j2xd6qkrqultoo7ksnz5uoqhsnhv5zmncd5g7tu#arc3",
+            "config": "bafkreihy57zxv4mkuu2j2xd6qkrqultoo7ksnz5uoqhsnhv5zmncd5g7tu",
+            "image": "QmW7g2KPnkE2sBipQrExeBuaayE1BsnbhcN6R7xuXTechh"
+        },
+        {
+            "assetid": 2929240480,
+            "name": "Tarnyx",
+            "url": "ipfs://bafkreifjak3t43gb2mpvvmgu2ypeuhrn6okmq7vdhajomxzdxs27yecfui#arc3",
+            "config": "bafkreifjak3t43gb2mpvvmgu2ypeuhrn6okmq7vdhajomxzdxs27yecfui",
+            "image": "Qmdj5QTE8LVJL5zTA65MfbDfGt4gdWGHH2vGEpSfQn3Zwg"
+        },
+        {
+            "assetid": 2929240482,
+            "name": "Ixmora",
+            "url": "ipfs://bafkreic4hstykphdyae5jzghmcqyluz42uwyb2pbk6yg4qmxxssvptvbwm#arc3",
+            "config": "bafkreic4hstykphdyae5jzghmcqyluz42uwyb2pbk6yg4qmxxssvptvbwm",
+            "image": "QmQ68PbZApDuMTeJp45xX6aj6Th6W8YeUFMf5taXm88BwV"
+        },
+        {
+            "assetid": 2929240484,
+            "name": "Quarnix",
+            "url": "ipfs://bafkreibbbb3ysk4i6n4euh4x5bawkarlmcgzzqq6ykjbdqchee4ksb6lyi#arc3",
+            "config": "bafkreibbbb3ysk4i6n4euh4x5bawkarlmcgzzqq6ykjbdqchee4ksb6lyi",
+            "image": "QmUfqGwArw7pEH3JBFkn4pVJRFii7YP8xN8KpyhLsPFgaS"
+        },
+        {
+            "assetid": 2929240486,
+            "name": "Zylvon",
+            "url": "ipfs://bafkreigvt76p3ya3qj6liqhk6sxui2jn2r5gwjv7wf3xfgtsxhdt2gxc2y#arc3",
+            "config": "bafkreigvt76p3ya3qj6liqhk6sxui2jn2r5gwjv7wf3xfgtsxhdt2gxc2y",
+            "image": "QmPi3YbEbqWPyKR16r723vLQvkkKH2XHa5PGxDsCiQ6TTV"
+        },
+        {
+            "assetid": 2929240488,
+            "name": "Urovix",
+            "url": "ipfs://bafkreicecrqgy5nzvyhnn4epdakfwlm4pwpgudrebgmit45nfn6n2364aq#arc3",
+            "config": "bafkreicecrqgy5nzvyhnn4epdakfwlm4pwpgudrebgmit45nfn6n2364aq",
+            "image": "QmY33DbkisnpFAV5VyPMYFoJWrwWWEQz6cZ7YuKozLRP2y"
+        },
+        {
+            "assetid": 2929240491,
+            "name": "Norjel",
+            "url": "ipfs://bafkreiarptak2j3thomn55xvsoicm6nscuvc53bzc5azff4pxv4bu6vc3u#arc3",
+            "config": "bafkreiarptak2j3thomn55xvsoicm6nscuvc53bzc5azff4pxv4bu6vc3u",
+            "image": "QmemxeHdLLeee4rGFJza1nySiLrVF9qnzmh1bRV39fmFyp"
+        },
+        {
+            "assetid": 2929240493,
+            "name": "Lazrak",
+            "url": "ipfs://bafkreiaclolctnsohe65zlvpz6hileoj4djrxgyriwo2cjmggphhn5gr5a#arc3",
+            "config": "bafkreiaclolctnsohe65zlvpz6hileoj4djrxgyriwo2cjmggphhn5gr5a",
+            "image": "QmY5yCrEN2xCqgrExiatKGDY3Bb7wyJfhkycWB9N17FCGG"
+        },
+        {
+            "assetid": 2929240495,
+            "name": "Thilok",
+            "url": "ipfs://bafkreihxm2cz2h5po2h5ehagosx4fashnp6gymvlfq2g2g2jlzhw4xxgw4#arc3",
+            "config": "bafkreihxm2cz2h5po2h5ehagosx4fashnp6gymvlfq2g2g2jlzhw4xxgw4",
+            "image": "QmW4TUau5AxPi7vLZFoCJnHXSQfevofK6YgagcJ2Zokbcu"
+        },
+        {
+            "assetid": 2929240497,
+            "name": "Jarvox",
+            "url": "ipfs://bafkreibruvwhdburtyk7wui6rr6buql3elfzqouvvihsiyaiyjndmqxfca#arc3",
+            "config": "bafkreibruvwhdburtyk7wui6rr6buql3elfzqouvvihsiyaiyjndmqxfca",
+            "image": "QmbMF1vAwF7bqS9SxLgqdDxsAfTLBnVFAePMgjStSj9ycR"
+        },
+        {
+            "assetid": 2929240510,
+            "name": "Brylok",
+            "url": "ipfs://bafkreidot35cdwrj4nivzebmdgnindipbht33upke72rcpgyqcvn3ocaqm#arc3",
+            "config": "bafkreidot35cdwrj4nivzebmdgnindipbht33upke72rcpgyqcvn3ocaqm",
+            "image": "QmdsicWdQi8pT6xFqHXiAdJgddaWgbYVCjiryyYawZqywT"
+        },
+        {
+            "assetid": 2929240528,
+            "name": "Uzorak",
+            "url": "ipfs://bafkreieb2smc553tfmw74pq2rqpetkmj3c3z45suvmmfom4naysq7f3hle#arc3",
+            "config": "bafkreieb2smc553tfmw74pq2rqpetkmj3c3z45suvmmfom4naysq7f3hle",
+            "image": "QmXiEryNkNPpi2sceX6bxuRWiaXzqsug9VTh6W9qkz54FG"
+        },
+        {
+            "assetid": 2929240532,
+            "name": "Nelmor",
+            "url": "ipfs://bafkreihqykerqxgzdr3gzbclj33dpa2tqx2tbiohn7ugdo3x4udmarvqwe#arc3",
+            "config": "bafkreihqykerqxgzdr3gzbclj33dpa2tqx2tbiohn7ugdo3x4udmarvqwe",
+            "image": "QmaxpK9jCzLoUHMAVcsJTFMvHigQw1BdjEF19KgY9Aew9d"
+        },
+        {
+            "assetid": 2929240534,
+            "name": "Zylmar",
+            "url": "ipfs://bafkreidp3brcvety7umkjtecxgia3enqz2vlbcv6byihedeyzntfbctize#arc3",
+            "config": "bafkreidp3brcvety7umkjtecxgia3enqz2vlbcv6byihedeyzntfbctize",
+            "image": "QmVawXg7asUVJpPMFWSByXrqRQZC1TDzoj6gLfMw9HohUY"
+        },
+        {
+            "assetid": 2929240536,
+            "name": "Gralix",
+            "url": "ipfs://bafkreidg4pagqr3vccakfjjvhirce7ioc5jeb6hr5bsaz5celsufi6cqfm#arc3",
+            "config": "bafkreidg4pagqr3vccakfjjvhirce7ioc5jeb6hr5bsaz5celsufi6cqfm",
+            "image": "QmRrXRkPnQHFAPRbu7Pwnrh5JzArE9ZxZMt1ZBRAZiw1Uf"
+        },
+        {
+            "assetid": 2929240539,
+            "name": "Ovrath",
+            "url": "ipfs://bafkreidd6xfsd5ejge6qzmjdnbzucawm3ifx2lzbmm4rytpa7aka5wb3qy#arc3",
+            "config": "bafkreidd6xfsd5ejge6qzmjdnbzucawm3ifx2lzbmm4rytpa7aka5wb3qy",
+            "image": "QmREFP8usFk3HcGTEJykKoWbQFA8DCQkU9E6QvHNpmV2hv"
+        },
+        {
+            "assetid": 2929240541,
+            "name": "Myvron",
+            "url": "ipfs://bafkreib36l2lwuux2o3k2sfnx6e2uh5afhs4vvxcjnlzkgtx74xyo2xzm4#arc3",
+            "config": "bafkreib36l2lwuux2o3k2sfnx6e2uh5afhs4vvxcjnlzkgtx74xyo2xzm4",
+            "image": "QmTZg18ZeeBoyqxxJMdmZgJC4n5hTGnGYkuYuxHjQAJxXM"
+        },
+        {
+            "assetid": 2929240544,
+            "name": "Jyxora",
+            "url": "ipfs://bafkreicovo5cp5ibmlxk2yhar2rm6fexxs3arlykzfcl5s6bgk2t25df6u#arc3",
+            "config": "bafkreicovo5cp5ibmlxk2yhar2rm6fexxs3arlykzfcl5s6bgk2t25df6u",
+            "image": "QmNtVg6YymwNe31AfDoDpH75kZ8U3EckURtN3LAySWgAoz"
+        },
+        {
+            "assetid": 2929240547,
+            "name": "Volkar",
+            "url": "ipfs://bafkreiesf3gys5t664crq5nihovib6mwqg2iu5uw4bdxc5ceq5bpicc6qa#arc3",
+            "config": "bafkreiesf3gys5t664crq5nihovib6mwqg2iu5uw4bdxc5ceq5bpicc6qa",
+            "image": "QmbNQHNYo8FBscWDMdgjvScyxu7ErFC4Mq5tWzVkzXkHkE"
+        },
+        {
+            "assetid": 2929240549,
+            "name": "Thornix",
+            "url": "ipfs://bafkreiarj2sdl4vho2u5ri7mv6bybtbya6ocy6edu2t3xurj5oaagcsdxe#arc3",
+            "config": "bafkreiarj2sdl4vho2u5ri7mv6bybtbya6ocy6edu2t3xurj5oaagcsdxe",
+            "image": "QmVgzcWrUCAhuZSkjDV4vm7F417uWLyLAJ2kDDWmvYmvwn"
+        },
+        {
+            "assetid": 2929240560,
+            "name": "Ruzvek",
+            "url": "ipfs://bafkreidibpgprw4ns4b4lirr2atc7gjz5zgyjz6d7jyhvbqlmb6dui6mde#arc3",
+            "config": "bafkreidibpgprw4ns4b4lirr2atc7gjz5zgyjz6d7jyhvbqlmb6dui6mde",
+            "image": "QmWJocGPQsUWDQEFcTYJ7Urg4iYFEHRS5wYh6SqAaYzYhD"
+        },
+        {
+            "assetid": 2929240562,
+            "name": "Kylmar",
+            "url": "ipfs://bafkreiht5vacbtcwn23mvwzf6isdfatjepy7bqmposulz3pnheff6niqou#arc3",
+            "config": "bafkreiht5vacbtcwn23mvwzf6isdfatjepy7bqmposulz3pnheff6niqou",
+            "image": "QmdXkhfoV6bmBwAq8QgxKJwoEZjKvqB4oSEJ2k7WtURkXy"
+        },
+        {
+            "assetid": 2929240565,
+            "name": "Gorvak",
+            "url": "ipfs://bafkreicbdcaj2qxbylufoxeiunoasfircrslfzzbzz7coucpk5xrijl7ly#arc3",
+            "config": "bafkreicbdcaj2qxbylufoxeiunoasfircrslfzzbzz7coucpk5xrijl7ly",
+            "image": "QmNWGC1AevmR6nRPGrXYYm8wcudQBn9P7xWfFHrjJGoy3p"
+        },
+        {
+            "assetid": 2929240567,
+            "name": "Trelnor",
+            "url": "ipfs://bafkreidb6raktpdxdy5zhjny6kcyinvutmrzybeqniqteh2xqwdl674br4#arc3",
+            "config": "bafkreidb6raktpdxdy5zhjny6kcyinvutmrzybeqniqteh2xqwdl674br4",
+            "image": "QmSkybAKFyfedgWDn9Mm73if9Zhh7Yskha1bTe3a3LH9Vs"
+        },
+        {
+            "assetid": 2929240569,
+            "name": "Zilvex",
+            "url": "ipfs://bafkreiej4mwsjuoenahjjv4hvmkrnudwrqyubl4r5lovkh4qhs4s33rebu#arc3",
+            "config": "bafkreiej4mwsjuoenahjjv4hvmkrnudwrqyubl4r5lovkh4qhs4s33rebu",
+            "image": "QmUKiP36F9rzJKdJkgK8U7HCzpzsXCxRdKyeubFLCQK7tZ"
+        },
+        {
+            "assetid": 2929240571,
+            "name": "Ogron",
+            "url": "ipfs://bafkreicdndhccz24hcfisus5c2v7refeu5ol4fdk6b44fwlzbj4gy7oyr4#arc3",
+            "config": "bafkreicdndhccz24hcfisus5c2v7refeu5ol4fdk6b44fwlzbj4gy7oyr4",
+            "image": "QmPAMPBYztJCbk5AQaA2SBArzqrNYas43jcat5Nud7KQWE"
+        },
+        {
+            "assetid": 2929240573,
+            "name": "Flarex",
+            "url": "ipfs://bafkreieadiq5j7dsoj5h4mj4c7twf2ia7re4rr5gk5pnezwivpke4tgntq#arc3",
+            "config": "bafkreieadiq5j7dsoj5h4mj4c7twf2ia7re4rr5gk5pnezwivpke4tgntq",
+            "image": "QmeqJsYcAjW6DpU5aCbuL5BKvXKVCiqWFTsJksofBYmKgh"
+        },
+        {
+            "assetid": 2929240575,
+            "name": "Yekmar",
+            "url": "ipfs://bafkreicvtqvpox7pdbcex7q4oblcrz434ctfqbbsrwcljiwpdhvmbofcxa#arc3",
+            "config": "bafkreicvtqvpox7pdbcex7q4oblcrz434ctfqbbsrwcljiwpdhvmbofcxa",
+            "image": "QmYCyuaULTUCCKHAVQ51eyZHfUWNxuh1rSHkdhVD7z7xbu"
+        },
+        {
+            "assetid": 2929240577,
+            "name": "Zundal",
+            "url": "ipfs://bafkreicwzijixbxz463kg644vtxtypylfpnfxapa7i5xkq2ip72xczwo6m#arc3",
+            "config": "bafkreicwzijixbxz463kg644vtxtypylfpnfxapa7i5xkq2ip72xczwo6m",
+            "image": "QmYwvtrVbGmqb8QYuQ3ACbxbCFrgQiwVGjJkUjojqcS7ag"
+        },
+        {
+            "assetid": 2929240579,
+            "name": "Morvik",
+            "url": "ipfs://bafkreic7m2iqtil3eun4q262ju7es6lpj6gsxkhwlrrhmjpxq2az3p6goi#arc3",
+            "config": "bafkreic7m2iqtil3eun4q262ju7es6lpj6gsxkhwlrrhmjpxq2az3p6goi",
+            "image": "QmfKQ1Xp9KSiSdwxUmnFhD6ETWqwG4EqGiaZqRTMTztp6u"
+        },
+        {
+            "assetid": 2932054516,
+            "name": "Xeron Locator",
+            "url": "ipfs://bafkreigdhiyswgk4oowymjp5ski77pjvfrdckmams2zc5eq5fgreynmtfa#arc3",
+            "config": "bafkreigdhiyswgk4oowymjp5ski77pjvfrdckmams2zc5eq5fgreynmtfa",
+            "image": "bafybeihov7fcn5rurnv3devr7mfqvfqprbkuycxzcsi3tfevxpj76l3h7i"
+        },
+        {
+            "assetid": 2932069432,
+            "name": "Phase Key // Unit 4-Ka",
+            "url": "ipfs://bafkreiewzhfu6rz24nzbeaczg27ib4xr45d5w4nrv34lpalypn2sqrp6tm#arc3",
+            "config": "bafkreiewzhfu6rz24nzbeaczg27ib4xr45d5w4nrv34lpalypn2sqrp6tm",
+            "image": "bafybeidoz4dr5zozgyzveqkfihbq7amam7poumd2lxaal4uiqwgw4ztnpu"
+        },
+        {
+            "assetid": 2932083807,
+            "name": "Core Beacon // Model Vh-9",
+            "url": "ipfs://bafkreieecb4psmkhbou4v6h4frmp4rhg5t4zuhgl3tr7ojz4e4p3i2dn7i#arc3",
+            "config": "bafkreieecb4psmkhbou4v6h4frmp4rhg5t4zuhgl3tr7ojz4e4p3i2dn7i",
+            "image": "bafybeieqqwhmzzi3tpfipubg5n7ei53rp53em65ukyrgb2fxqbccp2hlqq"
+        },
+        {
+            "assetid": 2932087242,
+            "name": "Hydro Reactor Node",
+            "url": "ipfs://bafkreifognyeiopr4bmkm6fkskf4hf62oqudjoeufbjrvlewg42ijfgg4e#arc3",
+            "config": "bafkreifognyeiopr4bmkm6fkskf4hf62oqudjoeufbjrvlewg42ijfgg4e",
+            "image": "bafybeiadewg3pkjnzz7danm7ibywzj2c6xehf3ona5uwbaurscuv24qrou"
+        },
+        {
+            "assetid": 2932091078,
+            "name": "Ancestral Prism",
+            "url": "ipfs://bafkreidng52kqdji5gun5ye4alipuqvvqxz5ti3dgyqi5frizbsk3vtvnm#arc3",
+            "config": "bafkreidng52kqdji5gun5ye4alipuqvvqxz5ti3dgyqi5frizbsk3vtvnm",
+            "image": "bafybeibzp6rpcj5jkyhgrnssfu2m3m6h5skktjsgsnankiysfsraa7lmue"
+        },
+        {
+            "assetid": 2932093304,
+            "name": "Othovian Sigil Plate",
+            "url": "ipfs://bafkreidvk5wf34w5etu5kho4he55x6hj2soybs3cuuz2n7drzutckhvvra#arc3",
+            "config": "bafkreidvk5wf34w5etu5kho4he55x6hj2soybs3cuuz2n7drzutckhvvra",
+            "image": "bafybeigkbiz3vxjk4bk7r2miel7j2i3dtayparxihl6rcbzaryzmf6exbq"
+        },
+        {
+            "assetid": 2932096274,
+            "name": "Rune Seal // Echo Unit",
+            "url": "ipfs://bafkreicdkbul6b3akaxls5d7ccegs7336psfumjhmns7fjtr3oa2ueogrq#arc3",
+            "config": "bafkreicdkbul6b3akaxls5d7ccegs7336psfumjhmns7fjtr3oa2ueogrq",
+            "image": "bafybeifcke2xxcy2q5dl3mq4dhgavwh5sfdtvxjmveeobebetal3bu6y24"
+        },
+        {
+            "assetid": 2932101135,
+            "name": "Void Ring of Ar\u2019Vek",
+            "url": "ipfs://bafkreiavjpjf3mjxnxcmjvchbrklu453i2eir25b5ale266ex2bhud4zua#arc3",
+            "config": "bafkreiavjpjf3mjxnxcmjvchbrklu453i2eir25b5ale266ex2bhud4zua",
+            "image": "bafybeieyiba7jrzrn5ybitgtmqjaye2xsbgxwtau4v4oog3e56odvoqvpq"
+        },
+        {
+            "assetid": 2932410486,
+            "name": "Phase Key // Unit 4-Ka",
+            "url": "ipfs://bafkreiaxzsa5t2szgf6pgodzoiv3co5arx6tcwnd2apaka7pxcpxmzflam#arc3",
+            "config": "bafkreiaxzsa5t2szgf6pgodzoiv3co5arx6tcwnd2apaka7pxcpxmzflam",
+            "image": "bafybeidoz4dr5zozgyzveqkfihbq7amam7poumd2lxaal4uiqwgw4ztnpu"
+        },
+        {
+            "assetid": 2932410490,
+            "name": "Solar Fang Crest",
+            "url": "ipfs://bafkreiaaf2gyxmkj4s7lkzpv3w7noy66lrryjp4tgsg4rh5jkzr5xjeib4#arc3",
+            "config": "bafkreiaaf2gyxmkj4s7lkzpv3w7noy66lrryjp4tgsg4rh5jkzr5xjeib4",
+            "image": "bafybeih7cecu33kyezgt6i7bwy2qosfn2yjiiw3zv263srpche64v555ny"
+        },
+        {
+            "assetid": 2932410498,
+            "name": "Core Beacon // Model Vh-9",
+            "url": "ipfs://bafkreicknyd3ejbb4qrkz4ul2i7heicdk26kofmayhnf5elzvohssz6jbu#arc3",
+            "config": "bafkreicknyd3ejbb4qrkz4ul2i7heicdk26kofmayhnf5elzvohssz6jbu",
+            "image": "bafybeieqqwhmzzi3tpfipubg5n7ei53rp53em65ukyrgb2fxqbccp2hlqq"
+        },
+        {
+            "assetid": 2932410512,
+            "name": "Hydro Reactor Node",
+            "url": "ipfs://bafkreiflcete6lvpz3vqzp5elqw5hzvne4q6j3qr5gdusnblkdje5xwmre#arc3",
+            "config": "bafkreiflcete6lvpz3vqzp5elqw5hzvne4q6j3qr5gdusnblkdje5xwmre",
+            "image": "bafybeiadewg3pkjnzz7danm7ibywzj2c6xehf3ona5uwbaurscuv24qrou"
+        },
+        {
+            "assetid": 2932410519,
+            "name": "Ancestral Prism",
+            "url": "ipfs://bafkreiej4f4f2ic7f6r4vsl7evor6t6mf745q2peob5kz3doue24ykg3e4#arc3",
+            "config": "bafkreiej4f4f2ic7f6r4vsl7evor6t6mf745q2peob5kz3doue24ykg3e4",
+            "image": "bafybeibzp6rpcj5jkyhgrnssfu2m3m6h5skktjsgsnankiysfsraa7lmue"
+        },
+        {
+            "assetid": 2932410521,
+            "name": "Othovian Sigil Plate",
+            "url": "ipfs://bafkreihvlzbl6jkcfpij7fb5r4iu7ze57wdfsnav3rj3sbvrbslsgpdram#arc3",
+            "config": "bafkreihvlzbl6jkcfpij7fb5r4iu7ze57wdfsnav3rj3sbvrbslsgpdram",
+            "image": "bafybeigkbiz3vxjk4bk7r2miel7j2i3dtayparxihl6rcbzaryzmf6exbq"
+        },
+        {
+            "assetid": 2932410523,
+            "name": "Rune Seal // Echo Unit",
+            "url": "ipfs://bafkreibr7rgmchbojuktfcaggml5o3imhyk7ali4seg4kr7p65afwdxn2y#arc3",
+            "config": "bafkreibr7rgmchbojuktfcaggml5o3imhyk7ali4seg4kr7p65afwdxn2y",
+            "image": "bafybeifcke2xxcy2q5dl3mq4dhgavwh5sfdtvxjmveeobebetal3bu6y24"
+        },
+        {
+            "assetid": 2932410525,
+            "name": "Void Ring of Ar\u2019Vek",
+            "url": "ipfs://bafkreibbtkqdwshpt56d6vw2bhr6zrjm6ikmn34x6j4jtkhcosnvsd5hky#arc3",
+            "config": "bafkreibbtkqdwshpt56d6vw2bhr6zrjm6ikmn34x6j4jtkhcosnvsd5hky",
+            "image": "bafybeieyiba7jrzrn5ybitgtmqjaye2xsbgxwtau4v4oog3e56odvoqvpq"
+        },
+        {
+            "assetid": 2932410527,
+            "name": "Xeron Locator",
+            "url": "ipfs://bafkreibbpij2d3mwp56lpv5blt4lxdfgs7c4uhetz64b3pvpkpyg2z72xe#arc3",
+            "config": "bafkreibbpij2d3mwp56lpv5blt4lxdfgs7c4uhetz64b3pvpkpyg2z72xe",
+            "image": "bafybeihov7fcn5rurnv3devr7mfqvfqprbkuycxzcsi3tfevxpj76l3h7i"
+        },
+        {
+            "assetid": 2935126632,
+            "name": "FamToken",
+            "url": "https://filippo.algo.xyz",
+            "image": "https:"
+        },
+        {
+            "assetid": 2938867688,
+            "name": "Krong The Light-Eater",
+            "url": "ipfs://bafkreidlwoaiu755frk6peibojdtbzew64zmdbqau3yd56zdvrb56cccgm#arc3",
+            "config": "bafkreidlwoaiu755frk6peibojdtbzew64zmdbqau3yd56zdvrb56cccgm",
+            "image": "bafybeigjrwqvdlna3fajv4bfj4wuwbubgzi5uzrwla4x72ukyyqastljue"
+        },
+        {
+            "assetid": 2938867690,
+            "name": "Vurak The Rune-Bound",
+            "url": "ipfs://bafkreifkdwbwkhozoxk744b3ansnbccypljc6hze2e3rsadndyuxh5utqq#arc3",
+            "config": "bafkreifkdwbwkhozoxk744b3ansnbccypljc6hze2e3rsadndyuxh5utqq",
+            "image": "bafybeigx6an2u3r46qmv3bkwz5xllixe7ae6z7krqhwqovfuubfdrciz4a"
+        },
+        {
+            "assetid": 2943127042,
+            "name": "Otho $FAM Edition",
+            "url": "ipfs://bafkreidc3yafcfl3flamv6ypdxim3zscb6uuepw4ppg7iu3ssabu32akou#arc3",
+            "config": "bafkreidc3yafcfl3flamv6ypdxim3zscb6uuepw4ppg7iu3ssabu32akou",
+            "image": "bafybeib7rav4fplymzqxkkd2dkt4zhnrbgiovphkhqtwj5mb6xrwfuuzuu"
+        },
+        {
+            "assetid": 2946497373,
+            "name": "Otho Golden $FAM",
+            "url": "ipfs://bafkreif3dacuvkry4lasz44x32f5x64l543f2ufrwuxjqc6pg2ajrkx7u4#arc3",
+            "config": "bafkreif3dacuvkry4lasz44x32f5x64l543f2ufrwuxjqc6pg2ajrkx7u4",
+            "image": "bafybeigioub677rfckcaejzblgw2ixhiqzk3slsx6w7owuedrykyemk56u"
+        },
+        {
+            "assetid": 2946497375,
+            "name": "Otho HyperFam",
+            "url": "ipfs://bafkreihqv4jwkafa77s35vaq245ixtyhrhoexruli3t2rfrvwprqmbjsra#arc3",
+            "config": "bafkreihqv4jwkafa77s35vaq245ixtyhrhoexruli3t2rfrvwprqmbjsra",
+            "image": "bafybeiayvsewafctbvfnw2fijh24afx6rfzmjgqauzzk2jjjlgeizpjq7u"
+        },
+        {
+            "assetid": 2946497377,
+            "name": "Otho FamPooler 100k",
+            "url": "ipfs://bafkreibitretp3zybhp2yq4wjwfr447qfq36mmtbxg3tls6bd7zrgi54dq#arc3",
+            "config": "bafkreibitretp3zybhp2yq4wjwfr447qfq36mmtbxg3tls6bd7zrgi54dq",
+            "image": "bafybeictzdy45nw7tbzkzms4pm7i44s2br3nbnvya26fmry3fzo7yal4pq"
+        },
+        {
+            "assetid": 2946497385,
+            "name": "Otho FamPooler 250k",
+            "url": "ipfs://bafkreigiajqux3bh7md46hnkjrlutkk5f5hp3ffvs3cvhloezsrplntnwe#arc3",
+            "config": "bafkreigiajqux3bh7md46hnkjrlutkk5f5hp3ffvs3cvhloezsrplntnwe",
+            "image": "bafybeig2uzlp6jcx2r4arb37khfmdlq4jfq7pwzrpvxmn3pzikhz4wazwy"
+        },
+        {
+            "assetid": 2946497387,
+            "name": "Otho FamPooler 500k",
+            "url": "ipfs://bafkreihfq2w4ufqdk6w45237t2vgwbllt6bujxsjg6eofe6ljapntemw4i#arc3",
+            "config": "bafkreihfq2w4ufqdk6w45237t2vgwbllt6bujxsjg6eofe6ljapntemw4i",
+            "image": "bafybeiaupjxpgoqnslp4vrine472pm6hckmjmnimg3s7lkaiw34cixsgai"
+        },
+        {
+            "assetid": 2946497392,
+            "name": "Otho & AAA",
+            "url": "ipfs://bafkreiaqp4j3wbnftqqvvgmrj66zqbqhaz3ve7puqpbbesweunzkvq32qa#arc3",
+            "config": "bafkreiaqp4j3wbnftqqvvgmrj66zqbqhaz3ve7puqpbbesweunzkvq32qa",
+            "image": "bafybeiaikubgrmjnnsbvi223whwaxbo3w6vaqpdonfnlaurw7aczi7jchi"
+        },
+        {
+            "assetid": 2946497394,
+            "name": "Otho Sadboi",
+            "url": "ipfs://bafkreia754s3i3gv6fh43wyomibkjmj3vtzgmbxkhe5rsvmom6qwnn7nwy#arc3",
+            "config": "bafkreia754s3i3gv6fh43wyomibkjmj3vtzgmbxkhe5rsvmom6qwnn7nwy",
+            "image": "bafybeidoaqnotcqo7xwpjyauikwixvu6elp4p3pkmmavtaxdytb5cjf26a"
+        },
+        {
+            "assetid": 2946497396,
+            "name": "OthoGent",
+            "url": "ipfs://bafkreielvt3vebovwmgg55oqzucnb37m5tu7bhn2qlivqvkfjipkcebi24#arc3",
+            "config": "bafkreielvt3vebovwmgg55oqzucnb37m5tu7bhn2qlivqvkfjipkcebi24",
+            "image": "bafybeibptn2cey4vprt63rlibenui7wymqppw2gqh77pziqd6qpf4syv7e"
+        },
+        {
+            "assetid": 2946497398,
+            "name": "OthoDiver",
+            "url": "ipfs://bafkreiho3f7qbqe7uleagcx2dif4kgx5qictghor5opulw7mwmmzfzf6hm#arc3",
+            "config": "bafkreiho3f7qbqe7uleagcx2dif4kgx5qictghor5opulw7mwmmzfzf6hm",
+            "image": "bafybeicv5nizrglxe6bt44t3n4mfwxla5knodcgflw6vyecmxhugqjbffm"
+        },
+        {
+            "assetid": 2946497400,
+            "name": "OthoRainy",
+            "url": "ipfs://bafkreif4xnq2jkuj3wpg2lc47tbsufy3eajps2tcnufke23c34qr6u32o4#arc3",
+            "config": "bafkreif4xnq2jkuj3wpg2lc47tbsufy3eajps2tcnufke23c34qr6u32o4",
+            "image": "bafybeiep7heyttkhkd2o5f5elba45edbdw772dk54hxyiprwgjtcx73ooq"
+        },
+        {
+            "assetid": 2946497402,
+            "name": "OthoElder",
+            "url": "ipfs://bafkreicwh5gx2eajulsfdbei4j2zvkcmvs42cwtsljvzlhn37aixv2rlke#arc3",
+            "config": "bafkreicwh5gx2eajulsfdbei4j2zvkcmvs42cwtsljvzlhn37aixv2rlke",
+            "image": "bafybeianxiveoyxdvsnw4j4gnlsh7nw3uqsus5gv2bynyqb7gdk6kghfiu"
+        },
+        {
+            "assetid": 2946497404,
+            "name": "OthoExplorer",
+            "url": "ipfs://bafkreiapgdiqgt3k2ikl33moc7yihg7v7zejzl22v6icfc3nbiahqc2c4e#arc3",
+            "config": "bafkreiapgdiqgt3k2ikl33moc7yihg7v7zejzl22v6icfc3nbiahqc2c4e",
+            "image": "bafybeidupahgorvwjf6w333osuhpf3cn5dhpw3q6356bey7xu52c6gwq5m"
+        },
+        {
+            "assetid": 2946497406,
+            "name": "OthoSushi",
+            "url": "ipfs://bafkreibrqu2jurfgbeowrxyt7ot4idtgiw2e5x4to4ej7x5pdjzsl6gley#arc3",
+            "config": "bafkreibrqu2jurfgbeowrxyt7ot4idtgiw2e5x4to4ej7x5pdjzsl6gley",
+            "image": "bafybeifg7gc32dou4ezbyi7ccdtv7vkbw2z7vubrde7rcoo6cmdqhfynau"
+        },
+        {
+            "assetid": 2946497408,
+            "name": "OthoFire",
+            "url": "ipfs://bafkreicriblayib75u52obhgrh55o2gliz5aqkaec523zoltx3iaa2fvxe#arc3",
+            "config": "bafkreicriblayib75u52obhgrh55o2gliz5aqkaec523zoltx3iaa2fvxe",
+            "image": "bafybeibd7tunum4aq7dia5oc6z5rhkjibzg5cguoerq7dmombgffw5vws4"
+        },
+        {
+            "assetid": 2946497410,
+            "name": "OthoCoder",
+            "url": "ipfs://bafkreia4kbyuscyasonjpwsootpzh2s227qcj6fg4ttx6au6pbowt32qq4#arc3",
+            "config": "bafkreia4kbyuscyasonjpwsootpzh2s227qcj6fg4ttx6au6pbowt32qq4",
+            "image": "bafybeibkzzowmdmvmxqjjch5l3v6qmf263kj72zadfols3rbj5qqj3gocq"
+        },
+        {
+            "assetid": 2946497412,
+            "name": "OthoBandit",
+            "url": "ipfs://bafkreibuuxqca2ofq2jhzlgunhesk4qhzcbj72o4qj2kwnyrj5w4rp4xqy#arc3",
+            "config": "bafkreibuuxqca2ofq2jhzlgunhesk4qhzcbj72o4qj2kwnyrj5w4rp4xqy",
+            "image": "bafybeiaup2f52ldpo43y5gcrpb5usr3tzbb47kmjxjajng4iiesfataomm"
+        },
+        {
+            "assetid": 2947993034,
+            "name": "OthoRampage",
+            "url": "ipfs://bafkreid4w44fs3vxc6a6a6nyyh7gtts5jjcowvp2lx5rqpp3ubo5cyeidm#arc3",
+            "config": "bafkreid4w44fs3vxc6a6a6nyyh7gtts5jjcowvp2lx5rqpp3ubo5cyeidm",
+            "image": "bafybeia3ygv5mh5ive2xtec2nwovxphd2kvtzstedbxucrrfv7trr7s4ky"
+        },
+        {
+            "assetid": 2947993037,
+            "name": "Otho & Marcus",
+            "url": "ipfs://bafkreifgy577vxxaryoptv4s5yl4tmjclw23sfdnkfetgzpprlq6rb4blu#arc3",
+            "config": "bafkreifgy577vxxaryoptv4s5yl4tmjclw23sfdnkfetgzpprlq6rb4blu",
+            "image": "bafybeidwjfla5ubnmoptyctma5if5bt5ruaj5hb6vdfss3caupy6qgvmru"
+        },
+        {
+            "assetid": 2947993039,
+            "name": "OthoFish Island",
+            "url": "ipfs://bafkreicdvfhzgzkkuynua5kyskdqlzsng327eyrsbx5fprxrgkjduizzpq#arc3",
+            "config": "bafkreicdvfhzgzkkuynua5kyskdqlzsng327eyrsbx5fprxrgkjduizzpq",
+            "image": "bafybeia3aiun6jzmb3c5mainarjbbcp23xdppnn423ypw7k3fv53274yli"
+        },
+        {
+            "assetid": 2947993042,
+            "name": "Otho x Ghetto Pigeons",
+            "url": "ipfs://bafkreicss2ka6447dn75ajg3t22laeyzgoilmgk4mwpzl5sh2j34rjz2zq#arc3",
+            "config": "bafkreicss2ka6447dn75ajg3t22laeyzgoilmgk4mwpzl5sh2j34rjz2zq",
+            "image": "bafybeiahh6cxbxhhbjbmis3u7quzb24kqif7ba3mksu6p2eei7v6krg4ve"
+        },
+        {
+            "assetid": 2948029330,
+            "name": "Otho x AlgoMembers",
+            "url": "ipfs://bafkreihioh3tjv7mv7c44qilozajud4sobsip4l62gztuyhb7vfuzbwyxq#arc3",
+            "config": "bafkreihioh3tjv7mv7c44qilozajud4sobsip4l62gztuyhb7vfuzbwyxq",
+            "image": "bafybeifn6k2zykhxfbibr2clfrzsq4ea4p4tvvupw7yqibt5qdt5wh5fxa"
+        },
+        {
+            "assetid": 2948029337,
+            "name": "Otho Nightcore",
+            "url": "ipfs://bafkreidtap4uu7qwt3uzdsyw5yo7vovzwabo34ledchq3mumkxgl4otq6i#arc3",
+            "config": "bafkreidtap4uu7qwt3uzdsyw5yo7vovzwabo34ledchq3mumkxgl4otq6i",
+            "image": "bafybeib6fmnpg67cmsiv7k6rloksqedzuxnd24ppu34cirkjfqil6ztv7q"
+        },
+        {
+            "assetid": 2948029339,
+            "name": "Otho & The Famlets",
+            "url": "ipfs://bafkreid6zv73ur3enb4kz2luwax4gwtgvqzo7kwndsflftsjsfwkmkoi3y#arc3",
+            "config": "bafkreid6zv73ur3enb4kz2luwax4gwtgvqzo7kwndsflftsjsfwkmkoi3y",
+            "image": "bafybeiaso2x67aygxc6i3uzpibnhmhagklppwibrgb3oofcindrddgum6y"
+        },
+        {
+            "assetid": 2948029343,
+            "name": "Famlets Genesis",
+            "url": "ipfs://bafkreig37iqgh6vyjqhfpp27km4pas6njkzo7d35bdgomeib3n5e4kh6li#arc3",
+            "config": "bafkreig37iqgh6vyjqhfpp27km4pas6njkzo7d35bdgomeib3n5e4kh6li",
+            "image": "bafybeig6q5m2gk2a2ruqy3ybjqc3lrknmzm5rc6dgwroehszxsytydr3xm"
+        },
+        {
+            "assetid": 2948658449,
+            "name": "Famlets Oddities",
+            "url": "ipfs://bafkreifkvknf4bfqgpa6aofpudhshyikgxba5hsp2qj2ki6csvvyjjktsq#arc3",
+            "config": "bafkreifkvknf4bfqgpa6aofpudhshyikgxba5hsp2qj2ki6csvvyjjktsq",
+            "image": "bafybeihnvioawm5ubwfvmdj4ovslddqh7eezegpmexspfa6c66u2mxbuba"
+        },
+        {
+            "assetid": 2948658452,
+            "name": "Famlets in Orbit",
+            "url": "ipfs://bafkreig5d7ohpd6m3g6mfroplhmy22iuo76zjhy2c2yezddlhxvpgnwcza#arc3",
+            "config": "bafkreig5d7ohpd6m3g6mfroplhmy22iuo76zjhy2c2yezddlhxvpgnwcza",
+            "image": "bafybeifpkqbdjwmuw5x75rbhp7ag7736aaqiu6ftl3jgohd4m2u6zlzybq"
+        },
+        {
+            "assetid": 2948658454,
+            "name": "Otho Doomscroll",
+            "url": "ipfs://bafkreieitwdwwuhal3ibrc4vaq37lxseqkg6z2brpvobeclbewdibxhi2u#arc3",
+            "config": "bafkreieitwdwwuhal3ibrc4vaq37lxseqkg6z2brpvobeclbewdibxhi2u",
+            "image": "bafybeihz7msyrt6wtx3vrp3s2wot65utqyfirdecs3zxfdvcwuu2vr3zii"
+        }
+    ]
+}
