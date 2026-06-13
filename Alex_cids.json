@@ -1336,6 +1336,18 @@
             "name": "Alex #216",
             "url": "ipfs://QmPh8d6rxzjjnGkcoHk17Vch63AQ4g6wFBNGBLGHDfBQYp",
             "image": "QmPh8d6rxzjjnGkcoHk17Vch63AQ4g6wFBNGBLGHDfBQYp"
+        },
+        {
+            "assetid": 2987727923,
+            "name": "Alex #217",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhc6Y6emGvt7UieH7uGcXD8mUnqbipHMYxvgXaBuDZjEh2"
+        },
+        {
+            "assetid": 3315669426,
+            "name": "Alex #218",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVLbhzg24omxCsRRtijECDb1KU8hxi2wq7ytmxENFW5qj"
         }
     ]
 }

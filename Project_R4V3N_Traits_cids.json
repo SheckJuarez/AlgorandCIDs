@@ -2,7 +2,8 @@
     "Project": "Project R4V3N Traits",
     "Creator": "Studio SEV3N",
     "CreatorAddress": [
-        "R4V3NBVSRDR5UF3JNODCKBHO5IC6RG74SEJEOA3SVMB2XNQB6YBXGC3WF4"
+        "R4V3NBVSRDR5UF3JNODCKBHO5IC6RG74SEJEOA3SVMB2XNQB6YBXGC3WF4",
+        "XF72DBPMQSM7U6WIKP4SNLBNFBWPU5POJITQO62ZD4CUPGLYDUGWA3UBOY"
     ],
     "Assets": [
         {
@@ -1108,6 +1109,54 @@
             "name": "R4V3N Trait - Basewear 28",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmWoD6TGJL5WWTYHWNHdbmzqsFAYFSXjHvWLijTwm6rVe6"
+        },
+        {
+            "assetid": 3294289860,
+            "name": "R4V3N Trait - Mouth 19",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbiotAamNAJVFFWJXxQ3e2gDdT2oEdCVjBFEgvA3k1WCn"
+        },
+        {
+            "assetid": 3294290983,
+            "name": "R4V3N Trait - Eyes 19",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXGJH9ahu8bVitnT6bkV9FFDWMSjhXPqaWgGug4FTB7rk"
+        },
+        {
+            "assetid": 3294291746,
+            "name": "R4V3N Trait - Hair 40",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQtAmFpRrJqvXAqdX1S6g7LsgrDYc1nsdkZg8NAB4Dijp"
+        },
+        {
+            "assetid": 956348342,
+            "name": "R4V3N Trait - Back 18",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZvRRpCJRSA3WQLwGy1UEHAMV9nQBZuVKDJMNKhuHUnhQ"
+        },
+        {
+            "assetid": 956348796,
+            "name": "R4V3N Trait - Facewear 16",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmP3SgQTiXg4qEecdFvQ3JxVVBTc8WfhiY7463Mxoz5RmE"
+        },
+        {
+            "assetid": 956349136,
+            "name": "R4V3N Trait - Outerwear 19",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSKz84Rs1knZ84UurUGFBLZMCbJnbjbmkAysJprAyyWEM"
+        },
+        {
+            "assetid": 956349499,
+            "name": "R4V3N Trait - Hair 17",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXAtNWq9jPgK6GvGpTQVNjuFCwVav8K9i48uV9sB5D3p5"
+        },
+        {
+            "assetid": 957371746,
+            "name": "R4V3N Trait - Background 15",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdaWER3fMqXVpFbfpmA7p8vKmG5RDLtvfgDnJSsjhD9WX"
         }
     ]
 }
