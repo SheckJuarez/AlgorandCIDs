@@ -1,0 +1,1281 @@
+{
+    "Project": "Students Traits",
+    "Creator": "Art School Fight Club",
+    "CreatorAddress": [
+        "ASFCTRNMVKMQNOMR7HT3RUAOV4ABFU4LP6I6E2X3Q7EH6LMMPALNYVSU3E"
+    ],
+    "Assets": [
+        {
+            "assetid": 3196743811,
+            "name": "ASFC - Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYMXdcRFPMuriVr1ww3sLwynQY2TYbda492PrRHjnFyZx"
+        },
+        {
+            "assetid": 3196743812,
+            "name": "ASFC - Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhmH8Kg5RCwJp5fCAp8dKwjVHCbhdkXcAJUd3rhuniVRd"
+        },
+        {
+            "assetid": 3196743813,
+            "name": "ASFC - T-Shirt",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfUcmcc47z4GizS5GAN9MER7jMyFtCiGnTSHTYSbYRcwk"
+        },
+        {
+            "assetid": 3196743814,
+            "name": "ASFC - Long Sleeve Cuff",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhghgJhzcDgX4rTzcPLoL2QytrFKTdM5ukxNnzLxYzT4Qs"
+        },
+        {
+            "assetid": 3196743815,
+            "name": "ASFC - Long Sleeve",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhf4TfzJ8YQsT4X6AP3jJaWN1GvuqLvVH1Re553Ds5vVgq"
+        },
+        {
+            "assetid": 3196744150,
+            "name": "ASFC - Houndstooth Black White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgj4aYheyQsHFMm6GMnx9cto7vUG1eEBdyRGCrLycCHy1"
+        },
+        {
+            "assetid": 3196744151,
+            "name": "ASFC - Buffalo Check 45 Dark Blu",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmcQdP5t925tMP2W4MbvCMpLJ3C8kgXybBbuiajSm1Ao9"
+        },
+        {
+            "assetid": 3196744152,
+            "name": "ASFC - Buffalo Check Black White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXQHaLdDEWSVGbySVM5WepWgQkiCpKAm9WLv78DqtFEyz"
+        },
+        {
+            "assetid": 3196744153,
+            "name": "ASFC - Green Camoulage",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaFgJbjm16XfXuXAkXgxHV6dn2PPST6xT3eHRMhsAE5Cb"
+        },
+        {
+            "assetid": 3196744154,
+            "name": "ASFC - Buffalo Check 45 Black Wh",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhamaLmDCrEcYaSgqL3Rd72VsDRXwxbzTN4G3cKmuQMfBH"
+        },
+        {
+            "assetid": 3196744389,
+            "name": "ASFC - Buffalo Check Dark Blue B",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgvH6ekd62KLQyRvbFMnhckqksjMqhTpCUxGx1iCfgqCk"
+        },
+        {
+            "assetid": 3196744390,
+            "name": "ASFC - Buffalo Check Dark Blue W",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjTMk3H7ubj1spDoSUcS9MuayqvDqkyiu6DURq1eTg6qg"
+        },
+        {
+            "assetid": 3196744391,
+            "name": "ASFC - Houndstooth Dark Blue Bla",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZftNsNesN2Qhf9jAjCoUb4ggnEeLaWee6QM9KbLwEhKv"
+        },
+        {
+            "assetid": 3196744392,
+            "name": "ASFC - Buffalo Check 45 Dark Blu",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhFqZNkiNYGYADo6nAt7Twkdr4NP5AGCRpXxPxzMKWgVs"
+        },
+        {
+            "assetid": 3196744393,
+            "name": "ASFC - Houndstooth Dark Blue Whi",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhb6T8PchB64QgpuwxguputgoWXKWUhk98nfqhbow8vawm"
+        },
+        {
+            "assetid": 3196744531,
+            "name": "ASFC - Buffalo Check Gray White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkLj329yw2yq4dSwZ7Wgac9EKVP6LDYGWpD12PeM3DyVe"
+        },
+        {
+            "assetid": 3196744532,
+            "name": "ASFC - Buffalo Check 45 Gray Bla",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmar6nn13YGHHP1z3afrSrjhcyergRHbhEkaVnP2e1A4g"
+        },
+        {
+            "assetid": 3196744533,
+            "name": "ASFC - Dark Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYNroCxkw7zWcafZiUEXL8rF3oC2uvuUbfKUDpvA4TzD4"
+        },
+        {
+            "assetid": 3196744534,
+            "name": "ASFC - Buffalo Check Gray Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoS1cb6pkgtj5hwv8XUfccjE7ditusApowoa7dqYYDwsi"
+        },
+        {
+            "assetid": 3196744535,
+            "name": "ASFC - Buffalo Check 45 Gray Whi",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfiuVgiyC5VP1e6YxshV2hFYWdxsGugN5bt6ao5MZ6UVu"
+        },
+        {
+            "assetid": 3196744809,
+            "name": "ASFC - Buffalo Check Green Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaDyJZCRWknAZPFYso5hfvcHvsStDf1mCK88FjsnwJrez"
+        },
+        {
+            "assetid": 3196744810,
+            "name": "ASFC - Gray",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnDpgcjHNZhJ82Fxt3uW6GNt6CoZnQjtA2XujXykBz5VR"
+        },
+        {
+            "assetid": 3196744811,
+            "name": "ASFC - Buffalo Check 45 Green Bl",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcFBTF8LKcysXpwJteZAjAqUyrDMoVNXFPEN9npLqPBnN"
+        },
+        {
+            "assetid": 3196744812,
+            "name": "ASFC - Houndstooth Gray White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhikWDkWTGDpZaL83Nh4TD6UMYHLgPKkSMy4fbTq7EgLnx"
+        },
+        {
+            "assetid": 3196744813,
+            "name": "ASFC - Houndstooth Gray Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhh5gZjmeRxjLqHuJDJLpvz7ozLo2gCKNsGk84t1CWFzbx"
+        },
+        {
+            "assetid": 3196744993,
+            "name": "ASFC - Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhceS5harG7K9kZEoTuXchZguTrsm2MWDbGYcX2ZU5f9qz"
+        },
+        {
+            "assetid": 3196744994,
+            "name": "ASFC - Houndstooth Green Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmrDLncFQuAtBHnDUb1LLuMH4x9xzpm6RLrNXDvotJMTQ"
+        },
+        {
+            "assetid": 3196744995,
+            "name": "ASFC - Houndstooth Green White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYLBYUgaQuXQdQu2ztZoWR3kep5TDeNNZMSUFpoqb7PyE"
+        },
+        {
+            "assetid": 3196744996,
+            "name": "ASFC - Buffalo Check 45 Green Wh",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhc3AduL3v1JaX1mKnsgAYz9fzZ1TuWkyeR8A8GPGmjvyy"
+        },
+        {
+            "assetid": 3196744997,
+            "name": "ASFC - Buffalo Check Green White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnDybJRNhA7zugYkJXtYAshpivTHa7Q6knUsmH1RZpGdB"
+        },
+        {
+            "assetid": 3196745200,
+            "name": "ASFC - Houndstooth Khaki Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhd47EMxt37P2TgHi9KWuHMg5JqJty471TwaTPxJfA9N5d"
+        },
+        {
+            "assetid": 3196745202,
+            "name": "ASFC - Buffalo Check Khaki Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXjSTpTGbjanJ3sk51e3gprZvinRLARE7Re8cfhyucTEm"
+        },
+        {
+            "assetid": 3196745203,
+            "name": "ASFC - Buffalo Check 45 Khaki Wh",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhchyQAdB9BDZiuxuwu34KTAUKDaRs3JZujdcM5NuEeHwz"
+        },
+        {
+            "assetid": 3196745204,
+            "name": "ASFC - Buffalo Check Khaki White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhe4YcU3d26eameobTFBZH6FmRTDaEDjwLao7CbPevmVUL"
+        },
+        {
+            "assetid": 3196745206,
+            "name": "ASFC - Buffalo Check 45 Khaki Bl",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmFLqji6oP4npLhohwpJPrHh37Zqa56BzQZaQ97zQYqzt"
+        },
+        {
+            "assetid": 3196745452,
+            "name": "ASFC - Khaki",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhi9idwRF9ZRrRL5pioHE3rrqowPNftP3S9SjfmHefCiH5"
+        },
+        {
+            "assetid": 3196745453,
+            "name": "ASFC - Buffalo Check Light Blue ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjfePZ3c2Puv3EfmP6dtxbjVuXKArdknBZyJ5GVLXnw5M"
+        },
+        {
+            "assetid": 3196745456,
+            "name": "ASFC - Buffalo Check 45 Light Bl",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhizsgRuCz2jcPF7jxD9q1kCr2tTMffZsTwowRMSkyyHDe"
+        },
+        {
+            "assetid": 3196745458,
+            "name": "ASFC - Buffalo Check 45 Light Bl",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhg4xQPceKuVSivaTc2TA316Me55vrh1VToAhZQ915m7pC"
+        },
+        {
+            "assetid": 3196745465,
+            "name": "ASFC - Houndstooth Khaki White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhYcwBQQZ4zBffvFLjMdD3V9RZwJCwXUdrwYPnS85EZvA"
+        },
+        {
+            "assetid": 3196745642,
+            "name": "ASFC - Light Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdY2gJmWyR25FMaWUE9FKwgapoPQw2CDULUd8yex4Ehj7"
+        },
+        {
+            "assetid": 3196745645,
+            "name": "ASFC - Buffalo Check 45 Orange B",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhi7i31SnkFHrXv6KCUgai4H6gQpoLzXQ7R88UfJouNBuG"
+        },
+        {
+            "assetid": 3196745646,
+            "name": "ASFC - Houndstooth Light Blue Wh",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkFtsPLKTk92KTzAocLnyqC3VJ31z49q4Gzyp482tP5hd"
+        },
+        {
+            "assetid": 3196745647,
+            "name": "ASFC - Buffalo Check Light Blue ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmt5a1kCV99HFpXLUCBHYEWBHD5yhR1Kvd82CSZ4sZ7hh"
+        },
+        {
+            "assetid": 3196745649,
+            "name": "ASFC - Houndstooth Light Blue Bl",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhagFL9cRs9SXQiwnkG4mRc3x2jx4UJfSp2r4tJnM5ChZq"
+        },
+        {
+            "assetid": 3196745790,
+            "name": "ASFC - Buffalo Check Orange Whit",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjkdHqHhQbH5maQ8iAzajpQGc3f8aJFJMmkrbaykaBrST"
+        },
+        {
+            "assetid": 3196745791,
+            "name": "ASFC - Buffalo Check 45 Orange W",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhAVyMuqJSyAmoSyDYNEyYWSrUPTn9sXcVi8pCGW61ryh"
+        },
+        {
+            "assetid": 3196745792,
+            "name": "ASFC - Houndstooth Orange Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheCariRzFF9gEgmjjWws4dyNQuzyGs8yZyfRBeaXDfnbG"
+        },
+        {
+            "assetid": 3196745793,
+            "name": "ASFC - Houndstooth Orange White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhf5qSNAfjJgfe2AU4KfnhqNH7e6bYqAVpT7uRkYULGmGr"
+        },
+        {
+            "assetid": 3196745794,
+            "name": "ASFC - Buffalo Check Orange Blac",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcvpAqdMnFRYKxrBtNQxiAUkRmmM3KhPCByTorywLX3p1"
+        },
+        {
+            "assetid": 3196746007,
+            "name": "ASFC - Buffalo Check Yellow Whit",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhh46CwVnpWYQ5CcUFKfwTcpbDBrJBRQuSh1zEu56biuoZ"
+        },
+        {
+            "assetid": 3196746009,
+            "name": "ASFC - Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnpqYoDwhj6XK9Bmsp99ay8i9UqRQxV92v8QnCWnEcMbX"
+        },
+        {
+            "assetid": 3196746011,
+            "name": "ASFC - Buffalo Check 45 Yellow B",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnpQTtPwUR65ZyyA9sUdhuGEXKFCC1KifkWikbWMx4TUz"
+        },
+        {
+            "assetid": 3196746013,
+            "name": "ASFC - Buffalo Check Yellow Blac",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdXMku2E8WhinnU83AabdBnVxF8Bgg3sy4iNBuN9HDPXA"
+        },
+        {
+            "assetid": 3196746014,
+            "name": "ASFC - Buffalo Check 45 Yellow W",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheTqkmXg3B9JzrfEdogsgXjifk8oAyx84D9VfcEEQyq7r"
+        },
+        {
+            "assetid": 3196746304,
+            "name": "ASFC - White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkgrC4HN4YEKQAPBwCkyefUYoaAQ26yqFmV1UKaEDFJrr"
+        },
+        {
+            "assetid": 3196746307,
+            "name": "ASFC - Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhX7TgFsAhXZ6nw6bUbei4rw2M9VEUqaWyKUza8SbDdSLn"
+        },
+        {
+            "assetid": 3196746308,
+            "name": "ASFC - Red Violet",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcYkUggR3MG1ic7GFNUcNbYC5nZUw9rdMba5MLgyoddjx"
+        },
+        {
+            "assetid": 3196746309,
+            "name": "ASFC - Houndstooth Yellow Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmhRBBuVYkdgQNizBBUw2QzU3hUyVgva3XLv7z8qBYDP6"
+        },
+        {
+            "assetid": 3196746310,
+            "name": "ASFC - Houndstooth Yellow White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkhDwtjVNuZg6RM11xYTahEqLpQ7u2VNkEuHdPD5rsPAx"
+        },
+        {
+            "assetid": 3196746516,
+            "name": "ASFC - Neutral",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgRnumQTKTuvvVEcayTFcEwWZNpFodmHo4MfYMD4j4BLW"
+        },
+        {
+            "assetid": 3196746520,
+            "name": "ASFC - Laugh",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhenr5KjSz53pXAapeLBHZuJeQTGVzezEDUEziQuDbbxtP"
+        },
+        {
+            "assetid": 3196746521,
+            "name": "ASFC - Happy",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhocpWw1nQWADKoGJyc9yeDfDx86Qm5hyvP3k1X65pXKfY"
+        },
+        {
+            "assetid": 3196746522,
+            "name": "ASFC - Mad",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhd3eKxpF9Hr4pkxUC1RtwK8yA2wqN6haVMC27F4qkX29g"
+        },
+        {
+            "assetid": 3196746532,
+            "name": "ASFC - Adeedas Samba Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcmEZYCeWTmSnAHTeNszqoPQkwXGpWhFMV6g93bsodGq6"
+        },
+        {
+            "assetid": 3196746995,
+            "name": "ASFC - Adeedas Samba Black Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoAo2N8TYLcsirxmuunoPABKFzzMDcuJfJLwMMHcAzZSH"
+        },
+        {
+            "assetid": 3196746996,
+            "name": "ASFC - Adeedas Samba Beige Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho4PfEaDtehF9SQPr2UsKhhkX6udqfwpMkNTDkV3cScwk"
+        },
+        {
+            "assetid": 3196746997,
+            "name": "ASFC - Adeedas Samba Blue Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnW7kMkfYxEk4hbJQMBw7tdhFXQnVD1S2FBpi4daZygak"
+        },
+        {
+            "assetid": 3196747001,
+            "name": "ASFC - Adeedas Samba Black Yello",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho8es5yVDEsq3jJtEYPouh7RyUopKF1hReseKxrZ3YitG"
+        },
+        {
+            "assetid": 3196747002,
+            "name": "ASFC - Adeedas Samba Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhn9ZStvoMP82SjoK4F3FwdrWUWugg5pbgzVEWckpvTZC4"
+        },
+        {
+            "assetid": 3196747217,
+            "name": "ASFC - Adeedas Samba Grey",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk8tZxRYg8GHqfjrwbaxyo1HgEC3eStHdZSFS1HWQQH3V"
+        },
+        {
+            "assetid": 3196747224,
+            "name": "ASFC - Adeedas Superstar Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjqVYxumw3r3aLi5YUVCf5neQHTKWmbSyjgbw75rX4aDU"
+        },
+        {
+            "assetid": 3196747226,
+            "name": "ASFC - Adeedas Samba Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheJ9o5wkh2hDVRNABaJEVLofWijQ52HEUCk9dMZPFo3eQ"
+        },
+        {
+            "assetid": 3196747238,
+            "name": "ASFC - Adeedas Samba Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnQWJDiZL2uKwDvh1DLaYM9V5E5ipvBRchzStt1J11PPv"
+        },
+        {
+            "assetid": 3196747239,
+            "name": "ASFC - Adeedas Samba Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbtMqWx1Hkbh26SGXsKh7hFsKtexp97DT78YBBP7Ac6wq"
+        },
+        {
+            "assetid": 3196747448,
+            "name": "ASFC - Adeedas Superstar Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhd3u3MDYgSR7FtdS2ih2ydrQ9euyTEA2mhAivHimhc8fh"
+        },
+        {
+            "assetid": 3196747449,
+            "name": "ASFC - Adeedas Superstar Cream",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhm211g3hGgbggrR8yMAaHLBS6yPMSqvF8MDGTJ71GWZLc"
+        },
+        {
+            "assetid": 3196747450,
+            "name": "ASFC - Adeedas Superstar Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjvZSNJw7VX6429KqcBGqQjeJb96Zcy2sKFSzYbvBV1GT"
+        },
+        {
+            "assetid": 3196747451,
+            "name": "ASFC - Adeedas Superstar Light B",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfvmqQLXBiGy8nA3GBFgCuUcD2E3rjDYZXS5Qr5mro3xj"
+        },
+        {
+            "assetid": 3196747452,
+            "name": "ASFC - Adeedas Superstar Light G",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaEFuWFoat7r2n5aSRDrP3FQNFWxcL4RcJYRUWaxGDGtg"
+        },
+        {
+            "assetid": 3196748029,
+            "name": "ASFC - Adeedas Superstar White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgzraVNb1SS1qoqJfBBJDe3PVr7c7UrsXjAsZU9axZfhc"
+        },
+        {
+            "assetid": 3196748030,
+            "name": "ASFC - Adeedas Superstar Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkPyPBqGjKweqr44tmrgW1ZCk91ugDrDdV55G9nBbWPtz"
+        },
+        {
+            "assetid": 3196748031,
+            "name": "ASFC - Adeedas Superstar Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmnjyKsHappdQXtdyWJJAVXmhjabQLRyfVCHLpBjr8Bi2"
+        },
+        {
+            "assetid": 3196748032,
+            "name": "ASFC - Chuck Tylers Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhncSXyTvzoqMhe2QnvW7Cs1xM2Tt7hHy6xS1MkvZpgRri"
+        },
+        {
+            "assetid": 3196748039,
+            "name": "ASFC - Adeedas Superstar Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYeQambvSwUUn5FLzo2QASAsXNGgXc42drEjHESRPZcYJ"
+        },
+        {
+            "assetid": 3196748240,
+            "name": "ASFC - Chuck Tylers Cream",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnYMydyTjBSbq19Rw85HFgpTBcbwHrA4199nfoKCJkVuR"
+        },
+        {
+            "assetid": 3196748241,
+            "name": "ASFC - Chuck Tylers Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhen9wQa5NF1vW1MGGh64KgktySVQJfchJkspKNPEyj6Gt"
+        },
+        {
+            "assetid": 3196748242,
+            "name": "ASFC - Chuck Tylers Gum",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXWbkQM7LDG94GsQoWey43r9rwtTaz2bLXN8nU9SeFszw"
+        },
+        {
+            "assetid": 3196748243,
+            "name": "ASFC - Chuck Tylers Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnKXLC1cStJREyHYobkbSY1PcuMKTYB3zQ9nWBXE3PZV9"
+        },
+        {
+            "assetid": 3196748244,
+            "name": "ASFC - Chuck Tylers Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhj88N83ABLDgGRjibVRfAf5UDjZBmJABBd6ypZ1MPHMpY"
+        },
+        {
+            "assetid": 3196748436,
+            "name": "ASFC - Chuck Tylers Checkered",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaWNaMPrvaPsySzXtCx2GHNAX2KtJk8NgXJngQcF2JZgF"
+        },
+        {
+            "assetid": 3196748439,
+            "name": "ASFC - Doc Markens Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZT58Wj6EWFoHChGq6MfQMgc27cvr61a5yKg8kbVvmju6"
+        },
+        {
+            "assetid": 3196748441,
+            "name": "ASFC - Chuck Tylers Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhX63rysJuRsLgQfpxwzS2w4AK3Dp3TwxxyJsKZFYpEETf"
+        },
+        {
+            "assetid": 3196748442,
+            "name": "ASFC - Chuck Tylers White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhm87BM3EWNUJ8JLebtCG9S45VR5jRYc5jGDqHvXfycVBt"
+        },
+        {
+            "assetid": 3196748444,
+            "name": "ASFC - Chuck Tylers Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaPwbiY37fmtrQahdpMTwTXSM4wdHXK95nBhfjT8aiHoz"
+        },
+        {
+            "assetid": 3196748667,
+            "name": "ASFC - Doc Markens Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWvVk6VT4fz1Y1c7smM5GquyU1uBFtHtkaGpvGwN987RE"
+        },
+        {
+            "assetid": 3196748668,
+            "name": "ASFC - Doc Markens Cyan",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk9taBtTfY1qh4Z15gdmywNdjvCpUnexbnZQk36DURriK"
+        },
+        {
+            "assetid": 3196748669,
+            "name": "ASFC - Doc Markens Checkered",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhitgGGHoZzFsB6fqPK14cC3cWbr4CjW4PX8WJVzoqB7c6"
+        },
+        {
+            "assetid": 3196748670,
+            "name": "ASFC - Doc Markens Cream",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhi6TyT92HrwQRzfLWk6wPgifq7sAuWyTeC6aFNj7dmYX7"
+        },
+        {
+            "assetid": 3196748682,
+            "name": "ASFC - Doc Markens Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoAi1Ewa9DsU8bDh6i197APQMMrbVgY62sC9fs7UEUjJt"
+        },
+        {
+            "assetid": 3196748877,
+            "name": "ASFC - Nu Balance Aqua",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhX7yh5ADTHBLgsqFYqwEBHBF9uSmmZMtHffuTp89DkumF"
+        },
+        {
+            "assetid": 3196748896,
+            "name": "ASFC - Doc Markens White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhknQaaH8sSbexo57Xkv5JSJbBDPQneCvXWQ6j3yUGhkAp"
+        },
+        {
+            "assetid": 3196748897,
+            "name": "ASFC - Doc Markens Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbhwNRZ2gw1A2ZKT1net8H87ikeVgyN1VyQqsTBmtXr6j"
+        },
+        {
+            "assetid": 3196748898,
+            "name": "ASFC - Doc Markens Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhabZHyygtx32HfKMDtgapBvFb4eynuhPkipsxxFgqqAjh"
+        },
+        {
+            "assetid": 3196748899,
+            "name": "ASFC - Doc Markens Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjVAGq1TF9Zcpno88ASM3pPzdb6jxy7UWwz3dVrXrX7QC"
+        },
+        {
+            "assetid": 3196749035,
+            "name": "ASFC - Nu Balance Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjb954vUwPkNbRECQH7LaxMhbcjRoMsKzcn28YSAUAtTc"
+        },
+        {
+            "assetid": 3196749036,
+            "name": "ASFC - Nu Balance Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnATxXdsV1ehW5k4XFqeUWpA4GMboMeR6NEpEQjdikPrY"
+        },
+        {
+            "assetid": 3196749037,
+            "name": "ASFC - Nu Balance Colorful A",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkVgmgDeHabgSFkVd6u38JZKmMScZKBMshydqmiEKGZrC"
+        },
+        {
+            "assetid": 3196749038,
+            "name": "ASFC - Nu Balance Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdDth7X7SQaY6ZBSrADxAkbwgQ5vMuUxdsdPyVuWgVaVF"
+        },
+        {
+            "assetid": 3196749039,
+            "name": "ASFC - Nu Balance Colorful B",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhndBmD9U4wFTajz4tM5YLaYmE6A7qed4J88cnZ1LgA28p"
+        },
+        {
+            "assetid": 3196749196,
+            "name": "ASFC - Nyke Air Force Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhacw1zPUmYXzJcSr6cnCB6hpTqvBQfd6XebcUnvub9vLM"
+        },
+        {
+            "assetid": 3196749197,
+            "name": "ASFC - Nu Balance Grey",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoQ3xqMfhEXUbnZbAP9VUk5qJVBbU9EH9fQRN18Fj7hUq"
+        },
+        {
+            "assetid": 3196749198,
+            "name": "ASFC - Nu Balance Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho8qLZee62znGXmVXMhVMPeQYo8C7RyoUSqFJpKvf8Hme"
+        },
+        {
+            "assetid": 3196749232,
+            "name": "ASFC - Nu Balance Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnwgjFMDuzEk7xKHx2VJVyvGNiioRuUUyYCdFhUQGkr5m"
+        },
+        {
+            "assetid": 3196749233,
+            "name": "ASFC - Nu Balance Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhegv1QdN1KTZobKvLmovuwRCcrfiX6EmdFeMaa5wohzvp"
+        },
+        {
+            "assetid": 3196749399,
+            "name": "ASFC - Nyke Air Force Pastel 02",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhb5BQBFyqvFbpy5eJYnehR8YoavwBybd19ozv5C2q1npz"
+        },
+        {
+            "assetid": 3196749400,
+            "name": "ASFC - Nyke Air Force Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkqz7HDMazNLHyYgx8RLcZryTxHJ43pgrCtgch3SJJAsK"
+        },
+        {
+            "assetid": 3196749401,
+            "name": "ASFC - Nyke Air Force Pastel 03",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbHRKPFY3XBGG6H4HAwVzA8hL4sU6acVx3CvNZuNKTjbC"
+        },
+        {
+            "assetid": 3196749402,
+            "name": "ASFC - Nyke Air Force Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiLS4SgTLaWk34v26bH2SiYx3HxQa8awxZzE2RRvxMFrK"
+        },
+        {
+            "assetid": 3196749403,
+            "name": "ASFC - Nyke Air Force Pastel 01",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkkDHzWcMG4aWfU5MdQCqLB68FE77q8Bp5QSpwyjXyWY3"
+        },
+        {
+            "assetid": 3196749603,
+            "name": "ASFC - Nyke Air Force Red Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcpZJUsxgHMtEPttdr3a1dvva9c7TTxTi5iWtVroSvtab"
+        },
+        {
+            "assetid": 3196749604,
+            "name": "ASFC - Nike Blazer Lows Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgRCG7GfR7LAx7wPsDiWNSbmJwHmoYoL2ziWi5o8tgYKX"
+        },
+        {
+            "assetid": 3196749605,
+            "name": "ASFC - Nike Air Force Red White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWwJ5iwADYjsLFYfi5GCmHLBbRmFssqsdAPSJH5DNA9Rd"
+        },
+        {
+            "assetid": 3196749606,
+            "name": "ASFC - Nyke Air Force Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWpQXD9fxRQdBjj9uvnXY6CLTmRiyRudv5M8zMBrC5oue"
+        },
+        {
+            "assetid": 3196749607,
+            "name": "ASFC - Nyke Air Force Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdQn5TKb4s2SXu8Tvw9PLm1iAcPyDAGDE5DEDD7MvrJF2"
+        },
+        {
+            "assetid": 3196749928,
+            "name": "ASFC - Nyke Blazer Lows Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhX3p7hBkfzDw59k91HzJEtD55jd9E1LH69GcqiZYeMZfB"
+        },
+        {
+            "assetid": 3196749930,
+            "name": "ASFC - Nyke Blazer Lows Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkM2jhydF16HjBD4Eptq2G8LeQALvXJekC5b4yaP1D5kW"
+        },
+        {
+            "assetid": 3196749931,
+            "name": "ASFC - Nyke Blazer Lows White Gr",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZpvRbAkxbVbBswWsmRXNbnkfvpeVq7um9STfWuLrGqYJ"
+        },
+        {
+            "assetid": 3196749932,
+            "name": "ASFC - Nyke Blazer Lows Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiUe3NizHXonn9AvusQ77qxoq9MGx9rdeRJdy3yWsAX26"
+        },
+        {
+            "assetid": 3196749933,
+            "name": "ASFC - Nyke Blazer Lows Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheWZe7EgyA4p1Tm6Ke86mU4wVRxg7yaUXFLNkRvPExQSs"
+        },
+        {
+            "assetid": 3196750138,
+            "name": "ASFC - Nyke Blazer Lows Light Bl",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhh4Ts3kiL1Gb4U7wXXYQLBAxKYk9JT9R6nYxZVcCmaLSp"
+        },
+        {
+            "assetid": 3196750139,
+            "name": "ASFC - Nyke Blazer Lows Maroon",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhifu5Tq1HURRHgGnx4J6c9qDs9F7T6MZ1cMfdWZCwbQ8v"
+        },
+        {
+            "assetid": 3196750140,
+            "name": "ASFC - Pooma Orig",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaFBAEjTVUC6hj47sWwP35dEUxBDczYkEf8BTRP6Yy1Fg"
+        },
+        {
+            "assetid": 3196750141,
+            "name": "ASFC - Nyke Blazer Lows White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnij2bstq4BVGjgLhhrLFANURFNhYQaoybESyzQW917aM"
+        },
+        {
+            "assetid": 3196750142,
+            "name": "ASFC - Nyke Blazer Lows Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhagESC8aAvFVPg3M998aDC2KC3rnCAgZuTYUH4xqcGHAt"
+        },
+        {
+            "assetid": 3196750404,
+            "name": "ASFC - Pooma Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgsuKQpBUEKtqowATQuDiSBd18qKSgLyVxr6GMcWigFYE"
+        },
+        {
+            "assetid": 3196750409,
+            "name": "ASFC - Pooma Light Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjiZtRBBmLLQN5U9Sv7CDZL3ZoMiNLh5voPgrBYuDiE4m"
+        },
+        {
+            "assetid": 3196750410,
+            "name": "ASFC - Pooma Colorful",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoWPqFRtvgD2znDAMnT5N3kVQhmiCtCFboeyaUzEwArMr"
+        },
+        {
+            "assetid": 3196750411,
+            "name": "ASFC - Pooma Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdvW6rHCBLE85StW5DyYVVuW9Xuiu8NRCcinFbGk2wcz7"
+        },
+        {
+            "assetid": 3196750412,
+            "name": "ASFC - Pooma Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYY7EQAia17r82mPo4AZYcAeqc5dc5zatPtvXXMMgtoP9"
+        },
+        {
+            "assetid": 3196750973,
+            "name": "ASFC - Reebok Hightop Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkmCPf6n3vGWBVsgXXMgEqjUH87PWLcip24RUBeiFLGZA"
+        },
+        {
+            "assetid": 3196750974,
+            "name": "ASFC - Pooma Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjMmXWyozYUSEjGcQ8PmqhdhcvMusjeC1CuC5AAb4ipiv"
+        },
+        {
+            "assetid": 3196750975,
+            "name": "ASFC - Pooma White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjpUxqizAJhXzncjeDJj8JYvGXcpnngCRsxKUd46vaNM2"
+        },
+        {
+            "assetid": 3196750976,
+            "name": "ASFC - Pooma Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYCWjSUBCB9MAi2jSoFLQfmnU7uLcDSXNzrMevdXa84gh"
+        },
+        {
+            "assetid": 3196750979,
+            "name": "ASFC - Pooma Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho8FFjbKCk6qEiF87MwJR8HwRB7sHoLbuhg1tciuZekLW"
+        },
+        {
+            "assetid": 3196751182,
+            "name": "ASFC - Rebook Hightop Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiDhctXC6ePt3VqW7j17dFu1aWkoQ1LEEgV4ejawoZ8jn"
+        },
+        {
+            "assetid": 3196751185,
+            "name": "ASFC - Rebook Hightop Light Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdDZP8kKZcfhBrGScEonYZXGM5Ycm4m8X7r9NoSypqKYN"
+        },
+        {
+            "assetid": 3196751191,
+            "name": "ASFC - Rebook Hightop Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgbsCcoH6Ae5g7kkp2zhDbyjJYLdi9Db7oLcYkyysw1qd"
+        },
+        {
+            "assetid": 3196751193,
+            "name": "ASFC - Rebook Hightop Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhK3wS57Y678b5RmP9zNzPZzHBVeVELDhXEuka9tt7A4z"
+        },
+        {
+            "assetid": 3196751194,
+            "name": "ASFC - Rebook Hightop Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhm9wZv1Es4BHHtT5YrE4e3Xbygd9CTXpoHtjowr53FS8u"
+        },
+        {
+            "assetid": 3196751391,
+            "name": "ASFC - Rebook Hightop Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhefZoLoGjfSBxeMg6YUKn8ZWLueiwVSd9oGLvEG9YpJuN"
+        },
+        {
+            "assetid": 3196751399,
+            "name": "ASFC - Vins Old Skool Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhd6WJAjVtUWyekskc8i1ii2SHqjBNxfdQi6c6ZioJfLsn"
+        },
+        {
+            "assetid": 3196751400,
+            "name": "ASFC - Rebook Hightop White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhb9NHZVEwYFaneXAr2vbYkEP4kYSCTisqjDSAbBrmWZnd"
+        },
+        {
+            "assetid": 3196751416,
+            "name": "ASFC - Rebook Hightop Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWo6Q4tp1VUQmkQgmUbykbLhZaqqxe8BMxHdtNBqHuQjU"
+        },
+        {
+            "assetid": 3196751417,
+            "name": "ASFC - Rebook Hightop Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkpekBH2Z9ZCTPVvQffv4momDDU9VXASdLEF5eXcbABbk"
+        },
+        {
+            "assetid": 3196751692,
+            "name": "ASFC - Vins Old Skool Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkU2ZvXSjgPiNgxGFBotgr41sPsGcWNLyaUy8chg5ma1D"
+        },
+        {
+            "assetid": 3196751693,
+            "name": "ASFC - Vins Old Skool Checkered",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmbdJctN3ZH9A9gjz9cyP2JFA4GKhcPd4C99ZeuH7fTRz"
+        },
+        {
+            "assetid": 3196751694,
+            "name": "ASFC - Vins Old Skool Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhduScbFRRBMSiHwkoi1PViV1yFrj6TqE3iFCeBbUNFVeg"
+        },
+        {
+            "assetid": 3196751695,
+            "name": "ASFC - Vins Old Skool Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhsHofXdri4j2GRWB4WDZ24DkYSGg4SRxpT82UctWnF73"
+        },
+        {
+            "assetid": 3196751696,
+            "name": "ASFC - Vins Old Skool Colorful",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoZQRfZy3A7A3E6vTTCWb3BDNomyNVw17xRQaPUp2TVQC"
+        },
+        {
+            "assetid": 3196751952,
+            "name": "ASFC - ASFC Back Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZqtBcVgsVx7Y2kCq1VavqmkScErP8cgNmTXC2qUGY3At"
+        },
+        {
+            "assetid": 3196751953,
+            "name": "ASFC - Vins Old Skool Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhf4YNiAQY4HQKqDDg4Xk4hVhDoMmuUZnfMPzZ1ThCkxcN"
+        },
+        {
+            "assetid": 3196751954,
+            "name": "ASFC - Vins Old Skool Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiERcNTjP4ivnFVCxWcn6whT4zL2mXo468gVT411aPnyH"
+        },
+        {
+            "assetid": 3196751955,
+            "name": "ASFC - Vins Old Skool Grey",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhj92eMf6AEiLvkEeUQ9r9Quh3upeax55PMX6Wf44cdZb3"
+        },
+        {
+            "assetid": 3196751956,
+            "name": "ASFC - Vins Old Skool Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiRhyXcmWQCLCQG9Yc3Z1Bv752J4Hx6E3RXGrAZiNBARF"
+        },
+        {
+            "assetid": 3196752206,
+            "name": "ASFC - Mortar Board Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcay585oc4DL2V2rbc44FiA4EpKK6zeQ6unVZ5JAvUYMm"
+        },
+        {
+            "assetid": 3196752207,
+            "name": "ASFC - Top Hat Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYdRCuSxWLjeiXQHAVwD63b6YKvavCccdCFN2Fo5tfJ4R"
+        },
+        {
+            "assetid": 3196752208,
+            "name": "ASFC - Cap Back Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho5S9kafP47UHcveWHtJ5XM6QdA9AYUUUmAEy5KAHTDZa"
+        },
+        {
+            "assetid": 3196752209,
+            "name": "ASFC - ASFC Front Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhixbsBXN6RuUTDYrUWeCWxeuiYuggsfrGhRTXWcHX1HsX"
+        },
+        {
+            "assetid": 3196752210,
+            "name": "ASFC - Cap Front Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhm83BDrjoxA4Smkb6VpmmRyGF6MvqEcqtqSrKheuipm2v"
+        },
+        {
+            "assetid": 3196752339,
+            "name": "ASFC - Emo Bleached Blonde",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjVZFPsrCE74jhZ1t98x4S1FQDQFVck6KBhK1BvysrXaH"
+        },
+        {
+            "assetid": 3196752340,
+            "name": "ASFC - Emo Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoMFPRvXYp1p8uYFnC7ZibMVpuwJXZKP68g7hvFsPBdVy"
+        },
+        {
+            "assetid": 3196752341,
+            "name": "ASFC - Emo Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhsnpe1FpwAoHeJzecDYrCJSZYi27vnZ5v7Nqe7aNQFRp"
+        },
+        {
+            "assetid": 3196752342,
+            "name": "ASFC - Emo Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhY2BivhrjTzgQ157GW2GeE34yu3qKPFZykwBRQ4649QUY"
+        },
+        {
+            "assetid": 3196752343,
+            "name": "ASFC - Emo Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiv5L75bNbNe47QQiaiPRqRkC8tRDPL1Yw9eQamkpxTRJ"
+        },
+        {
+            "assetid": 3196752468,
+            "name": "ASFC - Emo Raspberry",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk26UySfqj64bDxyBtFqM3pWfbmKFjENXGyXwS124vzXK"
+        },
+        {
+            "assetid": 3196752469,
+            "name": "ASFC - Emo Violet",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhei2tXo5ZP1kyj5g1E4yFYAizAMXrvv8M6tvvofWqg8do"
+        },
+        {
+            "assetid": 3196752470,
+            "name": "ASFC - Emo Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYKjKLjgtccnobGZ6tf5SpBBhT3kVtbnY6v9BZJ8Fv5UZ"
+        },
+        {
+            "assetid": 3196752471,
+            "name": "ASFC - Flat Top Bleach Blonde",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdf1JF56Kq1E3QiMDjGTD99X9QByJ73Fv5vZNo3vvNg5q"
+        },
+        {
+            "assetid": 3196752472,
+            "name": "ASFC - Flat Top Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhX2drSyEgTHuwRhbtriZLdH1k6yzXH7VSEpXnBgiKA2tw"
+        },
+        {
+            "assetid": 3196752622,
+            "name": "ASFC - Flat Top Brown",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheGZppJKjmKKuyj6u3vqyowfxcchKhDQ3kWfEVaVMHTde"
+        },
+        {
+            "assetid": 3196752623,
+            "name": "ASFC - Flat Top Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgQj73KLuof8VZwQSj5PeqkEzXFVKmTUd8MNfNU2a79NU"
+        },
+        {
+            "assetid": 3196752624,
+            "name": "ASFC - Flat Top Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoksMJQJMygKHScWF3NAGhiCEyp2K19JAYRxtrxu4tpYz"
+        },
+        {
+            "assetid": 3196752625,
+            "name": "ASFC - Flat Top Raspberry",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgfx2yZmWWiDLcEsghvnPkaSVNhRc9qMDhDnLkumNRFAd"
+        },
+        {
+            "assetid": 3196752626,
+            "name": "ASFC - Flat Top Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiRjdxX7bii855z18tZckYweusd2JFnuBgtMXfSA67vKQ"
+        },
+        {
+            "assetid": 3196752828,
+            "name": "ASFC - Flat Top Violet",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhangED5H4hwtPNioKw6e46KiKhJVgrq8S7Xtpvr4NCCE2"
+        },
+        {
+            "assetid": 3196752829,
+            "name": "ASFC - Sid Spike Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdcCfLKtoxo9HCoESYRjhxr9SKsFLmfU8LH5aY64nJviQ"
+        },
+        {
+            "assetid": 3196752830,
+            "name": "ASFC - Sid Spike Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgzR5Um3kEmQqX6M1nNS3qarP2bdoCSaQHpaborjAUEGn"
+        },
+        {
+            "assetid": 3196752831,
+            "name": "ASFC - Sid Spike Bleach Blonde",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbqf5B7FPi2Y4WsUG2H6pvyP4WeaqpYoYSewiVCLxG9Ze"
+        },
+        {
+            "assetid": 3196752832,
+            "name": "ASFC - Flat Top Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcdzMmFT9SmHWwE4x2Wao2bz8qs7ZBg8gJnViv3PCQLkF"
+        },
+        {
+            "assetid": 3196753775,
+            "name": "ASFC - Sid Spike Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaYEktFvafngxD3MkYMBNrLHHzS6xpmgaZ8ZYnQ7H9Tyd"
+        },
+        {
+            "assetid": 3196753776,
+            "name": "ASFC - Sid Spike Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcTdpUs9wDTtiAMT9VfrdtmfWWHERq6k9qGMQtS4utbVY"
+        },
+        {
+            "assetid": 3196753777,
+            "name": "ASFC - Sid Spike Violet",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfQdk5LafcJ43EYDVasxwNPcyHqvi5RZSKtuXFtmfeJaB"
+        },
+        {
+            "assetid": 3196753778,
+            "name": "ASFC - Sid Spike Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhopws23t2o9xRureUXorfxNJh9kteVFx47Ate4picuAMW"
+        },
+        {
+            "assetid": 3196753794,
+            "name": "ASFC - Sid Spike Raspberry",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhinapHv8gmMjSuYikyyYtw4VsukSGZJopD24tjYUzuPSF"
+        },
+        {
+            "assetid": 3196754008,
+            "name": "ASFC - Timothee Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnwPKfX6nHuZ5DqKs6gNpNVtZVuknJNUsdQFhFpqYAypM"
+        },
+        {
+            "assetid": 3196754009,
+            "name": "ASFC - Timothee Bleach Blonde",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhf9zNECjCSJDnq11gFoD4LrbhQE9xR6cS8cqVtUgQaw3n"
+        },
+        {
+            "assetid": 3196754010,
+            "name": "ASFC - Timothee Black",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWxaEzzrP4FmaTzpqFdh7nCuA5fhYkqA5YYr1gbEuvTFA"
+        },
+        {
+            "assetid": 3196754011,
+            "name": "ASFC - Timothee Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfhjKRHW3C75QnBLV6Mz6sDHN65caJtxCPQe23axWD1Cv"
+        },
+        {
+            "assetid": 3196754012,
+            "name": "ASFC - Timothee Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXua1nREwRejLbu5foCnBGmos4EqnhH9CPjxrYFddP4oY"
+        },
+        {
+            "assetid": 3196754302,
+            "name": "ASFC - Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnwiHJbGUTGnvM4NizFLES77L4aNMyud5x2LL66tVyQau"
+        },
+        {
+            "assetid": 3196754318,
+            "name": "ASFC - Timothee Raspberry",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoqBJdkLhZWcMmuvRWik7EgQ2maAaCVgkpRuVyDnw5xbw"
+        },
+        {
+            "assetid": 3196754319,
+            "name": "ASFC - Timothee Red",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcbGazqK4zk3vzatczChAnHBHtxzsjYREA4pYEyZ1S8m1"
+        },
+        {
+            "assetid": 3196754321,
+            "name": "ASFC - Timothee Violet",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhn2KYHQPG45jmQo3ngvtiGkaQwFcJVUHXCLgqvnaPvGuT"
+        },
+        {
+            "assetid": 3196754322,
+            "name": "ASFC - Yellow",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZJhQAEN4gAjyWbMgUqADvY4DrzspuBtVBTmKVJrjdW2X"
+        },
+        {
+            "assetid": 3196754512,
+            "name": "ASFC - Blue",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdJsb3ErMKfzVPTNFJg5KJ92gjsjXSG7KPGmNs1m2GuPy"
+        },
+        {
+            "assetid": 3196754513,
+            "name": "ASFC - White",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho18yo7XL4Sk395RJVBNkojdpVxS3FDa5RG76LR97bCq7"
+        },
+        {
+            "assetid": 3196754514,
+            "name": "ASFC - Green",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnDuxAwsDMm8mHEpC6S3jzbLWMF7UevnRrxVRh67d29Ki"
+        },
+        {
+            "assetid": 3196754515,
+            "name": "ASFC - Dark Grey",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhFv1Y5okwEXApKB7P3g1sNQNUGbV3mUeBDGoyA16RHgM"
+        },
+        {
+            "assetid": 3196754516,
+            "name": "ASFC - Pink",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjknJKWbRAYoMj599AnfKRcAo6ETrezcwi6gB5MjdRJ2y"
+        },
+        {
+            "assetid": 3196754882,
+            "name": "ASFC - Orange",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZoztnNMZ3rPGBi1W6oi5gqYzRqqq2d7VqBRd4vf87rCZ"
+        },
+        {
+            "assetid": 3196754883,
+            "name": "ASFC - Purple",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYoNQr7d7zDNey32kgn1ynTt3a2gudRN92cRwtQZAF18Z"
+        }
+    ]
+}
