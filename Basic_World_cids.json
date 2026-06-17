@@ -1,0 +1,363 @@
+{
+    "Project": "Basic World",
+    "Creator": "Basic",
+    "CreatorAddress": [
+        "KEQBZ6KW4VR7LVI3VUCRU2MG5Y5U2BOBRXUENRG2YNCHU4RTE2SC57C3GE"
+    ],
+    "Assets": [
+        {
+            "assetid": 3510215266,
+            "name": "Basic World #1",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRX6ehJD8gUU1ojWDwgrC9t2iXdFL9SY7FQVszjPbFrpq"
+        },
+        {
+            "assetid": 3510218271,
+            "name": "Basic World #2",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmYggF6bhUnVjeb2jjuJfgV8XentThPun5W2VHWCH9msgN"
+        },
+        {
+            "assetid": 3510219126,
+            "name": "Basic World #3",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmShhFFhNN7wTjLdjXCkoDEoL1G9DX3hriEVuf6NnotCc7"
+        },
+        {
+            "assetid": 3510219460,
+            "name": "Basic World #4",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbBNYN5A2ukdfBi7MbVWAS9guFVntRFSCxyzPyvu4U62H"
+        },
+        {
+            "assetid": 3510219854,
+            "name": "Basic World #5",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmfAPes8VyCXGHLFF3CwGbmXPeCWMToZkryj5x1Sdt2FUn"
+        },
+        {
+            "assetid": 3510220324,
+            "name": "Basic World #6",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmT656ArHmbxzWJyL7ZbiXxtLsPqcpnH6XGbBqNRKoK83k"
+        },
+        {
+            "assetid": 3510220818,
+            "name": "Basic World #7",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmazE1psAojyn2Yeg7JspGPR8cQ5PYrUQ2eywL997frDWp"
+        },
+        {
+            "assetid": 3510221289,
+            "name": "Basic World #8",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTUvP7AFfkTdfwWtuZwtZ8mP2BaYGoMMG4jnAHTwJn1mi"
+        },
+        {
+            "assetid": 3510221757,
+            "name": "Basic World #9",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUxFFCu5jBYiAistxfupUhZRHaGTBKVEVVgikY3JNCSvS"
+        },
+        {
+            "assetid": 3510222102,
+            "name": "Basic World #10",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQHijaE14B3Ekwq2eKuiv6Xy2U2UDBRKkL77VHHxfqaYT"
+        },
+        {
+            "assetid": 3510222960,
+            "name": "Basic World #11",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXBQJspChvi1xj9bMQ522yFim6kfkVVqTbXQuN9WuLbFP"
+        },
+        {
+            "assetid": 3510223252,
+            "name": "Basic World #12",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdJhUMj79Mjw5BqhNsCH2JQzCzH9HMgU2h6gKhRxbPexk"
+        },
+        {
+            "assetid": 3510223706,
+            "name": "Basic World #13",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmfNoGN6i3BMRb4QBhPEKAA9iPjrFEu2dZiVEm8ggEofkv"
+        },
+        {
+            "assetid": 3510224010,
+            "name": "Basic World #14",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdxrLxife6mM5c8cEHTTHJR8zW5isAUXjfjTjapNqhTSN"
+        },
+        {
+            "assetid": 3514384789,
+            "name": "Basic World #15",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeYew61yzyGhTdHn24g2tt2RwtVVnDGceLFFE9YPztat3"
+        },
+        {
+            "assetid": 3514385239,
+            "name": "Basic World #16",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmaQSuz1WiB6yGNuVJoL5fTAGCJwkU971v7o1pA295wMPP"
+        },
+        {
+            "assetid": 3514385497,
+            "name": "Basic World #17",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXzRxtRA594GWExyq9HvaqeaZyak1njdn2vmYxHw48J2j"
+        },
+        {
+            "assetid": 3514390095,
+            "name": "Basic World #18",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeizXBnNPZ7hm36crtwsxqR9KogKfgLjjuLwcdVsMbXRs"
+        },
+        {
+            "assetid": 3514391564,
+            "name": "Basic World #19",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTKBynN7XTUVemFRP38eVS3bnH2W2gAvJLiCUn72WosU3"
+        },
+        {
+            "assetid": 3514391874,
+            "name": "Basic World #20",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmYz5e9kt3cSbQWPzW1ViqSya6sqJYvBR6EUJdzSRdeEjC"
+        },
+        {
+            "assetid": 3514392205,
+            "name": "Basic World #21",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTmbfkSLHRNxGbzmfy9poXd1Fqjn5zfZn5LrWsqVp1bvj"
+        },
+        {
+            "assetid": 3514392619,
+            "name": "Basic World #22",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXuSieKCcy8ZtcjHvHC9tVBt8UEgXpcqAHFmPH3k8n68m"
+        },
+        {
+            "assetid": 3514393665,
+            "name": "Basic World #23",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmesjhu6s7vFVYwHrEGEBEjn6HDaG6nAQ8fdw2jEiN7Zy9"
+        },
+        {
+            "assetid": 3514394298,
+            "name": "Basic World #24",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPDf9FHhSaT631tkVQW9zjuxmNKwPtXgaD47ZX3Qrm1uZ"
+        },
+        {
+            "assetid": 3514394685,
+            "name": "Basic World #25",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmabhVcCpxDdiMyhTPNMqF9LEHKSrzCGLowJKQ5xTdgM8K"
+        },
+        {
+            "assetid": 3514395117,
+            "name": "Basic World #26",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmax6SBsECvTk4TwatAbMmJQcWkieYPV8FXgKv3UJsdWMW"
+        },
+        {
+            "assetid": 3514395504,
+            "name": "Basic World #27",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPD7FMYaXBiLKxhUHeGoMk7nFK2be8cxvCteEqZV4huCp"
+        },
+        {
+            "assetid": 3557226155,
+            "name": "Basic World #28",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXWX1aAG7ZPeW1nur7ZHQ5sHyShvT6GXCEhQHpNWEdtvS"
+        },
+        {
+            "assetid": 3557227933,
+            "name": "Basic World #29",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPbUAWutg175wQkNMTLEGGmBc4cFd43zdLJd6jCKoszkQ"
+        },
+        {
+            "assetid": 3557228247,
+            "name": "Basic World #30",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSGnurNsE1QJKeKd4mugT8BvgdVyGfkZE9SbTESRBD7PT"
+        },
+        {
+            "assetid": 3557230027,
+            "name": "Basic World #31",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTSzfmxxC1RhJWKFcAU1XeMsM9FWdr75xGy78HjAYktYu"
+        },
+        {
+            "assetid": 3557230299,
+            "name": "Basic World #32",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVJCwg2VK4nPYikY2VutuHLttC6AzYRFM87DYqJmdSEH8"
+        },
+        {
+            "assetid": 3557231234,
+            "name": "Basic World #33",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUnumaEcFCsEgjVm6cSbB6URMEgdybs2G9ZM3Q2gUfhBU"
+        },
+        {
+            "assetid": 3557231815,
+            "name": "Basic World #34",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmfZf2EbpqnX4Yfp1jmXpnHSiFmSohZQaHmHvVKFiantvk"
+        },
+        {
+            "assetid": 3557232440,
+            "name": "Basic World #35",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmem5Tuisj6MkSE929Ri4zAink2GgNFpgYWyVVTJ8ZrVrn"
+        },
+        {
+            "assetid": 3557330006,
+            "name": "Basic World #36",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZrideKQfx3TbtwtEq66oRzpv6DJfUHRcvQTXUNqMQMhS"
+        },
+        {
+            "assetid": 3557399843,
+            "name": "Basic World #37",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUHEG6JthnfTBwHmPRqkWKYQcB25s78PyDAqmSxZehTsm"
+        },
+        {
+            "assetid": 3557408560,
+            "name": "Basic World #38",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZNgXq9GSJCkrN5kbZjQyguhzQadL9wxXakNbeyAMVryW"
+        },
+        {
+            "assetid": 3557408844,
+            "name": "Basic World #39",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRHju3S4NXer6pAeSEFur1VMDYRQZ4hbDD6JvPZd42KCo"
+        },
+        {
+            "assetid": 3557409150,
+            "name": "Basic World #40",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeZ7pheuAqEN9J94KrPoZeJywBb4G4A1Lmf17SJvSdpeh"
+        },
+        {
+            "assetid": 3557409655,
+            "name": "Basic World #41",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUudvH46UYk1Snjsdh9X3ZiUoJWmNuKe8RSW6ZLp3Kvui"
+        },
+        {
+            "assetid": 3557409859,
+            "name": "Basic World #42",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmYc87BxDZCvUHyLqnNgwgmWgyH8smxXh6hFcr7wCjT2bW"
+        },
+        {
+            "assetid": 3557474737,
+            "name": "Basic World #43",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTH4JKDyBtR978CQa4i8xAF5A4KQ8NuxALz9MxKCHzLJB"
+        },
+        {
+            "assetid": 3557491845,
+            "name": "Basic World #44",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qme4RjEJa25dkDAtqRKH568MJsr6o3UZuL7GNuTz7N9VjD"
+        },
+        {
+            "assetid": 3557492066,
+            "name": "Basic World #45",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXM5bxHfe1fFLiBDa1j8pptyP9Z8yHmCj5jAMNdfgfejH"
+        },
+        {
+            "assetid": 3557492260,
+            "name": "Basic World #46",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZapgsH5AwFvPDBchuA4phpJWGrafGx2REUvkbs1pnE91"
+        },
+        {
+            "assetid": 3557518076,
+            "name": "Basic World #47",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeyPx6JTj1FU88BnHrtoH4TTB1WNmyTR46WGNN3JqSmPc"
+        },
+        {
+            "assetid": 3557518492,
+            "name": "Basic World #48",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPwsEbaja4HPQv5nCbQsRGcwhF8TVhBHNvN17dSjJKSXG"
+        },
+        {
+            "assetid": 3557518761,
+            "name": "Basic World #49",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUS9kWkN6i74RFCQEWmeYc2vpMSWc7YG1vbXnEefdyX7B"
+        },
+        {
+            "assetid": 3557519685,
+            "name": "Basic World #50",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVm2XKhGwHGBFCTDd8c3pSVTMXdRwH3y2LcER2vLWvby4"
+        },
+        {
+            "assetid": 3557520112,
+            "name": "Basic World #51",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmR5fz3sYf4TbX2rhP2mkobEKoJcpreUZBHUNcrfsLQe3Y"
+        },
+        {
+            "assetid": 3557520401,
+            "name": "Basic World #52",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdCnF9a9BinQEv7yEsH8PVpVmMUtZb9NFcLRZmvydxJkp"
+        },
+        {
+            "assetid": 3557521925,
+            "name": "Basic World #53",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRJ7VvEyFCNVq5qFQdzTkL4SmrxtuTYPYbfYxcL3q7uAj"
+        },
+        {
+            "assetid": 3557522158,
+            "name": "Basic World #54",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmYNJtMFnCxwNgzuTWQ76J7GCCMpXhBQQs712XybUpmZrT"
+        },
+        {
+            "assetid": 3557523003,
+            "name": "Basic World #55",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUxghhaHraWFazKKtCc6E4JpghqsYQnEF7J7xYeUKrPEP"
+        },
+        {
+            "assetid": 3560867783,
+            "name": "Basic World #56",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPB55idtEUy9PLjo99sMM8rYiuwh9c5JzMmgnw6D5SCdw"
+        },
+        {
+            "assetid": 3560868165,
+            "name": "Basic World #57",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVEEP7dLN6vDnVVoR26HEb8EHxh2wqdkZpJUCgBcCeVZM"
+        },
+        {
+            "assetid": 3560868410,
+            "name": "Basic World #58",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcVx6zgivdbR7ju24YQ8mC5nqSSeJ5zQFxxVhkC3oQHtX"
+        },
+        {
+            "assetid": 3560868707,
+            "name": "Basic World #59",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZ3rjDjASEpqCwVWJWZfuCikt8XvEvd6QHNSEV5FGMGjb"
+        }
+    ]
+}
