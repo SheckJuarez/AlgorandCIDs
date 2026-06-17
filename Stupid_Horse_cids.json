@@ -2,7 +2,8 @@
     "Project": "Stupid Horse",
     "Creator": "Thurstober",
     "CreatorAddress": [
-        "GLOW7AKCAZXWQRPI6Q7OCVAO75H45AIYMTDEH3VNPETKYFXMNHAMQOVMS4"
+        "GLOW7AKCAZXWQRPI6Q7OCVAO75H45AIYMTDEH3VNPETKYFXMNHAMQOVMS4",
+        "OATSOOHVFH7UXIOK4WM4CVB7QN6MYWBXFRCMIDAMXYEAOGD3MU7DN6JN4U"
     ],
     "Assets": [
         {
@@ -220,6 +221,42 @@
             "name": "Ow, my Kidney",
             "url": "ipfs://bafybeibspctvdgnuictlnp6tv5cv3bwpyoqsguhjlcv2ap6cpuotobnhj4",
             "image": "bafybeibspctvdgnuictlnp6tv5cv3bwpyoqsguhjlcv2ap6cpuotobnhj4"
+        },
+        {
+            "assetid": 493895498,
+            "name": "OATS",
+            "url": "https://storage.googleapis.com/oats/oats.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 655528787,
+            "name": "OATS Pass Drop 1",
+            "url": "https://storage.googleapis.com/tinyhorse/OATS_pass.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 741888638,
+            "name": "OATS Pass Drop 2",
+            "url": "ipfs://bafkreifuhurswtit3i2ahbiypngo5up3vvobzjsp5oxpcrwsk6kgsbwvyy#i",
+            "image": "bafkreifuhurswtit3i2ahbiypngo5up3vvobzjsp5oxpcrwsk6kgsbwvyy"
+        },
+        {
+            "assetid": 811003570,
+            "name": "OATS Pass Drop 3",
+            "url": "https://gateway.pinata.cloud/ipfs/QmP7ZKUvczi5Lv7b2yWE2um3iYScYUkpGLDcaacUKMbeo8",
+            "image": "QmP7ZKUvczi5Lv7b2yWE2um3iYScYUkpGLDcaacUKMbeo8"
+        },
+        {
+            "assetid": 876463019,
+            "name": "OATS Pass Drop 4",
+            "url": "https://gateway.pinata.cloud/ipfs/Qmey6WZ33SVfNGuhC8WLkp6zmKWZR7dTnhoLWHs2EDraYn",
+            "image": "Qmey6WZ33SVfNGuhC8WLkp6zmKWZR7dTnhoLWHs2EDraYn"
+        },
+        {
+            "assetid": 1366876141,
+            "name": "Oats Pass Drop 5",
+            "url": "ipfs://QmPknfYpYdQX2VU4SU7FeuHUU3YZwFpcm4y4Tdc1qPSaLT",
+            "image": "QmPknfYpYdQX2VU4SU7FeuHUU3YZwFpcm4y4Tdc1qPSaLT"
         }
     ]
 }
