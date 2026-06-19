@@ -1,0 +1,909 @@
+{
+    "Project": "The Companions",
+    "Creator": "Legendary Fighters",
+    "CreatorAddress": [
+        "TJUCDWD7YRL73IQNM744W3XTRCAKEVERH3U3IFNSAOS2NCK2RPB3Z7BOYA"
+    ],
+    "Assets": [
+        {
+            "assetid": 3411068151,
+            "name": "Companion #01 - Cloudbreaker",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qma8aNF5h8vW4JFqrU1cQD4kM2AeUmS9D2ZohEK5ZWBdgS"
+        },
+        {
+            "assetid": 3411068183,
+            "name": "Companion #02 - Razor",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmcq7Q2Ri6FxFgXrJxkzYPjpBZS7Xx2gZdHNUhBFgyqV9g"
+        },
+        {
+            "assetid": 3411068230,
+            "name": "Companion #03 - Nero",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWP3VrHc9FTxqMMFXmWcP5mTDYZfyxygejPmKNg8wuwjz"
+        },
+        {
+            "assetid": 3411068296,
+            "name": "Companion #04 - Octavius",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXatttCKgDAWkFGpwGrdBUNKhAHax3HzgmyN3xNsmQvvX"
+        },
+        {
+            "assetid": 3411068351,
+            "name": "Companion #05 - Severus",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmaiYYC83oAjmN52sTuQ8s5Ane7iS2aAVAsRvgM1MKJ2Yp"
+        },
+        {
+            "assetid": 3411068384,
+            "name": "Companion #06 - Arlechio",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbQr8wVoEuEee3jUXe7Pe1eViLgzzmGUW5T57kzbG1G92"
+        },
+        {
+            "assetid": 3411068433,
+            "name": "Companion #07 - Tuco",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZUYz318PGRFUrwiPigDohghAEXdyfvawztooSG5C2GUQ"
+        },
+        {
+            "assetid": 3411068530,
+            "name": "Companion #08 - Nil",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXecSggcKJ5XWCuTEo2Rfe3aU7smP253KfEraA9jL3dCf"
+        },
+        {
+            "assetid": 3411068569,
+            "name": "Companion #09 - Ciere",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQtTKz8Z5zLgXDH82okC47wUUW7jFer4wJPJDWQXTxGxm"
+        },
+        {
+            "assetid": 3411068617,
+            "name": "Companion #10 - Bomba",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUhf9j5pPYt2Q2ymDhnm1uX18UN78pxgwdPf7qQBQbAYr"
+        },
+        {
+            "assetid": 3411068689,
+            "name": "Companion #11 - Pierre",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRSr9YrztiHryuwmDGQ1WbTins25DBvzPRirRjby4sYKB"
+        },
+        {
+            "assetid": 3411068755,
+            "name": "Companion #12 - Ranault",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmS9Dd8eukEJx4oDXC542DpH79MoUWLtgTqFJ4Kyphn6gX"
+        },
+        {
+            "assetid": 3411068807,
+            "name": "Companion #13 - Dex",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPwtVmLHJaDJSBXTiba7nsCKjz66JWUfnCewwWj5rZRYf"
+        },
+        {
+            "assetid": 3411068866,
+            "name": "Companion #14 - Bruno",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZu4CBamCRzM3csh68SYncW6CXy8axM1WYtaLJDHkQnca"
+        },
+        {
+            "assetid": 3411068898,
+            "name": "Companion #15 - Cyrax",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWXVAKEhbjGH4k8kDbQgZCNCYZ6TbMiNt3cxVKGwyW2d5"
+        },
+        {
+            "assetid": 3411068950,
+            "name": "Companion #16 - Lear",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVgw2y2z2jQQ3Q1auasN5bEJTZ5jtFUGcZK3d1nrEosMS"
+        },
+        {
+            "assetid": 3411069013,
+            "name": "Companion #17 - Malack",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qme6QTHSZFNF5oeFdVEYtxXkmL3bvaqigGQEDDczCtpgN4"
+        },
+        {
+            "assetid": 3411069078,
+            "name": "Companion #18 - Ozone",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRWxRyVyrnTHynYfcLDhzEGMFpQrTjhKBz18k3PNMs3qp"
+        },
+        {
+            "assetid": 3411069141,
+            "name": "Companion #19 - Ceph",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmfQfpntDZW5BCZ21jSMF25q5a8oqLvvgRGuVeGLFJke7u"
+        },
+        {
+            "assetid": 3411069202,
+            "name": "Companion #20 - Neko",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbSHPQV3kodQF9vHVJwd7eFrD4M2zCx9rVfHY2Ni1AATX"
+        },
+        {
+            "assetid": 3411069263,
+            "name": "Companion #21 - Oberon",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmf6zc3ChWZqvqFdK5wZXGxemwNhEvwUdcK2we7bcQucMZ"
+        },
+        {
+            "assetid": 3411069318,
+            "name": "Companion #22 - Capone",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmenN41Ew7sHYSe1pJeM5LtdnekM8HGDPUtHwtoQVUEtjr"
+        },
+        {
+            "assetid": 3411069375,
+            "name": "Companion #23 - Drakka",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbMdmAPyjR1bmASodUdd4KNmZ2AQNQde6g16jghnMqNZr"
+        },
+        {
+            "assetid": 3411069465,
+            "name": "Companion #24 - Marauder",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSo8F8t45mZKcg9ZbCUXg8HJ7L4jN3EMiXGjDNbAJ2kYV"
+        },
+        {
+            "assetid": 3411069512,
+            "name": "Companion #25 - Edema",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWqEFSxa2qX5YDrfDUbJBQJm9NiZKiSuLZgF3fffy6YRG"
+        },
+        {
+            "assetid": 3411069545,
+            "name": "Companion #26 - Marcus",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmdd9AXFUJvPDpbHnTrhMtn6TB1tB27R2Qw4u68YTy92vj"
+        },
+        {
+            "assetid": 3411069614,
+            "name": "Companion #27 - Perry",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVpxPvDbxV46QuscjEd1prJE4NHpEdjMrenPMynsBRptQ"
+        },
+        {
+            "assetid": 3411069677,
+            "name": "Companion #28 - Rocko",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUzxnuTh4McFzueyroYnY8kUbgS6EAuzc8L7zqwjD8QRP"
+        },
+        {
+            "assetid": 3411069747,
+            "name": "Companion #29 - Odin",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmShbmRDoYZeqbSLB4r1YfpyVT38TnE27Me4urWHNbnKWE"
+        },
+        {
+            "assetid": 3411069821,
+            "name": "Companion #30 - Riptide",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNLznwn8xCg12CgK2HHDbPQtsymsXgXQdSHkzYCyafLY3"
+        },
+        {
+            "assetid": 3411069885,
+            "name": "Companion #31 - Mortis",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmd6HJKFCVxh1KTFTwgMMrT1bZuoR3x6SkecYKbJqEUj5v"
+        },
+        {
+            "assetid": 3411069941,
+            "name": "Companion #32 - Fang",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmY5ATCwubUZsEt3NMDGACEEsb4MfmDDttazXxopGi57Ek"
+        },
+        {
+            "assetid": 3411070006,
+            "name": "Companion #33 - Augur",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcwaYaj1WGXAEZCuWK8VykvskkNCvubXHGN9BW1mKYHfa"
+        },
+        {
+            "assetid": 3411070056,
+            "name": "Companion #34 - Silvio",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXw14KYiyDo4zb2T8rC5GNS5wBbeCWbSVvXjmQbyBkUoJ"
+        },
+        {
+            "assetid": 3411070120,
+            "name": "Companion #35 - Nash",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSjsNNii9NKNA5uTLPjGyYeN4LQDNQ23e783UsTYTvCse"
+        },
+        {
+            "assetid": 3411070192,
+            "name": "Companion #36 - Jax",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZLwfNQ11QetyrPGy7a31YYwqMJszBk9tnm77Wexg8eHU"
+        },
+        {
+            "assetid": 3411070240,
+            "name": "Companion #37 - Stein",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTNSR5ZpFk8HzERdd52vVYemZd6tgKgrN2subvy3TqxLY"
+        },
+        {
+            "assetid": 3411070270,
+            "name": "Companion #38 - Grunge",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmV3uM3N8JcUHNiu6YDRg6hst5jZqYz97Ee3YM34eV5c9q"
+        },
+        {
+            "assetid": 3411070396,
+            "name": "Companion #39 - Ceylon",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTawqtGorkmiufGCF69DFiV5SjpAUU2rD24RUmjfmXdob"
+        },
+        {
+            "assetid": 3411070451,
+            "name": "Companion #40 - Prime",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQVBvR5KQKhRN8Jxy42UHPcRsjRBaDriaB6UJrUgF8qBa"
+        },
+        {
+            "assetid": 3411070514,
+            "name": "Companion #41 - Zev",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNkFEAKNjYe9wTYguVB9kYvbFmPkvmd8M3xKGX8MkfYHE"
+        },
+        {
+            "assetid": 3411070632,
+            "name": "Companion #42 - Bane",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXwymXUQ32Brk8wkfXQQ6nZQmmNi9A1uEiiBpJySkVa6b"
+        },
+        {
+            "assetid": 3411070789,
+            "name": "Companion #43 - Richter",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPxqymqTE7jrDntjnUVkU73wdA4H9UVJdmg3xcSuAdhrG"
+        },
+        {
+            "assetid": 3411070866,
+            "name": "Companion #44 - Jecht",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmd3SLfiX23Yw1T2cJTx8ekAqx8vSZi5jmHNxMo96cMNUb"
+        },
+        {
+            "assetid": 3411070927,
+            "name": "Companion #45 - Leary",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZWfRYXwcKvdg6JoucmuzcaDJpmJ9R2u47pNjAd7nHyBk"
+        },
+        {
+            "assetid": 3411070978,
+            "name": "Companion #46 - Viktor",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmV8GCST4ffV2SNYgo6PuSteaJTCSGEyCef1uX9DKG51HZ"
+        },
+        {
+            "assetid": 3411071030,
+            "name": "Companion #47 - Aether",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmYooLGxk4gnxuuQqygTSteoqydQN2jGaTJvTuMwHoWFEq"
+        },
+        {
+            "assetid": 3411071090,
+            "name": "Companion #48 - Ramone",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qme4rfojs24koveWY4wuKU6v1ej2QvAY9fF1CC5KLmL9DL"
+        },
+        {
+            "assetid": 3411071168,
+            "name": "Companion #49 - Gabriel",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUxm4EfaA9MR1BLAYjqDn5csorcc71ULtxDg1E89t1otY"
+        },
+        {
+            "assetid": 3411071304,
+            "name": "Companion #50 - Senusret",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmdn6NUsgGbC5SepALcPmAv8SptpoKLxptJLtGWqXg12Ph"
+        },
+        {
+            "assetid": 3411825902,
+            "name": "Companion #51 - Dumile",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWqbLVgGN1DTZqqGR39EeUNrCCMMfkqKXNkNWsLrUt24r"
+        },
+        {
+            "assetid": 3411826020,
+            "name": "Companion #52 - Elephas",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPjiqDbnGYsqXJZ9nmT4LsCbpcJCgeX3RQMFAeRMKpK9o"
+        },
+        {
+            "assetid": 3411826124,
+            "name": "Companion #53 - Teuthida",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZzQvQkDd67JpXBUKsQNqYMkt7MFfRrkFTNr52ppXqkuq"
+        },
+        {
+            "assetid": 3411826173,
+            "name": "Companion #54 - Gallinago",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRAUDPcX3rL3yfXNe94Mxtn98fAdWqAwTs11AcALSBkWV"
+        },
+        {
+            "assetid": 3411826217,
+            "name": "Companion #55 - Gleam",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbzLTrGsctpM2p35D5gckngUwf92sPiHFzySEA1bnGx6d"
+        },
+        {
+            "assetid": 3411826273,
+            "name": "Companion #56 - Lazarus",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWDtkX6fHarXBFy2gBR17gfU4ebJC3Aj4mLMQ2i5xhNMc"
+        },
+        {
+            "assetid": 3411826322,
+            "name": "Companion #57 - Necro",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQhskpE4CEWdtxPL6xJv7NjL1FMx2Q1bPKKxvnVntCYAH"
+        },
+        {
+            "assetid": 3411826378,
+            "name": "Companion #58 - Fern",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdmKfeELGm3baHAk3MvFBVejexXuaArKPtyL23mC6b917"
+        },
+        {
+            "assetid": 3411826424,
+            "name": "Companion #59 - Ballast",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmd2zh53tsbcR83QSTKvkxAC8jEpY1eQXTWZ2jznwoTmKr"
+        },
+        {
+            "assetid": 3411826459,
+            "name": "Companion #60 - Architeut",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbkK78cCJqxTAL57W1SKBGjVct6eVPSMzEH5J5fkUkNDf"
+        },
+        {
+            "assetid": 3411826512,
+            "name": "Companion #61 - Boolean",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXcyxPxwc9dqmg6X2xAAsFirYzqDJbfUvviesqMGzewt1"
+        },
+        {
+            "assetid": 3411826564,
+            "name": "Companion #62 - Gossamer",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmReUEfiLFh4NKXntCr1J81bA9DhSeaXZfbKhetqcxjnXm"
+        },
+        {
+            "assetid": 3411826591,
+            "name": "Companion #63 - Viridian",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUseC6JZQ7DucsvcEKXCRH7ENg812VqxD8Pgr46iLo3Gy"
+        },
+        {
+            "assetid": 3411826660,
+            "name": "Companion #64 - Oriel",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWFiuaSPU9Lx3bd6UUM4AwXBLSJ9nxqaBxJDcv8wLJBSD"
+        },
+        {
+            "assetid": 3411826775,
+            "name": "Companion #65 - Lox",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXkN3FTSGVeuy4CWk6QNFPdzSLwechgeYHCHzHHa3CRGA"
+        },
+        {
+            "assetid": 3411826820,
+            "name": "Companion #66 - Stoker",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZYhytucj8UBNUoSTzbwn6SiWxMwApmiRuh9q5dxT8uos"
+        },
+        {
+            "assetid": 3411826870,
+            "name": "Companion #67 - Asmodeus",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmV2rAVtxLnPPjK3vsA36M9UdpKPW8fewK5EN4gYkDrPaj"
+        },
+        {
+            "assetid": 3411826936,
+            "name": "Companion #68 - Revenant",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmc1MbMFSeLer5mUGHumEaCrTMaMJUQE97tkW7urXZUrHd"
+        },
+        {
+            "assetid": 3411826986,
+            "name": "Companion #69 - Bennu",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSQJ2uXV7sLEedpotHLyaJjX4zobuVpsFKDsYmpyMsTj5"
+        },
+        {
+            "assetid": 3411827017,
+            "name": "Companion #70 - Xan",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNRSUg6AgcbYDpRiSMVX29T8PuGhgjYuWsVPcZCozvtYx"
+        },
+        {
+            "assetid": 3411827083,
+            "name": "Companion #71 - Bes",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmatVxGGtA7hUBe7tYFbqxsbnfEJuvBEd5VRyxEALad8JA"
+        },
+        {
+            "assetid": 3411827137,
+            "name": "Companion #72 - Puck",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZd3a2DrDGvvfw6QxZXvCubVUUa9sDSt7erjXsjAGTe9R"
+        },
+        {
+            "assetid": 3411827207,
+            "name": "Companion #73 - Zephyr",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdxJ1L9yyMW7adK89HpFCAu2b2Mwn8QvTqXQU87Eapems"
+        },
+        {
+            "assetid": 3411827261,
+            "name": "Companion #74 - Oni",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmX7z5be7oxvRvHmAdbHT4VrFkQ6xhkgpwzNKVfDnggpQJ"
+        },
+        {
+            "assetid": 3411827306,
+            "name": "Companion #75 - Apnea",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmT1j1hu6thAnLER3bDghi7SqnwhKu2Tx8RxiFKmMsEhd5"
+        },
+        {
+            "assetid": 3411827358,
+            "name": "Companion #76 - Vitili",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTYoafysDwdRSHsDke1i7N7LZAskdBdCHct6tn7hrYkQT"
+        },
+        {
+            "assetid": 3411827431,
+            "name": "Companion #77 - Layla",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXXFyDcd12mSiQaUQ6mZLArb5V7mnsiWRaFLDofY5zezC"
+        },
+        {
+            "assetid": 3411827486,
+            "name": "Companion #78 - Grizzle",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPGXnciCGKzyz21cQZsr6JxrnDmApRNJ6dWkKLFDTbJxe"
+        },
+        {
+            "assetid": 3411827508,
+            "name": "Companion #79 - Thunderfang",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmfZ63MyNTGdkKH7mB4GoNEh8M5L5CUxaooYyUd5tMXcLR"
+        },
+        {
+            "assetid": 3411827589,
+            "name": "Companion #80 - Void",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWeL7cUrf7q4fjZJ6mVTvcBixUNdzjgFrfoDotkp3UKh7"
+        },
+        {
+            "assetid": 3411827672,
+            "name": "Companion #81 - Ironfang",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQnTD2Ar4DkHoMPtvdym9RiYx3LNABNkPtVtNf8Ky3oWm"
+        },
+        {
+            "assetid": 3411827754,
+            "name": "Companion #82 - Stormscale",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcNoohfXGGbBjjhVSmao1aH9KUxBWRmmrYzY7Rcvd1URP"
+        },
+        {
+            "assetid": 3411827892,
+            "name": "Companion #83 - Gamer",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmfVYGe87pAAFB8ZPmofH8HiEqcaB3cGAFWA2orUAT6oRq"
+        },
+        {
+            "assetid": 3411828023,
+            "name": "Companion #84 - Whisper",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZkcWzGLJLBbCZzyFnrJucG1MZaTY8TBnCPjosF4VXzxy"
+        },
+        {
+            "assetid": 3411828043,
+            "name": "Companion #85 - Glimmer",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qma8utAvz97DFue5oRPTDWoDTWvQe5QsQSaALDZQeXX6yk"
+        },
+        {
+            "assetid": 3411828088,
+            "name": "Companion #86 - Spirit",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdaoYQ8HGdwkcp1RTWVLn6Lv3oiRKuVsVuxAt6uKuoi64"
+        },
+        {
+            "assetid": 3411828188,
+            "name": "Companion #87 - Cyclotis",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZDg6AwiN5xBwsmQc8eGte3bwtr3r4vkVrucZQhNsfBNR"
+        },
+        {
+            "assetid": 3411828232,
+            "name": "Companion #88 - Fellspawn",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRtLUZqqp2FT9vKjGZdZTwayFsvCpHH75N4piMDyUZwaq"
+        },
+        {
+            "assetid": 3411828268,
+            "name": "Companion #89 - Grimtalon",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeNsXE8sYyHN6QpTpZguHGN9tp9ACVN19oaobNMZyWtHL"
+        },
+        {
+            "assetid": 3411828309,
+            "name": "Companion #90 - Shamen",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQhAGgT4tpve92Y5szpBFoHxZXPTKorjMxw9QVLFpQwEj"
+        },
+        {
+            "assetid": 3411828362,
+            "name": "Companion #91 - Totem",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmV2mcjkJM2G4CPQ7scZcASd9YxefQr6HEkaDyrXX5M9PX"
+        },
+        {
+            "assetid": 3411828485,
+            "name": "Companion #92 - Triton",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcaKZvmSvbjv9Ys5n7UhQghYJKr7GFM5wzf2XzaG8521v"
+        },
+        {
+            "assetid": 3411828572,
+            "name": "Companion #93 - Mindraker",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPkb2qHSrM9xeEFVV9znTKqJAkUkVQRW9V2uY77nDL5jK"
+        },
+        {
+            "assetid": 3411828628,
+            "name": "Companion #94 - Fellspawn",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNYxUBTcJVUjgxAHhu8tmx63DQe9tH5t2mghc6rydv9aj"
+        },
+        {
+            "assetid": 3411828698,
+            "name": "Companion #95 - Tryptamine",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWAQcCoVm6tez3CK4LuvyknZfbDLiiSdiY3HdanHts6tL"
+        },
+        {
+            "assetid": 3411828745,
+            "name": "Companion #96 - Celestial",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRVLsw1aTHr3mRb1hNYVxvRssMGwtCEUuapcQ87xW9vgo"
+        },
+        {
+            "assetid": 3411828782,
+            "name": "Companion #97 - Stonefiend",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeiHEtk2cch1QSdSeDKodPgv1UhbWHrgqh2hr4255ByjQ"
+        },
+        {
+            "assetid": 3411828861,
+            "name": "Companion #98 - Rune",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWifPFZJyCGTevNfZaqkX4b4F4Sn1BgoRfWPAjWMzaMx5"
+        },
+        {
+            "assetid": 3411828954,
+            "name": "Companion #99 - Fang",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcgTLefZriwnUvkbhFahkr3hgXPsXsrEUSDQf45UDnyLz"
+        },
+        {
+            "assetid": 3411843075,
+            "name": "Companion #100 - Zhang",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSeEr62hvFFe5nZwx6B6auDcq5bhqV8TVD4NL5Gyrab1n"
+        },
+        {
+            "assetid": 3411843116,
+            "name": "Companion #101 - Booker",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmdmw8VRckc6D68XcKC2HMwM17wLrwKGRYamGCPQisnfSi"
+        },
+        {
+            "assetid": 3411843173,
+            "name": "Companion #102 - Louvre",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXwCM5gqxUALr61QCg1vgZo3Fac8gJnfwV2KCGnBwFDYn"
+        },
+        {
+            "assetid": 3411843221,
+            "name": "Companion #103 - Krymiltssen",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdefwvgpBjg8ZREaLuDRWoHCWnAHY1jXyTdLbSspK6zSM"
+        },
+        {
+            "assetid": 3411843260,
+            "name": "Companion #104 - Braum",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmbc383db5p6CVdPFnozub6kuaM7z5FZB81EHN4c13SGYw"
+        },
+        {
+            "assetid": 3411843311,
+            "name": "Companion #105 - Jude",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmdr8K7s9eAetEAGdJrBM8fKUq29G5ncjC3AVCGxAZ77yB"
+        },
+        {
+            "assetid": 3411843369,
+            "name": "Companion #106 - Chihiro",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWMUs64fS6xSwkUSa4dii6NtDJtXKXUPTPukzaL5PgxsM"
+        },
+        {
+            "assetid": 3411843430,
+            "name": "Companion #107 - Storm",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUY6D61GfKB41Xb351KJN2LMgsEgALE6fsopmf7cihPya"
+        },
+        {
+            "assetid": 3411843464,
+            "name": "Companion #108 - Synclair",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQyPmKfYRmLRykfTwryKacGWZDfFAFx2aHLQycbwa3xiu"
+        },
+        {
+            "assetid": 3411843498,
+            "name": "Companion #109 - Thierry",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQL953zsSf6Tw5oRKAYuGFYgYcZRXai52bPG9MTp9R6T4"
+        },
+        {
+            "assetid": 3411843549,
+            "name": "Companion #110 - Maya",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeTn3seJaCBSK5ehD2oJm8XWoT9cddkNjR6vZKzdvfvvQ"
+        },
+        {
+            "assetid": 3411843582,
+            "name": "Companion #111 - Rick",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZJvXZHDotzokXLtx8U9b8goFxTRWhXzDF5HkeZM1WUhY"
+        },
+        {
+            "assetid": 3411843638,
+            "name": "Companion #112 - Caine",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNiJUEDaEHjQKQ2VbSGQVosZkqd9LV14SLVZT64CRVjVg"
+        },
+        {
+            "assetid": 3411843676,
+            "name": "Companion #113 - Reek",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXAE4SNdysavZu3PffNuJGwT13RHhknSWudX9gPek9Czf"
+        },
+        {
+            "assetid": 3411843723,
+            "name": "Companion #114 - Rose",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdKsTHWAfu99Ri7Cvcjc5B62KNEDRjx3WwfKQHmgbHUCU"
+        },
+        {
+            "assetid": 3411843778,
+            "name": "Companion #115 - Adelstein",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTJHq1bkr9zQkNScB5CHJLrgwXw5cAH5qhgDbYD6LAS6K"
+        },
+        {
+            "assetid": 3411843807,
+            "name": "Companion #116 - Reese",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbZtG5YU3uaNqePQKiXszRVYjYFNpXy8xD92GhGtveoTq"
+        },
+        {
+            "assetid": 3411843848,
+            "name": "Companion #117 - Morwenna",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmY2pN3ACLybmSeZ1W1qUkeYc1pQNGxEuZRFDrdJp5S98N"
+        },
+        {
+            "assetid": 3411843903,
+            "name": "Companion #118 - Decarre",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQBWPVW9U4XUKWf7N1AYmqxSgwYxRwK5aSqJVGedYFmP7"
+        },
+        {
+            "assetid": 3411843986,
+            "name": "Companion #119 - Carl",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmagbKTggLYRmLtp7v6gqVnrXuoMphxfsZTyqPMbyApDji"
+        },
+        {
+            "assetid": 3411844403,
+            "name": "Companion #120 - Wixeria",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmW7Hbw4exN63cAvNzHWd8ob7bBE6NXQhm6srsHtK25Rbe"
+        },
+        {
+            "assetid": 3411844474,
+            "name": "Companion #121 - Joanna",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPTB7YmmA8xtourrbMRLbDXYEhSVA1MwbBDbaqX4FpLY7"
+        },
+        {
+            "assetid": 3411844529,
+            "name": "Companion #122 - Robins",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUW52tQbYW1UZ1TH9yKgUqP1e7wZAfmfSK6ugpdeJLqQw"
+        },
+        {
+            "assetid": 3411844572,
+            "name": "Companion #123 - Maverick",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmP4VBNJs2Kmv1Tk1mMHqTNdY3rkimkUnWb5WuKneQuvFM"
+        },
+        {
+            "assetid": 3411844634,
+            "name": "Companion #124 - Sev",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWTogFbbBR9M6wtaqjCKFf7FZppEmZ8yMvVAWx5rD4eKs"
+        },
+        {
+            "assetid": 3411844682,
+            "name": "Companion #125 - Mason",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRQvVUMmhybaMwktTJNpDenjUYvLtaBJmEUpFkz1efzgT"
+        },
+        {
+            "assetid": 3411844720,
+            "name": "Companion #126 - Anne",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUL8gfMzUzL34T4drocZJCb8G7mh2n3EzoDnCQaVchszK"
+        },
+        {
+            "assetid": 3411844759,
+            "name": "Companion #127 - Jane",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWkBbU7zCQnAAEp4qJY94XYwamZYvAWczgWz8jEVvaap2"
+        },
+        {
+            "assetid": 3411844855,
+            "name": "Companion #128 - Krymiltssen",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNQBcQhA3AZfePY7dQoXQvWCzD7zzXvJr9cyUmPKkbAf6"
+        },
+        {
+            "assetid": 3411844899,
+            "name": "Companion #129 - Hare",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbE6iGacPmp8D3NCvevEvjsSRfNhyG7DjomH853BcFwcG"
+        },
+        {
+            "assetid": 3411844943,
+            "name": "Companion #130 - Ray",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZG3DxhnZj4pdB42pKfMBAQQHFax7MM47BpN6B7XeoJ4Y"
+        },
+        {
+            "assetid": 3411844977,
+            "name": "Companion #131 - Jane",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTwHHzBditF96MtWbMSKnLmJe85vP85RT94cvT3wvXSFV"
+        },
+        {
+            "assetid": 3411845026,
+            "name": "Companion #132 - Crow",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "Qmba8FL96rvYtfP4c7Kq1WDPgF94kdYkK2ueWs9e892Zmj"
+        },
+        {
+            "assetid": 3411845061,
+            "name": "Companion #133 - Garvinne",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNTRTs8wg8BwMyjtTTwL3jPmqPwcAyDiorgn6T2UL8txc"
+        },
+        {
+            "assetid": 3411845096,
+            "name": "Companion #134 - Stanley",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmYbDYX1FLZuq41Qbif2LRZ6hC2ogsb6og3zpZRBhsBu5u"
+        },
+        {
+            "assetid": 3411845116,
+            "name": "Companion #135 - Jacqueline",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmeUaHt8t52AFdtWPYqfXJkvPmaKKihyghr21ZsGguq96n"
+        },
+        {
+            "assetid": 3411845175,
+            "name": "Companion #136 - McNeil",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSfpYXUapAZTaqKVyyaunrWmCcQFT4u2rrv4EsBsSAKSv"
+        },
+        {
+            "assetid": 3411845248,
+            "name": "Companion #137 - Phyllis",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZ4xhpDNCzfJHWQ2vHWfkQvvYgmYeztY8fn96u2jH9kVw"
+        },
+        {
+            "assetid": 3411845275,
+            "name": "Companion #138 - Yang",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZ5hGx7LQhozkrn6ZFF7kn6AWqme1kcRih18249X1NGLZ"
+        },
+        {
+            "assetid": 3411845313,
+            "name": "Companion #139 - Dane",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmaqgVJUUEVDpCSKPC2YjqFmi6PwADKrweUM25xNo6udos"
+        },
+        {
+            "assetid": 3411845336,
+            "name": "Companion #140 - Sanchez",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmaB9NYv8Qg3QNAABgtULUbFZcnd9iivA64s9q95ZQ5bQT"
+        },
+        {
+            "assetid": 3411845378,
+            "name": "Companion #141 - Liana",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdyoNGeFtBPtcZanoe7VCvRioDTGmz2pJcuHkTrEQGNTN"
+        },
+        {
+            "assetid": 3411845403,
+            "name": "Companion #142 - Haze",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbaV8EuyPrBfdW3TgD5MHaD31cb5UgcYfnS8AcThJT3ju"
+        },
+        {
+            "assetid": 3411845435,
+            "name": "Companion #143 - Kurogawa",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQ2GSpkNUaZq1sRxTQwjbCwSYsgcsoygvDvp584VNzgsk"
+        },
+        {
+            "assetid": 3411845469,
+            "name": "Companion #144 - Steel",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZFRiqRxSUPyoHg5zcb2ZYqQLhXsca4zviGzLD6hTpcRa"
+        },
+        {
+            "assetid": 3411845495,
+            "name": "Companion #145 - Luna",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcdrC1AjxrCVYQWUzwYqaKZQpucYy9WtbGC7QgXsUVRxx"
+        },
+        {
+            "assetid": 3411845532,
+            "name": "Companion #146 - Sparks",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbCzruuzvUBuaaHcaFLkCh78tojSDyQZqYdxy9VkZti2n"
+        },
+        {
+            "assetid": 3411845569,
+            "name": "Companion #147 - Rumi",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVoyLAeDTGHJofEThRi7agspTkfWWDirqJQUZvyW6NFz7"
+        },
+        {
+            "assetid": 3411845616,
+            "name": "Companion #148 - Exa",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmfQbK1AVc8gvU9o7DFBmYzQW7E5ConG95e9xD8pLdy2oC"
+        },
+        {
+            "assetid": 3411845661,
+            "name": "Companion #149 - Raze",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmUvCxHtwQCGR4BAoCJWpd29rNFJLRkhMTKbGwcG78cXHc"
+        },
+        {
+            "assetid": 3411845683,
+            "name": "Companion #150 - Rain",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTuPRXBbj9bZRDHz99omDTF5iQuJuZ8bm4WGQvo8kZwqK"
+        }
+    ]
+}
