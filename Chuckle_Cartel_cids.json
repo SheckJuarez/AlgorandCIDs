@@ -1,0 +1,927 @@
+{
+    "Project": "Chuckle Cartel",
+    "Creator": "Chuckle Cartel",
+    "CreatorAddress": [
+        "HXYCCPLR3HBB2TRPJOLNPQTQZ3G3KAGW4GI3DCMK24MTAPR2YBYRJ35UAY"
+    ],
+    "Assets": [
+        {
+            "assetid": 1872482650,
+            "name": "Bat Country MNGO",
+            "url": "ipfs://bafybeigybrpatce7tds3qjkzwiev4yews7mva6mjxayrjcus73plx4sgne#i",
+            "image": "bafybeigybrpatce7tds3qjkzwiev4yews7mva6mjxayrjcus73plx4sgne"
+        },
+        {
+            "assetid": 2364980497,
+            "name": "KY Hot For Him",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZT2JgvwhDvXEYNWc6XrZt1P7LHDXDaG4zYPCfDa5eXJb"
+        },
+        {
+            "assetid": 2364986482,
+            "name": "Tin Foil Wrap",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdsp2yRhPek4BhyzFERFyghHwsefAmxLge7vwKGFYv4NA"
+        },
+        {
+            "assetid": 2365154018,
+            "name": "Mustard Chocolate Cookies",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhi2Afy7bUVwBRymUtGyzJCRzipBAQMFxEYWJwXJjW1t6e"
+        },
+        {
+            "assetid": 2365331580,
+            "name": "Poison Ivy Delight",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdFakqy4VN2dKRsRKdDepZ6SC5WfMyCnh74qnzpjWCMmk"
+        },
+        {
+            "assetid": 2367214978,
+            "name": "Scorpion Enchiladas ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZSPwThyQfWrLxvvegkjYbn5ic4Cg7QeJKkMA5DzQaomK"
+        },
+        {
+            "assetid": 2375823422,
+            "name": "The Sweet Dental Treat",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcQP2Krhz2Bn3N2sA9D52QQyXbG7ekW3aLLAYga8q3LDs"
+        },
+        {
+            "assetid": 2375851405,
+            "name": "Beyond Nonsense",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkv2aeQ4MisjB7HiPhZZj4BFtWDnFP1EFPYoW5P6JvM3q"
+        },
+        {
+            "assetid": 2387005199,
+            "name": "Week of Energy",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho7PKMzpcYpXeromucJZWWP89ZJwQCdR6au4f1RmhAZp9"
+        },
+        {
+            "assetid": 2391293390,
+            "name": "Face Diaper",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjmXFfg6AaKtJvM6H6GMR7bi92i8c2QdkmACxZcJ6s3cA"
+        },
+        {
+            "assetid": 2428946349,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhn3Nt6nMa8bpDC39p74RyEwfj5u5LSwBbppxzfMJkojas"
+        },
+        {
+            "assetid": 2429148586,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhj4zdj8o8BnaUhQ7yEruY3bsRoT4SeSfDWPsyGCZPq3q9"
+        },
+        {
+            "assetid": 2429163832,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYeLdzrjpUiHr1dn3Uvk7fCQGWm711xqqzAEJEbCLmqhi"
+        },
+        {
+            "assetid": 2429205899,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcZUZc2Y7TQC5JGGAm8ERXGZTrefJpC2vryPDKHedmHXJ"
+        },
+        {
+            "assetid": 2431880536,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhPyC9kzdoUEEhYnr8uoT8PUePMsZMg1WXY1MCsGwrVVr"
+        },
+        {
+            "assetid": 2431893823,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYHxkgV2z7Zwsr7e7Gi8uJ912q847dWgNYCsApKQFZzEc"
+        },
+        {
+            "assetid": 2431899601,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmLCZgeJMS6xxxuE13koWUqSwiyvfmdAdxAz2siQuW6JH"
+        },
+        {
+            "assetid": 2431905330,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbuVnG7aq21Lb2H4mH7n5S1ntM7XcRBcYqhgKgyTBis44"
+        },
+        {
+            "assetid": 2431913114,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgGZnHAFbMJjBN97mqK73CfJmf5uYMfZFbGgBp9wHHyy8"
+        },
+        {
+            "assetid": 2431924871,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhd2Sfk5egEkrMyNFt9eynLfTWMriy9w8F1rQ6yzikxNGW"
+        },
+        {
+            "assetid": 2432294933,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcBc6Fw9yejA2oxkETqCkWBfCXXvQffmKsuKzKz5ddtB7"
+        },
+        {
+            "assetid": 2432301645,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjFmo9VYVQQ8DWvk2TWTBGxhfJbS6ZC4oKDGaZVuX3gfU"
+        },
+        {
+            "assetid": 2432307783,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmhMDnmWJk5AJCWuB6apY63xiUFuf4XbpKZKgWM5ymCMT"
+        },
+        {
+            "assetid": 2432315017,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmFtQAE3V68HZ2cfLd2D6VQ8by6Fg2MWqBNuLtczk2JqF"
+        },
+        {
+            "assetid": 2432321444,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdQDb79H8x8X3LZHJ4YfnGRK4Kz9pUjq5LEU99f8s67bi"
+        },
+        {
+            "assetid": 2432327168,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhifZuQUsqNyoZEq6KQtYDSWewjaoKWCCSffACVDXxCDJm"
+        },
+        {
+            "assetid": 2432331203,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbGvYn4wL3Nb18hJgygXp2PpRahgNMnH8wteALhCAXR6d"
+        },
+        {
+            "assetid": 2432335773,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhakdC9cDrohCoKXaf5MPyUqDxDNUx2ZgzPxPfrMc7c7h3"
+        },
+        {
+            "assetid": 2432339971,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhb1fEwABYoHrX9WePnxhH9ztgQM1yVSnVDE2RUnSiRXxv"
+        },
+        {
+            "assetid": 2432345057,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhj3yQ9b99NidW4jYLRip1it18eivCr3EpRkpCq5JQ3hBs"
+        },
+        {
+            "assetid": 2454886243,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYPSMuLUyGog5rC2nBMifbzpvHbXDQePUmPZy5p4zuXuy"
+        },
+        {
+            "assetid": 2454890075,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhetTfGWiXmC7xupepjavHgn4HuhWb6LV6PeNAT1idwCwp"
+        },
+        {
+            "assetid": 2454895267,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgmoVKa24iif3dgUuxWGCAZWFjkrraPMuFBYE7u5TrnJ2"
+        },
+        {
+            "assetid": 2454902819,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhibVwzanBvkkFPTVsDNBSsrwZ9x1WqULJ9XMBpHDuMSdR"
+        },
+        {
+            "assetid": 2454906401,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkwPme5rfYj2kn8MgCNf3c9xYwYtiydNAYT5fmBcUHbR1"
+        },
+        {
+            "assetid": 2454909306,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgyQy79uKMKmdVuYFE19rdtwmpwrEQDpztWaEv9251kMg"
+        },
+        {
+            "assetid": 2454914568,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhogk43wD9MfT7MJDgHZxh2TdsFerDMkioehqcDtbCY9rZ"
+        },
+        {
+            "assetid": 2454917383,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXXhZNGaJhYqCwHzbBiNBafLMTBq2gvJ8mMEHciozQCE9"
+        },
+        {
+            "assetid": 2454921208,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhis1KEA7ajBBMBRXtVqp1fLith6b2suoAVU2ao6r8YTph"
+        },
+        {
+            "assetid": 2454924439,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWrjF965r7bo5Uby9erJeUaNCExuETg7ntKhpGJNT8zAV"
+        },
+        {
+            "assetid": 2454969907,
+            "name": "Surprise Party",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWfdoRc6tS8gGb4UDGGW1UuN5wFkLK1HnzW3gLgZzzRRk"
+        },
+        {
+            "assetid": 2616217487,
+            "name": "K Hole Special K",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXC9X2H2MM9UkRih7ohQv8wVgLnq4ZfTpuagt4zaWt1mm"
+        },
+        {
+            "assetid": 2616229729,
+            "name": "Huff and Seal ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZvUJkLsaJhfZm4LUBpmoPk8pZDBTcym3DpSxQmKUrWFX"
+        },
+        {
+            "assetid": 2616240323,
+            "name": "Rest Stop Restroom",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhXmhef6Mr1ukv73BThs4CLWdJVmYGFRJaoBwK7YFxuuZ"
+        },
+        {
+            "assetid": 2616254020,
+            "name": "Habanero Shampoo ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheV1foiRcK1u6a6YGAvBD6Z4e53sBDN6mpgd2CECg2rrU"
+        },
+        {
+            "assetid": 2616265914,
+            "name": "Universal Identity",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZABBFtAQzpdAHvXWAWAq3iG1U2mkRSiD7r4DKzNiGu2D"
+        },
+        {
+            "assetid": 2616276711,
+            "name": "Gingerbread House",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheY2MRRwvSVr6divwyjbt4YnPuZLgicrHwrvjVrxqnVDc"
+        },
+        {
+            "assetid": 2616283739,
+            "name": "Dry Ice",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoN222jZXaQS2Nmqu1f134WF1Gz8UMQmQfgzz4vUDDr4N"
+        },
+        {
+            "assetid": 2616290066,
+            "name": "Gummy Fun",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdrbRE3F4SXhsgGC3F2qs6eTDP7rBdfDdUFbCXm58pxZA"
+        },
+        {
+            "assetid": 2616370160,
+            "name": "Fromunda",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfQLawkCxd2KsLTHS4Q1ko7xC2MqbLH2a2x1EPDagETBZ"
+        },
+        {
+            "assetid": 2616377542,
+            "name": "Nipple Milk",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZop5j7Gsmc3ckAD9L7v4kmc5okQ3UuPFbFqjwDQgwhHY"
+        },
+        {
+            "assetid": 2631821893,
+            "name": "MAD Cover ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjNUnsppKnoYHruooprQqj7gdAmP8AQuSTZ2BjYjEWHWN"
+        },
+        {
+            "assetid": 2633492696,
+            "name": "Womp Crew Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfuu9NvyQQPbuZwyCVdNFUecZWycxsqqynVYSwoFKyyG4"
+        },
+        {
+            "assetid": 2634242372,
+            "name": "Mario World MNGO",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoSo9sV7mYreVszfpjuM4q1WnMSAPQ33RRLUxH6bAinM9"
+        },
+        {
+            "assetid": 2635293736,
+            "name": "MAD Cover MRE",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnD3ex2AN3zk19DhppA6n2Rca9BTf9mUsCAQB5V5wLMVQ"
+        },
+        {
+            "assetid": 2636447340,
+            "name": "Lord Shitcoin Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkQurPXgDKNGy5PW5pt1Gp5dQhiVymcsN6pc1QUKFgPEb"
+        },
+        {
+            "assetid": 2637796557,
+            "name": "MAD Cover Meme",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdmDuW1WXQwxDEkLrAfM66PQaTu1LNzwco8bpNzpszYNC"
+        },
+        {
+            "assetid": 2640623593,
+            "name": "BASTARD",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnr2wRfjJPmXbBQ3HLURcLESd5pr8PKgtct1E4RpzmZa7"
+        },
+        {
+            "assetid": 2644267124,
+            "name": "Algo Yeti Cereal ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdKFAZc87wtVhN1huRTh5f3oAe59ocv2Jx2R1BnDALZA7"
+        },
+        {
+            "assetid": 2646397618,
+            "name": "MAD Cover Meme Game",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXMuPkVJtY5y5nQr1vpyqrr6ycBf8nKQcWvfXRNckdvUZ"
+        },
+        {
+            "assetid": 2655534693,
+            "name": "Shitcoin Ventura",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYfKJeATYz6NMcVYmaoJyLuwHLK6zzjpYsMpwS2Sv24yF"
+        },
+        {
+            "assetid": 2655754263,
+            "name": "Algo Bros",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhCFxUibqxjiUCNuPVwJ66jpU56cnQze9noLDXEHuHpSB"
+        },
+        {
+            "assetid": 2656146673,
+            "name": "Coop Redemption ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkRsXhpJe2QbbvAruySn1Z9akZGtvaShwpkCb4rTKwcDb"
+        },
+        {
+            "assetid": 2658335375,
+            "name": "Madtardio",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhh61fyaPZz8Y26ZGgzfB6xDFXS8pmvCddex9mSMECexF8"
+        },
+        {
+            "assetid": 2660695540,
+            "name": "MAD Balltardio",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaR7HxTNH3xLv46Nehd8BzbTgVLfjXVoLuVWsJVP6DFfQ"
+        },
+        {
+            "assetid": 2669444762,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXofttqvTF1Qw2U4UXNWY19GvoQoHHsxUNs6iJAYgCARq"
+        },
+        {
+            "assetid": 2669448729,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaejuw8xrxaDwe1bTAYpJ9ePi4vvmPPrcroXuk2Lbs6RL"
+        },
+        {
+            "assetid": 2669450748,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhd5X2t1K7wu7Z9fn3xmeZMJy3bmpbhoWZ7dnZ6kbe97ir"
+        },
+        {
+            "assetid": 2669453274,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXTGRa7fMSiSaf3E2iJFuWy5jpcLmeBPYFq1YdQ3BSv5L"
+        },
+        {
+            "assetid": 2669455883,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkP6hRnuLs6vPraXnownYEAQyjzC6gyhxDpxKzMYArAnn"
+        },
+        {
+            "assetid": 2669459603,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmjdPdAc1xgqtDNuCXireJAXYV3x4w6X2Sah1ghuNVgQe"
+        },
+        {
+            "assetid": 2669463758,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXXwvV834soVmixMJ4vdTHmnd2ZHuU2SXDhNAyw49R5a2"
+        },
+        {
+            "assetid": 2669466264,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYyhUChmsMo4Yp1tDSpUEAgh43UDJqgiZ32uQBK9k9ea1"
+        },
+        {
+            "assetid": 2669469460,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmcKy4Y2yBQyJc9Zp5muf5G8eCtVcCPSMAVLBDoH7Hz4Y"
+        },
+        {
+            "assetid": 2669476901,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkypfwidqWmgfthhtx2xNvTPhzXXJLQkAwFm1JUudoFZv"
+        },
+        {
+            "assetid": 2669708654,
+            "name": "Saved By The Tard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbR6u8SSfzu3Md4GUHv2kUkz9EUjtaL9yh5koomA9rnuQ"
+        },
+        {
+            "assetid": 2676568400,
+            "name": "MAD Headtard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhczigtnJZohriD3jo8qaFPJbQt5GmYudRS7BDTpBJHATs"
+        },
+        {
+            "assetid": 2676573148,
+            "name": "MAD Mariotard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfJHBoV7dEftNgSnogAVfjLdgYceFDNb3jDGU1q2Xywm3"
+        },
+        {
+            "assetid": 2676575567,
+            "name": "MAD Showtard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaxwQTboaGGhWUM8hFzVrHgMms5ZA8wKZCziJfypW6o1R"
+        },
+        {
+            "assetid": 2676579053,
+            "name": "MAD Supertard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhwQQbrmYpcXLyXMgBLxfDo4bi1cBuzSce6zyvR9KA9LH"
+        },
+        {
+            "assetid": 2676582087,
+            "name": "MAD Zeltard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYzpF5qzKfD3UR3ZA8M76dhWHbhPcXv3viNhSQ731NZ8D"
+        },
+        {
+            "assetid": 2698737405,
+            "name": "Rug Runners Custom",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjJhAzrjL8RTq3nAy5z2HKTae52Tsd3WF36rD2KPXRUfS"
+        },
+        {
+            "assetid": 2701628800,
+            "name": "The Bummer Den",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhg9vFGELUzvZsUtaUf4LbS73pYohMy8biRhvmpcqmiiuG"
+        },
+        {
+            "assetid": 2704754983,
+            "name": "Monko Cereal ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcXEdyqaDhSAMGJFSP5z5tEfVHsHMydnWvVEoonboK4bf"
+        },
+        {
+            "assetid": 2704955328,
+            "name": "Womp Crew ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk7uzy1CPm1WuabxCoiN7ZweaqLHcsF3SDK2J68EXjKLZ"
+        },
+        {
+            "assetid": 2707669937,
+            "name": "Ballsack Cereal ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhj7H9haeL4rHyNDqwmS4RH64MaNV3MSaw5fDCFUetUcmv"
+        },
+        {
+            "assetid": 2708892134,
+            "name": "Tardios Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnmK3NvEVnACAKmmGkVhWeNgJYM4jo8HWntMSKQYzNcLg"
+        },
+        {
+            "assetid": 2709753476,
+            "name": "NoJeet Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgTEY2S5LRVY6X82wEFnToM4jhKCDSNM3VgD1hx7guVaJ"
+        },
+        {
+            "assetid": 2711892533,
+            "name": "MNGO Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhc9pbkttUaFuhEXpfTBqT5FDhUyGDXHdQCEGNDFP7oxZt"
+        },
+        {
+            "assetid": 2714446517,
+            "name": "Bummer Bear Cereal ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhh7BeZ5rY5uMsWowk2DM1x1CxJ87HVKbue5s9hKTbdZuD"
+        },
+        {
+            "assetid": 2714553288,
+            "name": "Lemon Legion Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhGzw4A9SzLXQHXQtJy6WnvUpdx8JofM7VWsupZScPs5b"
+        },
+        {
+            "assetid": 2718129495,
+            "name": "Dugly Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZETasPCbAn3vtuyhCXcy8KuztUSZVywgR5QJwYp1NDG3"
+        },
+        {
+            "assetid": 2718298168,
+            "name": "Died Of Dysentery Cereal ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmjgqUocdiQj7MuKEUABrqjjD4QgKB3QP4BZyxRQXhwA6"
+        },
+        {
+            "assetid": 2719252532,
+            "name": "MAD Cereal ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkE8ZYtT7Vxi9vmz8qsxknNNNVfNH9MqApx3V4xA7pU3L"
+        },
+        {
+            "assetid": 2722455829,
+            "name": "Tera Bro Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbuwd8DMkH32khPPyq6gnnrjirznA7txtdu9ZcZUYu47c"
+        },
+        {
+            "assetid": 2722876883,
+            "name": "Buttcoin Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjFGxcQgaVr6NTMW5E3fY5sFgidmtFNPDp2omRrRShAAN"
+        },
+        {
+            "assetid": 2724331353,
+            "name": "Woop Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgpHZzKiWLntbhynMMvrywbxuwAMWqMLDFyp2PJhGrTXE"
+        },
+        {
+            "assetid": 2724415992,
+            "name": "Tinyman Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiCs3U2V1e5spMSaGmAEVNZGdorPwW4ukuryzCz3QypKw"
+        },
+        {
+            "assetid": 2725260242,
+            "name": "Mutants vs Zombies Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhddRdsMyXi2v5P46KzdXHwaFbvwLCze1FLjoSm3WZwi6a"
+        },
+        {
+            "assetid": 2734463183,
+            "name": "Rug Ninja Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcnRqi6xZh3gVwckvrgEC8SUZM8dQg7ShjsFUMP3xnW6P"
+        },
+        {
+            "assetid": 2736375117,
+            "name": "Taco Coin Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhket59pp7MFo1TdN7ChESZPoVFoP1zfzBU3HyyAnSGAQp"
+        },
+        {
+            "assetid": 2736645291,
+            "name": "Shitty Kitties Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZy2ieQBLkTd23c44BGM4MywtciZNt2hYnH9wMtLwf4LD"
+        },
+        {
+            "assetid": 2738346511,
+            "name": "Mostly Frens Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhefYHdVEGHh2BsUkP42z3HdpwiewNx1cB9PTusjWpAuC6"
+        },
+        {
+            "assetid": 2739311908,
+            "name": "Shep Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhiVYHk4FTPFFHVGHz3XPrq3i9mcRJNdykyRJM9enN45Bm"
+        },
+        {
+            "assetid": 2744325403,
+            "name": "Bye Felicia Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk7cTw5WxmRrHo5rVkwGk7mV8YEoJ9E2wfMop1q6wnQ7d"
+        },
+        {
+            "assetid": 2745238360,
+            "name": "Gonna Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhn8iDyVCaM3m2Lp2K2gF9T5uqBbR5McwbVk8bwX73naK3"
+        },
+        {
+            "assetid": 2746609642,
+            "name": "REM Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXbft7cFqpYzGvwM6jbVBixCxFT9JhUkSmZUHKoLbu1bp"
+        },
+        {
+            "assetid": 2747456002,
+            "name": "GekoFam Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmqRVrYL4iKc2Pp78SmkocJ2PX75KYUmJVJ1x14rg7CaF"
+        },
+        {
+            "assetid": 2747730185,
+            "name": "Fishsticks Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhb7SEg5obtMEVymi5qKW1MJMAaXAWg1bgbYEWzArJ3gvz"
+        },
+        {
+            "assetid": 2747813071,
+            "name": "Jimcoin Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbP2wj51Hw3f42Jfj892BeE5ovCjmU85L46USGkaRndGo"
+        },
+        {
+            "assetid": 2749404944,
+            "name": "Deal Wit It Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhFNrg1DJR5wm43Y4Lo3X1RW7F3p9wF6Ffwkwk9R8hSKC"
+        },
+        {
+            "assetid": 2755304849,
+            "name": "JoeJo Babbit Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdCrn8ULrPrChxG5NAwB279E86DZ8xrbQJTr3fbDDYnaA"
+        },
+        {
+            "assetid": 2755365680,
+            "name": "Steak Pool Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhi7HqDoQqhCAb3BuxisiGPuJrZ4jTDVYSsMpyGd6zZub2"
+        },
+        {
+            "assetid": 2757008050,
+            "name": "Moist Grannies Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgNtby94Dy5oAtR9Ss27H7K8ZAZALn8vfs5k2knY3zNyk"
+        },
+        {
+            "assetid": 2759667149,
+            "name": "Native Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhniVALAi6jT7TXuxCDVaWidV7CDULhDdU6CszfTzRT3zA"
+        },
+        {
+            "assetid": 2759925997,
+            "name": "Algo Dolan Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbyJJhprrd24kMy6ifVaCFvWsGDqVqZ75ujpq3UhdUVy1"
+        },
+        {
+            "assetid": 2761066576,
+            "name": "Infinite Potential Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhf3trqLwDcV6MGjftob5XLPn3Kmq7B4WUoS16zQmijKXa"
+        },
+        {
+            "assetid": 2762490817,
+            "name": "Cryptic Punks Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhh5wmqHpq24XsGLGhzxVm2XHcvAKKGtjT1MqoiusTX5uY"
+        },
+        {
+            "assetid": 2764169140,
+            "name": "Ghetto Pigeons Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfZySKqJamz7JQZ6eQ4e6UbuK9xLj8329zfccKXfTaaej"
+        },
+        {
+            "assetid": 2767005918,
+            "name": "AlgoxNFT Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhobURVV1DBRaFbHfAiBBkXPmRFSQiRxw2qXv6KyVZnDNK"
+        },
+        {
+            "assetid": 2768380211,
+            "name": "COOPIES Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZPmbboVE4pB942eR5Uc2AoKUP4Bgcm656CeVysp9DLKd"
+        },
+        {
+            "assetid": 2770925725,
+            "name": "Mutant Ghetto Pigeons Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYW3mw5JbPscXJqEHn9BpZLu4qm1ufMCXwvuJNWrzVN3f"
+        },
+        {
+            "assetid": 2774361888,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhi1NpcSxgGijPkay2wLw8C2EqXFkZLwDuBBiicbqAJ6V6"
+        },
+        {
+            "assetid": 2774368482,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaMm2fk5qNGFCom3tuTkoL1u9k2xQyAhrRny9YG87HZtj"
+        },
+        {
+            "assetid": 2774369886,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk7mFASwwQEPfxaK8rjQykfoAKUsM4BSPY4k7Uoe5LoCs"
+        },
+        {
+            "assetid": 2774371324,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoLTdJNnMQSe7LSP5tk7DQU4DpCRv59rxcWBkovrMRXzX"
+        },
+        {
+            "assetid": 2774372856,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoREEez4CwtrrLKYDD9FrohLYKKMPjSYdFXSKHZk6nz5J"
+        },
+        {
+            "assetid": 2774373739,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXobqGowKyJTbjZmbfn9KBrjoL9zApLPS3gsooBg3kdY3"
+        },
+        {
+            "assetid": 2774375428,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnB7dW8EhYHHgpjsmPnA87m91G4xUCTT3ECAtu4e8KHvN"
+        },
+        {
+            "assetid": 2774387577,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdABCGgYvhS9rCDXPyRgruEzkRKJVZ7JRVyrM51FJrTxr"
+        },
+        {
+            "assetid": 2774388815,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhb4pg5FTAZcpN9sCJB8ddE6QyQuFaRUQqp26VFbK8uLKq"
+        },
+        {
+            "assetid": 2774390348,
+            "name": "Rug Runners",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbMXHPgPgHiaXbQqhXJW257NWwvqcyw4H6GQNiR37wu96"
+        },
+        {
+            "assetid": 2774406361,
+            "name": "Gold Card",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhg1scqBXaKUdSKRv3Pas6avWpzRiMprfn5YGj4A1HpnW2"
+        },
+        {
+            "assetid": 2783289725,
+            "name": "Rug Runners Dave Portnoy",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheJWSNCrT2ammYVQc4PweXZhtJYRWD9GzFvGaUjakaFg6"
+        },
+        {
+            "assetid": 2783443684,
+            "name": "Marcus Furrelius Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhewWS5n7SVNmCyaupDYCGVRLj1jyiDDxPQ9uEvRWEhS6F"
+        },
+        {
+            "assetid": 2783850038,
+            "name": "ORA Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbg7UG3WhHebMcFU5dZ3rE57Qobbf1vWPA8ySgAxmT3d1"
+        },
+        {
+            "assetid": 2790776594,
+            "name": "Thicc Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfkZqv5jjCrgLzy9jxtXnR1ws8FLxXiXuorCLPJj1NMpQ"
+        },
+        {
+            "assetid": 2794270163,
+            "name": "Bwombus Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYLk8vsXoqvhTLZqScLuqw2n4MQrWVyxmeJfhvvp6Rc72"
+        },
+        {
+            "assetid": 2798146429,
+            "name": "Saylor Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjV5zv8SN9JBnySoHH2uCQHVrALkauKN55voFNopPdEvx"
+        },
+        {
+            "assetid": 2810308410,
+            "name": "Crazy Goose Flock Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYfVdzGNP4Ag6Nu5E5ZuGqMJDWkx5v6qf21JCNryz4U1d"
+        },
+        {
+            "assetid": 2818521785,
+            "name": "MAD Tard-Tard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZPF48LAX14xZovNt43j3zqSsRyYZ8JyUdUtiz1wmEGFF"
+        },
+        {
+            "assetid": 2820178834,
+            "name": "Piss Jug Man Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkBzkvS1NEJ4WgXKz7LD1MFEFBzhNrLTRXBsswt8vjGkQ"
+        },
+        {
+            "assetid": 2822505252,
+            "name": "Alpha Arcade Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYJsEtwTxUDoT48cXEsFLXzyVZPMJzbaLYm3fDe8S2JEP"
+        },
+        {
+            "assetid": 2831227408,
+            "name": "Pera Wallet Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfEHp4UJKF1E8pJGQgTbEeSRemaiKZaRwbGwrStiebgDd"
+        },
+        {
+            "assetid": 2836757571,
+            "name": "MAD Poortard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaHRSytcqmEUZh4iJBBb9PFrANKKedZHa1mKBRgt5D4SA"
+        },
+        {
+            "assetid": 2837009834,
+            "name": "Akita Kennel Club Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhm7LCyapTACMZWbZVpubaby9kJLSUWLzvGzvqMQaYeFdC"
+        },
+        {
+            "assetid": 2842010240,
+            "name": "Billy Big Beak Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkXhvZyyoUG8AFMTyVAGKQxgW1WbAcUTWuP5sjFecmRme"
+        },
+        {
+            "assetid": 2842035213,
+            "name": "Aping Riot Cereal",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXyFrPEVqRdJJag2yPjgo5yP2cHU3A4VTZMVVjgz5FVPc"
+        },
+        {
+            "assetid": 2867061831,
+            "name": "MAD Pactard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaRF6KRksJptTRH1W2wLC5dxHJV8Vipubot495f44MTi2"
+        },
+        {
+            "assetid": 2871324061,
+            "name": "MAD Cooptard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfTvgVyVMaLWEiTqFQTyZKXH9QFuERqYnXKoawpuDMzPw"
+        },
+        {
+            "assetid": 2871748291,
+            "name": "MAD Punktard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbPmqD7GyBg2Xrc9VKrkxj9KRWhkw5oC77CmSzFQT8A7Q"
+        },
+        {
+            "assetid": 3196795839,
+            "name": "MAD D-TARD",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfuhxwyPJJZT2L71SeDfhDNif96kUckJHVetFCW76VDNN"
+        },
+        {
+            "assetid": 3231446153,
+            "name": "TYLE-TARD",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhc8xmuh4ya81TZxu8PD49iFnAyACbeX5YnCuaNpEBPpvk"
+        }
+    ]
+}
