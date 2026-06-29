@@ -2,7 +2,8 @@
     "Project": "Monzdrop",
     "Creator": "Algomonz",
     "CreatorAddress": [
-        "5VGLLC3YOXEI2JSKRKD4TFCY7RRHCC4S4MB44HZZW6VLOCXGMYPBPJM32Q"
+        "5VGLLC3YOXEI2JSKRKD4TFCY7RRHCC4S4MB44HZZW6VLOCXGMYPBPJM32Q",
+        "L2QKCYBJFTWV2OLILU3NZYB6PQQB5JC6OVLHDDA34TJISELQVIB4IKJUHE"
     ],
     "Assets": [
         {
@@ -130,6 +131,156 @@
             "name": "MONZDROP #23",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhd1Q67bUcBjvVwAhREYHaEATP9CGPnA6g4dT2Dop7j2Jq"
+        },
+        {
+            "assetid": 714866606,
+            "name": "Monzbone",
+            "url": "ipfs://bafybeiavmj2dqey7basdvis7b6jwvtkypcjuksnpylbut5ujyqmcsbew3m#i",
+            "image": "bafybeiavmj2dqey7basdvis7b6jwvtkypcjuksnpylbut5ujyqmcsbew3m"
+        },
+        {
+            "assetid": 714868394,
+            "name": "Zombiehand",
+            "url": "ipfs://bafybeiahqbhwxmadvh7nt3kt3d4prhnp7kivelfvbjc5u7mwfnuoowmnuu#i",
+            "image": "bafybeiahqbhwxmadvh7nt3kt3d4prhnp7kivelfvbjc5u7mwfnuoowmnuu"
+        },
+        {
+            "assetid": 714869482,
+            "name": "Monzstatue",
+            "url": "ipfs://bafybeicuqdbar5eigywdovisz2vbknwt73cvwzguzumkyzmmw3sl36fkua#i",
+            "image": "bafybeicuqdbar5eigywdovisz2vbknwt73cvwzguzumkyzmmw3sl36fkua"
+        },
+        {
+            "assetid": 744688912,
+            "name": "Monzpoop",
+            "url": "ipfs://bafybeiameunylaqxge56u255cnebj7gyed2pxptbmi4endvinemlsauene#i",
+            "image": "bafybeiameunylaqxge56u255cnebj7gyed2pxptbmi4endvinemlsauene"
+        },
+        {
+            "assetid": 744692660,
+            "name": "Egg",
+            "url": "ipfs://bafybeidnmc3fgreyw6itjthe7pgmndqf2gwquot2phcxcqeyavivkxi2ue#i",
+            "image": "bafybeidnmc3fgreyw6itjthe7pgmndqf2gwquot2phcxcqeyavivkxi2ue"
+        },
+        {
+            "assetid": 744695590,
+            "name": "Supreme Monzsword",
+            "url": "ipfs://bafybeiel4vwmtmcmfgtigmdysgvupt2ncjcl7krfr7gqgzh2iytbw435ui#i",
+            "image": "bafybeiel4vwmtmcmfgtigmdysgvupt2ncjcl7krfr7gqgzh2iytbw435ui"
+        },
+        {
+            "assetid": 744710189,
+            "name": "Verification Monz",
+            "url": "ipfs://bafybeie3z4y7bprdhtyzucad7ovw4ilkkcmhlyubr5ese23kos36k5okb4#i",
+            "image": "bafybeie3z4y7bprdhtyzucad7ovw4ilkkcmhlyubr5ese23kos36k5okb4"
+        },
+        {
+            "assetid": 751225181,
+            "name": "Sweep Monz #01",
+            "url": "ipfs://bafybeigxy6f4v2bvid2dpt64xgmkpop62a4q4tgsukntezuzoa5p2xf6wi#i",
+            "image": "bafybeigxy6f4v2bvid2dpt64xgmkpop62a4q4tgsukntezuzoa5p2xf6wi"
+        },
+        {
+            "assetid": 812545774,
+            "name": "Silver Monzpoop",
+            "url": "ipfs://bafybeidqj74jsqmwkmi5lmtbubiz5zjvesegxbimwwxgw6r7our73xu5nm#i",
+            "image": "bafybeidqj74jsqmwkmi5lmtbubiz5zjvesegxbimwwxgw6r7our73xu5nm"
+        },
+        {
+            "assetid": 812556463,
+            "name": "Golden Monzpoop",
+            "url": "ipfs://bafybeigx4lgng4ywkhbrcrhdgsybs4q33k57gsesczb4y3hupjmrim5m5u#i",
+            "image": "bafybeigx4lgng4ywkhbrcrhdgsybs4q33k57gsesczb4y3hupjmrim5m5u"
+        },
+        {
+            "assetid": 907031421,
+            "name": "Monzbot Arm",
+            "url": "ipfs://bafybeicfkzpgprfwua7pu5es7if24a7t2g6w66bgrnljte7te4wnfvefbq#i",
+            "image": "bafybeicfkzpgprfwua7pu5es7if24a7t2g6w66bgrnljte7te4wnfvefbq"
+        },
+        {
+            "assetid": 907031685,
+            "name": "Bone Key",
+            "url": "ipfs://bafybeigyrr3otfk5kpimtuln2f3wcna5eizram2qqducfsx4dz5oczbefi#i",
+            "image": "bafybeigyrr3otfk5kpimtuln2f3wcna5eizram2qqducfsx4dz5oczbefi"
+        },
+        {
+            "assetid": 907031880,
+            "name": "Monz Boat",
+            "url": "ipfs://bafybeiaaodlchza5tbxm2tzej5wpuimndhwvx6ar6kqu2mywm4izu4ffwi#i",
+            "image": "bafybeiaaodlchza5tbxm2tzej5wpuimndhwvx6ar6kqu2mywm4izu4ffwi"
+        },
+        {
+            "assetid": 907032197,
+            "name": "Monz Shield",
+            "url": "ipfs://bafybeigon2feigsvuzbehlwsy5d3kpwcdqpkhgaal4yfofokpaos3f67dy#i",
+            "image": "bafybeigon2feigsvuzbehlwsy5d3kpwcdqpkhgaal4yfofokpaos3f67dy"
+        },
+        {
+            "assetid": 907032479,
+            "name": "Monz Snake",
+            "url": "ipfs://bafybeifzz4akfgtmo5medj4ezn5bskfo2b52uwayevdsxf2cl7nu6qpm3i#i",
+            "image": "bafybeifzz4akfgtmo5medj4ezn5bskfo2b52uwayevdsxf2cl7nu6qpm3i"
+        },
+        {
+            "assetid": 936375556,
+            "name": "Hoimaiden WL Tech",
+            "url": "ipfs://bafybeih4h2c3waq354y7mx3y7jjdqrtw52rzyn6hqqjte3kho3xocjevku#v",
+            "image": "bafybeih4h2c3waq354y7mx3y7jjdqrtw52rzyn6hqqjte3kho3xocjevku"
+        },
+        {
+            "assetid": 1181180844,
+            "name": "Squirtgun",
+            "url": "ipfs://bafybeic6avugjv3bhxtkwn4v74j7gkv56iw3ewko6biw2jwcwo3uwejdwe#i",
+            "image": "bafybeic6avugjv3bhxtkwn4v74j7gkv56iw3ewko6biw2jwcwo3uwejdwe"
+        },
+        {
+            "assetid": 1181181312,
+            "name": "Chainsaw",
+            "url": "ipfs://bafybeihuaawruqpxjjwphv7yfvrbwjktorgjnlxbk3szlx3xu3s4swbcva#i",
+            "image": "bafybeihuaawruqpxjjwphv7yfvrbwjktorgjnlxbk3szlx3xu3s4swbcva"
+        },
+        {
+            "assetid": 1181183095,
+            "name": "Unihorn",
+            "url": "ipfs://bafybeigpmexrunfo25nto43khhui2r4ydsozxcziweu7h6clakpeny6b7q#i",
+            "image": "bafybeigpmexrunfo25nto43khhui2r4ydsozxcziweu7h6clakpeny6b7q"
+        },
+        {
+            "assetid": 1181183669,
+            "name": "Hoi detector",
+            "url": "ipfs://bafybeia62czc4bnywtbts3vd56cbh6t2r5qrkwpzmp4aoepovncvsmksnm#i",
+            "image": "bafybeia62czc4bnywtbts3vd56cbh6t2r5qrkwpzmp4aoepovncvsmksnm"
+        },
+        {
+            "assetid": 1181884457,
+            "name": "Cursed sceptre",
+            "url": "ipfs://bafybeifzkgxpq6xpvumz64j5m6bdpsxcllaycv3klrkjnpwoolrw2nj53i#i",
+            "image": "bafybeifzkgxpq6xpvumz64j5m6bdpsxcllaycv3klrkjnpwoolrw2nj53i"
+        },
+        {
+            "assetid": 1640964060,
+            "name": "Monz WL",
+            "url": "ipfs://bafybeid5dtxketgwqkvrec7aqyj44e6ibgu2robe7prhvlaxueripj6qmq#i",
+            "image": "bafybeid5dtxketgwqkvrec7aqyj44e6ibgu2robe7prhvlaxueripj6qmq"
+        },
+        {
+            "assetid": 3212569109,
+            "name": "HoiMonz Can",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgmdApHpf4pi9wPMC2PizCcjTwBnNQEAwp1srNhvmdjMC"
+        },
+        {
+            "assetid": 3231858155,
+            "name": "MONZDROP #21",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbXHpHHmWnoMD76VUaGnG2MKg9cmr9TEWULKiA2uZeFoo"
+        },
+        {
+            "assetid": 3240421952,
+            "name": "MONZDROP #22",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYETdDsb5j51kyQwD3wWjWL2H4DdfsJQtNSg5oF3nu594"
         }
     ]
 }
