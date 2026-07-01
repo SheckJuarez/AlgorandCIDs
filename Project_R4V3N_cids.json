@@ -3,7 +3,8 @@
     "Creator": "Studio SEV3N",
     "CreatorAddress": [
         "R4V3NQKUDJKQWV74JZWEVDNJ6HMHHZK253FGMRQHAE6RA5MAKXBCYVVLQE",
-        "R4V3NI5QQSJNSYJZH63PJUN3O2HOVUX5N4OUO754H4STN472DES2MS5JSY"
+        "R4V3NI5QQSJNSYJZH63PJUN3O2HOVUX5N4OUO754H4STN472DES2MS5JSY",
+        "R4V3NL627PWLAFKR5L6USZ22YGMY2LNNFENIUTVFWJWPWRGX3A5KZDWE4Y"
     ],
     "Assets": [
         {
@@ -5999,6 +6000,18 @@
             "name": "R4V3N Base #999",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmYubmVW13KbcTrQpGGhD688Q2SSVEG6eBKT52mb7aPjw8"
+        },
+        {
+            "assetid": 866672944,
+            "name": "NANITE",
+            "url": "ipfs://QmXSW8kS7kAaZh412YR3TAMcsqYfzGE7giBMJob5B2bCo8",
+            "image": "QmXSW8kS7kAaZh412YR3TAMcsqYfzGE7giBMJob5B2bCo8"
+        },
+        {
+            "assetid": 891443534,
+            "name": "NANITE",
+            "url": "ipfs://QmXSW8kS7kAaZh412YR3TAMcsqYfzGE7giBMJob5B2bCo8",
+            "image": "QmXSW8kS7kAaZh412YR3TAMcsqYfzGE7giBMJob5B2bCo8"
         }
     ]
 }
