@@ -1,8 +1,10 @@
 {
-    "Project": "Vellas Universe",
-    "Creator": "rainbowpee",
+    "Project": "Legendary Fighters",
+    "Creator": "Alglodieloggy",
     "CreatorAddress": [
-        "FFOZRNHDJO2ILF6EHTODHFLI6LAT5SOYJ2O5ZNJJ2IAOLZWWYNTOUPUDBA"
+        "FFOZRNHDJO2ILF6EHTODHFLI6LAT5SOYJ2O5ZNJJ2IAOLZWWYNTOUPUDBA",
+        "5ZG35ULVTNSIUKVI66SZ2ZGSYJQAAV3QYZJVO5ORWSKDVEFWPY3GX45QTI",
+        "CUSNK7KSSINCOSTDBUSUUUJLBR5A7Q3N7AQ7B66A7KYQK6OSN3JTQHMPS4"
     ],
     "Assets": [
         {
@@ -418,6 +420,34 @@
             "name": "Manic Pixie",
             "url": "ipfs://QmVSzhf4WiBvBCK2FrjbyKf4LFXeM9wbJJYH76y7mMTUFj#arc3",
             "image": "QmVSzhf4WiBvBCK2FrjbyKf4LFXeM9wbJJYH76y7mMTUFj"
+        },
+        {
+            "assetid": 1042867088,
+            "name": "Woogie Token",
+            "url": "https://ipfs.io/ipfs/QmedEQVbjr6suTBdvJ9KEmespeubAoCAHjKahKosnkXSjZ?filename=Woogie%20Token.png",
+            "image": "QmedEQVbjr6suTBdvJ9KEmespeubAoCAHjKahKosnkXSjZ?filename=Woogie%20Token.png"
+        },
+        {
+            "assetid": 1046846183,
+            "name": "AlglodieVerifyToken",
+            "url": ""
+        },
+        {
+            "assetid": 1053279492,
+            "name": "AlglodieBot",
+            "url": ""
+        },
+        {
+            "assetid": 2991335283,
+            "name": "Legendary Fighters Coupon ",
+            "url": "ipfs://QmbeF7CFN1aEpbg7CD4xwV68afKQ6Ji2ZGgTdCYqXVq5Mg#i",
+            "image": "QmbeF7CFN1aEpbg7CD4xwV68afKQ6Ji2ZGgTdCYqXVq5Mg"
+        },
+        {
+            "assetid": 1659652040,
+            "name": "Legendary Fighters Badge ",
+            "url": "ipfs://bafybeieubpz5z4s44wopa6u2qqzmvtsbhcwra6np3bguswv4ou6bhenabi#i",
+            "image": "bafybeieubpz5z4s44wopa6u2qqzmvtsbhcwra6np3bguswv4ou6bhenabi"
         }
     ]
 }
