@@ -1,0 +1,153 @@
+{
+    "Project": "Exa Market Rewards",
+    "Creator": "Exa Market",
+    "CreatorAddress": [
+        "232VIDSFUKLONJDMTLSQMW2XHGHJHJFNU7VQHNSAJ7HN6LDMLUS47OGA2I"
+    ],
+    "Assets": [
+        {
+            "assetid": 1178601367,
+            "name": "Asalytic subscription",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcioSpCXNdzeiLsUVKcScXDWeNtzprtRSuPEfundEyGsc"
+        },
+        {
+            "assetid": 1178608093,
+            "name": "Bluetooth speaker",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhc8hweFLpTCHXuFsBa6hpp5J72thnrynHV9db6z2eRP4B"
+        },
+        {
+            "assetid": 1178609293,
+            "name": "Camera",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhY6uyFc8f5niK67uLR124vjgSKF1prfVcehKq5qFTm63c"
+        },
+        {
+            "assetid": 1178610346,
+            "name": "Drone",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZFRvQMHkUuGAbEM2g8XZ2eyGqQbTAjjnpeWkS74ShJEr"
+        },
+        {
+            "assetid": 1178613039,
+            "name": "Earbuds",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk4y2GgezrDhPEaW3dGPSEDD2i2NZ8WnMGw37WTd1kacQ"
+        },
+        {
+            "assetid": 1178613915,
+            "name": "eGift card $25",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhadF1aD3RWHix3NQm7EHeMan5Xk3dU86XwR4RV98PHidk"
+        },
+        {
+            "assetid": 1178614351,
+            "name": "eGift card $50",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYVbRiXeokkbiCLECQFheP9ti8gqK9bYMWn15twGr2Ps9"
+        },
+        {
+            "assetid": 1178615371,
+            "name": "eGift card $100",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbshaCKfGc111uyu3isxyZYehGJyhqXZW6wCznWSeBXGm"
+        },
+        {
+            "assetid": 1178616185,
+            "name": "Game console",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbZMPFDWpCEh2vsTkzaj3rvXqCwShXp3vVXTMrZy7dDoX"
+        },
+        {
+            "assetid": 1178617017,
+            "name": "Graphics tablet",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjk6tHpa7SnWL1bV24AqAdcyacEVY1F7JL5jizuZz1ULM"
+        },
+        {
+            "assetid": 1178618810,
+            "name": "Hardware wallet #1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhezJ61oXomN15SNG829N9M7RbaY9du7Kx7W4BcdKGpg7k"
+        },
+        {
+            "assetid": 1178620032,
+            "name": "Hardware wallet #2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfc7Hv9hp19qEuX2YnRHgrPYPdBDyg9vEw2pU2RUWJGLZ"
+        },
+        {
+            "assetid": 1178620853,
+            "name": "Headphone",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbJ5bdyxtkV2h6mUZVCdzF8y5B3NSAZCa5ncbsmwryyLE"
+        },
+        {
+            "assetid": 1178622046,
+            "name": "Laptop",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZf363FZdysXZoa9dhNHadYgLNfefjt66ENvkDC5pv4XU"
+        },
+        {
+            "assetid": 1178622681,
+            "name": "Midi keyboard",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkQbXzYqfuFty4FJNXUVxk63r37winvybMQFXEfvzfqDM"
+        },
+        {
+            "assetid": 1178623298,
+            "name": "Smartphone",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhY8r2pJAd2GvnD7pgmy8SrNtmN2xJLdLexaoFJvMGCgiA"
+        },
+        {
+            "assetid": 1178623884,
+            "name": "Smartwatch",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho2xJCsSP4npY7z5CieTgHS5dLbUTco8K1reeqfzGwqax"
+        },
+        {
+            "assetid": 1178624722,
+            "name": "Tablet",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhm47c44LyoYwy3J8bavG4jjbteVGy1zcWsAwMu98DPWFZ"
+        },
+        {
+            "assetid": 1178815940,
+            "name": "1000 ALGO redeemable token",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhapVY13ea7qMsgf78RbR3hxV5zeQHFXn3HraRNEfMEKni"
+        },
+        {
+            "assetid": 1178816713,
+            "name": "500 ALGO redeemable token",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcFzRiGSdYSDXDtwygQuTgjY8mz95ggSjcg243X1yH4bX"
+        },
+        {
+            "assetid": 1178817091,
+            "name": "250 ALGO redeemable token",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYWhFUtBNJ9fQdW7iGd2hz8bE4n9PsmNgVm53vaFc7xML"
+        },
+        {
+            "assetid": 1178817354,
+            "name": "100 ALGO redeemable token",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYfmqrQRkovowyKvqM4vmD5fonhFrYsyP5UwfiFx9pJnL"
+        },
+        {
+            "assetid": 1178822049,
+            "name": "50 ALGO redeemable token",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhihTytsoMB2YrUq8o5GcEqywuVYQXFHApZqPKb67zt2SK"
+        },
+        {
+            "assetid": 1178822273,
+            "name": "25 ALGO redeemable token",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkBcymotQBzRnLfLxaifcFN1kQNdFci5r4mXJhLF78B1b"
+        }
+    ]
+}
