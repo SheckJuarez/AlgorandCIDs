@@ -2,7 +2,8 @@
     "Project": "Worms",
     "Creator": "MoonAlgo",
     "CreatorAddress": [
-        "7DD3VD5U6OT7P73LRWOZP4547J3LM2X7AWA7BLYNEBYVLPSFKM4BOV42GQ"
+        "7DD3VD5U6OT7P73LRWOZP4547J3LM2X7AWA7BLYNEBYVLPSFKM4BOV42GQ",
+        "PYXBY66DFXW7KNKQXAWNB2S4QCFW4RTD2YSGD7GW7HUSZED7U5T7JX2IQA"
     ],
     "Assets": [
         {
@@ -5668,6 +5669,71 @@
             "name": "WORM #1000",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhZiK4Ga1yZ963wYUJrp9CbLbAh4rskuujqpYJe4HpX9Zk"
+        },
+        {
+            "assetid": 1704215461,
+            "name": "Compost",
+            "url": ""
+        },
+        {
+            "assetid": 2186402002,
+            "name": "Compost Pal #1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgdS7xYiFUXbR93ufkjYtHH5rPrMaHF7n9DUJVMLhJeMG"
+        },
+        {
+            "assetid": 2186402004,
+            "name": "Compost Pal #2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmRf881JPofCFjtSPzk4ryTRVcQVZ8yoRYE8QwFZTF9p2"
+        },
+        {
+            "assetid": 2186402008,
+            "name": "Compost Pal #3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhj3RUzya5Jqruhmp4SvsZfCVA3K6dWEeD3Sig1gjVBW4G"
+        },
+        {
+            "assetid": 2186402010,
+            "name": "Compost Pal #4",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfLKbE9PRNU1sHPPECxKAS4L7NxfyyCQSRMif7TniVZKB"
+        },
+        {
+            "assetid": 2186402012,
+            "name": "Compost Pal #5",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWrezj4qyoKhRti9VTYKz62qbepXwENA2RNHHRn4n6Agw"
+        },
+        {
+            "assetid": 2186402014,
+            "name": "Compost Pal #6",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhkGoD6J52JRdGY3RCbr6ZuSmwr7N8nhmwm6RKH3oVe7Zs"
+        },
+        {
+            "assetid": 2186402017,
+            "name": "Compost Pal #7",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnR9Jj86JCNrmmA7friSNeUmURVMaBYDtHTdv12vPAjm7"
+        },
+        {
+            "assetid": 2186402019,
+            "name": "Compost Pal #8",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheciT1PxX4S6pkbfQbDjXv2h6whYLaY2wpBvaNk9K8Kjb"
+        },
+        {
+            "assetid": 2186402021,
+            "name": "Compost Pal #9",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk2yvvRexu3fgfHPJKJWZYEQ87nnArryknfoziJ3R9tay"
+        },
+        {
+            "assetid": 2186402023,
+            "name": "Compost Pal #10",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcK7FnEGR6Hm3anJYCYkn9qaawWxHKY6oYbpCpFDT5yoY"
         }
     ]
 }

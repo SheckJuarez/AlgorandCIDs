@@ -2,7 +2,8 @@
     "Project": "Orcas Odyssey",
     "Creator": "orcasodyssey.algo",
     "CreatorAddress": [
-        "TFHEZDZYGCWN6MGIQ6WIIZDHTWD46OMTKANAWPNACHAXHVLU6XQFTQOA7Q"
+        "TFHEZDZYGCWN6MGIQ6WIIZDHTWD46OMTKANAWPNACHAXHVLU6XQFTQOA7Q",
+        "RWF346WCOVLW6TZ6JBPMP7VMEBPQG2C3VKSOAQ265WJ6BGMX5I24EJHFXI"
     ],
     "Assets": [
         {
@@ -15328,6 +15329,30 @@
             "name": "OO Badge 1",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhnQBdWSBPutcpSwGBTSiZTkT7CeUn3m4ZKqDcZc4dsnuh"
+        },
+        {
+            "assetid": 3131471973,
+            "name": "OO Badge 1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZqhxHfXQjWdwcBtuQe9Q9Bk6te8xCcqaxFLPvdjMcUbH"
+        },
+        {
+            "assetid": 3131484345,
+            "name": "OO Badge 2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheb8hst8Sma5WYvajiiyVLY3YzJhPY42WfFJ4sUjYE6dD"
+        },
+        {
+            "assetid": 3131490373,
+            "name": "OO Badge 3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXFpcPYKyq6EuscEAqfNP7FNMoeumE414biDmJaecpSXS"
+        },
+        {
+            "assetid": 3131500164,
+            "name": "OO Badge 4",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmowq2h8zmqq2wzhLiTVZYy5pdJTtcB2wd2xboHK4Bvme"
         }
     ]
 }

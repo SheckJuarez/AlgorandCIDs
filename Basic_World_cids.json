@@ -3,7 +3,8 @@
     "Creator": "Basic",
     "CreatorAddress": [
         "KEQBZ6KW4VR7LVI3VUCRU2MG5Y5U2BOBRXUENRG2YNCHU4RTE2SC57C3GE",
-        "IFBAA5ZIZ6LMXM4YGIMKZPMWFSANM2POGCX2TDZSADLKTH3PMCMKTDAN2E"
+        "IFBAA5ZIZ6LMXM4YGIMKZPMWFSANM2POGCX2TDZSADLKTH3PMCMKTDAN2E",
+        "3AU6XYBNSEW7DRXJVNTGDAZLUYL54CTW3BUYKTBN6LX76KJ3EAVIQLPEBI"
     ],
     "Assets": [
         {
@@ -959,6 +960,30 @@
             "name": "Basic Snail Race S2 #1",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmTEf9fD4yuV6uXLMp2JgtM66FHkokF5WHHgAtRkPhhULj"
+        },
+        {
+            "assetid": 3354651824,
+            "name": "Yami Sukehiro",
+            "url": "ipfs://QmUBvw6NV8XZHRCBf5q3aLSpNJofFPzQcHfkqTSD5hWvTX#arc3",
+            "image": "QmUBvw6NV8XZHRCBf5q3aLSpNJofFPzQcHfkqTSD5hWvTX"
+        },
+        {
+            "assetid": 3354693444,
+            "name": "Aditya Singh",
+            "url": "ipfs://QmcKUrQqhL8VfP4znYAiDEMw9tqNiwgEq7zXf3ZqG4r3Rn#arc3",
+            "image": "QmcKUrQqhL8VfP4znYAiDEMw9tqNiwgEq7zXf3ZqG4r3Rn"
+        },
+        {
+            "assetid": 3354759414,
+            "name": "Aditya Singh",
+            "url": "ipfs://QmdHTwjsk4BaiyjFPkTemXmp2bvbTU4nmucBNN7usAbhRF#arc3",
+            "image": "QmdHTwjsk4BaiyjFPkTemXmp2bvbTU4nmucBNN7usAbhRF"
+        },
+        {
+            "assetid": 3355778852,
+            "name": "Icarus",
+            "url": "ipfs://QmQ3jQX667gA3mpCixHznqbEytjYEK7Qiyrj7ek4AQbWvH#arc3",
+            "image": "QmQ3jQX667gA3mpCixHznqbEytjYEK7Qiyrj7ek4AQbWvH"
         }
     ]
 }
