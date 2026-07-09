@@ -2,7 +2,8 @@
     "Project": "Pyrenees Pack",
     "Creator": "Jorge",
     "CreatorAddress": [
-        "IEQGNR7DPQ26ZY7A22VHRTLHDL2PZ3XD5AUMMEEPYB6DUL6FSRN2NUUWPE"
+        "IEQGNR7DPQ26ZY7A22VHRTLHDL2PZ3XD5AUMMEEPYB6DUL6FSRN2NUUWPE",
+        "VNXIGXB46LGFEYWTLGKXQ3QDULXGYOEJIXKEH6YZHQK4W2PSVRGI2LFJ5M"
     ],
     "Assets": [
         {
@@ -1084,6 +1085,90 @@
             "name": "Pyrenees Banner v2",
             "url": "ipfs://bafybeiavcg4x525ovklcrlxvr56nvhwsescfikeoxxpxw5w3hk2l3cxw2q#i",
             "image": "bafybeiavcg4x525ovklcrlxvr56nvhwsescfikeoxxpxw5w3hk2l3cxw2q"
+        },
+        {
+            "assetid": 970506178,
+            "name": "Rare Collar",
+            "url": "ipfs://bafybeidrizavrkkablaikpmn4nyhmnaywhkfr2glknclzwnkg3seyz7hia#i",
+            "image": "bafybeidrizavrkkablaikpmn4nyhmnaywhkfr2glknclzwnkg3seyz7hia"
+        },
+        {
+            "assetid": 970508858,
+            "name": "Pack Collar",
+            "url": "ipfs://bafybeiba772etysvvbvl7lvom4c3sleivszkzsvcwhvosx7d4xz5afkybq#i",
+            "image": "bafybeiba772etysvvbvl7lvom4c3sleivszkzsvcwhvosx7d4xz5afkybq"
+        },
+        {
+            "assetid": 1009489015,
+            "name": "Whitelist",
+            "url": "ipfs://bafybeigw42o73reellspxubxc3y5sc72mk3hjatqufijrtuxbxeze2wchi#i",
+            "image": "bafybeigw42o73reellspxubxc3y5sc72mk3hjatqufijrtuxbxeze2wchi"
+        },
+        {
+            "assetid": 1113479042,
+            "name": "Pup Traits - Blue Glasses",
+            "url": "ipfs://bafkreifaqy5igwrgi27pf2mu35it6qh5lr5jmfuoypqcilyhg7fprc67sy#i",
+            "image": "bafkreifaqy5igwrgi27pf2mu35it6qh5lr5jmfuoypqcilyhg7fprc67sy"
+        },
+        {
+            "assetid": 1135832471,
+            "name": "Pup Traits - Background Swap",
+            "url": "ipfs://bafkreib4xgvrkgfcecn4hdokyilcbtnbwlcmu7sh3tnqgrgaqgt5uptsze#i",
+            "image": "bafkreib4xgvrkgfcecn4hdokyilcbtnbwlcmu7sh3tnqgrgaqgt5uptsze"
+        },
+        {
+            "assetid": 1147611108,
+            "name": "Pup Traits - Viper Glasses",
+            "url": "ipfs://bafkreideij4lydro6ouv3zi6ecyxjz6ga2vapxaxswmput75n6vfrfprwy#i",
+            "image": "bafkreideij4lydro6ouv3zi6ecyxjz6ga2vapxaxswmput75n6vfrfprwy"
+        },
+        {
+            "assetid": 1147878820,
+            "name": "Pup Traits - Hat",
+            "url": "ipfs://bafkreih5blhtungnav773nlv5bf46462fnmkag6rs6d5nw7pjvozbv2qfy#i",
+            "image": "bafkreih5blhtungnav773nlv5bf46462fnmkag6rs6d5nw7pjvozbv2qfy"
+        },
+        {
+            "assetid": 1230020727,
+            "name": "Dog-O-Ween Ticket",
+            "url": "ipfs://bafybeigzfdj3tusgtvr2behgh2ld6fbyw56utlvbjcnuziwa7nw2oftpl4#i",
+            "image": "bafybeigzfdj3tusgtvr2behgh2ld6fbyw56utlvbjcnuziwa7nw2oftpl4"
+        },
+        {
+            "assetid": 1721851577,
+            "name": "Trait Pass",
+            "url": "ipfs://bafybeicbmjmetfy4xr3wqu6z7ppiqe5juyjvnlsalg7lv5pulyldu3mgfe#i",
+            "image": "bafybeicbmjmetfy4xr3wqu6z7ppiqe5juyjvnlsalg7lv5pulyldu3mgfe"
+        },
+        {
+            "assetid": 2535811195,
+            "name": "Paint Bucket - Colorful Gradient",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXFGxeMtgQiADAmdqfHw24piVWgpSD13hFMpAsMocpwTA"
+        },
+        {
+            "assetid": 2535814379,
+            "name": "Paint Bucket - Purple Gradient",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXXaLQEGpS9fuvUfGctSrrD98JzLrFYPpYuQvbKVBvGUg"
+        },
+        {
+            "assetid": 2535817456,
+            "name": "Paint Bucket - Gray Gradient",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdsiSgTzzseqpjpRkdUxkiHqPAEpPR2FgcxCL9JeJQuWa"
+        },
+        {
+            "assetid": 2535821993,
+            "name": "Paint Bucket - Sunset Gradient",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZvSAvSMazaxs4q2qT7Ji5Je5EBnVZTccUv42eGQUPzwf"
+        },
+        {
+            "assetid": 2535824310,
+            "name": "Paint Bucket - Lemonade Gradient",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfdW2KHHrxgs6QDzSGQMCernRXWZAoCfRs2LMnuHHTHqL"
         }
     ]
 }
