@@ -2,7 +2,8 @@
     "Project": "CoffeeDAO",
     "Creator": "CoffeeDAO",
     "CreatorAddress": [
-        "RCXYYJH5N2QMJUR4RUM5QILPGPQA3MZDWNIRFWRNEKWJGK7ZLZPIS34RCM"
+        "RCXYYJH5N2QMJUR4RUM5QILPGPQA3MZDWNIRFWRNEKWJGK7ZLZPIS34RCM",
+        "7WOLVIYJYRO2TULBLRD3HCQHEUJDQX24DMMTRJOYUV3TWLX3CQ5D35RU74"
     ],
     "Assets": [
         {
@@ -10,6 +11,12 @@
             "name": "CoffeeDAO #00001",
             "url": "ipfs://QmbwDhzWtQwovcoiKVa3MvA65o2cnRCZXd7yqYoBkLv55P",
             "image": "QmbwDhzWtQwovcoiKVa3MvA65o2cnRCZXd7yqYoBkLv55P"
+        },
+        {
+            "assetid": 672070833,
+            "name": "CoffeeDAO #01001",
+            "url": "ipfs://QmRfykKP9jVkXDrLZ3RqKP2ypAfH6jUi2CxBnNSKKmT7fm",
+            "image": "QmRfykKP9jVkXDrLZ3RqKP2ypAfH6jUi2CxBnNSKKmT7fm"
         }
     ]
 }
