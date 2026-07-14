@@ -3,7 +3,8 @@
     "Creator": "CoffeeDAO",
     "CreatorAddress": [
         "RCXYYJH5N2QMJUR4RUM5QILPGPQA3MZDWNIRFWRNEKWJGK7ZLZPIS34RCM",
-        "7WOLVIYJYRO2TULBLRD3HCQHEUJDQX24DMMTRJOYUV3TWLX3CQ5D35RU74"
+        "7WOLVIYJYRO2TULBLRD3HCQHEUJDQX24DMMTRJOYUV3TWLX3CQ5D35RU74",
+        "NGL5VOKOP7SNYWEE64WT67FAB2DYFKPIDIHMFTEDOBUL4IDSVTTM6SEGKQ"
     ],
     "Assets": [
         {
@@ -17,6 +18,12 @@
             "name": "CoffeeDAO #01001",
             "url": "ipfs://QmRfykKP9jVkXDrLZ3RqKP2ypAfH6jUi2CxBnNSKKmT7fm",
             "image": "QmRfykKP9jVkXDrLZ3RqKP2ypAfH6jUi2CxBnNSKKmT7fm"
+        },
+        {
+            "assetid": 673557343,
+            "name": "CoffeeDAO #08001",
+            "url": "ipfs://QmajXNvqNtv2FAZUaTBHzpTzzzrzcszPmKDL9XnH4VxyZS",
+            "image": "QmajXNvqNtv2FAZUaTBHzpTzzzrzcszPmKDL9XnH4VxyZS"
         }
     ]
 }
