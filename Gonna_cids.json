@@ -2,7 +2,8 @@
     "Project": "Gonna",
     "Creator": "Gonna",
     "CreatorAddress": [
-        "GONHNV3XMSPTGZITI4PXUZGCMIELXHVADCJQPZKVCTXDNJZVIYDIEGKPHU"
+        "GONHNV3XMSPTGZITI4PXUZGCMIELXHVADCJQPZKVCTXDNJZVIYDIEGKPHU",
+        "SKRTO5VNF5DJVZUHKNKW44TT6VZJGLWTSVVYECNOY63TFKLK3OMCTLXJK4"
     ],
     "Assets": [
         {
@@ -2662,6 +2663,12 @@
             "name": "GONNA442",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhnWrHTixg6P9Vnx4n6aauUvNbyDqfBgj5mesJzuM7zQe6"
+        },
+        {
+            "assetid": 3637526895,
+            "name": "AIR GONNA",
+            "url": "ipfs://bafkreidkuyakddd55q335saxppcazl5umrp4ypyagpf7plhx3jdcwuuciy#arc3",
+            "image": "bafkreidkuyakddd55q335saxppcazl5umrp4ypyagpf7plhx3jdcwuuciy"
         }
     ]
 }
