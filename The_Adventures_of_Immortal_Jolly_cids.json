@@ -2,7 +2,8 @@
     "Project": "The Adventures of Immortal Jolly",
     "Creator": "Jolly Mo & Tuan Hollaback",
     "CreatorAddress": [
-        "E25YOES4G3SBKVJ3UAUDCP5RDU7RYBB6MAF4Y3XPLGGZNS3E6XI6H6STK4"
+        "E25YOES4G3SBKVJ3UAUDCP5RDU7RYBB6MAF4Y3XPLGGZNS3E6XI6H6STK4",
+        "RDO3FV3IGUZ5CJV2FNOKRUCPWUVZMJCYH2MYPSXDWXL6IOEIDEURH5WLMQ"
     ],
     "Assets": [
         {
@@ -862,6 +863,36 @@
             "name": "Exhausted Jolly",
             "url": "ipfs://bafybeigporriqcecczde5fm32rokuz7i26dl76p5nx3u4ne6t4i7we4cfq",
             "image": "bafybeigporriqcecczde5fm32rokuz7i26dl76p5nx3u4ne6t4i7we4cfq"
+        },
+        {
+            "assetid": 3571553477,
+            "name": "Warrior Princess",
+            "url": "https://ipfs.io/ipfs/QmUh4miaq8jd5Hpob43sNqFTtSG9UStnp2sGf6TEKBdc1X",
+            "image": "QmUh4miaq8jd5Hpob43sNqFTtSG9UStnp2sGf6TEKBdc1X"
+        },
+        {
+            "assetid": 3571553642,
+            "name": "Grand Wizard",
+            "url": "https://ipfs.io/ipfs/QmPgHiHnRxaz8r4ctTGBGigpTi8rucqYFNTZW8YRuxUxQN",
+            "image": "QmPgHiHnRxaz8r4ctTGBGigpTi8rucqYFNTZW8YRuxUxQN"
+        },
+        {
+            "assetid": 3571554052,
+            "name": "Horseman",
+            "url": "https://ipfs.io/ipfs/QmYT6mbtDyKMfMG5QbDXJx6PHsUJFqj1LFnA1GEydXTz83",
+            "image": "QmYT6mbtDyKMfMG5QbDXJx6PHsUJFqj1LFnA1GEydXTz83"
+        },
+        {
+            "assetid": 3572680021,
+            "name": "Alien Invasion",
+            "url": "ipfs://bafybeifxcsubzusntc3gymdxkkaevil7ig7mt45jsqpjbvuxca2lth22ci",
+            "image": "bafybeifxcsubzusntc3gymdxkkaevil7ig7mt45jsqpjbvuxca2lth22ci"
+        },
+        {
+            "assetid": 3640727592,
+            "name": "Cursed Beauty",
+            "url": "ipfs://bafybeicgtrikp3a2whpmakwvxv4qed22cepeer4ft6tba7ui6p3tgc2o2q",
+            "image": "bafybeicgtrikp3a2whpmakwvxv4qed22cepeer4ft6tba7ui6p3tgc2o2q"
         }
     ]
 }
