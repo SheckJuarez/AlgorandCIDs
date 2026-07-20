@@ -2,7 +2,8 @@
     "Project": "Gully",
     "Creator": "Gully Flock",
     "CreatorAddress": [
-        "ZK7CZT7NZJT6G6HWTZ5VD5SLUSTJSVFA2DW2FMLFYZKM7SAFENR7QZE6KE"
+        "ZK7CZT7NZJT6G6HWTZ5VD5SLUSTJSVFA2DW2FMLFYZKM7SAFENR7QZE6KE",
+        "JVS2I7C4SLUB2ITORN5Z5GYM6XFSYQBXBUZXDWLZFPELAZGBITMGUHXXTI"
     ],
     "Assets": [
         {
@@ -18040,6 +18041,66 @@
             "name": "vGully 67",
             "url": "https://prod.cdn.highforge.io/m/39924040/67.gif",
             "image": "https:"
+        },
+        {
+            "assetid": 2337304471,
+            "name": "Clam Milk",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdTWFQyDgLcSHAw6EapLHUpvnV55HEA28ApDiid4yxTm4"
+        },
+        {
+            "assetid": 2358355188,
+            "name": "Plop Paint",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhf2FS1th5KVZrsx2mKoyEmeTxmRXRMKDweLZaJWout9Z8"
+        },
+        {
+            "assetid": 2362063032,
+            "name": "Booty Banner #1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhb1BukWJeM79zFXRZCvrkQw7oh9k1Wdoya4BJ1Mu2YRP5"
+        },
+        {
+            "assetid": 2362162393,
+            "name": "Booty Banner #2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhc3YYNzUpeCWGjxRFjpn2NdndGXak6fAiR1igPR3LtUVE"
+        },
+        {
+            "assetid": 2362235335,
+            "name": "Custom Booty Banner ",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYq19yqpYMa7WUGBpxHHhvZtMWweoW5yFBKYxJbiVCAjk"
+        },
+        {
+            "assetid": 2370452803,
+            "name": "Booty Banner #3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZcLuRqnTHVD5ypEzooNiUvASxVBEodWYwQ18LeeiWDFL"
+        },
+        {
+            "assetid": 2372747333,
+            "name": "Booty Banner #4",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdj2ZLWaqSea8DGjnau6jzhpPAedfe8SCZ5cyhJRF4rj8"
+        },
+        {
+            "assetid": 2492745656,
+            "name": "Custom Thiccling",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbRZMLVx3mqEF7inG9EB7WKaH9pSyqM6rdF91kkaM8ie9"
+        },
+        {
+            "assetid": 2493820916,
+            "name": "Booty Banner #5",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdkGWjv79DFV83aKSZWSDoeiJMF5gnXju5WEvuov4xPd9"
+        },
+        {
+            "assetid": 2607224375,
+            "name": "Booty Banner #6",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjia8WHkEPhyTyr2pfqrm7NE49mU7Aj53AAyXzvtggxaQ"
         }
     ]
 }
