@@ -2,7 +2,8 @@
     "Project": "Fracctal Tamers",
     "Creator": "Fracctal Labs",
     "CreatorAddress": [
-        "TAMER7T4JKVQTGCU5M2L6G2ONIIHLWI4E5MRUMQDXELUUVG7GSA5HUUKMQ"
+        "TAMER7T4JKVQTGCU5M2L6G2ONIIHLWI4E5MRUMQDXELUUVG7GSA5HUUKMQ",
+        "2ZKDBGTKJTWHZYRQTKFEBTT3H4WXYSEP3NLMFQCWPAFRPZJ5GOAYXZD57E"
     ],
     "Assets": [
         {
@@ -12580,6 +12581,60 @@
             "name": "Fracctal Tamer 2039",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmZzjaiAkucEWqBLuf5VZfGntL8ZiUsNLkHLSrq8XnZbSa"
+        },
+        {
+            "assetid": 961768553,
+            "name": "Fracctal Santa Hat",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcEKNktfQyBbJ2ujQJN3u7Nd5yePV7UkQSMHpJ4uZ3WM3"
+        },
+        {
+            "assetid": 961769889,
+            "name": "Fracctal Santa Suit",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZGjSG8iiKkfRvWsRRRMJkbPfh1wVCt8u7azvhDmGqfgK"
+        },
+        {
+            "assetid": 961771454,
+            "name": "Fracctal Karot Specialist",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVHmnALXN8BJHi45ZbXkqUidjgUKSSPF8LsCkMx3GdqWD"
+        },
+        {
+            "assetid": 961773283,
+            "name": "Fracctal Flemmy Tee",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRCE21fZLVF73QP1cxhxo4TF7JJ5Nt1m431kBYbZqraEk"
+        },
+        {
+            "assetid": 961773838,
+            "name": "Fracctal Flemmy Hoodie",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXvotBhNRzd56AWJD3yDKTF6TSwYwSuXd1wR4LxQC9Lno"
+        },
+        {
+            "assetid": 1017695449,
+            "name": "Fracctal MNGO Cap",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNmsURAkZEX2PeeE85fryEZrLjLu2jnJkSKu8Ee2gPuQH"
+        },
+        {
+            "assetid": 1017697622,
+            "name": "Fracctal Berd Cap",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSStbhr6ey9U44ZqFWgLTNTegA8o32hv1Dx4HauJ5Euvg"
+        },
+        {
+            "assetid": 1017698813,
+            "name": "Fracctal Dream Jacket",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmQ8pPD5ZXRYorL4nLJhNyYvYxzTbBPXMULeZBA2NPwgTM"
+        },
+        {
+            "assetid": 1846138734,
+            "name": "Fracctal Little Royals Crown",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRzxybfDgietYFGsbTipCdp1EUfWNaedycJm9Yhz2BVjF"
         }
     ]
 }
