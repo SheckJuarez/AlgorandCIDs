@@ -2,7 +2,8 @@
     "Project": "Lighthouse Keepers inc.",
     "Creator": "Chrizzle",
     "CreatorAddress": [
-        "QYUY7RD4S4DLVMIUZHOOYL36YFRQQ7B5B4QX74IKY3GQAXWJJRXNZLBCCQ"
+        "QYUY7RD4S4DLVMIUZHOOYL36YFRQQ7B5B4QX74IKY3GQAXWJJRXNZLBCCQ",
+        "LCUOVVDBZUTQCKHVE75HIBOETMS62A5DYSGDOSLTIFVIUEE64JLRG77CJA"
     ],
     "Assets": [
         {
@@ -16882,6 +16883,12 @@
             "name": "LK inc. 1865",
             "url": "ipfs://bafybeid6tum2flmce3ykkyhnngbfbnle6k3f4abox7yjg3ujejnfimo6mq",
             "image": "bafybeid6tum2flmce3ykkyhnngbfbnle6k3f4abox7yjg3ujejnfimo6mq"
+        },
+        {
+            "assetid": 967078175,
+            "name": "The Lonesome Keeper",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVkErnoafRAyawfDZpYZCge5xqG6YQjJZ9agrg8V3chcx"
         }
     ]
 }

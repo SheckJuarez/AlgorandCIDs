@@ -4,7 +4,8 @@
     "CreatorAddress": [
         "RCXYYJH5N2QMJUR4RUM5QILPGPQA3MZDWNIRFWRNEKWJGK7ZLZPIS34RCM",
         "7WOLVIYJYRO2TULBLRD3HCQHEUJDQX24DMMTRJOYUV3TWLX3CQ5D35RU74",
-        "NGL5VOKOP7SNYWEE64WT67FAB2DYFKPIDIHMFTEDOBUL4IDSVTTM6SEGKQ"
+        "NGL5VOKOP7SNYWEE64WT67FAB2DYFKPIDIHMFTEDOBUL4IDSVTTM6SEGKQ",
+        "WU2DODPNW73EMEUURIFDOC336P4VUAAOG2XFVGPBNFK37PF5FS5GXGOLR4"
     ],
     "Assets": [
         {
@@ -24,6 +25,12 @@
             "name": "CoffeeDAO #08001",
             "url": "ipfs://QmajXNvqNtv2FAZUaTBHzpTzzzrzcszPmKDL9XnH4VxyZS",
             "image": "QmajXNvqNtv2FAZUaTBHzpTzzzrzcszPmKDL9XnH4VxyZS"
+        },
+        {
+            "assetid": 673554251,
+            "name": "CoffeeDAO #06001",
+            "url": "ipfs://QmW9qtuEntur6a5QAf7Yqs13D6T2QjKgocXAAwKzCYyxhs",
+            "image": "QmW9qtuEntur6a5QAf7Yqs13D6T2QjKgocXAAwKzCYyxhs"
         }
     ]
 }
