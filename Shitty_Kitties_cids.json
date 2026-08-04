@@ -2,7 +2,6 @@
     "Project": "Shitty Kitties",
     "Creator": "Minner.Algo",
     "CreatorAddress": [
-        "SKT7S64B2FJ4JNICRICS5VAR6MTSW42GR6L7JBBLUOAH77TU4OVLK75RPM",
         "KPK5CEWRXZAHJLLK6ZAG5K3PGLY6ZEJREBOVVFXWYWEYGINUZY5IT3GG3I",
         "YXA6YCSG6HPFLMFB2HAIDJMPB7G463WA33H4Y44CABZ6CODIOWRMPD6USA",
         "SKTLR35ZRFCPRZQJXB4H3ZYDRX3KE3CIIGSSFW4H755EHCQTZ5F7Q57K6U",
@@ -12,30 +11,6 @@
         "SKB6TFL5XHLEP2RPOTAXJNP44GQU35F4TFTHIDGOX7ZE4YYWWRNRAJ6T6I"
     ],
     "Assets": [
-        {
-            "assetid": 796490640,
-            "name": "Shitty Kitty Treats",
-            "url": "https://gateway.pinata.cloud/ipfs/QmUY55D3YSBvLke7VG8KwRQjCLx6nRSib6hbmmNBdnRKFN",
-            "image": "QmUY55D3YSBvLke7VG8KwRQjCLx6nRSib6hbmmNBdnRKFN"
-        },
-        {
-            "assetid": 809610090,
-            "name": "Shitty Treasure Box",
-            "url": "https://ipfs.io/ipfs/bafybeig6xtwpxpnbuoambspsq2grwsv3w3f3ff6viciczvdbfltccsqkf4#i",
-            "image": "bafybeig6xtwpxpnbuoambspsq2grwsv3w3f3ff6viciczvdbfltccsqkf4"
-        },
-        {
-            "assetid": 910851230,
-            "name": "Shitty Mint Pass",
-            "url": "ipfs://bafybeieyo7yywncvsoodayebhli3zhfks5sjfzmcoldouxfqslnim732pe#i",
-            "image": "bafybeieyo7yywncvsoodayebhli3zhfks5sjfzmcoldouxfqslnim732pe"
-        },
-        {
-            "assetid": 1074423261,
-            "name": "Shitty Pooof Treasure Box",
-            "url": "ipfs://bafybeifhvz3sh5u2sci5lpnd5ddmjpn3rd6hookr5cj5vol64zokkyhp4u#i",
-            "image": "bafybeifhvz3sh5u2sci5lpnd5ddmjpn3rd6hookr5cj5vol64zokkyhp4u"
-        },
         {
             "assetid": 464359919,
             "name": "Shitty Kitties #0",
@@ -14188,7 +14163,7 @@
             "assetid": 1661950305,
             "name": "SK4L #320",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmVAHMAP4CdwtxzggG1ZDw24PVtKZ9iCmuFcDiFf8aJcUV"
+            "image": "QmQ3JuffuPq8XxzuEKASnfXrvQw2sZUKz4PNre2KQ5WRK8"
         },
         {
             "assetid": 1661950322,
@@ -14422,7 +14397,7 @@
             "assetid": 1661953098,
             "name": "SK4L #359",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmT5cgQ1koGpRX6ffUm4DV5gdj4acwbvKzLVtYJyaNLSfM"
+            "image": "QmXFsEeWDxqj4XN6axAPUmj3BatFmaHF85fpd9F3KVCLXr"
         },
         {
             "assetid": 1661953117,
@@ -15862,7 +15837,7 @@
             "assetid": 1661967616,
             "name": "SK4L #599",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmZ1sEbpKSUWxUqoY1wSKgeEXHa6PHndunA28gacxMgXh5"
+            "image": "QmVnDhThEvaeJyu7koE5bJ8NgXVjhrscKzM4hDuySs6Hva"
         },
         {
             "assetid": 1661967633,
@@ -16870,7 +16845,7 @@
             "assetid": 1661976580,
             "name": "SK4L #767",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmQUoREHgsyzAjdaMZqTrrkQkG18jWihHA42HLJ8u2C7Ev"
+            "image": "QmWpoGY72WUSSmPNRs7eRcQ9xecnY8eLSR7ggwNfs7BXBP"
         },
         {
             "assetid": 1661976656,
@@ -17920,7 +17895,7 @@
             "assetid": 1661991683,
             "name": "SK4L #942",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmSZsErK3r6PEiWrQJXtB3Bu7wo2FiDY29fg7EXghsfwC5"
+            "image": "QmRnLMDyyFdYmCr2AtsYGReukG9GfH64fAfQKLPf2ZG2kY"
         },
         {
             "assetid": 1661991695,
@@ -17992,7 +17967,7 @@
             "assetid": 1661992780,
             "name": "SK4L #954",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmYtWLcahqp7WeBMe6rNqDit4cFfsqZLNKxB54Mm2JdBD4"
+            "image": "QmYHU92t6HTe5fWEJ4ATowAL8FDEwjXbJU7RBeSny9eyGH"
         },
         {
             "assetid": 1661992808,
@@ -18388,7 +18363,7 @@
             "assetid": 1661998960,
             "name": "SK4L #1020",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmdCfvCVHeH83C9XopNJXY476VYedRuZeSfrakuHpNoLna"
+            "image": "QmaGM47NAi8oxAWPVF6pVH91SQakM6HdAPRA7Kj1JrBPvo"
         },
         {
             "assetid": 1661999436,
@@ -18430,13 +18405,13 @@
             "assetid": 1661999624,
             "name": "SK4L #1027",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmdZL4YuS4fXt8ctPPxgXHjGvktAhdLXKBjTWMrDKArNDw"
+            "image": "QmQdP6b7z6WFyhj9vqxdUGisJX47jmmpHRVzFhuZs76GJK"
         },
         {
             "assetid": 1661999662,
             "name": "SK4L #1028",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmX9FDBNyfcfdMcBjcrypnSgbiYNSyAkSicG7u23LhQcgB"
+            "image": "QmUoPTw9iXgJZYB6a2n3ZaVfoEjc4vX96VEKXSPZ2HQUXz"
         },
         {
             "assetid": 1661999711,
@@ -18490,7 +18465,7 @@
             "assetid": 1662000660,
             "name": "SK4L #1037",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmVs3aUwBGLLKdoCj69Q7b9tb9uaXqNNBYBvAyWBKzQYZk"
+            "image": "QmaALB9FNc9WLEZbitLzUrQY6gE3VyGFYd1q2ntzgQKQwr"
         },
         {
             "assetid": 1662000708,
@@ -20500,7 +20475,7 @@
             "assetid": 1662022188,
             "name": "SK4L #1372",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "Qma1qEbSAUXEmLgpdTtHYBYjbGJ6GpqfcyQtARXjALWQt9"
+            "image": "QmQM9qVwSDtGoN4ChjcdnfxxdYoEHvvueuvefuEZjJBBDp"
         },
         {
             "assetid": 1662022231,
@@ -24124,7 +24099,7 @@
             "assetid": 1662047259,
             "name": "SK4L #1976",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmeankzT4FNLcRkgU7H7UtSebd7xze6E95uMPf8gtphmMM"
+            "image": "QmebsuXUS7bsTPeQKxdXEEU9GPEX34DiCPNAiK6scrCtxD"
         },
         {
             "assetid": 1662047269,
@@ -29776,7 +29751,7 @@
             "assetid": 1102782635,
             "name": "Shitty City #498",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
-            "image": "QmcZNHr5SRw4oW5AmHukFUPffsY7qP1oZv35nLo4q8hRiB"
+            "image": "Qmbu78XnaxQahXgbrrsew8sAHTm2ncRu9y9111od5zQQZA"
         },
         {
             "assetid": 1102782679,
