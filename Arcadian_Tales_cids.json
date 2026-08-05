@@ -3,7 +3,8 @@
     "Creator": "zHamster",
     "CreatorAddress": [
         "TALE7TBFEOCK4Q4M4QLYTPYTNTA2L7MYDY7IBYK3UOO4TIXH2YJBBS3EWU",
-        "TALE54EO7RHDZ4C5S6VDPFS22STGBSI7KYS4K7YJUSHQYYGNCG7U7C4WCU"
+        "TALE54EO7RHDZ4C5S6VDPFS22STGBSI7KYS4K7YJUSHQYYGNCG7U7C4WCU",
+        "CARDKHDJLVSDZBXW5T6Y3DVRO3OOPQWRE47MRNRGLORTHZF5HOKI6JEFMM"
     ],
     "Assets": [
         {
@@ -4774,6 +4775,162 @@
             "name": "Protagonist S - Wolf #100",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmQvjNNwmZ8KRqiWD8WDZFpZsvhZDkNiCKds8P5KMvxiCf"
+        },
+        {
+            "assetid": 475907387,
+            "name": "Card 1-1 - Lucky Charm",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-1-Lucky-Charm.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 475907490,
+            "name": "Card 1-2 - Hunter's Brace",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-2-Hunters-Brace.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 475907586,
+            "name": "Card 1-3 - Adventurer's Hat",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-3-Adventurers-Hat.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 475907680,
+            "name": "Card 1-4 - Gilded Monocle",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-4-Gilded-Monocle.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 475907827,
+            "name": "Card 1-5 - The Guildmaster",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-5-The-Guildmaster.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 475907930,
+            "name": "Card 1-6 - Guild Emblem",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-6-Guild-Emblem.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 475908084,
+            "name": "Card 1-7 - Pet Fox",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-7-Pet-Fox.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 475908177,
+            "name": "Card 1-8 - Arcadia",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-8-Arcadia.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 544657688,
+            "name": "Card T-1 - The Maverick's Tomb",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/tales/T-1-The-Mavericks-Tomb.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 552112035,
+            "name": "Card C-1 - Miner Sprout",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-1-Miner-Sprout.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 658336466,
+            "name": "Card C-2 - Eureka Lighter",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-2-Eureka-Lighter.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697613335,
+            "name": "Card 2-1 - Feather Bracelet",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-1-Feather-Bracelet.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697613887,
+            "name": "Card 2-2 - Moon Earring",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-2-Moon-Earring.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697613942,
+            "name": "Card 2-3 - Giant's Armlet",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-3-Giants-Armlet.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697614021,
+            "name": "Card 2-4 - Flame Emblem",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-4-Flame-Emblem.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697614113,
+            "name": "Card 2-5 - The Hero King",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-5-The-Hero-King.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697619731,
+            "name": "Card 2-6 - Haven Emblem",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-6-Haven-Emblem.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697619775,
+            "name": "Card 2-7 - Pet Falcon",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-7-Pet-Falcon.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 697621619,
+            "name": "Card 2-8 - Haven",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/2/2-8-Haven.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 818387169,
+            "name": "Card C-2H - Eureka Lighter",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-2H-Eureka-Lighter.gif",
+            "image": "https:"
+        },
+        {
+            "assetid": 827821969,
+            "name": "Card C-3 - Otherworld Crystal",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-3-Otherworld-Crystal.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 897522775,
+            "name": "Card 1-7H - Pet Fox",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/1/1-7H-Pet-Fox.gif",
+            "image": "https:"
+        },
+        {
+            "assetid": 962980007,
+            "name": "Card C-4 - Pet Owl",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-4-Pet-Owl.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 1138259464,
+            "name": "Card C-5 - Pristine Diadem",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-5-Pristine-Diadem.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 1379310045,
+            "name": "Card C-6 - SK8 Board",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-6-SK8-Board.png",
+            "image": "https:"
+        },
+        {
+            "assetid": 1379310559,
+            "name": "Card C-7 - Tales of Alegra",
+            "url": "https://storage.googleapis.com/arcadian-tales/card/collab/C-7-Tales-of-Alegra.png",
+            "image": "https:"
         }
     ]
 }

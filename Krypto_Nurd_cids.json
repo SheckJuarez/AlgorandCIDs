@@ -1,0 +1,975 @@
+{
+    "Project": "Krypto Nurd",
+    "Creator": "Krypto Nurd",
+    "CreatorAddress": [
+        "KNURDUNQR5XEKTUGCHKPOFDJ76METNMWIUVWQPMTHYM66EPUBJTDKS463A"
+    ],
+    "Assets": [
+        {
+            "assetid": 330168845,
+            "name": "KryptoNurd",
+            "url": "http://kryptonurd.com/",
+            "image": "http:"
+        },
+        {
+            "assetid": 331999079,
+            "name": "Algorand Radio",
+            "url": "https://ipfs.io/ipfs/bafybeiekuyrpii7ylwudrtnxphpman2m3fq7z7iqmfecgauditpgzuxlh4",
+            "image": "bafybeiekuyrpii7ylwudrtnxphpman2m3fq7z7iqmfecgauditpgzuxlh4"
+        },
+        {
+            "assetid": 353253032,
+            "name": "AlgoDile #Base 01",
+            "url": "https://ipfs.io/ipfs/bafkreifpyupc7wkcunjapmam7vbq5dpmftetocoroy4dkls74mon376lvy",
+            "image": "bafkreifpyupc7wkcunjapmam7vbq5dpmftetocoroy4dkls74mon376lvy"
+        },
+        {
+            "assetid": 387928420,
+            "name": "KryptoNurd #TeamSeas 00",
+            "url": "ipfs://bafybeibuh77vo5rklwd4sdqtkk7jnbdhp4ecmtpcnzmpwhyfd6fpigrjta",
+            "image": "bafybeibuh77vo5rklwd4sdqtkk7jnbdhp4ecmtpcnzmpwhyfd6fpigrjta"
+        },
+        {
+            "assetid": 387931127,
+            "name": "KryptoNurd #TeamSeas 01",
+            "url": "ipfs://bafybeiem7mxnbgvd47lqtvxjwtycv3f5uuhlujfum5noeqpueeroq7skxe",
+            "image": "bafybeiem7mxnbgvd47lqtvxjwtycv3f5uuhlujfum5noeqpueeroq7skxe"
+        },
+        {
+            "assetid": 387933548,
+            "name": "KryptoNurd #TeamSeas 02",
+            "url": "ipfs://bafybeia76vlraufljtdtdsrrse5b33kcbhexkadsvjl4pwm3y43k5rtn4a",
+            "image": "bafybeia76vlraufljtdtdsrrse5b33kcbhexkadsvjl4pwm3y43k5rtn4a"
+        },
+        {
+            "assetid": 387966212,
+            "name": "KryptoNurd 03",
+            "url": "ipfs://bafybeihdtto53mxunfoc3y2uquwg7riiigvrirvdn2bltvzpz3suk4ra6y",
+            "image": "bafybeihdtto53mxunfoc3y2uquwg7riiigvrirvdn2bltvzpz3suk4ra6y"
+        },
+        {
+            "assetid": 404170298,
+            "name": "KryptoNurd - Common 1",
+            "url": "ipfs://bafkreifqfhsbwqu5rbrzqq7sglmummes57cdwsmosedeivtaqlhdn76dam",
+            "image": "bafkreifqfhsbwqu5rbrzqq7sglmummes57cdwsmosedeivtaqlhdn76dam"
+        },
+        {
+            "assetid": 404174319,
+            "name": "KryptoNurd - Common 2",
+            "url": "ipfs://bafybeie37kjscpxo3yoa5gq4sdosxdgfaziuouq3phnjtimqxflku3cuim",
+            "image": "bafybeie37kjscpxo3yoa5gq4sdosxdgfaziuouq3phnjtimqxflku3cuim"
+        },
+        {
+            "assetid": 404188547,
+            "name": "KryptoNurd - Common 3",
+            "url": "ipfs://bafybeifxqosocuf455emfmq3oytbmo5p35ejovsvthwc6qm2o2npvox7lm",
+            "image": "bafybeifxqosocuf455emfmq3oytbmo5p35ejovsvthwc6qm2o2npvox7lm"
+        },
+        {
+            "assetid": 404210627,
+            "name": "KryptoNurd \u2013 Common 4",
+            "url": "ipfs://bafybeiaiab5j7cczhk4w4fsux2a2gvk57qy3nrptcpqa2ak36pjasc6ffm",
+            "image": "bafybeiaiab5j7cczhk4w4fsux2a2gvk57qy3nrptcpqa2ak36pjasc6ffm"
+        },
+        {
+            "assetid": 404224440,
+            "name": "KryptoNurd - Common 5",
+            "url": "ipfs://bafkreidxqgmvyndst6hbwb5kzg7gchkjg7bvdkbvqvhih4tsmm6swzdhoa",
+            "image": "bafkreidxqgmvyndst6hbwb5kzg7gchkjg7bvdkbvqvhih4tsmm6swzdhoa"
+        },
+        {
+            "assetid": 404261862,
+            "name": "KryptoNurd - Common 6",
+            "url": "ipfs://bafybeigmd4drhecezknzobectof6rlw5755ldy6xmvwytzcngibc7lmnsm",
+            "image": "bafybeigmd4drhecezknzobectof6rlw5755ldy6xmvwytzcngibc7lmnsm"
+        },
+        {
+            "assetid": 404268725,
+            "name": "KryptoNurd - Common 7",
+            "url": "ipfs://bafkreibksmhquaun5p7rbaymltlubkol6hvd7hyl4qb4xan27cp7o5pc5e",
+            "image": "bafkreibksmhquaun5p7rbaymltlubkol6hvd7hyl4qb4xan27cp7o5pc5e"
+        },
+        {
+            "assetid": 404275456,
+            "name": "KryptoNurd - Common 8",
+            "url": "ipfs://bafybeidbfvqlbtkl3yjuoh6dyjmtkmwnxcgztsazaveyjipcq2plrkwwti",
+            "image": "bafybeidbfvqlbtkl3yjuoh6dyjmtkmwnxcgztsazaveyjipcq2plrkwwti"
+        },
+        {
+            "assetid": 404302066,
+            "name": "KryptoNurd - Common 9",
+            "url": "ipfs://bafybeicbhhk6yxemcft3jrlzxab5zxw5ojxnrrfjxg7cqlrezuf4ne4qe4",
+            "image": "bafybeicbhhk6yxemcft3jrlzxab5zxw5ojxnrrfjxg7cqlrezuf4ne4qe4"
+        },
+        {
+            "assetid": 404335465,
+            "name": "KryptoNurd - Common 10",
+            "url": "ipfs://bafybeia2b2az2hhzadwkordhgktmnd6xifhpm2tiyi2bdqy7kezzr4tl7m",
+            "image": "bafybeia2b2az2hhzadwkordhgktmnd6xifhpm2tiyi2bdqy7kezzr4tl7m"
+        },
+        {
+            "assetid": 404394437,
+            "name": "KryptoNurd - Common 11",
+            "url": "ipfs://bafybeialtfwkkw3uols4wimcsbiekjrpmh4bbaimoagq266tlv23lligny",
+            "image": "bafybeialtfwkkw3uols4wimcsbiekjrpmh4bbaimoagq266tlv23lligny"
+        },
+        {
+            "assetid": 404396784,
+            "name": "KryptoNurd - Common 12",
+            "url": "ipfs://bafybeieupzjwcu4c3o7vtibkcxty6qaqbwrfafig552o46c2dfqsazl74q",
+            "image": "bafybeieupzjwcu4c3o7vtibkcxty6qaqbwrfafig552o46c2dfqsazl74q"
+        },
+        {
+            "assetid": 404413524,
+            "name": "KryptoNurd - Common 13",
+            "url": "ipfs://bafybeie54mq4vv2aa6o6uejgrnusk5xlzuxrxipctsvwvrofiq6i3emxbi",
+            "image": "bafybeie54mq4vv2aa6o6uejgrnusk5xlzuxrxipctsvwvrofiq6i3emxbi"
+        },
+        {
+            "assetid": 404449130,
+            "name": "KryptoNurd - Common 14",
+            "url": "ipfs://bafybeifdnp4u6ce4sg5g2tt7y4vpwcwgxtzcbe7m35rykpuk2vp6wwsmuq",
+            "image": "bafybeifdnp4u6ce4sg5g2tt7y4vpwcwgxtzcbe7m35rykpuk2vp6wwsmuq"
+        },
+        {
+            "assetid": 404454549,
+            "name": "KryptoNurd - Common 15",
+            "url": "ipfs://bafybeiglquippmk5hfijpe54gnd5tlaeqv5yrbtkfaqbp5tyx6yrnnpstu",
+            "image": "bafybeiglquippmk5hfijpe54gnd5tlaeqv5yrbtkfaqbp5tyx6yrnnpstu"
+        },
+        {
+            "assetid": 404458792,
+            "name": "KryptoNurd - Common 16",
+            "url": "ipfs://bafybeihfoteexrqdf5q75242qul5laqkeb5vaii62wi7dxfd73fdilorsa",
+            "image": "bafybeihfoteexrqdf5q75242qul5laqkeb5vaii62wi7dxfd73fdilorsa"
+        },
+        {
+            "assetid": 404462824,
+            "name": "KryptoNurd - Common 17",
+            "url": "ipfs://bafybeigme5hdzeknvqjh53hzpsfyzhbhypqjoqdbwcaqfn7vrzgvp25ppq",
+            "image": "bafybeigme5hdzeknvqjh53hzpsfyzhbhypqjoqdbwcaqfn7vrzgvp25ppq"
+        },
+        {
+            "assetid": 404466621,
+            "name": "KryptoNurd - Common 18",
+            "url": "ipfs://bafybeibks6uxzzomvzuod4fy4slzcgjk4ylg4dwmxkeylbj3xt2hj3xad4",
+            "image": "bafybeibks6uxzzomvzuod4fy4slzcgjk4ylg4dwmxkeylbj3xt2hj3xad4"
+        },
+        {
+            "assetid": 404469076,
+            "name": "KryptoNurd - Common 19",
+            "url": "ipfs://bafybeighwmyvwpm27lahmo2enzbp76pci365jsi7jqz6kyykmdzk4ovrti",
+            "image": "bafybeighwmyvwpm27lahmo2enzbp76pci365jsi7jqz6kyykmdzk4ovrti"
+        },
+        {
+            "assetid": 404471276,
+            "name": "KryptoNurd - Common 20",
+            "url": "ipfs://bafybeiexfxewyxq6uadflyh6htchhj64o2bkhjj2pwfyaui7silyuaw354",
+            "image": "bafybeiexfxewyxq6uadflyh6htchhj64o2bkhjj2pwfyaui7silyuaw354"
+        },
+        {
+            "assetid": 404475402,
+            "name": "KryptoNurd - Common 21",
+            "url": "ipfs://bafybeihsm5lvml6aznytmrkwtrirk773q35wezolyrzjw3lere3p6dioxy",
+            "image": "bafybeihsm5lvml6aznytmrkwtrirk773q35wezolyrzjw3lere3p6dioxy"
+        },
+        {
+            "assetid": 404491789,
+            "name": "KryptoNurd - Common 22",
+            "url": "ipfs://bafybeid2hywn7wstguiry7or2caa66nrx5ium47dlsrowf62b4vwaqhfqq",
+            "image": "bafybeid2hywn7wstguiry7or2caa66nrx5ium47dlsrowf62b4vwaqhfqq"
+        },
+        {
+            "assetid": 404496096,
+            "name": "KryptoNurd - Common 23",
+            "url": "ipfs://bafybeihlbnlvn7jlzxm7435amtwqzm62cfzah32yh2m2n63e2c6auzhd2u",
+            "image": "bafybeihlbnlvn7jlzxm7435amtwqzm62cfzah32yh2m2n63e2c6auzhd2u"
+        },
+        {
+            "assetid": 404500653,
+            "name": "KryptoNurd - Common 24",
+            "url": "ipfs://bafybeigfn3qybwd5pvio2bo477qdyvvawlundtjreixoosna63zw273ntu",
+            "image": "bafybeigfn3qybwd5pvio2bo477qdyvvawlundtjreixoosna63zw273ntu"
+        },
+        {
+            "assetid": 404505262,
+            "name": "KryptoNurd - Common 25",
+            "url": "ipfs://bafybeidhhonrygabxocnsfktwg5e2z2glh2vz6b625w462bc3mie6sz7ia",
+            "image": "bafybeidhhonrygabxocnsfktwg5e2z2glh2vz6b625w462bc3mie6sz7ia"
+        },
+        {
+            "assetid": 404508430,
+            "name": "KryptoNurd - Common 26",
+            "url": "ipfs://bafkreih6qfzsrx5xsmosbkhkuovh3dgx2v2fw75mjsborlp7e2cystuj2u",
+            "image": "bafkreih6qfzsrx5xsmosbkhkuovh3dgx2v2fw75mjsborlp7e2cystuj2u"
+        },
+        {
+            "assetid": 404534727,
+            "name": "KryptoNurd - Common 27",
+            "url": "ipfs://bafybeif7aw2bg4ricbcutow4hljybilaaieqkrl2wm6ab26a5bt6wweifi",
+            "image": "bafybeif7aw2bg4ricbcutow4hljybilaaieqkrl2wm6ab26a5bt6wweifi"
+        },
+        {
+            "assetid": 404545800,
+            "name": "KryptoNurd - Common 28",
+            "url": "ipfs://bafybeien3r3wslhh7gpll4xzhyyynmiqk5un3zbjeynwplzrmkcz2bxbua",
+            "image": "bafybeien3r3wslhh7gpll4xzhyyynmiqk5un3zbjeynwplzrmkcz2bxbua"
+        },
+        {
+            "assetid": 404549966,
+            "name": "KryptoNurd - Common 29",
+            "url": "ipfs://bafybeibw5oax3y54ga3bbw6mc4wfumblucbuohlffs5o26hqoqf6jtjsoe",
+            "image": "bafybeibw5oax3y54ga3bbw6mc4wfumblucbuohlffs5o26hqoqf6jtjsoe"
+        },
+        {
+            "assetid": 404567436,
+            "name": "KryptoNurd - Common 30",
+            "url": "ipfs://bafybeice72dfl3k6dhgz4lapstmcpsu4cayfeclg6uxlhequocup5zfjgi",
+            "image": "bafybeice72dfl3k6dhgz4lapstmcpsu4cayfeclg6uxlhequocup5zfjgi"
+        },
+        {
+            "assetid": 404569331,
+            "name": "KryptoNurd - Common 31",
+            "url": "ipfs://bafybeibjcrlb73vjjl2l7ctes7gyhsknrxjvmkjy2phu72oaehza7dwuwm",
+            "image": "bafybeibjcrlb73vjjl2l7ctes7gyhsknrxjvmkjy2phu72oaehza7dwuwm"
+        },
+        {
+            "assetid": 404571641,
+            "name": "KryptoNurd - Common 32",
+            "url": "ipfs://bafybeibdob6l2hjr3owtooaerj22zuui4ld5yu7dzkn2lqnfqsrqscx45a",
+            "image": "bafybeibdob6l2hjr3owtooaerj22zuui4ld5yu7dzkn2lqnfqsrqscx45a"
+        },
+        {
+            "assetid": 404578222,
+            "name": "KryptoNurd - Common 33",
+            "url": "ipfs://bafybeici7ql2e7iqswiiwm774ph3kzxknxc4zinkrogz7qtb6yzyq4pkiy",
+            "image": "bafybeici7ql2e7iqswiiwm774ph3kzxknxc4zinkrogz7qtb6yzyq4pkiy"
+        },
+        {
+            "assetid": 404600972,
+            "name": "KryptoNurd - Common 34",
+            "url": "ipfs://bafybeifyrkigygr3m2zdnzxk6wt6hzbmqoil3xfrfj26bu334kyvfxj66u",
+            "image": "bafybeifyrkigygr3m2zdnzxk6wt6hzbmqoil3xfrfj26bu334kyvfxj66u"
+        },
+        {
+            "assetid": 404616641,
+            "name": "KryptoNurd - Common 35",
+            "url": "ipfs://bafybeiam4ivnehbheco77eqdszm4husubr6wmihyguciqpg75h3g6jxcly",
+            "image": "bafybeiam4ivnehbheco77eqdszm4husubr6wmihyguciqpg75h3g6jxcly"
+        },
+        {
+            "assetid": 404628032,
+            "name": "KryptoNurd - Common 36",
+            "url": "ipfs://bafybeihz73guboso6pfduah2basalr4bna4ljf7ijltwim5i3msbl7b7m4",
+            "image": "bafybeihz73guboso6pfduah2basalr4bna4ljf7ijltwim5i3msbl7b7m4"
+        },
+        {
+            "assetid": 404631984,
+            "name": "KryptoNurd - Common 37",
+            "url": "ipfs://bafybeicvmpd734a2hbnzlhz744jm5mgqewzygbdtk7d5ngsk7kudhtlaue",
+            "image": "bafybeicvmpd734a2hbnzlhz744jm5mgqewzygbdtk7d5ngsk7kudhtlaue"
+        },
+        {
+            "assetid": 404644304,
+            "name": "KryptoNurd - Common 38",
+            "url": "ipfs://bafybeiesuaazlpp3gvxtfqbwfy4ux3rbflflmgbcsxdk4wkc6wdgotpsge",
+            "image": "bafybeiesuaazlpp3gvxtfqbwfy4ux3rbflflmgbcsxdk4wkc6wdgotpsge"
+        },
+        {
+            "assetid": 404646438,
+            "name": "KryptoNurd - Common 39",
+            "url": "ipfs://bafybeie3wyeg54dgs2vo7ylanqpij7cekvztumipuxgyvt5j2w2pdjiyre",
+            "image": "bafybeie3wyeg54dgs2vo7ylanqpij7cekvztumipuxgyvt5j2w2pdjiyre"
+        },
+        {
+            "assetid": 404648236,
+            "name": "KryptoNurd - Common 40",
+            "url": "ipfs://bafybeieet4ouika7fnopk5mria6xj7rb37z4m64rv4oog25goxhi5kf7eq",
+            "image": "bafybeieet4ouika7fnopk5mria6xj7rb37z4m64rv4oog25goxhi5kf7eq"
+        },
+        {
+            "assetid": 404651066,
+            "name": "KryptoNurd - Common 41",
+            "url": "ipfs://bafybeiclwtm4tv2c7rliq2m3yo7ze4y66uvhuhbaslmu3n4ppcy3rk7dni",
+            "image": "bafybeiclwtm4tv2c7rliq2m3yo7ze4y66uvhuhbaslmu3n4ppcy3rk7dni"
+        },
+        {
+            "assetid": 404652888,
+            "name": "KryptoNurd - Common 42",
+            "url": "ipfs://bafybeiadpkafixwleizxx7ybvhge446xsctnbzm7ea4tsnjkryn3ybgifa",
+            "image": "bafybeiadpkafixwleizxx7ybvhge446xsctnbzm7ea4tsnjkryn3ybgifa"
+        },
+        {
+            "assetid": 404654602,
+            "name": "KryptoNurd - Common 43",
+            "url": "ipfs://bafybeibwk5xb4al7oi436bz43ge6nb3ioqhmp3z5qwzlwlzx6ks3lwldmi",
+            "image": "bafybeibwk5xb4al7oi436bz43ge6nb3ioqhmp3z5qwzlwlzx6ks3lwldmi"
+        },
+        {
+            "assetid": 404657688,
+            "name": "KryptoNurd - Common 44",
+            "url": "ipfs://bafybeieb3tljmfsg6pwhumbnd4kkswp2jkzf7reujpo5iwafvafthuxxtu",
+            "image": "bafybeieb3tljmfsg6pwhumbnd4kkswp2jkzf7reujpo5iwafvafthuxxtu"
+        },
+        {
+            "assetid": 404662077,
+            "name": "KryptoNurd - Common 45",
+            "url": "ipfs://bafybeifupwrouqxy44kjqoipuqjc4x7egrajswpckpcukbvknihodeqv6e",
+            "image": "bafybeifupwrouqxy44kjqoipuqjc4x7egrajswpckpcukbvknihodeqv6e"
+        },
+        {
+            "assetid": 404667214,
+            "name": "KryptoNurd - Common  46",
+            "url": "ipfs://bafybeietgnma2tizm2ygwnrldyxbht3sigcded5nzdaiydyfscdszclmre",
+            "image": "bafybeietgnma2tizm2ygwnrldyxbht3sigcded5nzdaiydyfscdszclmre"
+        },
+        {
+            "assetid": 404672268,
+            "name": "KryptoNurd - Common 47",
+            "url": "ipfs://bafybeicstkmshvsu7pk2xvfwtrkmkerjkuldz3ai26v5i4rd3pujm77ayu",
+            "image": "bafybeicstkmshvsu7pk2xvfwtrkmkerjkuldz3ai26v5i4rd3pujm77ayu"
+        },
+        {
+            "assetid": 404675765,
+            "name": "KryptoNurd - Common 48",
+            "url": "ipfs://bafybeih55nx3bwnu3bfhthwmsfieigqb7psmooh5idh4tpb27b65sk2ioq",
+            "image": "bafybeih55nx3bwnu3bfhthwmsfieigqb7psmooh5idh4tpb27b65sk2ioq"
+        },
+        {
+            "assetid": 404680549,
+            "name": "KryptoNurd - Common 49",
+            "url": "ipfs://bafybeibzoyvx72ul353c5jumsvo2gzvtyk2uvctf67aryixleymgkwd6gi",
+            "image": "bafybeibzoyvx72ul353c5jumsvo2gzvtyk2uvctf67aryixleymgkwd6gi"
+        },
+        {
+            "assetid": 404690558,
+            "name": "KryptoNurd - Common 50",
+            "url": "ipfs://bafkreifbajpzzfac4qd7fusz4p3x7437tcvia37sdtkdwfpkmww63xd33u",
+            "image": "bafkreifbajpzzfac4qd7fusz4p3x7437tcvia37sdtkdwfpkmww63xd33u"
+        },
+        {
+            "assetid": 404705940,
+            "name": "KryptoNurd - Common 51",
+            "url": "ipfs://bafybeidjln6nvsuxhh3lmasyliovkjqkeany4i5pzbnz4psqr7jnlpogla",
+            "image": "bafybeidjln6nvsuxhh3lmasyliovkjqkeany4i5pzbnz4psqr7jnlpogla"
+        },
+        {
+            "assetid": 404718071,
+            "name": "KryptoNurd - Common 52",
+            "url": "ipfs://bafkreielyljxim4ehcssmybmupta5ufbwz46sldocax3ugbtcliwrsmwlu",
+            "image": "bafkreielyljxim4ehcssmybmupta5ufbwz46sldocax3ugbtcliwrsmwlu"
+        },
+        {
+            "assetid": 404723116,
+            "name": "KryptoNurd - Common 53",
+            "url": "ipfs://bafybeihdosbewxnkuvvqnaz4bnxpzahuncdq6v3o6mct7zhckjgrg7zxsa",
+            "image": "bafybeihdosbewxnkuvvqnaz4bnxpzahuncdq6v3o6mct7zhckjgrg7zxsa"
+        },
+        {
+            "assetid": 404726915,
+            "name": "KryptoNurd - Common 54",
+            "url": "ipfs://bafybeibpwe3on7m4vqvc2fr3fpwuqyv5knlzqk7u7cbjik2d4sbxncmeye",
+            "image": "bafybeibpwe3on7m4vqvc2fr3fpwuqyv5knlzqk7u7cbjik2d4sbxncmeye"
+        },
+        {
+            "assetid": 404730696,
+            "name": "KryptoNurd - Common 55",
+            "url": "ipfs://bafybeidzdxs6itgwxd52mfsqtaxygcbkvafz4mpiwikrzpuhukxnjhvmn4",
+            "image": "bafybeidzdxs6itgwxd52mfsqtaxygcbkvafz4mpiwikrzpuhukxnjhvmn4"
+        },
+        {
+            "assetid": 404742442,
+            "name": "KryptoNurd - Uncommon 1",
+            "url": "ipfs://bafybeigo5qcm2blcf5uiwclqq4zmnwaxhgles5rkx2ipxgcbtbr4d7ofmq",
+            "image": "bafybeigo5qcm2blcf5uiwclqq4zmnwaxhgles5rkx2ipxgcbtbr4d7ofmq"
+        },
+        {
+            "assetid": 404745822,
+            "name": "KryptoNurd - Uncommon 2",
+            "url": "ipfs://bafybeigrv7kdc37og4nurzkeiorucatuwxfcz3g3m6f22pyck7adhfh4ga",
+            "image": "bafybeigrv7kdc37og4nurzkeiorucatuwxfcz3g3m6f22pyck7adhfh4ga"
+        },
+        {
+            "assetid": 404748722,
+            "name": "KryptoNurd - Uncommon 3",
+            "url": "ipfs://bafybeiduxt4h4djv6b2cxlbvfo7zqdcf52ahajblsi5wdtzlpuynur6ovy",
+            "image": "bafybeiduxt4h4djv6b2cxlbvfo7zqdcf52ahajblsi5wdtzlpuynur6ovy"
+        },
+        {
+            "assetid": 404764203,
+            "name": "KryptoNurd - Uncommon 4",
+            "url": "ipfs://bafybeieoxnepaecewxros2mbgasm774owljtrbau4ufw6qc6vy4pka23xq",
+            "image": "bafybeieoxnepaecewxros2mbgasm774owljtrbau4ufw6qc6vy4pka23xq"
+        },
+        {
+            "assetid": 404767995,
+            "name": "KryptoNurd - Uncommon 5",
+            "url": "ipfs://bafybeidj4tftd4crytcv73e2mhbihkrx65j3ppfi2o7g54etzz6tkt35ri",
+            "image": "bafybeidj4tftd4crytcv73e2mhbihkrx65j3ppfi2o7g54etzz6tkt35ri"
+        },
+        {
+            "assetid": 404779853,
+            "name": "KryptoNurd - Rare 1",
+            "url": "ipfs://bafybeibmxknvbz7rm4mffyhnter3ea7u4fjtoyt6xwrnkhktto2t6khr5q",
+            "image": "bafybeibmxknvbz7rm4mffyhnter3ea7u4fjtoyt6xwrnkhktto2t6khr5q"
+        },
+        {
+            "assetid": 404782594,
+            "name": "KryptoNurd - Rare 2",
+            "url": "ipfs://bafybeifvib24yqx34nfjfax5mdny34nkik2zbl7ldvegjky3dfkqfeil5u",
+            "image": "bafybeifvib24yqx34nfjfax5mdny34nkik2zbl7ldvegjky3dfkqfeil5u"
+        },
+        {
+            "assetid": 413560411,
+            "name": "KryptoNurd - Uncommon 6",
+            "url": "ipfs://bafybeid7wrvvqbahmof7oymxclebe7oliyslppp4zilex4llnfyrjzri74",
+            "image": "bafybeid7wrvvqbahmof7oymxclebe7oliyslppp4zilex4llnfyrjzri74"
+        },
+        {
+            "assetid": 413563240,
+            "name": "KryptoNurd - Uncommon 7",
+            "url": "ipfs://bafybeic33a7kfrbaiy2p3oijagno5uoyfmfuhqs5taucdle22tswg3ehta",
+            "image": "bafybeic33a7kfrbaiy2p3oijagno5uoyfmfuhqs5taucdle22tswg3ehta"
+        },
+        {
+            "assetid": 413565831,
+            "name": "KryptoNurd - Uncommon 8",
+            "url": "ipfs://bafybeiahmnw3hr5ruqindvizujzln3ubgwl5wfxozxot6gptry73u7zvla",
+            "image": "bafybeiahmnw3hr5ruqindvizujzln3ubgwl5wfxozxot6gptry73u7zvla"
+        },
+        {
+            "assetid": 413567980,
+            "name": "KryptoNurd - Uncommon 9",
+            "url": "ipfs://bafybeibiz2mcs27jzgoyzr2yexrzttmiwpar7to7nntd3l7f6kdnk5kivi",
+            "image": "bafybeibiz2mcs27jzgoyzr2yexrzttmiwpar7to7nntd3l7f6kdnk5kivi"
+        },
+        {
+            "assetid": 413571398,
+            "name": "KryptoNurd - Uncommon 10",
+            "url": "ipfs://bafkreienditwplaw2qwohv2lylqdimqnbdrxvyworf6tu2paxmyqndnghe",
+            "image": "bafkreienditwplaw2qwohv2lylqdimqnbdrxvyworf6tu2paxmyqndnghe"
+        },
+        {
+            "assetid": 419628679,
+            "name": "KryptoNurd - Uncommon 11",
+            "url": "ipfs://bafybeiaaupplk5lxdtfdt4ctnebtcqzkt5lhcwchooqy2zepkchckl2crq",
+            "image": "bafybeiaaupplk5lxdtfdt4ctnebtcqzkt5lhcwchooqy2zepkchckl2crq"
+        },
+        {
+            "assetid": 419630082,
+            "name": "KryptoNurd - Uncommon 12",
+            "url": "ipfs://bafybeigx54qezcdhg7ungm3dlrx772jr4romiln7i27fr7afqmlodysel4",
+            "image": "bafybeigx54qezcdhg7ungm3dlrx772jr4romiln7i27fr7afqmlodysel4"
+        },
+        {
+            "assetid": 419632290,
+            "name": "KryptoNurd - Uncommon 13",
+            "url": "ipfs://bafkreic5guskug5zalutaxfgdsnmkshhupynofc45h4sm6rlilmpkczvsy",
+            "image": "bafkreic5guskug5zalutaxfgdsnmkshhupynofc45h4sm6rlilmpkczvsy"
+        },
+        {
+            "assetid": 419635048,
+            "name": "KryptoNurd - Uncommon 14",
+            "url": "ipfs://bafybeif4kqk6dkshle252c64zyxgahvkj3kf5uwy4vgcsp7j5susd7j5iq",
+            "image": "bafybeif4kqk6dkshle252c64zyxgahvkj3kf5uwy4vgcsp7j5susd7j5iq"
+        },
+        {
+            "assetid": 419637694,
+            "name": "KryptoNurd - Uncommon 15",
+            "url": "ipfs://bafybeid57ytdxb3snbuinpsoh27jdkdn6at4yefhogqzu3utspzyqwkg2e",
+            "image": "bafybeid57ytdxb3snbuinpsoh27jdkdn6at4yefhogqzu3utspzyqwkg2e"
+        },
+        {
+            "assetid": 419639930,
+            "name": "KryptoNurd - Uncommon 16",
+            "url": "ipfs://bafkreifmrmfadpghiv7ppofylmo7juywjb4oljl57lgejcmmzxdrhjmo3e",
+            "image": "bafkreifmrmfadpghiv7ppofylmo7juywjb4oljl57lgejcmmzxdrhjmo3e"
+        },
+        {
+            "assetid": 419642533,
+            "name": "KryptoNurd - Uncommon 17",
+            "url": "ipfs://bafybeig37i733q5dgkatsftoqisbgwedb4f5fnyvnmdmlqaxscvwoqt6hy",
+            "image": "bafybeig37i733q5dgkatsftoqisbgwedb4f5fnyvnmdmlqaxscvwoqt6hy"
+        },
+        {
+            "assetid": 419644584,
+            "name": "KryptoNurd - Uncommon 18",
+            "url": "ipfs://bafybeidj4lgvhpig6f7k54tkosu4gddu35uotiani5jevizrneh6p4jebi",
+            "image": "bafybeidj4lgvhpig6f7k54tkosu4gddu35uotiani5jevizrneh6p4jebi"
+        },
+        {
+            "assetid": 419647093,
+            "name": "KryptoNurd - Uncommon 19",
+            "url": "ipfs://bafybeidbj6eofx6atfzmvnemtw5hexlt32dshforplpahsqtgjz2um3f6m",
+            "image": "bafybeidbj6eofx6atfzmvnemtw5hexlt32dshforplpahsqtgjz2um3f6m"
+        },
+        {
+            "assetid": 419650445,
+            "name": "KryptoNurd - Uncommon 20",
+            "url": "ipfs://bafybeiduonto4r4mzjmif7forcwrd2fiz2xgmyw6gytuefams3f6is5lqm",
+            "image": "bafybeiduonto4r4mzjmif7forcwrd2fiz2xgmyw6gytuefams3f6is5lqm"
+        },
+        {
+            "assetid": 419652229,
+            "name": "KryptoNurd - Uncommon 21",
+            "url": "ipfs://bafkreig4xhv5ryefluf7v4t4jkee2ond5unmrwlafkrmetatkct6id7e7m",
+            "image": "bafkreig4xhv5ryefluf7v4t4jkee2ond5unmrwlafkrmetatkct6id7e7m"
+        },
+        {
+            "assetid": 419654316,
+            "name": "KryptoNurd - Uncommon 22",
+            "url": "ipfs://bafybeicje5leyxk47cfvgbwkzoylvj56quejz5zs52vg7kcp7t6y7n7mwi",
+            "image": "bafybeicje5leyxk47cfvgbwkzoylvj56quejz5zs52vg7kcp7t6y7n7mwi"
+        },
+        {
+            "assetid": 419656169,
+            "name": "KryptoNurd - Uncommon 23",
+            "url": "ipfs://bafybeib56yp5osfhrwh2kvbbtmv4nvwq6mbypzwhdpsbswugjjkq7x4fya",
+            "image": "bafybeib56yp5osfhrwh2kvbbtmv4nvwq6mbypzwhdpsbswugjjkq7x4fya"
+        },
+        {
+            "assetid": 419657829,
+            "name": "KryptoNurd - Uncommon 24",
+            "url": "ipfs://bafybeibghtppo46ckcu2yueacnvstzcwy5u4miqqyihujn7xe4jgsqlufm",
+            "image": "bafybeibghtppo46ckcu2yueacnvstzcwy5u4miqqyihujn7xe4jgsqlufm"
+        },
+        {
+            "assetid": 419659695,
+            "name": "KryptoNurd - Uncommon 25",
+            "url": "ipfs://bafybeichwvl72jwimqv4t5vhr62ir352t4r55safq2kursep5cyybpvj24",
+            "image": "bafybeichwvl72jwimqv4t5vhr62ir352t4r55safq2kursep5cyybpvj24"
+        },
+        {
+            "assetid": 419661235,
+            "name": "KryptoNurd - Uncommon 26",
+            "url": "ipfs://bafybeigazinxmokr2mahpy5zrvnf6lcboqgkpp626fgoso26mqqrgw3pum",
+            "image": "bafybeigazinxmokr2mahpy5zrvnf6lcboqgkpp626fgoso26mqqrgw3pum"
+        },
+        {
+            "assetid": 419662739,
+            "name": "KryptoNurd - Uncommon 27",
+            "url": "ipfs://bafybeifsp7dozkdnwjiqilwnw2pghj3qsh22gl4rdbcxsnh54itexej2jq",
+            "image": "bafybeifsp7dozkdnwjiqilwnw2pghj3qsh22gl4rdbcxsnh54itexej2jq"
+        },
+        {
+            "assetid": 419664191,
+            "name": "KryptoNurd - Uncommon 28",
+            "url": "ipfs://bafkreiha3fobjeyecgeyurzt67oeowj63fgtnkwjluvxgj6ap2vnf2rwou",
+            "image": "bafkreiha3fobjeyecgeyurzt67oeowj63fgtnkwjluvxgj6ap2vnf2rwou"
+        },
+        {
+            "assetid": 419667330,
+            "name": "KryptoNurd - Uncommon 29",
+            "url": "ipfs://bafybeicv67euubpeviiejtf4uf5on7jxh7pvvkitq7a7dm4en3gp5s37g4",
+            "image": "bafybeicv67euubpeviiejtf4uf5on7jxh7pvvkitq7a7dm4en3gp5s37g4"
+        },
+        {
+            "assetid": 419669840,
+            "name": "KryptoNurd - Uncommon 30",
+            "url": "ipfs://bafybeifwcdg5tb3cigiurpfmlrm352fy4metgo3encm5wvtao6bz2c537y",
+            "image": "bafybeifwcdg5tb3cigiurpfmlrm352fy4metgo3encm5wvtao6bz2c537y"
+        },
+        {
+            "assetid": 419673354,
+            "name": "KryptoNurd - Uncommon 32",
+            "url": "ipfs://bafybeiatmihkbipcradooqql5t42oxd4phwmwk2vjzetbvfmjwoowxmabe",
+            "image": "bafybeiatmihkbipcradooqql5t42oxd4phwmwk2vjzetbvfmjwoowxmabe"
+        },
+        {
+            "assetid": 419677414,
+            "name": "KryptoNurd - Uncommon 31",
+            "url": "ipfs://bafybeicspldckw4znrt3ovju7h7a3jogpg63rpstmxftkmpgmn6wzh33hq",
+            "image": "bafybeicspldckw4znrt3ovju7h7a3jogpg63rpstmxftkmpgmn6wzh33hq"
+        },
+        {
+            "assetid": 419679904,
+            "name": "KryptoNurd - Uncommon 33",
+            "url": "ipfs://bafybeidpops3fi5mj67gmqzy7yy6bpdp3g7i3luwhfvhe6vnmegrxvljoy",
+            "image": "bafybeidpops3fi5mj67gmqzy7yy6bpdp3g7i3luwhfvhe6vnmegrxvljoy"
+        },
+        {
+            "assetid": 419683589,
+            "name": "KryptoNurd - Uncommon 34",
+            "url": "ipfs://bafybeihu36k6aczeni24x7zobspzfdevrzcwyou4qw4biorfv2vxxvxy3i",
+            "image": "bafybeihu36k6aczeni24x7zobspzfdevrzcwyou4qw4biorfv2vxxvxy3i"
+        },
+        {
+            "assetid": 419685835,
+            "name": "KryptoNurd - Uncommon 35",
+            "url": "ipfs://bafybeidaplcximinkudnrnsiueciioz4hnupp5xsfb4kjkruxfrar4hqmq",
+            "image": "bafybeidaplcximinkudnrnsiueciioz4hnupp5xsfb4kjkruxfrar4hqmq"
+        },
+        {
+            "assetid": 419692007,
+            "name": "KryptoNurd - Rare 3",
+            "url": "ipfs://bafybeibsmkvata4rp6wjxfurg46uenzwnr2f4echlq6zsdtuj7gcgga6be",
+            "image": "bafybeibsmkvata4rp6wjxfurg46uenzwnr2f4echlq6zsdtuj7gcgga6be"
+        },
+        {
+            "assetid": 419695144,
+            "name": "KryptoNurd - Rare 4",
+            "url": "ipfs://bafybeienxgzljouziy5o2rig2kxpezdvgimkhkjponfp3k3fevxpcqyp3a",
+            "image": "bafybeienxgzljouziy5o2rig2kxpezdvgimkhkjponfp3k3fevxpcqyp3a"
+        },
+        {
+            "assetid": 419696879,
+            "name": "KryptoNurd - Rare 5",
+            "url": "ipfs://bafkreibzpx2eidryqjgghoz22zgi2kppz7rlkond5hwuzh7md4tnmkivxe",
+            "image": "bafkreibzpx2eidryqjgghoz22zgi2kppz7rlkond5hwuzh7md4tnmkivxe"
+        },
+        {
+            "assetid": 419698607,
+            "name": "KryptoNurd - Rare 6",
+            "url": "ipfs://bafybeig5zkukynqogyc7h7l47ohvqebm2767lvswwoj5g344ougqbdzooq",
+            "image": "bafybeig5zkukynqogyc7h7l47ohvqebm2767lvswwoj5g344ougqbdzooq"
+        },
+        {
+            "assetid": 419700659,
+            "name": "KryptoNurd - Rare 7",
+            "url": "ipfs://bafybeiek52elshjusnkd6ddm4hr5jm66wntzylbvsomgw3c4hleorbujuq",
+            "image": "bafybeiek52elshjusnkd6ddm4hr5jm66wntzylbvsomgw3c4hleorbujuq"
+        },
+        {
+            "assetid": 419703361,
+            "name": "KryptoNurd - Krypto Rare 1",
+            "url": "ipfs://bafybeic46yqcxmberd5qcgozvpvdgrlz34uk6n3vpugrusco2u3d3jeqty",
+            "image": "bafybeic46yqcxmberd5qcgozvpvdgrlz34uk6n3vpugrusco2u3d3jeqty"
+        },
+        {
+            "assetid": 419704747,
+            "name": "KryptoNurd - Krypto Rare 2",
+            "url": "ipfs://bafybeial756rzmvdwu5hwlusqlcsb3wfmckcvstlvfqcpsixrii2sdcfau",
+            "image": "bafybeial756rzmvdwu5hwlusqlcsb3wfmckcvstlvfqcpsixrii2sdcfau"
+        },
+        {
+            "assetid": 419706140,
+            "name": "KryptoNurd - Krypto Rare 3",
+            "url": "ipfs://bafybeifgieqig34rdvgw2qpjgg25wspvrefvowenfrj54qtfgygsae2dna",
+            "image": "bafybeifgieqig34rdvgw2qpjgg25wspvrefvowenfrj54qtfgygsae2dna"
+        },
+        {
+            "assetid": 419709789,
+            "name": "KryptoNurd - Krypto Rare 4",
+            "url": "ipfs://bafybeiaemtfuioefpkr3axuiohay6k3srvswmbaubyct7mj7cc6d5nt3a4",
+            "image": "bafybeiaemtfuioefpkr3axuiohay6k3srvswmbaubyct7mj7cc6d5nt3a4"
+        },
+        {
+            "assetid": 419712330,
+            "name": "KryptoNurd - Krypto Rare 5",
+            "url": "ipfs://bafybeibr3uzphd7n326qafdcr6dsqs3it6uanw6kbazih47apvksfietoe",
+            "image": "bafybeibr3uzphd7n326qafdcr6dsqs3it6uanw6kbazih47apvksfietoe"
+        },
+        {
+            "assetid": 419714571,
+            "name": "KryptoNurd - Krypto Rare 6",
+            "url": "ipfs://bafybeia67amtpqhqyzrhzwhqkeqwkpmeuthgviyjpmcw6laxtraes43634",
+            "image": "bafybeia67amtpqhqyzrhzwhqkeqwkpmeuthgviyjpmcw6laxtraes43634"
+        },
+        {
+            "assetid": 419720985,
+            "name": "KryptoNurd - Krypto Rare 7",
+            "url": "ipfs://bafybeice3ilf7hu7r3vgk5so4txl6mfx7wkunef4gtpoh5bl7ebprjxh6u",
+            "image": "bafybeice3ilf7hu7r3vgk5so4txl6mfx7wkunef4gtpoh5bl7ebprjxh6u"
+        },
+        {
+            "assetid": 419733860,
+            "name": "KryptoNurd - Rare 8",
+            "url": "ipfs://bafybeihigfqhq6euhxuw2dbdhoudyxrjpcbkmlyj77tkrkk6vsouczdu6u",
+            "image": "bafybeihigfqhq6euhxuw2dbdhoudyxrjpcbkmlyj77tkrkk6vsouczdu6u"
+        },
+        {
+            "assetid": 419735731,
+            "name": "KryptoNurd - Rare 9",
+            "url": "ipfs://bafybeidzbrl64sh5y7el4yj3v3qtoz2hfqj6q2bpt6ntbsk33d7icgtytu",
+            "image": "bafybeidzbrl64sh5y7el4yj3v3qtoz2hfqj6q2bpt6ntbsk33d7icgtytu"
+        },
+        {
+            "assetid": 419737455,
+            "name": "KryptoNurd - Rare 10",
+            "url": "ipfs://bafybeidjh4mxxunp47hjlfsqk3tvhytyeqtdgaigtkzcxb5feittcxafxi",
+            "image": "bafybeidjh4mxxunp47hjlfsqk3tvhytyeqtdgaigtkzcxb5feittcxafxi"
+        },
+        {
+            "assetid": 419739335,
+            "name": "KryptoNurd - Rare 11",
+            "url": "ipfs://bafybeiezmg3zzki6s37l4bb3agwpeapnnfzdvhcphwxfw4gd52upmsg7tu",
+            "image": "bafybeiezmg3zzki6s37l4bb3agwpeapnnfzdvhcphwxfw4gd52upmsg7tu"
+        },
+        {
+            "assetid": 419741502,
+            "name": "KryptoNurd - Rare 12",
+            "url": "ipfs://bafybeiamiyxkmjfvosdwcbure3kv4ffh26hmqqlidq7fwoq3hcvp2stytm",
+            "image": "bafybeiamiyxkmjfvosdwcbure3kv4ffh26hmqqlidq7fwoq3hcvp2stytm"
+        },
+        {
+            "assetid": 419743552,
+            "name": "KryptoNurd - Rare 13",
+            "url": "ipfs://bafybeiaccmdu7i5ng2fv4oicqosvwtmbipumh7664jgx7av37lqrp5e5ry",
+            "image": "bafybeiaccmdu7i5ng2fv4oicqosvwtmbipumh7664jgx7av37lqrp5e5ry"
+        },
+        {
+            "assetid": 419745108,
+            "name": "KryptoNurd - Rare 14",
+            "url": "ipfs://bafkreibeootepj65wdbgiqe6og2g2cw3u55fy36il7jqrfq4dy6xrdhteq",
+            "image": "bafkreibeootepj65wdbgiqe6og2g2cw3u55fy36il7jqrfq4dy6xrdhteq"
+        },
+        {
+            "assetid": 419747001,
+            "name": "KryptoNurd - Rare 15",
+            "url": "ipfs://bafybeigwpibay22zk6bpnsc366ap5f3r5gwmbkgmwya4r4k2rdbazzaciu",
+            "image": "bafybeigwpibay22zk6bpnsc366ap5f3r5gwmbkgmwya4r4k2rdbazzaciu"
+        },
+        {
+            "assetid": 419748520,
+            "name": "KryptoNurd - Rare 16",
+            "url": "ipfs://bafybeig3vuxeu3jepf6lagb7ukc5flbuew2b5syfa6jylo5m2xxe53pk6e",
+            "image": "bafybeig3vuxeu3jepf6lagb7ukc5flbuew2b5syfa6jylo5m2xxe53pk6e"
+        },
+        {
+            "assetid": 419749935,
+            "name": "KryptoNurd - Rare 17",
+            "url": "ipfs://bafkreieh2kfacvcm5lymti3okbv2mebllqzdegz3v7z3zqfjovwhrvvqui",
+            "image": "bafkreieh2kfacvcm5lymti3okbv2mebllqzdegz3v7z3zqfjovwhrvvqui"
+        },
+        {
+            "assetid": 419751334,
+            "name": "KryptoNurd - Rare 18",
+            "url": "ipfs://bafybeidzf2ophscjdd53hd2za6fiydbjtmwbwg6ldosuhawgp6dk4myro4",
+            "image": "bafybeidzf2ophscjdd53hd2za6fiydbjtmwbwg6ldosuhawgp6dk4myro4"
+        },
+        {
+            "assetid": 419753151,
+            "name": "KryptoNurd - Rare 19",
+            "url": "ipfs://bafybeib5qwowagmemsfxtfdciikhvzjltorzfwjk7ib6evozqwangmki5m",
+            "image": "bafybeib5qwowagmemsfxtfdciikhvzjltorzfwjk7ib6evozqwangmki5m"
+        },
+        {
+            "assetid": 419755162,
+            "name": "KryptoNurd - Rare 20",
+            "url": "ipfs://bafybeigmigznvomdu3ewut6q3hzcgltythbotu6maubko2txrmjafqcz4a",
+            "image": "bafybeigmigznvomdu3ewut6q3hzcgltythbotu6maubko2txrmjafqcz4a"
+        },
+        {
+            "assetid": 419758127,
+            "name": "KryptoNurd - Rare 21",
+            "url": "ipfs://bafybeie3fvwtydmtsvhn7hdrrvodqwzsis4qblikyabnnzsntpqsrr2kw4",
+            "image": "bafybeie3fvwtydmtsvhn7hdrrvodqwzsis4qblikyabnnzsntpqsrr2kw4"
+        },
+        {
+            "assetid": 419763540,
+            "name": "KryptoNurd - Rare 22",
+            "url": "ipfs://bafybeibobjdu4qb5a6bnbaay6quxesdopmatwhetfhb2olkty3tyvinogq",
+            "image": "bafybeibobjdu4qb5a6bnbaay6quxesdopmatwhetfhb2olkty3tyvinogq"
+        },
+        {
+            "assetid": 419766888,
+            "name": "KryptoNurd - Rare 23",
+            "url": "ipfs://bafybeihwgo4vkctvedpx5ujozv4po5dr6kc33wbue2nwkvpkh3trrmyzza",
+            "image": "bafybeihwgo4vkctvedpx5ujozv4po5dr6kc33wbue2nwkvpkh3trrmyzza"
+        },
+        {
+            "assetid": 419768909,
+            "name": "KryptoNurd - Rare 24",
+            "url": "ipfs://bafybeigva2cukp3rzmstbv5hfywh5i4cp6d4nilszac6nzkwihugamzlii",
+            "image": "bafybeigva2cukp3rzmstbv5hfywh5i4cp6d4nilszac6nzkwihugamzlii"
+        },
+        {
+            "assetid": 419770771,
+            "name": "KryptoNurd - Rare 25",
+            "url": "ipfs://bafybeifennlpl5ds5xauksmznwqqx5cghnmqmmp4kfqdnaialpbywkycqu",
+            "image": "bafybeifennlpl5ds5xauksmznwqqx5cghnmqmmp4kfqdnaialpbywkycqu"
+        },
+        {
+            "assetid": 419774170,
+            "name": "KryptoNurd - Krypto Rare 8",
+            "url": "ipfs://bafybeiepjijnmggpeatssqj3u47e6noupbviboci4fhomursm7cz4duubu",
+            "image": "bafybeiepjijnmggpeatssqj3u47e6noupbviboci4fhomursm7cz4duubu"
+        },
+        {
+            "assetid": 419776478,
+            "name": "KryptoNurd - Krypto Rare 9",
+            "url": "ipfs://bafybeic2pu5b74ib5ouwmowawnnge2juvervhm4o52vch4aqa7uvy2xvr4",
+            "image": "bafybeic2pu5b74ib5ouwmowawnnge2juvervhm4o52vch4aqa7uvy2xvr4"
+        },
+        {
+            "assetid": 419777843,
+            "name": "KryptoNurd - Krypto Rare 10",
+            "url": "ipfs://bafybeib4yzqdhgin2zgncgrrmqchpap7bcgp5obj54meyiqqscaevmqjbe",
+            "image": "bafybeib4yzqdhgin2zgncgrrmqchpap7bcgp5obj54meyiqqscaevmqjbe"
+        },
+        {
+            "assetid": 419779395,
+            "name": "KryptoNurd - Krypto Rare 11",
+            "url": "ipfs://bafybeidfyttu3nywns3c2fpwpue646676j2cqin35hip3am66c3asgdnwq",
+            "image": "bafybeidfyttu3nywns3c2fpwpue646676j2cqin35hip3am66c3asgdnwq"
+        },
+        {
+            "assetid": 419781467,
+            "name": "KryptoNurd - Krypto Rare 12",
+            "url": "ipfs://bafybeihk4hhw7x3g7mr4oo5sxbkxvwania4bdvpbbnewqj6ftm4y5ccs5y",
+            "image": "bafybeihk4hhw7x3g7mr4oo5sxbkxvwania4bdvpbbnewqj6ftm4y5ccs5y"
+        },
+        {
+            "assetid": 419783649,
+            "name": "KryptoNurd - Ultra Rare 1",
+            "url": "ipfs://bafybeicmqwlzoapaoxw36r4e6fn22wgby7oaiaq3fyconq5sp3olgszpka",
+            "image": "bafybeicmqwlzoapaoxw36r4e6fn22wgby7oaiaq3fyconq5sp3olgszpka"
+        },
+        {
+            "assetid": 431905444,
+            "name": "KryptoNurd - Ultra Rare 2",
+            "url": "ipfs://bafybeihsua6ymtuef7maw43kyvpvhyev57654u25oarwc2wju7ixrmmvsi",
+            "image": "bafybeihsua6ymtuef7maw43kyvpvhyev57654u25oarwc2wju7ixrmmvsi"
+        },
+        {
+            "assetid": 431948584,
+            "name": "KryptoNurd - Ultra Rare 3",
+            "url": "ipfs://bafybeihxejar2jjmzu2seeaxumf2ai6nhla3ot72fjb76s527imteue444",
+            "image": "bafybeihxejar2jjmzu2seeaxumf2ai6nhla3ot72fjb76s527imteue444"
+        },
+        {
+            "assetid": 455711689,
+            "name": "KryptoNurd - Ultra Rare 4",
+            "url": "ipfs://bafybeicyih6alirjepkk7w3tibatuqtbsbjmji72m5tjhr2tmqravkawiy",
+            "image": "bafybeicyih6alirjepkk7w3tibatuqtbsbjmji72m5tjhr2tmqravkawiy"
+        },
+        {
+            "assetid": 455715717,
+            "name": "KryptoNurd Ultra Rare 5",
+            "url": "ipfs://bafybeiecf6ha5ank3xlx3uyhw4ya6mw6wrs6w2u7c3kfknbjon7hn7ceom",
+            "image": "bafybeiecf6ha5ank3xlx3uyhw4ya6mw6wrs6w2u7c3kfknbjon7hn7ceom"
+        },
+        {
+            "assetid": 455718498,
+            "name": "KryptoNurd - Ultra Rare 6",
+            "url": "ipfs://bafkreidichbccwzyymx4wr3acijraq6llylp5w72xzz4ychgmx4yzc54ja",
+            "image": "bafkreidichbccwzyymx4wr3acijraq6llylp5w72xzz4ychgmx4yzc54ja"
+        },
+        {
+            "assetid": 455719790,
+            "name": "KryptoNurd - Ultra Rare 7",
+            "url": "ipfs://bafybeias6b72xrknmng5mqe6desrsn7ryd6a2ko3bqe4h4sqol37knqksi",
+            "image": "bafybeias6b72xrknmng5mqe6desrsn7ryd6a2ko3bqe4h4sqol37knqksi"
+        },
+        {
+            "assetid": 455721514,
+            "name": "KryptoNurd - Ultra Rare 8",
+            "url": "ipfs://bafybeieriww2rs45v3axjblowvr2qpjosshm7dn6d4yemivppjhbe6emzi",
+            "image": "bafybeieriww2rs45v3axjblowvr2qpjosshm7dn6d4yemivppjhbe6emzi"
+        },
+        {
+            "assetid": 455723378,
+            "name": "KryptoNurd - Ultra Rare 9",
+            "url": "ipfs://bafybeifrtdmenhsimryuntxh3quvcbkxk4kmm4y3lqxto5orn6lrtb3fzy",
+            "image": "bafybeifrtdmenhsimryuntxh3quvcbkxk4kmm4y3lqxto5orn6lrtb3fzy"
+        },
+        {
+            "assetid": 455730250,
+            "name": "KryptoNurd - Ultra Rare 10",
+            "url": "ipfs://bafybeifgjzujuyw5pihz5fvn2jxcr5n7tp4juezef77urirssqpmhuisqi",
+            "image": "bafybeifgjzujuyw5pihz5fvn2jxcr5n7tp4juezef77urirssqpmhuisqi"
+        },
+        {
+            "assetid": 455733546,
+            "name": "KryptoNurd - Ultra Rare 11",
+            "url": "ipfs://bafkreibnhtmezj3bzamafy23dtpwx6biit6xxlgp4tcswp4onwfozirqce",
+            "image": "bafkreibnhtmezj3bzamafy23dtpwx6biit6xxlgp4tcswp4onwfozirqce"
+        },
+        {
+            "assetid": 455736735,
+            "name": "KryptoNurd - Ultra Rare 12",
+            "url": "ipfs://bafybeicnhxeuhvqwjpwn5fapww2v57dhp4aq36o4d7ry6tprjs64g6cota",
+            "image": "bafybeicnhxeuhvqwjpwn5fapww2v57dhp4aq36o4d7ry6tprjs64g6cota"
+        },
+        {
+            "assetid": 455738975,
+            "name": "KryptoNurd - Ultra Rare 13",
+            "url": "ipfs://bafybeia5ygkfvlnadj5yiy3oulpvqzxr5ctrjukftozuubevjh66a3ipk4",
+            "image": "bafybeia5ygkfvlnadj5yiy3oulpvqzxr5ctrjukftozuubevjh66a3ipk4"
+        },
+        {
+            "assetid": 455744108,
+            "name": "DecipherNurd",
+            "url": "ipfs://bafkreif5rjmzk3q7prto2rhuevspvaoue4f3oinkpamakjdtwrmzkre6te",
+            "image": "bafkreif5rjmzk3q7prto2rhuevspvaoue4f3oinkpamakjdtwrmzkre6te"
+        },
+        {
+            "assetid": 455750561,
+            "name": "KryptoNurd - Ultra Rare 14",
+            "url": "ipfs://bafybeic2stvgvapd63hiwpiihht7ogtqrqina36mfumvfucnmryeoecuhu",
+            "image": "bafybeic2stvgvapd63hiwpiihht7ogtqrqina36mfumvfucnmryeoecuhu"
+        },
+        {
+            "assetid": 455751922,
+            "name": "KryptoNurd - Ultra Rare 15",
+            "url": "ipfs://bafybeigf63vaoebs472av2qkzqtnp26bctwbmuewrb2mawdfmq5ozy3xji",
+            "image": "bafybeigf63vaoebs472av2qkzqtnp26bctwbmuewrb2mawdfmq5ozy3xji"
+        },
+        {
+            "assetid": 455752942,
+            "name": "KryptoNurd - Ultra Rare 16",
+            "url": "ipfs://bafybeigypstflv2jobycwk66ufril6dnk3am2nzgfeyce4cjk7xw2ru224",
+            "image": "bafybeigypstflv2jobycwk66ufril6dnk3am2nzgfeyce4cjk7xw2ru224"
+        },
+        {
+            "assetid": 455754085,
+            "name": "KryptoNurd - Ultra Rare 17",
+            "url": "ipfs://bafybeicwiacymtwofqqk7l7jcjgdghqqlgwqibwvtvln5p633fuxkj2cre",
+            "image": "bafybeicwiacymtwofqqk7l7jcjgdghqqlgwqibwvtvln5p633fuxkj2cre"
+        },
+        {
+            "assetid": 455755215,
+            "name": "KryptoNurd - Ultra Rare 18",
+            "url": "ipfs://bafybeici4rsdqe7ut766h2yqct2jvw5cqugukwwloavuk6bdumugxsvqju",
+            "image": "bafybeici4rsdqe7ut766h2yqct2jvw5cqugukwwloavuk6bdumugxsvqju"
+        },
+        {
+            "assetid": 455761766,
+            "name": "KryptoNurd - Ultra Rare 19",
+            "url": "ipfs://bafybeiftvpsclhrzfq5hlh4unr4zf2moz25tiwjp56bbs3ucjwgdeqcete",
+            "image": "bafybeiftvpsclhrzfq5hlh4unr4zf2moz25tiwjp56bbs3ucjwgdeqcete"
+        },
+        {
+            "assetid": 455762951,
+            "name": "KryptoNurd - Ultra Rare 20",
+            "url": "ipfs://bafybeihdhakygen27oj5zk3mqcvnbi7l2wue23z2vnzeg44ynenhn6lzqm",
+            "image": "bafybeihdhakygen27oj5zk3mqcvnbi7l2wue23z2vnzeg44ynenhn6lzqm"
+        },
+        {
+            "assetid": 455765085,
+            "name": "KryptoNurd - Krypto Rare 13",
+            "url": "ipfs://bafkreif74s2wicuwn6urjto6j7hprojrlhea5fbiyfpwac62nqv4vov43i",
+            "image": "bafkreif74s2wicuwn6urjto6j7hprojrlhea5fbiyfpwac62nqv4vov43i"
+        },
+        {
+            "assetid": 455766032,
+            "name": "KryptoNurd - Krypto Rare 14",
+            "url": "ipfs://bafybeidtiacpuaf2p3ojcse72ovrvmit6f4zrrkpswnnr2hc3zrmejxwpa",
+            "image": "bafybeidtiacpuaf2p3ojcse72ovrvmit6f4zrrkpswnnr2hc3zrmejxwpa"
+        },
+        {
+            "assetid": 455769410,
+            "name": "KryptoNurd - Krypto Rare 15",
+            "url": "ipfs://bafybeifueyrmoz77kikf3veegu3d5ldqwftcbk2gpqi3v3duu2frayy3gm",
+            "image": "bafybeifueyrmoz77kikf3veegu3d5ldqwftcbk2gpqi3v3duu2frayy3gm"
+        },
+        {
+            "assetid": 459741912,
+            "name": "KryptoNurd - Krypto Super Rare",
+            "url": "ipfs://QmQbGWe7CKnN6wxygL2Ljr5kLUnXSKFQcRG4UD8uVR4HA8#arc3",
+            "image": "QmQbGWe7CKnN6wxygL2Ljr5kLUnXSKFQcRG4UD8uVR4HA8"
+        },
+        {
+            "assetid": 603620550,
+            "name": "NURD Presale Placeholder",
+            "url": "ipfs://bafybeieue6qi7z67yiyjgosyqj56whrmjboxq5uvliliqw5wpvlt6kzj3m",
+            "image": "bafybeieue6qi7z67yiyjgosyqj56whrmjboxq5uvliliqw5wpvlt6kzj3m"
+        },
+        {
+            "assetid": 617133066,
+            "name": "NURD PRESALE OG II",
+            "url": "ipfs://bafybeie7s4gjjjoaq2tfxn5y4y7chsjfmxor5iab3wzvuydze3mzhxqeoa",
+            "image": "bafybeie7s4gjjjoaq2tfxn5y4y7chsjfmxor5iab3wzvuydze3mzhxqeoa"
+        }
+    ]
+}
