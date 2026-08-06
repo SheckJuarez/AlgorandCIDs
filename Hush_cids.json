@@ -1,0 +1,855 @@
+{
+    "Project": "Hush",
+    "Creator": "HushHush",
+    "CreatorAddress": [
+        "HUSHAL74PXVNSBICG3HWKAS3HXVKNLZCLICEEZHURCN4ZF6UDAOOE3NOUA"
+    ],
+    "Assets": [
+        {
+            "assetid": 673892749,
+            "name": "HRN",
+            "url": "ipfs://bafkreifsdddhqyuqcpaq2fkeyoq7ak7ub3pad5dd7mfzyhzshzezzvd3se",
+            "image": "bafkreifsdddhqyuqcpaq2fkeyoq7ak7ub3pad5dd7mfzyhzshzezzvd3se"
+        },
+        {
+            "assetid": 675620047,
+            "name": "Jay-Z",
+            "url": "ipfs://bafybeiaov7szprt7an2ckhvpd665n7uebe4egma6bmnsd4nhufe673jqe4#i",
+            "image": "bafybeiaov7szprt7an2ckhvpd665n7uebe4egma6bmnsd4nhufe673jqe4"
+        },
+        {
+            "assetid": 675621522,
+            "name": "Nas",
+            "url": "ipfs://bafybeidvl7wnx5fx7ghpt4y3qw5b25be6zm3gbgx6fun52qrsdhhcddxue#i",
+            "image": "bafybeidvl7wnx5fx7ghpt4y3qw5b25be6zm3gbgx6fun52qrsdhhcddxue"
+        },
+        {
+            "assetid": 675624867,
+            "name": "Eminem",
+            "url": "ipfs://bafybeihr3ngsgqfjwgvu4ceyjk6yxha6gzgwqops3f6rfpbfddc6cu5hyu#i",
+            "image": "bafybeihr3ngsgqfjwgvu4ceyjk6yxha6gzgwqops3f6rfpbfddc6cu5hyu"
+        },
+        {
+            "assetid": 675628810,
+            "name": "Biggie Smalls",
+            "url": "ipfs://bafybeicikx7sorrlcff5tfww2mct7dchffrnh7ork3swuyegq3ggxrllea#i",
+            "image": "bafybeicikx7sorrlcff5tfww2mct7dchffrnh7ork3swuyegq3ggxrllea"
+        },
+        {
+            "assetid": 675630822,
+            "name": "2Pac",
+            "url": "ipfs://bafybeigmd6l5xvrydyouwdsee4vbqe63t5zrwizskjbfk6bmgav7tlttyq#i",
+            "image": "bafybeigmd6l5xvrydyouwdsee4vbqe63t5zrwizskjbfk6bmgav7tlttyq"
+        },
+        {
+            "assetid": 682237244,
+            "name": "Twisted Insane",
+            "url": "ipfs://bafybeidirhhembici5nrvmlkpruv5lahgsox5kz2cqeki42opwzmtt7ch4#i",
+            "image": "bafybeidirhhembici5nrvmlkpruv5lahgsox5kz2cqeki42opwzmtt7ch4"
+        },
+        {
+            "assetid": 693311409,
+            "name": "J.Cole",
+            "url": "ipfs://bafybeie7dkncde5mwwq5bc54h4kqt7lys6b7oslggx7qwv7mgqhhwxbko4#i",
+            "image": "bafybeie7dkncde5mwwq5bc54h4kqt7lys6b7oslggx7qwv7mgqhhwxbko4"
+        },
+        {
+            "assetid": 693312999,
+            "name": "Mac Miller",
+            "url": "ipfs://bafybeicgo54csfxs62eq2uzcflnl2gv3cfqdt7qogijw6mx4jtiedoqywm#i",
+            "image": "bafybeicgo54csfxs62eq2uzcflnl2gv3cfqdt7qogijw6mx4jtiedoqywm"
+        },
+        {
+            "assetid": 693315238,
+            "name": "Kendrick Lamar",
+            "url": "ipfs://bafybeihqvvq42sbvjptrsmltn7w6hdejp5lv6avetdrcej3pij2q4tryji#i",
+            "image": "bafybeihqvvq42sbvjptrsmltn7w6hdejp5lv6avetdrcej3pij2q4tryji"
+        },
+        {
+            "assetid": 693319252,
+            "name": "A$AP Rocky",
+            "url": "ipfs://bafybeidrjdfe44eeeuzthpixoj7ig6iyknt5xo56ijidf7n6tcnpo22pey#i",
+            "image": "bafybeidrjdfe44eeeuzthpixoj7ig6iyknt5xo56ijidf7n6tcnpo22pey"
+        },
+        {
+            "assetid": 693321593,
+            "name": "Stormzy",
+            "url": "ipfs://bafybeic6yiwhznkyv6uwt4u7cajyhhs6cf2ko2twp7yua7g5se3bkngenq#i",
+            "image": "bafybeic6yiwhznkyv6uwt4u7cajyhhs6cf2ko2twp7yua7g5se3bkngenq"
+        },
+        {
+            "assetid": 700887221,
+            "name": "Native",
+            "url": "ipfs://bafybeihu2uuofagrpkir55hu4um5hbtdnvvxajbgnshrryaqzbhjb4dpge#i",
+            "image": "bafybeihu2uuofagrpkir55hu4um5hbtdnvvxajbgnshrryaqzbhjb4dpge"
+        },
+        {
+            "assetid": 700927391,
+            "name": "Chance The Rapper",
+            "url": "ipfs://bafybeiehjybgru2fukyqwyxm3uevwubip226n4t2a7abisyl5fvyg6w3si#i",
+            "image": "bafybeiehjybgru2fukyqwyxm3uevwubip226n4t2a7abisyl5fvyg6w3si"
+        },
+        {
+            "assetid": 700930084,
+            "name": "MF DOOM",
+            "url": "ipfs://bafybeibnkmifohonrhnj7lfbku6s3ui2rj5ua6kznof75j2457rb6jrckm#i",
+            "image": "bafybeibnkmifohonrhnj7lfbku6s3ui2rj5ua6kznof75j2457rb6jrckm"
+        },
+        {
+            "assetid": 700932259,
+            "name": "Post Malone",
+            "url": "ipfs://bafybeiepnoyputpg63b5nxjxa2gzc6spbxddfzd5jdygazwp334wmxnufy#i",
+            "image": "bafybeiepnoyputpg63b5nxjxa2gzc6spbxddfzd5jdygazwp334wmxnufy"
+        },
+        {
+            "assetid": 700934313,
+            "name": "Hopsin",
+            "url": "ipfs://bafybeidzmfelowe6btr7flhz7ismbylqivm5lmk2g4joohiqtul4tvsgae#i",
+            "image": "bafybeidzmfelowe6btr7flhz7ismbylqivm5lmk2g4joohiqtul4tvsgae"
+        },
+        {
+            "assetid": 700935784,
+            "name": "Lil Yachty",
+            "url": "ipfs://bafybeid63bobtimtyim5z2vvmrewryomb55xxkgl4wcsq7koxn7rpauui4#i",
+            "image": "bafybeid63bobtimtyim5z2vvmrewryomb55xxkgl4wcsq7koxn7rpauui4"
+        },
+        {
+            "assetid": 705418415,
+            "name": "Denzel Curry",
+            "url": "ipfs://bafybeihzwnstceoif44lpsy2yfp5aho6ibns4n7qssc6hpozhafrwh5k3q#i",
+            "image": "bafybeihzwnstceoif44lpsy2yfp5aho6ibns4n7qssc6hpozhafrwh5k3q"
+        },
+        {
+            "assetid": 713968776,
+            "name": "D4O",
+            "url": "ipfs://bafybeihr3mwpk2q4gxevwkgyjiyk6qmoroirpa6c3zdzdnpmbuwr2oiozi#i",
+            "image": "bafybeihr3mwpk2q4gxevwkgyjiyk6qmoroirpa6c3zdzdnpmbuwr2oiozi"
+        },
+        {
+            "assetid": 715717512,
+            "name": "Shayne",
+            "url": "ipfs://bafybeigj5mgcssw342crbujem6pmxmiz755m5dejuot5bluoxijsz7ra24#i",
+            "image": "bafybeigj5mgcssw342crbujem6pmxmiz755m5dejuot5bluoxijsz7ra24"
+        },
+        {
+            "assetid": 715727124,
+            "name": "Big Boi",
+            "url": "ipfs://bafybeicxbrrtbjhgjmv5abahmgodkxopy6avel3rdlrhjbb6sznu5eq6lq#i",
+            "image": "bafybeicxbrrtbjhgjmv5abahmgodkxopy6avel3rdlrhjbb6sznu5eq6lq"
+        },
+        {
+            "assetid": 715733082,
+            "name": "Andr\u00e9 3000",
+            "url": "ipfs://bafybeifuufgc6wqs6rdqkmzd4weztv5myylsua2trscocvheyobr2oibcu#i",
+            "image": "bafybeifuufgc6wqs6rdqkmzd4weztv5myylsua2trscocvheyobr2oibcu"
+        },
+        {
+            "assetid": 715737987,
+            "name": "Darryl (D.M.C.) McDaniels",
+            "url": "ipfs://bafybeihd43svsfotes4lhumiagvsl4446zzcfodojejjkupjcdnxu6wg4y#i",
+            "image": "bafybeihd43svsfotes4lhumiagvsl4446zzcfodojejjkupjcdnxu6wg4y"
+        },
+        {
+            "assetid": 715740593,
+            "name": "Joseph (Run) Simmons",
+            "url": "ipfs://bafybeiczeiicqbrzjsxt4tdnntwxv74imizlniburkjaufcojmvyo53gca#i",
+            "image": "bafybeiczeiicqbrzjsxt4tdnntwxv74imizlniburkjaufcojmvyo53gca"
+        },
+        {
+            "assetid": 715742755,
+            "name": "Jason (Jam Master Jay) Mizell",
+            "url": "ipfs://bafybeigllhjg3pxmor5k472b3b2noktun4namnpr6disd6s2dgq2iml7vi#i",
+            "image": "bafybeigllhjg3pxmor5k472b3b2noktun4namnpr6disd6s2dgq2iml7vi"
+        },
+        {
+            "assetid": 723415577,
+            "name": "RZA",
+            "url": "ipfs://bafybeihzafdbs7hqtgnn6onzo72mlkixejx632i42imluihpnwdqwr55ye#i",
+            "image": "bafybeihzafdbs7hqtgnn6onzo72mlkixejx632i42imluihpnwdqwr55ye"
+        },
+        {
+            "assetid": 723416469,
+            "name": "U-God",
+            "url": "ipfs://bafybeig2rgqaf7jaogascxyppyf4bx7m55ytq52oocga5n6pbsmqr2qzfa#i",
+            "image": "bafybeig2rgqaf7jaogascxyppyf4bx7m55ytq52oocga5n6pbsmqr2qzfa"
+        },
+        {
+            "assetid": 723417179,
+            "name": "Raekwon",
+            "url": "ipfs://bafybeifoq4psgl4hwh6qczv46e6u233gftka5zkczhqz3u75q6czbexkbm#i",
+            "image": "bafybeifoq4psgl4hwh6qczv46e6u233gftka5zkczhqz3u75q6czbexkbm"
+        },
+        {
+            "assetid": 723418083,
+            "name": "Method Man",
+            "url": "ipfs://bafybeifbry77mrcb3nnt7pvlde5ixwl52oya73zu7q4laajuvxzrwyxbdy#i",
+            "image": "bafybeifbry77mrcb3nnt7pvlde5ixwl52oya73zu7q4laajuvxzrwyxbdy"
+        },
+        {
+            "assetid": 723419007,
+            "name": "Masta Killah",
+            "url": "ipfs://bafybeiciw7si52aate7xwbeqcqo637eoadz6jshw36tyyra2yvx2utnqsu#i",
+            "image": "bafybeiciw7si52aate7xwbeqcqo637eoadz6jshw36tyyra2yvx2utnqsu"
+        },
+        {
+            "assetid": 723419787,
+            "name": "GZA",
+            "url": "ipfs://bafybeifgmgec2h7vggetslggltxtox25p22mvng2bhaxyswat5o7axvsay#i",
+            "image": "bafybeifgmgec2h7vggetslggltxtox25p22mvng2bhaxyswat5o7axvsay"
+        },
+        {
+            "assetid": 723420351,
+            "name": "ODB",
+            "url": "ipfs://bafybeicpify2i4bm6qe3gvxmhe4e2zhcq4tjputhssleqa6ibjxpcvgl2e#i",
+            "image": "bafybeicpify2i4bm6qe3gvxmhe4e2zhcq4tjputhssleqa6ibjxpcvgl2e"
+        },
+        {
+            "assetid": 723420937,
+            "name": "Ghostface Killah",
+            "url": "ipfs://bafybeiechhinrsjvnviqbumr7hi3obc73at4csqexahbcmqy765oegh4ie#i",
+            "image": "bafybeiechhinrsjvnviqbumr7hi3obc73at4csqexahbcmqy765oegh4ie"
+        },
+        {
+            "assetid": 723421525,
+            "name": "Inspectah Deck",
+            "url": "ipfs://bafybeifdegerwv5udbehbx3z6zmsyx76hal7rsqippl67mazo776hwm4xe#i",
+            "image": "bafybeifdegerwv5udbehbx3z6zmsyx76hal7rsqippl67mazo776hwm4xe"
+        },
+        {
+            "assetid": 747287649,
+            "name": "DJ Khaled C.B.C.G Special",
+            "url": "ipfs://bafybeievsgf7ychwo5sxg6ecpiawlwqsrcjhvwcg7fb42pr3rkoalqwmvy#i",
+            "image": "bafybeievsgf7ychwo5sxg6ecpiawlwqsrcjhvwcg7fb42pr3rkoalqwmvy"
+        },
+        {
+            "assetid": 750768740,
+            "name": "\u023adam Hoover",
+            "url": "ipfs://bafybeicmzfdjgncvjdjfmleicgorl2np5634xelzlblobrcbuzunx2hcke#i",
+            "image": "bafybeicmzfdjgncvjdjfmleicgorl2np5634xelzlblobrcbuzunx2hcke"
+        },
+        {
+            "assetid": 753734225,
+            "name": "Lil Dicky",
+            "url": "ipfs://bafybeig624loyzqeiecs2qrj2k4ucwtctlhgxy7frou56z2yzecmctbv7e#i",
+            "image": "bafybeig624loyzqeiecs2qrj2k4ucwtctlhgxy7frou56z2yzecmctbv7e"
+        },
+        {
+            "assetid": 753735334,
+            "name": "Jack Harlow",
+            "url": "ipfs://bafybeifhtewez3inp4kyq6g634b376qtnnc2rjyp6sf2zuzp7nrbvdghme#i",
+            "image": "bafybeifhtewez3inp4kyq6g634b376qtnnc2rjyp6sf2zuzp7nrbvdghme"
+        },
+        {
+            "assetid": 756290806,
+            "name": "Nathanial H\u00f6rnblow\u00e9r",
+            "url": "ipfs://bafybeiglp77fy42t5cuwsropf6bmn4dtfavkdvdnck6ctj3zwtmzqcoejy#i",
+            "image": "bafybeiglp77fy42t5cuwsropf6bmn4dtfavkdvdnck6ctj3zwtmzqcoejy"
+        },
+        {
+            "assetid": 763118079,
+            "name": "STEEZ",
+            "url": "ipfs://bafybeig4q45fdtphpjd3nste7nkikn7b2lqxarcdjuqu3ka3miaq4heqla#i",
+            "image": "bafybeig4q45fdtphpjd3nste7nkikn7b2lqxarcdjuqu3ka3miaq4heqla"
+        },
+        {
+            "assetid": 763118705,
+            "name": "Ad-Rock as \"The Rookie\"",
+            "url": "ipfs://bafybeicxpz6jfgdbo6jaxes74bpikfcau7kly7wcdnrzglawz7wixye62m#i",
+            "image": "bafybeicxpz6jfgdbo6jaxes74bpikfcau7kly7wcdnrzglawz7wixye62m"
+        },
+        {
+            "assetid": 763119235,
+            "name": "MCA as Cochese",
+            "url": "ipfs://bafybeid765wgzdhayt5ocuyieh3ht3544m5ospfmkuk6r3asr3o7loilai#i",
+            "image": "bafybeid765wgzdhayt5ocuyieh3ht3544m5ospfmkuk6r3asr3o7loilai"
+        },
+        {
+            "assetid": 763120362,
+            "name": "Mike D as \"The Chief\"",
+            "url": "ipfs://bafybeiexivoqduvf3y6tatouttdyeeolbhosygvtgtqonomccj75cgqnk4#i",
+            "image": "bafybeiexivoqduvf3y6tatouttdyeeolbhosygvtgtqonomccj75cgqnk4"
+        },
+        {
+            "assetid": 791401215,
+            "name": "Drake",
+            "url": "ipfs://bafybeia2zjnneoiv7g77h46i2g4lsh3qyowzq5lyrpklhjwgsbhnfgtn24#i",
+            "image": "bafybeia2zjnneoiv7g77h46i2g4lsh3qyowzq5lyrpklhjwgsbhnfgtn24"
+        },
+        {
+            "assetid": 791402474,
+            "name": "Pusha T",
+            "url": "ipfs://bafybeigyfhwfgxqjtyiolzk5s6ryzyimn2c6ncrvg475uye6ugprlfug4u#i",
+            "image": "bafybeigyfhwfgxqjtyiolzk5s6ryzyimn2c6ncrvg475uye6ugprlfug4u"
+        },
+        {
+            "assetid": 791403696,
+            "name": "Kid Cudi",
+            "url": "ipfs://bafybeif534zr72fl7cgwk3ow72lgdehgeab2nlyu5muwiolqwwnucp5fha#i",
+            "image": "bafybeif534zr72fl7cgwk3ow72lgdehgeab2nlyu5muwiolqwwnucp5fha"
+        },
+        {
+            "assetid": 791405897,
+            "name": "Ye",
+            "url": "ipfs://bafybeiaqpp26ttdvqvz2up4kcxrnu5uxty43ejdye3pg4idmotwwhic3ea#i",
+            "image": "bafybeiaqpp26ttdvqvz2up4kcxrnu5uxty43ejdye3pg4idmotwwhic3ea"
+        },
+        {
+            "assetid": 806249752,
+            "name": "IRL.ALGO",
+            "url": "ipfs://bafybeifokdyuwotrei33pmafamrbuq4xg2j6htzxgpovatms7c5mi7hrbu#i",
+            "image": "bafybeifokdyuwotrei33pmafamrbuq4xg2j6htzxgpovatms7c5mi7hrbu"
+        },
+        {
+            "assetid": 820201077,
+            "name": "the Fresh Prince",
+            "url": "ipfs://bafybeifgmvnhsessyjdakhuw4yp7azkktfpmqx2pmkpjadachi3fekwhha#i",
+            "image": "bafybeifgmvnhsessyjdakhuw4yp7azkktfpmqx2pmkpjadachi3fekwhha"
+        },
+        {
+            "assetid": 820201612,
+            "name": "DJ Jazzy Jeff",
+            "url": "ipfs://bafybeifmxkb4rdlth3ox4imnz65bvz6qe552eq3spcqkh7sf2i6cieqena#i",
+            "image": "bafybeifmxkb4rdlth3ox4imnz65bvz6qe552eq3spcqkh7sf2i6cieqena"
+        },
+        {
+            "assetid": 820203029,
+            "name": "Killer Mike",
+            "url": "ipfs://bafybeiecjscnsjvipoadvpydcpgu47fbpet24tkfb6xghxqjcg77b4mc5q#i",
+            "image": "bafybeiecjscnsjvipoadvpydcpgu47fbpet24tkfb6xghxqjcg77b4mc5q"
+        },
+        {
+            "assetid": 820203857,
+            "name": "El-P",
+            "url": "ipfs://bafybeigw3tzqpbroxtvt22ybwp3z3jt324r4676tmzpnycoof6pxbqoiqa#i",
+            "image": "bafybeigw3tzqpbroxtvt22ybwp3z3jt324r4676tmzpnycoof6pxbqoiqa"
+        },
+        {
+            "assetid": 827481398,
+            "name": "Rob Zombie",
+            "url": "ipfs://bafybeigph3per2mex4sim6ttn3ujnc4bvtfn3ulqzmsjwmpofre56eve3u#i",
+            "image": "bafybeigph3per2mex4sim6ttn3ujnc4bvtfn3ulqzmsjwmpofre56eve3u"
+        },
+        {
+            "assetid": 834206791,
+            "name": "Action Bronson",
+            "url": "ipfs://bafybeigchn6bsnjfyr6pa7jmflojpmav5wvdvokn3yrlleevulww7x7rl4#i",
+            "image": "bafybeigchn6bsnjfyr6pa7jmflojpmav5wvdvokn3yrlleevulww7x7rl4"
+        },
+        {
+            "assetid": 834207158,
+            "name": "Logic",
+            "url": "ipfs://bafybeietk5wcnbaufzomdfzeudc4vbqxqh67vaoqcn7k7qq5p5bk3vwh5y#i",
+            "image": "bafybeietk5wcnbaufzomdfzeudc4vbqxqh67vaoqcn7k7qq5p5bk3vwh5y"
+        },
+        {
+            "assetid": 834207693,
+            "name": "Burna Boy",
+            "url": "ipfs://bafybeig4xq3xitb4zekbc2syo5n3rp442svdwk6rzwvtuqbagil3p4acwi#i",
+            "image": "bafybeig4xq3xitb4zekbc2syo5n3rp442svdwk6rzwvtuqbagil3p4acwi"
+        },
+        {
+            "assetid": 834208057,
+            "name": "J Dilla",
+            "url": "ipfs://bafybeiafizylhy2tsggkp5qwxxkcnx5hyg75hlyr5dfz6n4qtykbinvq2y#i",
+            "image": "bafybeiafizylhy2tsggkp5qwxxkcnx5hyg75hlyr5dfz6n4qtykbinvq2y"
+        },
+        {
+            "assetid": 835177553,
+            "name": "LIL MR. E",
+            "url": "ipfs://bafybeigy7in73aisnuz2ztpqtpjlcbkqbzd77mk7bram6353vvukcf7j5y#i",
+            "image": "bafybeigy7in73aisnuz2ztpqtpjlcbkqbzd77mk7bram6353vvukcf7j5y"
+        },
+        {
+            "assetid": 840588012,
+            "name": "CLIVE",
+            "url": "ipfs://bafybeicc2nmew5tq4vxakykbpiy4rn4vmmdkpe5azh56y6556gx5rbmdpi#i",
+            "image": "bafybeicc2nmew5tq4vxakykbpiy4rn4vmmdkpe5azh56y6556gx5rbmdpi"
+        },
+        {
+            "assetid": 840588391,
+            "name": "GK",
+            "url": "ipfs://bafybeihpfp7zjlqxpiamc2skj63xeaqfyywpw5kutcwrbux335juf3beky#i",
+            "image": "bafybeihpfp7zjlqxpiamc2skj63xeaqfyywpw5kutcwrbux335juf3beky"
+        },
+        {
+            "assetid": 840589500,
+            "name": "KANE",
+            "url": "ipfs://bafybeifdox4ritb4dqtnxs5h3xlcnijl6vbigtk6bwxlmhezansnknnfxm#i",
+            "image": "bafybeifdox4ritb4dqtnxs5h3xlcnijl6vbigtk6bwxlmhezansnknnfxm"
+        },
+        {
+            "assetid": 846408354,
+            "name": "Xxiled",
+            "url": "ipfs://bafybeiamso4ldvdzxrdd4tu5lrsnexaetocnozbwx5migtarsjrk2h544q#i",
+            "image": "bafybeiamso4ldvdzxrdd4tu5lrsnexaetocnozbwx5migtarsjrk2h544q"
+        },
+        {
+            "assetid": 848591622,
+            "name": "Chris Rock",
+            "url": "ipfs://bafybeihyrxkhm55dy664uu7v3gkjo7yquz2ksmazik4vmtb4tdeoxmoyvi#i",
+            "image": "bafybeihyrxkhm55dy664uu7v3gkjo7yquz2ksmazik4vmtb4tdeoxmoyvi"
+        },
+        {
+            "assetid": 858314941,
+            "name": "Dr. Dre",
+            "url": "ipfs://bafybeif4bi2mbxf35p6ai4yvtp6bhl723bu6zwpcng2qd2rouffkewycbi#i",
+            "image": "bafybeif4bi2mbxf35p6ai4yvtp6bhl723bu6zwpcng2qd2rouffkewycbi"
+        },
+        {
+            "assetid": 858315605,
+            "name": "Eazy-E",
+            "url": "ipfs://bafybeia5ton25lks5hsxfu55msahuf6emixdhzvbzrlqu7aoz54es4b74i#i",
+            "image": "bafybeia5ton25lks5hsxfu55msahuf6emixdhzvbzrlqu7aoz54es4b74i"
+        },
+        {
+            "assetid": 858316211,
+            "name": "MC Ren",
+            "url": "ipfs://bafybeiclcvgp3pgqt52kxow5cjlec6k5fwbcjgax6dlutsk4nm3lbslkfy#i",
+            "image": "bafybeiclcvgp3pgqt52kxow5cjlec6k5fwbcjgax6dlutsk4nm3lbslkfy"
+        },
+        {
+            "assetid": 858318483,
+            "name": "Ice Cube",
+            "url": "ipfs://bafybeigsxcbeuh777rwsub3avylksuxjgm4pru37ncrgfuebn7kzuvp7eu#i",
+            "image": "bafybeigsxcbeuh777rwsub3avylksuxjgm4pru37ncrgfuebn7kzuvp7eu"
+        },
+        {
+            "assetid": 858319471,
+            "name": "DJ Yella",
+            "url": "ipfs://bafybeiclhbtcnwwhezm7uxotbaxizph2yijpd26y5soeyvbxsibdy7vtni#i",
+            "image": "bafybeiclhbtcnwwhezm7uxotbaxizph2yijpd26y5soeyvbxsibdy7vtni"
+        },
+        {
+            "assetid": 862298019,
+            "name": "$crim",
+            "url": "ipfs://bafybeibvg7zx2juhzbb25epeypfbza5gx2skwibiiggmbmmbiyp5hbno2u#i",
+            "image": "bafybeibvg7zx2juhzbb25epeypfbza5gx2skwibiiggmbmmbiyp5hbno2u"
+        },
+        {
+            "assetid": 862298845,
+            "name": "Ruby da Cherry",
+            "url": "ipfs://bafybeifjkx6eiwt4tsz726jokd3qjluhxdrqqtmrqjskhdk5wc23w6dcoa#i",
+            "image": "bafybeifjkx6eiwt4tsz726jokd3qjluhxdrqqtmrqjskhdk5wc23w6dcoa"
+        },
+        {
+            "assetid": 863483889,
+            "name": "Judas",
+            "url": "ipfs://bafybeiawfvgwi5xijpnhpxxrwh72kjf37mkznw2wdvjpt7qaacxoptbbuy#i",
+            "image": "bafybeiawfvgwi5xijpnhpxxrwh72kjf37mkznw2wdvjpt7qaacxoptbbuy"
+        },
+        {
+            "assetid": 869891930,
+            "name": "Daft Thomas",
+            "url": "ipfs://bafybeie3ubfje3g2qweinhaowi64xitunpnbyamy5jxxslfbt4qjkgejba#i",
+            "image": "bafybeie3ubfje3g2qweinhaowi64xitunpnbyamy5jxxslfbt4qjkgejba"
+        },
+        {
+            "assetid": 869892589,
+            "name": "Punk Guy",
+            "url": "ipfs://bafybeie2bbeqnpac3xw3ssgfzpjb2uflxfiwmad54ubfdfncgnrgnqzewy#i",
+            "image": "bafybeie2bbeqnpac3xw3ssgfzpjb2uflxfiwmad54ubfdfncgnrgnqzewy"
+        },
+        {
+            "assetid": 879488756,
+            "name": "Gary Jules",
+            "url": "ipfs://bafybeian7lzgzifxbwzkup6sb62kybnryys6g4vu2dfaxhlce5mvysikiu#i",
+            "image": "bafybeian7lzgzifxbwzkup6sb62kybnryys6g4vu2dfaxhlce5mvysikiu"
+        },
+        {
+            "assetid": 881015736,
+            "name": "Pimp C",
+            "url": "ipfs://bafybeignv7pwz6kvfhyhmy2s74g7nvzisaz6dgcfp5xqnvsurfxuk5e2vm#i",
+            "image": "bafybeignv7pwz6kvfhyhmy2s74g7nvzisaz6dgcfp5xqnvsurfxuk5e2vm"
+        },
+        {
+            "assetid": 881016119,
+            "name": "Bun B",
+            "url": "ipfs://bafybeiccjwqubhutymcfi7jacpuz6zki3m43v7iy5pbyljkrd5w5mft7vq#i",
+            "image": "bafybeiccjwqubhutymcfi7jacpuz6zki3m43v7iy5pbyljkrd5w5mft7vq"
+        },
+        {
+            "assetid": 881016448,
+            "name": "Guru",
+            "url": "ipfs://bafybeicmcvjv6md73nmkje7yzkezx3z3kquo6deal7xsemsazfk52qe7se#i",
+            "image": "bafybeicmcvjv6md73nmkje7yzkezx3z3kquo6deal7xsemsazfk52qe7se"
+        },
+        {
+            "assetid": 881016987,
+            "name": "DJ Premier",
+            "url": "ipfs://bafybeihobkhnlyet466roiq6l5ervj6xi6posk4t5atoliqfdnacundda4#i",
+            "image": "bafybeihobkhnlyet466roiq6l5ervj6xi6posk4t5atoliqfdnacundda4"
+        },
+        {
+            "assetid": 902103449,
+            "name": "Lil Wayne",
+            "url": "ipfs://bafybeiczxfm6laqruv34aoa546mogs7mthhp5jt3w2rlwoms7d2rnttdeq#i",
+            "image": "bafybeiczxfm6laqruv34aoa546mogs7mthhp5jt3w2rlwoms7d2rnttdeq"
+        },
+        {
+            "assetid": 902103632,
+            "name": "Anderson .Paak",
+            "url": "ipfs://bafybeiggajyav7ga3kojjmnrsej7gm4fsoyp7mj3brb5xfyinghpi7p2wa#i",
+            "image": "bafybeiggajyav7ga3kojjmnrsej7gm4fsoyp7mj3brb5xfyinghpi7p2wa"
+        },
+        {
+            "assetid": 902103873,
+            "name": "Aesop Rock",
+            "url": "ipfs://bafybeie5iwutpshdo64bo6jvp3on4jvcjt3cntgy5o5cxz2fu7u3plqupm#i",
+            "image": "bafybeie5iwutpshdo64bo6jvp3on4jvcjt3cntgy5o5cxz2fu7u3plqupm"
+        },
+        {
+            "assetid": 903185014,
+            "name": "Lupe Fiasco",
+            "url": "ipfs://bafybeidx5aoxu6ad4jp2tpbr6xbbeqscjfjparq3cn65y3ewjmobmtmkj4#i",
+            "image": "bafybeidx5aoxu6ad4jp2tpbr6xbbeqscjfjparq3cn65y3ewjmobmtmkj4"
+        },
+        {
+            "assetid": 908081228,
+            "name": "Chris Swenor",
+            "url": "ipfs://bafybeicreks27q6ovpfxycnhgib36vqltr7rvee6a57nbwqk5ujjekxaai#i",
+            "image": "bafybeicreks27q6ovpfxycnhgib36vqltr7rvee6a57nbwqk5ujjekxaai"
+        },
+        {
+            "assetid": 919590338,
+            "name": "HU$HIHIME",
+            "url": "ipfs://bafybeidozd33rii64nzyqxkeke5ml7gwbppuoy5yjvjzuqwrldnzrw6opq#i",
+            "image": "bafybeidozd33rii64nzyqxkeke5ml7gwbppuoy5yjvjzuqwrldnzrw6opq"
+        },
+        {
+            "assetid": 926101031,
+            "name": "Meechy Darko",
+            "url": "ipfs://bafybeihbyoa7h7krnyjzmcwogmu4jn2jst2x4zznsi2wcrdfrnm2zwujxq#i",
+            "image": "bafybeihbyoa7h7krnyjzmcwogmu4jn2jst2x4zznsi2wcrdfrnm2zwujxq"
+        },
+        {
+            "assetid": 926101925,
+            "name": "Erick Arc Elliott",
+            "url": "ipfs://bafybeifzteoc25xwn5kwne4dlnwbq7noh6bmgk2nve47hijnm6t2mjbeoi#i",
+            "image": "bafybeifzteoc25xwn5kwne4dlnwbq7noh6bmgk2nve47hijnm6t2mjbeoi"
+        },
+        {
+            "assetid": 926102456,
+            "name": "Zombie Jewice",
+            "url": "ipfs://bafybeiau5f3hjiwwsa4gvzbilz4t75oiuh5ft67shmgqpikueuiahgpp2m#i",
+            "image": "bafybeiau5f3hjiwwsa4gvzbilz4t75oiuh5ft67shmgqpikueuiahgpp2m"
+        },
+        {
+            "assetid": 933898455,
+            "name": "Mac Dre",
+            "url": "ipfs://bafybeidogyb2ztevrgsvtxsfaqu6yy4avpshqdo47oq52qazvhqk7slrxu#i",
+            "image": "bafybeidogyb2ztevrgsvtxsfaqu6yy4avpshqdo47oq52qazvhqk7slrxu"
+        },
+        {
+            "assetid": 946322413,
+            "name": "Slick Rick",
+            "url": "ipfs://bafybeicrzicexaa776qvleoilteqe2un5xb4npxqjp3kmd5d42mzeryp3i#i",
+            "image": "bafybeicrzicexaa776qvleoilteqe2un5xb4npxqjp3kmd5d42mzeryp3i"
+        },
+        {
+            "assetid": 947594526,
+            "name": "Shamir Ozery",
+            "url": "ipfs://bafybeiawexb377fnmtvfn6stseclgw5j5absliunnljtwakhmgzedai2xe#i",
+            "image": "bafybeiawexb377fnmtvfn6stseclgw5j5absliunnljtwakhmgzedai2xe"
+        },
+        {
+            "assetid": 947595906,
+            "name": "Gucci Mane",
+            "url": "ipfs://bafybeia7swo3telylbk5q4h4pdkqkv2aipgthpmjd2z3ouacg7vbzxncyq#i",
+            "image": "bafybeia7swo3telylbk5q4h4pdkqkv2aipgthpmjd2z3ouacg7vbzxncyq"
+        },
+        {
+            "assetid": 947597897,
+            "name": "Rick Ross",
+            "url": "ipfs://bafybeibliqt6m4rcnnxatrnmiyf2lqop3pi4rqhhr65xtiinda6ndoyg2a#i",
+            "image": "bafybeibliqt6m4rcnnxatrnmiyf2lqop3pi4rqhhr65xtiinda6ndoyg2a"
+        },
+        {
+            "assetid": 961241427,
+            "name": "Cooper Daniels",
+            "url": "ipfs://bafybeigoman4nmge2okf6sj77z67fnjzzfslc3gdzudyilpxg2c3gqzwty#i",
+            "image": "bafybeigoman4nmge2okf6sj77z67fnjzzfslc3gdzudyilpxg2c3gqzwty"
+        },
+        {
+            "assetid": 961241939,
+            "name": "Big K.R.I.T.",
+            "url": "ipfs://bafybeieiuml6moja7fv7gld7fgtnewgzkvjwc72s6xa6kwatzga25k2id4#i",
+            "image": "bafybeieiuml6moja7fv7gld7fgtnewgzkvjwc72s6xa6kwatzga25k2id4"
+        },
+        {
+            "assetid": 970782444,
+            "name": "E-40",
+            "url": "ipfs://bafybeicrwyhiuf4aqa2nb4wtxysz7onvgxwcbiof2iilkujypeefrafhb4#i",
+            "image": "bafybeicrwyhiuf4aqa2nb4wtxysz7onvgxwcbiof2iilkujypeefrafhb4"
+        },
+        {
+            "assetid": 970783134,
+            "name": "Snoop Dogg",
+            "url": "ipfs://bafybeigeivigul23rsy7l7azr2oah4h4bpm7z73jdgmqtmkgo2ido7fn64#i",
+            "image": "bafybeigeivigul23rsy7l7azr2oah4h4bpm7z73jdgmqtmkgo2ido7fn64"
+        },
+        {
+            "assetid": 974860492,
+            "name": "Coolio",
+            "url": "ipfs://bafybeibyvxykv2tmu3jydbwqh3xjnzmbetjw7le2musnnmjs3kztbfrkqq#i",
+            "image": "bafybeibyvxykv2tmu3jydbwqh3xjnzmbetjw7le2musnnmjs3kztbfrkqq"
+        },
+        {
+            "assetid": 975442249,
+            "name": "Ludacris",
+            "url": "ipfs://bafybeibqmbtd6ba4ufpdbk3howvely6nmnimyveehe7rvkk7mqig5epyaq#i",
+            "image": "bafybeibqmbtd6ba4ufpdbk3howvely6nmnimyveehe7rvkk7mqig5epyaq"
+        },
+        {
+            "assetid": 976519705,
+            "name": "the Flygod",
+            "url": "ipfs://bafybeigiwpsglcbjtx26i2mu3eeve74d7c5diezgehwtopisw62katuueu#i",
+            "image": "bafybeigiwpsglcbjtx26i2mu3eeve74d7c5diezgehwtopisw62katuueu"
+        },
+        {
+            "assetid": 976521608,
+            "name": "Westside Gunn",
+            "url": "ipfs://bafybeics75sk6r3yl3alfn6vh6q7ko5mjjxnkopnpqkqq5q5trsv3emo54#i",
+            "image": "bafybeics75sk6r3yl3alfn6vh6q7ko5mjjxnkopnpqkqq5q5trsv3emo54"
+        },
+        {
+            "assetid": 979635676,
+            "name": "AARS",
+            "url": "ipfs://bafybeibt5ckjtug7hplqeiyulchtjbly34hkhtfm65pb6bmk4fm5oacah4#i",
+            "image": "bafybeibt5ckjtug7hplqeiyulchtjbly34hkhtfm65pb6bmk4fm5oacah4"
+        },
+        {
+            "assetid": 988239888,
+            "name": "Black Thought",
+            "url": "ipfs://bafybeiescqthge4jnstwckldy7d6piqfgo7cyytdlx33llldnqgcpt77xe#i",
+            "image": "bafybeiescqthge4jnstwckldy7d6piqfgo7cyytdlx33llldnqgcpt77xe"
+        },
+        {
+            "assetid": 992653772,
+            "name": "Joe Budden",
+            "url": "ipfs://bafybeih347paipdcjztoyrzozpqwygsbdkaemgjagiarfqlogbou5hlqde#i",
+            "image": "bafybeih347paipdcjztoyrzozpqwygsbdkaemgjagiarfqlogbou5hlqde"
+        },
+        {
+            "assetid": 1012412776,
+            "name": "Tyler, the Creator",
+            "url": "ipfs://bafybeiazlpsmerktzp3cvlizkplpumoioau5j5ejerzh4xf2asnqarjc7i#i",
+            "image": "bafybeiazlpsmerktzp3cvlizkplpumoioau5j5ejerzh4xf2asnqarjc7i"
+        },
+        {
+            "assetid": 1012413314,
+            "name": "Frank Ocean",
+            "url": "ipfs://bafybeigyvyzjl6ckhciyy6qfiuzuccng6q77x3fekdd72ucv2sgli7j6eq#i",
+            "image": "bafybeigyvyzjl6ckhciyy6qfiuzuccng6q77x3fekdd72ucv2sgli7j6eq"
+        },
+        {
+            "assetid": 1012413899,
+            "name": "Earl Sweatshirt",
+            "url": "ipfs://bafybeibizyajs2pegznfhzafdvwkybeq2b727zr4slcm4wcck3oord37hm#i",
+            "image": "bafybeibizyajs2pegznfhzafdvwkybeq2b727zr4slcm4wcck3oord37hm"
+        },
+        {
+            "assetid": 1028118635,
+            "name": "Peter Bowditch",
+            "url": "ipfs://bafybeiermi7in6o5b2a62ih7j3qb6huzbuopmvq5qx66h2d2byv4w2huxq#i",
+            "image": "bafybeiermi7in6o5b2a62ih7j3qb6huzbuopmvq5qx66h2d2byv4w2huxq"
+        },
+        {
+            "assetid": 1028120142,
+            "name": "Basil Bellgrave",
+            "url": "ipfs://bafybeieg2ulk54whijo2mo7dzxkx33wmuxuoogeomir6ern2juz737ikve#i",
+            "image": "bafybeieg2ulk54whijo2mo7dzxkx33wmuxuoogeomir6ern2juz737ikve"
+        },
+        {
+            "assetid": 1075486606,
+            "name": "Colex",
+            "url": "ipfs://bafybeiftmkooj2mxwjor3dcmjlbuwzdshmgfdguibjbmmnehu53socc4hq#i",
+            "image": "bafybeiftmkooj2mxwjor3dcmjlbuwzdshmgfdguibjbmmnehu53socc4hq"
+        },
+        {
+            "assetid": 1081524110,
+            "name": "Tee Grizzley",
+            "url": "ipfs://bafybeigut6k5h3xsxen5aaxo6bya5zmidfr66bu3sgzk45wioa4zspefhi#i",
+            "image": "bafybeigut6k5h3xsxen5aaxo6bya5zmidfr66bu3sgzk45wioa4zspefhi"
+        },
+        {
+            "assetid": 1087183263,
+            "name": "Freddie Mercury",
+            "url": "ipfs://bafybeig3asrpbbpdhyu5emuyq2z4enics467p6jxgqiuiehmc35fhkasyq#i",
+            "image": "bafybeig3asrpbbpdhyu5emuyq2z4enics467p6jxgqiuiehmc35fhkasyq"
+        },
+        {
+            "assetid": 1091826135,
+            "name": "Algzy",
+            "url": "ipfs://bafybeie5q4eumyes6ajwbgitqrcmxjxwipnkwpqvli3i3hqmtsliluehxu#i",
+            "image": "bafybeie5q4eumyes6ajwbgitqrcmxjxwipnkwpqvli3i3hqmtsliluehxu"
+        },
+        {
+            "assetid": 1134695707,
+            "name": "Big Pun",
+            "url": "ipfs://bafybeicv34wnmcwaxx7zwyfuwhbel7yftgfksiiasttvcsodx4m4g5djny#i",
+            "image": "bafybeicv34wnmcwaxx7zwyfuwhbel7yftgfksiiasttvcsodx4m4g5djny"
+        },
+        {
+            "assetid": 1134696111,
+            "name": "Bob Marley",
+            "url": "ipfs://bafybeifql7ctnaiikjsbpusnwbkfs462mqrutuzvzwcpgmpykdclvcbz4i#i",
+            "image": "bafybeifql7ctnaiikjsbpusnwbkfs462mqrutuzvzwcpgmpykdclvcbz4i"
+        },
+        {
+            "assetid": 1134696529,
+            "name": "DMX",
+            "url": "ipfs://bafybeid444ovdtgn6aegi7b62cx6dqbtl6cwdikygbpbsldvvunkvxmo24#i",
+            "image": "bafybeid444ovdtgn6aegi7b62cx6dqbtl6cwdikygbpbsldvvunkvxmo24"
+        },
+        {
+            "assetid": 1134696907,
+            "name": "Jimi Hendrix",
+            "url": "ipfs://bafybeie6vk3hyx77wutzo3hss4nppeagonvzyc6pvxx5sfxxoumnklw5mm#i",
+            "image": "bafybeie6vk3hyx77wutzo3hss4nppeagonvzyc6pvxx5sfxxoumnklw5mm"
+        },
+        {
+            "assetid": 1134697634,
+            "name": "Joey Ramone",
+            "url": "ipfs://bafybeialab3f7qcdfedkhkywryr5seyfhmvxqkmgofxn73zo4j7wplvcdi#i",
+            "image": "bafybeialab3f7qcdfedkhkywryr5seyfhmvxqkmgofxn73zo4j7wplvcdi"
+        },
+        {
+            "assetid": 1134698476,
+            "name": "John Lennon",
+            "url": "ipfs://bafybeiayweeqji3c3jfrqgvhkbtmo7myspbz5bubeda2squ6w2tpy3pgvq#i",
+            "image": "bafybeiayweeqji3c3jfrqgvhkbtmo7myspbz5bubeda2squ6w2tpy3pgvq"
+        },
+        {
+            "assetid": 1134699795,
+            "name": "Johnny Cash",
+            "url": "ipfs://bafybeighcfdmo2xez7rwtfea47vo74kkejzfyjls6y3ym7ufsfojvltn64#i",
+            "image": "bafybeighcfdmo2xez7rwtfea47vo74kkejzfyjls6y3ym7ufsfojvltn64"
+        },
+        {
+            "assetid": 1134701796,
+            "name": "Nipsey Hussle",
+            "url": "ipfs://bafybeicqxlqc7qiqfr5urqdm2dswsttgmayqklvubrhmm32zwqtor4sxma#i",
+            "image": "bafybeicqxlqc7qiqfr5urqdm2dswsttgmayqklvubrhmm32zwqtor4sxma"
+        },
+        {
+            "assetid": 1134701978,
+            "name": "Prince",
+            "url": "ipfs://bafybeifh2lstv7uwfjhe57gbjf3y46frjnl3p25t6m7k3fyhhyrpyjwj5m#i",
+            "image": "bafybeifh2lstv7uwfjhe57gbjf3y46frjnl3p25t6m7k3fyhhyrpyjwj5m"
+        },
+        {
+            "assetid": 1134702910,
+            "name": "Kurt Cobain",
+            "url": "ipfs://bafybeicozko7cnpqzxyhosmnpytc5kvpwywtnrodilof3zaddlvldkkfyu#i",
+            "image": "bafybeicozko7cnpqzxyhosmnpytc5kvpwywtnrodilof3zaddlvldkkfyu"
+        },
+        {
+            "assetid": 1134738279,
+            "name": "Willie Nelson",
+            "url": "ipfs://bafybeibolpnbj6wwpq72f6qgtxrsjmgxkvpht7uxbz7r7ivh2fxgl2gjtm#i",
+            "image": "bafybeibolpnbj6wwpq72f6qgtxrsjmgxkvpht7uxbz7r7ivh2fxgl2gjtm"
+        },
+        {
+            "assetid": 1138075912,
+            "name": "Lil Durk",
+            "url": "ipfs://bafybeib4ubuygsx5rfwuagbpk2nxvytecu6g6fa3xtdkceauwjt67spfw4#i",
+            "image": "bafybeib4ubuygsx5rfwuagbpk2nxvytecu6g6fa3xtdkceauwjt67spfw4"
+        },
+        {
+            "assetid": 1158815902,
+            "name": "Cordae",
+            "url": "ipfs://bafybeidfn4a6icfo4mtygcybclyd4hkgfkwpqa76woyd7xbfsekeemaiyi#i",
+            "image": "bafybeidfn4a6icfo4mtygcybclyd4hkgfkwpqa76woyd7xbfsekeemaiyi"
+        },
+        {
+            "assetid": 1234100761,
+            "name": "Mr. T",
+            "url": "ipfs://bafybeiaqkksbui4s62hbelsassgfqlb6hm5g352q7bfl6yxdjmvyy4jwie#i",
+            "image": "bafybeiaqkksbui4s62hbelsassgfqlb6hm5g352q7bfl6yxdjmvyy4jwie"
+        },
+        {
+            "assetid": 1249927991,
+            "name": "Big L",
+            "url": "ipfs://bafybeidk24bst5epvlnp5ktesgjm5qde6752eko5u7cck6off4tb63mhoq#i",
+            "image": "bafybeidk24bst5epvlnp5ktesgjm5qde6752eko5u7cck6off4tb63mhoq"
+        },
+        {
+            "assetid": 1299130824,
+            "name": "Biz Markie",
+            "url": "ipfs://bafybeieb3oudafw2pgks5bbbv2lo7lapxinwkfof4fg2fvetfmslfh2n2q#i",
+            "image": "bafybeieb3oudafw2pgks5bbbv2lo7lapxinwkfof4fg2fvetfmslfh2n2q"
+        },
+        {
+            "assetid": 1434315662,
+            "name": "Bikerlop",
+            "url": "ipfs://bafybeibjwar7srzhnkh75i6p47ix6cuyrrliq7p2kc3me4jl6yw3tvznmq#i",
+            "image": "bafybeibjwar7srzhnkh75i6p47ix6cuyrrliq7p2kc3me4jl6yw3tvznmq"
+        },
+        {
+            "assetid": 1634985645,
+            "name": "Cody.voi",
+            "url": "ipfs://bafybeieujuis4dirxjaxnlkzzvucltbxswge5v23knqqf737bo3ztmu45i#i",
+            "image": "bafybeieujuis4dirxjaxnlkzzvucltbxswge5v23knqqf737bo3ztmu45i"
+        },
+        {
+            "assetid": 1675048228,
+            "name": "Lucas",
+            "url": "ipfs://bafybeihz4iaf3qarsr75sffqtk7dt5g2admivmnbu2r7vlmr3nmxedo3iq#i",
+            "image": "bafybeihz4iaf3qarsr75sffqtk7dt5g2admivmnbu2r7vlmr3nmxedo3iq"
+        },
+        {
+            "assetid": 1794222132,
+            "name": "Hushed Tacos",
+            "url": "ipfs://bafybeibo764xs5zpnk6x2wp23gcfarhom3pzznlfdhir5lv7o6rtfbc6bi#i",
+            "image": "bafybeibo764xs5zpnk6x2wp23gcfarhom3pzznlfdhir5lv7o6rtfbc6bi"
+        },
+        {
+            "assetid": 2144655267,
+            "name": "Jayson Tatum",
+            "url": "template-ipfs://{ipfscid:1:dag-pb:reserve:sha2-256}",
+            "image": "zdj7WYR3yVVeULWkq4d29ek8hk8LCBAVSmucusnXxid1KVC55"
+        },
+        {
+            "assetid": 2301746911,
+            "name": "Jadakiss",
+            "url": "ipfs://bafybeic7cacs4hkqgmzxyiiyu5nngwumcx6taw7gmjocot6q4yjsy3ook4",
+            "image": "bafybeic7cacs4hkqgmzxyiiyu5nngwumcx6taw7gmjocot6q4yjsy3ook4"
+        },
+        {
+            "assetid": 2301751355,
+            "name": "Styles P",
+            "url": "ipfs://bafybeibytzovi3qxbew5imiragdfnrsirdxyvubjkggcxmg2l7vqze5yoy",
+            "image": "bafybeibytzovi3qxbew5imiragdfnrsirdxyvubjkggcxmg2l7vqze5yoy"
+        },
+        {
+            "assetid": 2301757830,
+            "name": "Sheek Louch",
+            "url": "ipfs://bafybeigk3lmzlx2d3q36fr3i57x7ewx6yrhujk5rfdhm3wkrdvnibpblhe",
+            "image": "bafybeigk3lmzlx2d3q36fr3i57x7ewx6yrhujk5rfdhm3wkrdvnibpblhe"
+        },
+        {
+            "assetid": 2301786762,
+            "name": "Cam'ron",
+            "url": "ipfs://bafybeib73agq45zgjw4yhiknkg2hv7taenmhcnne23jdn7noqklggjhncu",
+            "image": "bafybeib73agq45zgjw4yhiknkg2hv7taenmhcnne23jdn7noqklggjhncu"
+        },
+        {
+            "assetid": 2301788114,
+            "name": "Jim Jones",
+            "url": "ipfs://bafybeia3towgaqdczj2knd7uzkxfv62dcnnoolkzmtybu5u6brst3p2tje",
+            "image": "bafybeia3towgaqdczj2knd7uzkxfv62dcnnoolkzmtybu5u6brst3p2tje"
+        },
+        {
+            "assetid": 2301789032,
+            "name": "Juelz Santana",
+            "url": "ipfs://bafybeibinnhdusqd54dcsgx2n4uf6zfv3qs47u4zovwotq76yvpbol5nxy",
+            "image": "bafybeibinnhdusqd54dcsgx2n4uf6zfv3qs47u4zovwotq76yvpbol5nxy"
+        },
+        {
+            "assetid": 2301790016,
+            "name": "Freekey Zekey",
+            "url": "ipfs://bafybeihozjdiqnnslhvafmhivux4erhf3q5ua4llurb4dlu2rlgig4knpa",
+            "image": "bafybeihozjdiqnnslhvafmhivux4erhf3q5ua4llurb4dlu2rlgig4knpa"
+        }
+    ]
+}
