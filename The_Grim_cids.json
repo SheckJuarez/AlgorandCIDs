@@ -2,7 +2,8 @@
     "Project": "The Grim",
     "Creator": "The Grim",
     "CreatorAddress": [
-        "V7LKCWTML3FJUN7XIGSPKWODFLPZT3YFPLF5FVO26DJT3SGJBGXWJH3QME"
+        "V7LKCWTML3FJUN7XIGSPKWODFLPZT3YFPLF5FVO26DJT3SGJBGXWJH3QME",
+        "GRIMSYR6P4PKW36TTSXJ2ZJTOJJE3GY4JYICNDXZXFGGEM7563WT5QO7TI"
     ],
     "Assets": [
         {
@@ -274,6 +275,24 @@
             "name": "TheGrim Alter Mutation",
             "url": "ipfs://bafybeihp4omrhw463qh2gyvkj7dhsga4zojnohf5gdkvxfxo36zsnbp4pa#i",
             "image": "bafybeihp4omrhw463qh2gyvkj7dhsga4zojnohf5gdkvxfxo36zsnbp4pa"
+        },
+        {
+            "assetid": 817297645,
+            "name": "Jackalope Charm",
+            "url": "ipfs://bafybeiesbs5ov5vjwnawa3fod72z2faflct7uqlsu3s4rjs6hor33dnlny#i",
+            "image": "bafybeiesbs5ov5vjwnawa3fod72z2faflct7uqlsu3s4rjs6hor33dnlny"
+        },
+        {
+            "assetid": 842501304,
+            "name": "Grim Gems",
+            "url": "ipfs://bafybeih4w4lr54rbzpszn7hf7yfiffdp7is6nx6jckwy6eulq7pdjzsnky#i",
+            "image": "bafybeih4w4lr54rbzpszn7hf7yfiffdp7is6nx6jckwy6eulq7pdjzsnky"
+        },
+        {
+            "assetid": 891076541,
+            "name": "Roadmap",
+            "url": "ipfs://bafybeihj23qkp6n7aw6zgu6kggzn63liqpxvog2a235i2o7pwqqtxgqydm#i",
+            "image": "bafybeihj23qkp6n7aw6zgu6kggzn63liqpxvog2a235i2o7pwqqtxgqydm"
         }
     ]
 }

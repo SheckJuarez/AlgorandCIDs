@@ -2,7 +2,8 @@
     "Project": "Crazy Goose Robots",
     "Creator": "Ventral",
     "CreatorAddress": [
-        "ROBOTEKTU645GDM42JVHV6MIOM2YOGF4JK2YRPFXNG7XLJWPCBPBBH7WOI"
+        "ROBOTEKTU645GDM42JVHV6MIOM2YOGF4JK2YRPFXNG7XLJWPCBPBBH7WOI",
+        "MARKET737TEJIFY3FQZQUX5LPNJKPHKPRWSETKACQXQXPS7MRZAVLHKQAU"
     ],
     "Assets": [
         {
@@ -26668,6 +26669,12 @@
             "name": "CGR #4444",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhaN6a49T2RsYVpnWre6wxs1YbDQv2um1W3Y2xsvdMk99V"
+        },
+        {
+            "assetid": 1077473343,
+            "name": "REVIVE KIT",
+            "url": "ipfs://QmdYH97KYZbQQWEkVaG1cTZuxtwGLqVUtxBMnYvWjfGiPk",
+            "image": "QmdYH97KYZbQQWEkVaG1cTZuxtwGLqVUtxBMnYvWjfGiPk"
         }
     ]
 }
