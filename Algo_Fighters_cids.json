@@ -1,0 +1,800 @@
+{
+    "Project": "Algo Fighters",
+    "Creator": "Algo Fighters",
+    "CreatorAddress": [
+        "FLVAGRWN7UDHKA2O7VYRLXIDN2FHZWXJ6LI3PRM6MBB6TSNF6HFID5YLYY"
+    ],
+    "Assets": [
+        {
+            "assetid": 402408435,
+            "name": "Algo Fighter 001 Gen 1 - Gregor",
+            "url": "ipfs://bafkreigff7cuphmymrjqluvu6nn7pb52plujsx5jjlv5ucp2pqlddyjyve",
+            "image": "bafkreigff7cuphmymrjqluvu6nn7pb52plujsx5jjlv5ucp2pqlddyjyve"
+        },
+        {
+            "assetid": 402413077,
+            "name": "Algo Fighter 002 Gen 1 - Radovan",
+            "url": "ipfs://bafkreid6y2dkadlgbia3cc4rq6qibdwhpqopwf7myaw72haac4tgwo7k2u",
+            "image": "bafkreid6y2dkadlgbia3cc4rq6qibdwhpqopwf7myaw72haac4tgwo7k2u"
+        },
+        {
+            "assetid": 402418431,
+            "name": "Algo Fighter 003 Gen 1 - Nels",
+            "url": "ipfs://bafkreicafn2rihcxqklof7ufon2tevlmdwngnxpnaiwqdwc2x5zbsmlb4e",
+            "image": "bafkreicafn2rihcxqklof7ufon2tevlmdwngnxpnaiwqdwc2x5zbsmlb4e"
+        },
+        {
+            "assetid": 402421765,
+            "name": "Algo Fighter 004 Gen 1 - Aliyah",
+            "url": "ipfs://bafkreigyesecb223eopqtshkfmljebyjsumgxsxkf7higx2gdccp65faam",
+            "image": "bafkreigyesecb223eopqtshkfmljebyjsumgxsxkf7higx2gdccp65faam"
+        },
+        {
+            "assetid": 402426389,
+            "name": "Algo Fighter 005 Gen 1 - Finola",
+            "url": "ipfs://bafkreiap2wjjco52ac53p33bngzd4gmeq6s4abhrtas2r6wbcrxo4ocpme",
+            "image": "bafkreiap2wjjco52ac53p33bngzd4gmeq6s4abhrtas2r6wbcrxo4ocpme"
+        },
+        {
+            "assetid": 403925148,
+            "name": "Algo Fighter 006 Gen 1 - Zdenka",
+            "url": "ipfs://bafkreibr2qlclhyugjcghemocgegaonf3ss2ug3qi3s52imbcwk4qiyea4",
+            "image": "bafkreibr2qlclhyugjcghemocgegaonf3ss2ug3qi3s52imbcwk4qiyea4"
+        },
+        {
+            "assetid": 403926496,
+            "name": "Algo Fighter 007 Gen 1 - Oline",
+            "url": "ipfs://bafkreidysxmi3drx6rh4qsahswte32c436nv4lxcfhiqzysxln77mi35ha",
+            "image": "bafkreidysxmi3drx6rh4qsahswte32c436nv4lxcfhiqzysxln77mi35ha"
+        },
+        {
+            "assetid": 403928375,
+            "name": "Algo Fighter 008 Gen 1 - Ljerka",
+            "url": "ipfs://bafkreidshqptyzn4h7ots5tj3a46olrol5w7h4jrynvsgidxcccz4d6pbq",
+            "image": "bafkreidshqptyzn4h7ots5tj3a46olrol5w7h4jrynvsgidxcccz4d6pbq"
+        },
+        {
+            "assetid": 403930458,
+            "name": "Algo Fighter 009 Gen 1 - Irene",
+            "url": "ipfs://bafkreictsfi2uhid4ojkcmfidoeehm3bn2nrcqx4o3dftz3yzkqawvutbi",
+            "image": "bafkreictsfi2uhid4ojkcmfidoeehm3bn2nrcqx4o3dftz3yzkqawvutbi"
+        },
+        {
+            "assetid": 403938771,
+            "name": "Algo Fighter 010 Gen 1 - Senka",
+            "url": "ipfs://bafkreiaekxrw2uluo5eqdtl5xyihsddg2htfm7xzrlq7nain7saq2ngsam",
+            "image": "bafkreiaekxrw2uluo5eqdtl5xyihsddg2htfm7xzrlq7nain7saq2ngsam"
+        },
+        {
+            "assetid": 403982882,
+            "name": "Algo Fighter 011 Gen 1 - Paula",
+            "url": "ipfs://bafkreiai5lkjb5spuiwdcs5t4sxylzrdazqvgrn32gowmmzon7eomfcdbm",
+            "image": "bafkreiai5lkjb5spuiwdcs5t4sxylzrdazqvgrn32gowmmzon7eomfcdbm"
+        },
+        {
+            "assetid": 406513451,
+            "name": "Algo Fighter 012 Gen 1 - Barabal",
+            "url": "ipfs://bafkreicyoutodnx24zcm42djclo3xvfejivxnfvxgmi3w4zcaysdvfwzhi",
+            "image": "bafkreicyoutodnx24zcm42djclo3xvfejivxnfvxgmi3w4zcaysdvfwzhi"
+        },
+        {
+            "assetid": 406520248,
+            "name": "Algo Fighter 013 Gen 1 - Pempher",
+            "url": "ipfs://bafkreidysi72zjylalkkscdjntankszcdgioeblka7jmvjabyykw4al6t4",
+            "image": "bafkreidysi72zjylalkkscdjntankszcdgioeblka7jmvjabyykw4al6t4"
+        },
+        {
+            "assetid": 406524518,
+            "name": "Algo Fighter 014 Gen 1 - Sara",
+            "url": "ipfs://bafkreiee3clp7t2w372s4jwcq3wc4xcmzjlya7abkd3boj273fvvigr7ay",
+            "image": "bafkreiee3clp7t2w372s4jwcq3wc4xcmzjlya7abkd3boj273fvvigr7ay"
+        },
+        {
+            "assetid": 406527711,
+            "name": "Algo Fighter 015 Gen 1 - Masamba",
+            "url": "ipfs://bafkreihuhebj4runaypbwidlas46bpqzmnxseiovtk4mwg2k6sw6dpikdm",
+            "image": "bafkreihuhebj4runaypbwidlas46bpqzmnxseiovtk4mwg2k6sw6dpikdm"
+        },
+        {
+            "assetid": 406531529,
+            "name": "Algo Fighter 016 Gen 1 - Tue",
+            "url": "ipfs://bafkreic4gljvf5ghqqdd6hsqgfggu5iajk4qlnir2mv7dkasmnjflh7ux4",
+            "image": "bafkreic4gljvf5ghqqdd6hsqgfggu5iajk4qlnir2mv7dkasmnjflh7ux4"
+        },
+        {
+            "assetid": 406535125,
+            "name": "Algo Fighter 017 Gen 1 - Kennet",
+            "url": "ipfs://bafkreiawaw252lqwxww76m5lrtg4daaxehf6wyrojmfdmybh7iif4rsc5q",
+            "image": "bafkreiawaw252lqwxww76m5lrtg4daaxehf6wyrojmfdmybh7iif4rsc5q"
+        },
+        {
+            "assetid": 406538317,
+            "name": "Algo Fighter 018 Gen 1 - Masuma",
+            "url": "ipfs://bafkreihfuilaesqyjscjmy67wwie7i4yfw53kte5isld6xxfh2yyhwu2li",
+            "image": "bafkreihfuilaesqyjscjmy67wwie7i4yfw53kte5isld6xxfh2yyhwu2li"
+        },
+        {
+            "assetid": 406543107,
+            "name": "Algo Fighter 019 Gen 1 - Jad",
+            "url": "ipfs://bafkreiaftuv5ktqruem45ldhl4ueyevghc5jx5nsiwatcysuqy4garc6yi",
+            "image": "bafkreiaftuv5ktqruem45ldhl4ueyevghc5jx5nsiwatcysuqy4garc6yi"
+        },
+        {
+            "assetid": 406547783,
+            "name": "Algo Fighter 020 Gen 1 - Gojko",
+            "url": "ipfs://bafkreiedlufoa5emo6wtqbywhyua27qtpkgkmjjukwl7sft6dvmhp5e67q",
+            "image": "bafkreiedlufoa5emo6wtqbywhyua27qtpkgkmjjukwl7sft6dvmhp5e67q"
+        },
+        {
+            "assetid": 406558079,
+            "name": "Algo Fighter 021 Gen 1 - Beathan",
+            "url": "ipfs://bafkreiacb7prfyy634qy5i6ecytpwihmd7dmz4vsgnlld2kdppsz65avky",
+            "image": "bafkreiacb7prfyy634qy5i6ecytpwihmd7dmz4vsgnlld2kdppsz65avky"
+        },
+        {
+            "assetid": 410793492,
+            "name": "Algo Fighter 022 Gen 1 - Nakato",
+            "url": "ipfs://bafkreifninrrpnqtyj3yorpwtwggo7xwhzr4kej3rue37hle3g35n76dnq",
+            "image": "bafkreifninrrpnqtyj3yorpwtwggo7xwhzr4kej3rue37hle3g35n76dnq"
+        },
+        {
+            "assetid": 410798989,
+            "name": "Algo Fighter 023 Gen 1 - Shams",
+            "url": "ipfs://bafkreigq3qo3t5gy46xybctaft7bmoog7gop5mk33omnal4tcibbmmaq7e",
+            "image": "bafkreigq3qo3t5gy46xybctaft7bmoog7gop5mk33omnal4tcibbmmaq7e"
+        },
+        {
+            "assetid": 410807437,
+            "name": "Algo Fighter 024 Gen 1 - Mirna",
+            "url": "ipfs://bafkreibd7btccbmnn4rzvugb642dju225effyg2vqqhozw3mxz6ry5xdem",
+            "image": "bafkreibd7btccbmnn4rzvugb642dju225effyg2vqqhozw3mxz6ry5xdem"
+        },
+        {
+            "assetid": 410811188,
+            "name": "Algo Fighter 025 Gen 1 - Bruce",
+            "url": "ipfs://bafkreif2ibqrvm26zrygjicv2gvwbokrsy72yprnznvpweg4yihoi5k2vy",
+            "image": "bafkreif2ibqrvm26zrygjicv2gvwbokrsy72yprnznvpweg4yihoi5k2vy"
+        },
+        {
+            "assetid": 413289615,
+            "name": "Algo Fighter 026 Gen 1 - Najma",
+            "url": "ipfs://bafkreigufck5cdu4oeklvqadltdm6yzhrc4g7u2cui4r7bvo5lmgs7ca34",
+            "image": "bafkreigufck5cdu4oeklvqadltdm6yzhrc4g7u2cui4r7bvo5lmgs7ca34"
+        },
+        {
+            "assetid": 413294577,
+            "name": "Algo Fighter 027 Gen 1 - Samira",
+            "url": "ipfs://bafkreidt35nt7g36ld2a2qzqf3k5yjwpxqad5gvvxomhoomrmcv3l2mx7q",
+            "image": "bafkreidt35nt7g36ld2a2qzqf3k5yjwpxqad5gvvxomhoomrmcv3l2mx7q"
+        },
+        {
+            "assetid": 413297813,
+            "name": "Algo Fighter 028 Gen 1 - Be\u00e1ta",
+            "url": "ipfs://bafkreiapjtjltkz6v4hdupdkymxkbun6dpgo5bwvmzmigx5afwfwkqd74e",
+            "image": "bafkreiapjtjltkz6v4hdupdkymxkbun6dpgo5bwvmzmigx5afwfwkqd74e"
+        },
+        {
+            "assetid": 413299206,
+            "name": "Algo Fighter 029 Gen 1 - Douglas",
+            "url": "ipfs://bafkreievabc454lbc5yrzzxit26hqn3wvqbg53meahu3vd3yitamfom3r4",
+            "image": "bafkreievabc454lbc5yrzzxit26hqn3wvqbg53meahu3vd3yitamfom3r4"
+        },
+        {
+            "assetid": 413300703,
+            "name": "Algo Fighter 030 Gen 1 - Zakiya",
+            "url": "ipfs://bafkreihxqpyf5tcn3nhpzjfdrzbwfgvsgjxc4r5ewxuqxy672blqokuhw4",
+            "image": "bafkreihxqpyf5tcn3nhpzjfdrzbwfgvsgjxc4r5ewxuqxy672blqokuhw4"
+        },
+        {
+            "assetid": 417584067,
+            "name": "Algo Fighter 031 Gen 1 - Jengo",
+            "url": "ipfs://bafkreiczlsw67a2rdcabgak34ofrxwhanip6gyyaxjj6hudstt3keui5h4",
+            "image": "bafkreiczlsw67a2rdcabgak34ofrxwhanip6gyyaxjj6hudstt3keui5h4"
+        },
+        {
+            "assetid": 417588368,
+            "name": "Algo Fighter 032 Gen 1 - Lachina",
+            "url": "ipfs://bafkreiafkij6oqdznus7kqnbtzv3imorkbfyhsk7kcyj5eexo2mltdrsvy",
+            "image": "bafkreiafkij6oqdznus7kqnbtzv3imorkbfyhsk7kcyj5eexo2mltdrsvy"
+        },
+        {
+            "assetid": 417588485,
+            "name": "Algo Fighter 033 Gen 1 - Axmed",
+            "url": "ipfs://bafkreiexwnavxwz43xebbkl2amxqa5bjd4kisang5qwwhm2pxsddup3msm",
+            "image": "bafkreiexwnavxwz43xebbkl2amxqa5bjd4kisang5qwwhm2pxsddup3msm"
+        },
+        {
+            "assetid": 417592254,
+            "name": "Algo Fighter 034 Gen 1 - Karolin",
+            "url": "ipfs://bafkreielsom2s4wkbpixjdezp64skl34rrkqa7woghir5imgbdhahobam4",
+            "image": "bafkreielsom2s4wkbpixjdezp64skl34rrkqa7woghir5imgbdhahobam4"
+        },
+        {
+            "assetid": 417593195,
+            "name": "Algo Fighter 035 Gen 1 - Jakub",
+            "url": "ipfs://bafkreidvinu4cyar5purnapzkeo4coqe53xwyvdxdyxm5gm4a2zuksvvgu",
+            "image": "bafkreidvinu4cyar5purnapzkeo4coqe53xwyvdxdyxm5gm4a2zuksvvgu"
+        },
+        {
+            "assetid": 419046057,
+            "name": "Algo Fighter 036 Gen 1 - V\u00edt",
+            "url": "ipfs://bafkreid6q4iihhkncxiotnle2srrgqtnnjtlcaqo4bafavkfkb6fbxgxge",
+            "image": "bafkreid6q4iihhkncxiotnle2srrgqtnnjtlcaqo4bafavkfkb6fbxgxge"
+        },
+        {
+            "assetid": 419051424,
+            "name": "Algo Fighter 037 Gen 1 - Biserka",
+            "url": "ipfs://bafkreigjpij5phpttm5hkoy64g4ezqc2idpbqz63eruou6knxtsl3tf7mm",
+            "image": "bafkreigjpij5phpttm5hkoy64g4ezqc2idpbqz63eruou6knxtsl3tf7mm"
+        },
+        {
+            "assetid": 419053560,
+            "name": "Algo Fighter 038 Gen 1 - Ruh",
+            "url": "ipfs://bafkreihvrmw7hja4ov6527bgc2tcoccvxsrpuxuatvqxysytwzno7ohsbq",
+            "image": "bafkreihvrmw7hja4ov6527bgc2tcoccvxsrpuxuatvqxysytwzno7ohsbq"
+        },
+        {
+            "assetid": 419055476,
+            "name": "Algo Fighter 039 Gen 1 - Duff",
+            "url": "ipfs://bafkreiccjk2bc7vdfr2p4sokrx6yakfqecuxih6cchahrjni3yoashmrjm",
+            "image": "bafkreiccjk2bc7vdfr2p4sokrx6yakfqecuxih6cchahrjni3yoashmrjm"
+        },
+        {
+            "assetid": 419057222,
+            "name": "Algo Fighter 040 Gen 1 - Vyqjlf",
+            "url": "ipfs://bafkreibs5iev5l7jfuq6rljzav67e2m5ipoh5y2kxgloq73jl4knejoksy",
+            "image": "bafkreibs5iev5l7jfuq6rljzav67e2m5ipoh5y2kxgloq73jl4knejoksy"
+        },
+        {
+            "assetid": 426243125,
+            "name": "Algo Fighter 041 Gen 1 - Casper",
+            "url": "ipfs://bafkreihxmg6gdrkl2b2thclmddehjf5vzksyh7ugju4glnejj3zrafemii",
+            "image": "bafkreihxmg6gdrkl2b2thclmddehjf5vzksyh7ugju4glnejj3zrafemii"
+        },
+        {
+            "assetid": 426248026,
+            "name": "Algo Fighter 042 Gen 1 - Gunna",
+            "url": "ipfs://bafkreieaex4eufvmoi3zntoqw62as7ltgxkmx2b4whugv5rzvbok6avnsi",
+            "image": "bafkreieaex4eufvmoi3zntoqw62as7ltgxkmx2b4whugv5rzvbok6avnsi"
+        },
+        {
+            "assetid": 426253786,
+            "name": "Algo Fighter 043 Gen 1 - Aqila",
+            "url": "ipfs://bafkreick5palakl3be46ln22ec7qwvflz2jfsm46csuuln337golqngb2m",
+            "image": "bafkreick5palakl3be46ln22ec7qwvflz2jfsm46csuuln337golqngb2m"
+        },
+        {
+            "assetid": 426258415,
+            "name": "Algo Fighter 044 Gen 1 - Tajana",
+            "url": "ipfs://bafkreihorpaks6pohuorlr6mnqwii4zsf36qisaqgzz65vodt2upvlftmq",
+            "image": "bafkreihorpaks6pohuorlr6mnqwii4zsf36qisaqgzz65vodt2upvlftmq"
+        },
+        {
+            "assetid": 426262204,
+            "name": "Algo Fighter 045 Gen 1 - Aifric",
+            "url": "ipfs://bafkreihlg3u72jenugzemrubj7lnqvzqivtxskzncynezyjgegcg2jfm5e",
+            "image": "bafkreihlg3u72jenugzemrubj7lnqvzqivtxskzncynezyjgegcg2jfm5e"
+        },
+        {
+            "assetid": 429184319,
+            "name": "Algo Fighter 046 Gen 1 - Taurai",
+            "url": "ipfs://bafkreifnga5xc4shnk3ddtvwh226xt3vk4snj4wzyyf6irq2kdplb4pifq",
+            "image": "bafkreifnga5xc4shnk3ddtvwh226xt3vk4snj4wzyyf6irq2kdplb4pifq"
+        },
+        {
+            "assetid": 429186267,
+            "name": "Algo Fighter 047 Gen 1 - Olujimi",
+            "url": "ipfs://bafkreihpe4tdzyq4q72rsueckhfbr7hk4tlrgp6muxkje37q4cfq4abptu",
+            "image": "bafkreihpe4tdzyq4q72rsueckhfbr7hk4tlrgp6muxkje37q4cfq4abptu"
+        },
+        {
+            "assetid": 429188254,
+            "name": "Algo Fighter 048 Gen 1 - Grethe",
+            "url": "ipfs://bafkreihkwi7qmisvukldthgmpfrpvmo72ffh7tffevaxefrc7ka7g6mmx4",
+            "image": "bafkreihkwi7qmisvukldthgmpfrpvmo72ffh7tffevaxefrc7ka7g6mmx4"
+        },
+        {
+            "assetid": 432446396,
+            "name": "Algo Fighter 049 Gen 1 - Izzy",
+            "url": "ipfs://bafkreiengujsfpfwijgexbko7lx2rv6mxxzwb7ozqrggq5r3ebclwvh23m",
+            "image": "bafkreiengujsfpfwijgexbko7lx2rv6mxxzwb7ozqrggq5r3ebclwvh23m"
+        },
+        {
+            "assetid": 435084462,
+            "name": "Algo Fighter 050 Gen 1 - Ivan",
+            "url": "ipfs://bafkreidokbutt6bbtgtahwycse2f4vbgakip6cmp2emnjnmcsccdfngm2u",
+            "image": "bafkreidokbutt6bbtgtahwycse2f4vbgakip6cmp2emnjnmcsccdfngm2u"
+        },
+        {
+            "assetid": 435086206,
+            "name": "Algo Fighter 051 Gen 1 - Rayan",
+            "url": "ipfs://bafkreif5uzeikr5pa23d33drohw5nvqcocmn2oelu3nvnjlxamzcmuc3wq",
+            "image": "bafkreif5uzeikr5pa23d33drohw5nvqcocmn2oelu3nvnjlxamzcmuc3wq"
+        },
+        {
+            "assetid": 435089809,
+            "name": "Algo Fighter 052 Gen 1 - Cille",
+            "url": "ipfs://bafkreihde3uwnyppdjeg4oejkczyo7xit7kurpbcmokzgxae4mskhuxzii",
+            "image": "bafkreihde3uwnyppdjeg4oejkczyo7xit7kurpbcmokzgxae4mskhuxzii"
+        },
+        {
+            "assetid": 435094205,
+            "name": "Algo Fighter 053 Gen 1 - Irena",
+            "url": "ipfs://bafkreiebjaer5dyrtkwjkqdawqjtu5jxitwspiuz3aypx7fkihl3wsgzma",
+            "image": "bafkreiebjaer5dyrtkwjkqdawqjtu5jxitwspiuz3aypx7fkihl3wsgzma"
+        },
+        {
+            "assetid": 435097124,
+            "name": "Algo Fighter 054 Gen 1 - Njinga",
+            "url": "ipfs://bafkreie2rz7cxy567gvjzwrlzjm2sup7evzpcstigsg6arkpfae2abpkqe",
+            "image": "bafkreie2rz7cxy567gvjzwrlzjm2sup7evzpcstigsg6arkpfae2abpkqe"
+        },
+        {
+            "assetid": 435099345,
+            "name": "Algo Fighter 055 Gen 1 - Adwoa",
+            "url": "ipfs://bafkreifwfxkw52m5hj3ecxfly3s7zxy4eutvpjc5p67yuegpmqdntulprm",
+            "image": "bafkreifwfxkw52m5hj3ecxfly3s7zxy4eutvpjc5p67yuegpmqdntulprm"
+        },
+        {
+            "assetid": 441520428,
+            "name": "",
+            "url": ""
+        },
+        {
+            "assetid": 446256233,
+            "name": "Algo Fighter 056 Gen 1 - Jarka",
+            "url": "ipfs://bafkreifz72cefjmxkkzm42h5bz7ck2yubrnhkfqyxewk5zu6eht5iin64a",
+            "image": "bafkreifz72cefjmxkkzm42h5bz7ck2yubrnhkfqyxewk5zu6eht5iin64a"
+        },
+        {
+            "assetid": 446257692,
+            "name": "Algo Fighter 057 Gen 1 - Nizar",
+            "url": "ipfs://bafkreic6uiij4yzjoasl6oxntyecguczdvdusirzze6umrrvxwrbo53epq",
+            "image": "bafkreic6uiij4yzjoasl6oxntyecguczdvdusirzze6umrrvxwrbo53epq"
+        },
+        {
+            "assetid": 446259856,
+            "name": "Algo Fighter 058 Gen 1 - Naqi",
+            "url": "ipfs://bafkreigzhunwrwxqcf4mdg3ln4nb647mci6h2ihz7k4vveth2futkdwzwy",
+            "image": "bafkreigzhunwrwxqcf4mdg3ln4nb647mci6h2ihz7k4vveth2futkdwzwy"
+        },
+        {
+            "assetid": 446265244,
+            "name": "Algo Fighter 059 Gen 1 - Andrija",
+            "url": "ipfs://bafkreig26iey7ig7u4hahjfanregqtswc6miz2oufd3n2746a625bqsuta",
+            "image": "bafkreig26iey7ig7u4hahjfanregqtswc6miz2oufd3n2746a625bqsuta"
+        },
+        {
+            "assetid": 446267426,
+            "name": "Algo Fighter 060 Gen 1 - Jon",
+            "url": "ipfs://bafkreigdm4tlyttbu4kyr4gsem5tyfgkcc74mmu44rof27lu2t5z22cezu",
+            "image": "bafkreigdm4tlyttbu4kyr4gsem5tyfgkcc74mmu44rof27lu2t5z22cezu"
+        },
+        {
+            "assetid": 457834884,
+            "name": "Algo Fighter 061 Gen 1 - Hanne",
+            "url": "ipfs://bafkreiaw5pq5tmerr2suwhyoxvdmhoisorf26jf6alrkoknz5hztimlzaa",
+            "image": "bafkreiaw5pq5tmerr2suwhyoxvdmhoisorf26jf6alrkoknz5hztimlzaa"
+        },
+        {
+            "assetid": 457836460,
+            "name": "Algo Fighter 062 Gen 1 - Esmail",
+            "url": "ipfs://bafkreih5aaedviw54jbenw5tiy5mgk75zderkvnjo57w5kplfdpjuvmcri",
+            "image": "bafkreih5aaedviw54jbenw5tiy5mgk75zderkvnjo57w5kplfdpjuvmcri"
+        },
+        {
+            "assetid": 457860936,
+            "name": "Algo Fighter 063 Gen 1 - Sune",
+            "url": "ipfs://bafkreieq7be34gt7kmlkvfrxawo7jde4pmk2v5euok762rsk4omy2khqvy",
+            "image": "bafkreieq7be34gt7kmlkvfrxawo7jde4pmk2v5euok762rsk4omy2khqvy"
+        },
+        {
+            "assetid": 457906297,
+            "name": "Algo Fighter 064 Gen 1 - Nader",
+            "url": "ipfs://bafkreifd7un6bfpfuvfya6yu6kb7uhx32zfji7c6mqr6ub4z5vg43bx5vy",
+            "image": "bafkreifd7un6bfpfuvfya6yu6kb7uhx32zfji7c6mqr6ub4z5vg43bx5vy"
+        },
+        {
+            "assetid": 457913152,
+            "name": "Algo Fighter 065 Gen 1 - Mumina",
+            "url": "ipfs://bafkreiaxtd45fgyqqct6otv77giksvub6qkqv4tmgf7yzl7nkfc3jqav4a",
+            "image": "bafkreiaxtd45fgyqqct6otv77giksvub6qkqv4tmgf7yzl7nkfc3jqav4a"
+        },
+        {
+            "assetid": 468280105,
+            "name": "Algo Fighter 066 Gen 1 - Jalila",
+            "url": "ipfs://bafkreigwrlwwc5jsy4dmghii3mfcyyeaaxanfje7lhm32gu4hktczewfoe",
+            "image": "bafkreigwrlwwc5jsy4dmghii3mfcyyeaaxanfje7lhm32gu4hktczewfoe"
+        },
+        {
+            "assetid": 468282446,
+            "name": "Algo Fighter 067 Gen 1 - Midhat",
+            "url": "ipfs://bafkreiem5g5b4om46thdim33nwhe24rf2hoq5wsin6zffgvfylhyv4nreu",
+            "image": "bafkreiem5g5b4om46thdim33nwhe24rf2hoq5wsin6zffgvfylhyv4nreu"
+        },
+        {
+            "assetid": 468283673,
+            "name": "Algo Fighter 068 Gen 1 - Lillias",
+            "url": "ipfs://bafkreieipzg3bjna2qiaricucf6xwnx6uvnlwj6ife47rdfvs3tgazswge",
+            "image": "bafkreieipzg3bjna2qiaricucf6xwnx6uvnlwj6ife47rdfvs3tgazswge"
+        },
+        {
+            "assetid": 468289274,
+            "name": "Algo Fighter 069 Gen 1 - Noor",
+            "url": "ipfs://bafkreigfxjslqxu65fi3djbly573g7zqtfeetlorbh4edexfof5xuvsrqq",
+            "image": "bafkreigfxjslqxu65fi3djbly573g7zqtfeetlorbh4edexfof5xuvsrqq"
+        },
+        {
+            "assetid": 468289597,
+            "name": "Algo Fighter 070 Gen 1 - Sultan",
+            "url": "ipfs://bafkreigchgiidcfdgthsfiklevzwwbgi5h7t5plchqqdgeoib5ypbt7pge",
+            "image": "bafkreigchgiidcfdgthsfiklevzwwbgi5h7t5plchqqdgeoib5ypbt7pge"
+        },
+        {
+            "assetid": 468292580,
+            "name": "Algo Fighter 071 Gen 1 - Boipelo",
+            "url": "ipfs://bafkreic3yfp3jcbggxhmixoeyyecz3zndxeh52ebziulggkxnh5btde6g4",
+            "image": "bafkreic3yfp3jcbggxhmixoeyyecz3zndxeh52ebziulggkxnh5btde6g4"
+        },
+        {
+            "assetid": 468295553,
+            "name": "Algo Fighter 072 Gen 1 - Wedad",
+            "url": "ipfs://bafkreicd5q54guv7jkq6hiqj7vqx7ao5p4uvcjlguzjal4hpx3c4js7qra",
+            "image": "bafkreicd5q54guv7jkq6hiqj7vqx7ao5p4uvcjlguzjal4hpx3c4js7qra"
+        },
+        {
+            "assetid": 468303002,
+            "name": "Algo Fighter 073 Gen 1 - Silvio",
+            "url": "ipfs://bafkreia7fr3554i6mejppdynvy2neekoxxqivxo47qex3bhhp6vjeqs52q",
+            "image": "bafkreia7fr3554i6mejppdynvy2neekoxxqivxo47qex3bhhp6vjeqs52q"
+        },
+        {
+            "assetid": 516977817,
+            "name": "AlgoFighter 076 Gen 1 - Scrivrid",
+            "url": "ipfs://bafkreihm5jvbtxo34gehjuuwccucjoyihekc2ggdjqgsieesfkrpzjrksm",
+            "image": "bafkreihm5jvbtxo34gehjuuwccucjoyihekc2ggdjqgsieesfkrpzjrksm"
+        },
+        {
+            "assetid": 516982734,
+            "name": "Algo Fighter 077 Gen 1 - Cronek",
+            "url": "ipfs://bafkreibkwg3kzgvmhfek7hykottxij22imhdyhodvl2mw2jorvfmxj6hhu",
+            "image": "bafkreibkwg3kzgvmhfek7hykottxij22imhdyhodvl2mw2jorvfmxj6hhu"
+        },
+        {
+            "assetid": 516985857,
+            "name": "Algo Fighter 078 Gen 1 - Namin",
+            "url": "ipfs://bafkreiarrup44zknugqxxaes4tzbk66pcu4zduchczziwf6iur26qq5if4",
+            "image": "bafkreiarrup44zknugqxxaes4tzbk66pcu4zduchczziwf6iur26qq5if4"
+        },
+        {
+            "assetid": 516989496,
+            "name": "Algo Fighter 079 Gen 1 - Craktun",
+            "url": "ipfs://bafkreia5ewbfbwe64bxipoatmiv7atdxpb7alopggfatm6j7vqhdpvjtpm",
+            "image": "bafkreia5ewbfbwe64bxipoatmiv7atdxpb7alopggfatm6j7vqhdpvjtpm"
+        },
+        {
+            "assetid": 516993193,
+            "name": "Algo Fighter 080 Gen 1 - Elder",
+            "url": "ipfs://bafkreicsg4jvoi3wftztrdlnj3f67r4us73upt67ojvnc2e7wdkzzfwe5i",
+            "image": "bafkreicsg4jvoi3wftztrdlnj3f67r4us73upt67ojvnc2e7wdkzzfwe5i"
+        },
+        {
+            "assetid": 518250271,
+            "name": "Algo Fighter 074 Gen 1 - Aya",
+            "url": "ipfs://bafkreiabzsvasmje7kt5mdi3uvbfz2wcokbau6kgcou7fitjedsxkx5egy",
+            "image": "bafkreiabzsvasmje7kt5mdi3uvbfz2wcokbau6kgcou7fitjedsxkx5egy"
+        },
+        {
+            "assetid": 518257115,
+            "name": "Algo Fighter 075 Gen 1 - Mariell",
+            "url": "ipfs://bafkreicw243c4ylfyljfxp7l7jzlkxxrgdohxin4p5dxj77sxind5bpnky",
+            "image": "bafkreicw243c4ylfyljfxp7l7jzlkxxrgdohxin4p5dxj77sxind5bpnky"
+        },
+        {
+            "assetid": 527173042,
+            "name": "Algo Fighter 081 Gen 1 - Simba",
+            "url": "ipfs://bafkreibmmqctuek4oqzy3sfbj6we2h2v26gcsl6tycfrae5npfxv72sgmq",
+            "image": "bafkreibmmqctuek4oqzy3sfbj6we2h2v26gcsl6tycfrae5npfxv72sgmq"
+        },
+        {
+            "assetid": 527180491,
+            "name": "Algo Fighter 082 Gen 1 - Kofi",
+            "url": "ipfs://bafkreihjlmp6auxtznopn7a5b66g76xnlncqvzukbpn2dylv4fawp5a2qy",
+            "image": "bafkreihjlmp6auxtznopn7a5b66g76xnlncqvzukbpn2dylv4fawp5a2qy"
+        },
+        {
+            "assetid": 527184121,
+            "name": "Algo Fighter 083 Gen 1 - Aruto",
+            "url": "ipfs://bafkreiggh72renyp4nrwpcvvfjhalr7ujltthhb2cx3adhsgwjbfg4kv3i",
+            "image": "bafkreiggh72renyp4nrwpcvvfjhalr7ujltthhb2cx3adhsgwjbfg4kv3i"
+        },
+        {
+            "assetid": 527187017,
+            "name": "Algo Fighter 084 Gen 1 - Thana",
+            "url": "ipfs://bafkreiagwcev4vhokmtwrmme6o47apqowcwlc3m2cuhebzoka44ctz4u5y",
+            "image": "bafkreiagwcev4vhokmtwrmme6o47apqowcwlc3m2cuhebzoka44ctz4u5y"
+        },
+        {
+            "assetid": 527209189,
+            "name": "Algo Fighter 085 Gen 1 - Thyra",
+            "url": "ipfs://bafkreiheav44hlxsx626xgi4klhojnuocpxs5a7ibswss2it4iwx6wnw4y",
+            "image": "bafkreiheav44hlxsx626xgi4klhojnuocpxs5a7ibswss2it4iwx6wnw4y"
+        },
+        {
+            "assetid": 527212969,
+            "name": "Algo Fighter 086 Gen 1 - Nuha",
+            "url": "ipfs://bafkreie4fxbz6tzlimdmz22bm2wccfjbspzj5m6r4z4vd3kc5l7mms6qzu",
+            "image": "bafkreie4fxbz6tzlimdmz22bm2wccfjbspzj5m6r4z4vd3kc5l7mms6qzu"
+        },
+        {
+            "assetid": 527214919,
+            "name": "Algo Fighter 087 Gen 1 - Bilal",
+            "url": "ipfs://bafkreia4l4ic2u2llzjqimtjeuhobfxue5jn43ugfogyzrmx4gd6gvsuvm",
+            "image": "bafkreia4l4ic2u2llzjqimtjeuhobfxue5jn43ugfogyzrmx4gd6gvsuvm"
+        },
+        {
+            "assetid": 527219302,
+            "name": "Algo Fighter 088 Gen 1 - Vuk",
+            "url": "ipfs://bafkreicbcb5u4ncdueshq2b5doycyttwlkh66vchyk27pdazokn6ru3usa",
+            "image": "bafkreicbcb5u4ncdueshq2b5doycyttwlkh66vchyk27pdazokn6ru3usa"
+        },
+        {
+            "assetid": 541381168,
+            "name": "Algo Fighter 089 Gen 1 - Ruwa",
+            "url": "ipfs://bafkreiduzjzdc5z2pupwluqp6mf6q6b6cyhwltmaur4asyr2u3zowc2re4#i",
+            "image": "bafkreiduzjzdc5z2pupwluqp6mf6q6b6cyhwltmaur4asyr2u3zowc2re4"
+        },
+        {
+            "assetid": 541382411,
+            "name": "Algo Fighter 090 Gen 1 - Duncan",
+            "url": "ipfs://bafkreihzldt3becnemswlorrdqlvz4ypvucup5ggrljymwapcvg76wihdu#i",
+            "image": "bafkreihzldt3becnemswlorrdqlvz4ypvucup5ggrljymwapcvg76wihdu"
+        },
+        {
+            "assetid": 541383859,
+            "name": "Algo Fighter 091 Gen 1 - Yaa",
+            "url": "ipfs://bafkreie3ciqdpqjhdlowdqt7d4cxnzyuvscjufaa7newqrufqdzs4ta3x4#i",
+            "image": "bafkreie3ciqdpqjhdlowdqt7d4cxnzyuvscjufaa7newqrufqdzs4ta3x4"
+        },
+        {
+            "assetid": 541408847,
+            "name": "Algo Fighter 092 Gen 1 - Patka",
+            "url": "ipfs://bafkreif2c6kykahtydrxhym2dhhevgttkseszcs32zqzqbfhebquvtxfdy#i",
+            "image": "bafkreif2c6kykahtydrxhym2dhhevgttkseszcs32zqzqbfhebquvtxfdy"
+        },
+        {
+            "assetid": 541409371,
+            "name": "Algo Fighter 093 Gen 1 - Mukami",
+            "url": "ipfs://bafkreiexc335ynd7mpe3qzpljet4hdnjtbp3fknzymiysp2fjsi3ry3d7y#i",
+            "image": "bafkreiexc335ynd7mpe3qzpljet4hdnjtbp3fknzymiysp2fjsi3ry3d7y"
+        },
+        {
+            "assetid": 541409934,
+            "name": "Algo Fighter 094 Gen 1 - Wairimu",
+            "url": "ipfs://bafkreifppti4nt3o2tblthiyzs5pxmkqyvawr5slxgcyhe5ty5fzxzwd2e#i",
+            "image": "bafkreifppti4nt3o2tblthiyzs5pxmkqyvawr5slxgcyhe5ty5fzxzwd2e"
+        },
+        {
+            "assetid": 542646278,
+            "name": "Algo Fighter 095 Gen 1 - Haiden",
+            "url": "ipfs://bafkreifp5dywlivcv4hr6sbmhks6gih6lgiwtfjbrr4ol333teptp5yqzy#i",
+            "image": "bafkreifp5dywlivcv4hr6sbmhks6gih6lgiwtfjbrr4ol333teptp5yqzy"
+        },
+        {
+            "assetid": 542649984,
+            "name": "Algo Fighter 096 Gen 1 - Torin",
+            "url": "ipfs://bafkreihtkvv2ghy7memdoltogarzi6c2nkctuoobm7u2j2nm6dvvo23kcq#i",
+            "image": "bafkreihtkvv2ghy7memdoltogarzi6c2nkctuoobm7u2j2nm6dvvo23kcq"
+        },
+        {
+            "assetid": 544808851,
+            "name": "Algo Fighter 097 Gen 1 - Rita",
+            "url": "ipfs://bafkreiblj6ztm3pf35e4euziiti3dfwlhvxy2gj4ro3dzq2aab5trwzzlq#i",
+            "image": "bafkreiblj6ztm3pf35e4euziiti3dfwlhvxy2gj4ro3dzq2aab5trwzzlq"
+        },
+        {
+            "assetid": 544812283,
+            "name": "Algo Fighter 098 - Ross",
+            "url": "ipfs://bafkreibybnvmwujzvghcbjl7n3btaekjmgfwmtp2ebynvo2t2qtlmfemou#i",
+            "image": "bafkreibybnvmwujzvghcbjl7n3btaekjmgfwmtp2ebynvo2t2qtlmfemou"
+        },
+        {
+            "assetid": 544839448,
+            "name": "Algo Fighter 099 Gen 1 - Dayo",
+            "url": "ipfs://bafkreifkc6s4st6whujmegyyvim3f46i2xwssh3m5rz7ytryl3u54zspmi#i",
+            "image": "bafkreifkc6s4st6whujmegyyvim3f46i2xwssh3m5rz7ytryl3u54zspmi"
+        },
+        {
+            "assetid": 544844663,
+            "name": "Algo Fighter 100 Gen 1 - Freak",
+            "url": "ipfs://bafkreihpfwmdswxi6s6otpry6ytjxdf33vwfqrtauctbie2ntrjga5nype#i",
+            "image": "bafkreihpfwmdswxi6s6otpry6ytjxdf33vwfqrtauctbie2ntrjga5nype"
+        },
+        {
+            "assetid": 547836040,
+            "name": "Algo Fighter 102 Gen 1 - Crystal",
+            "url": "ipfs://bafkreigg2vn7v435ch3qitatipmom4djolvbmtt72wc7hzidpsgc2xpaqi#i",
+            "image": "bafkreigg2vn7v435ch3qitatipmom4djolvbmtt72wc7hzidpsgc2xpaqi"
+        },
+        {
+            "assetid": 547836357,
+            "name": "Algo Fighter 103 Gen 1 - Chenai",
+            "url": "ipfs://bafkreigdbpjg6ogbwbjpf2vj2blj6cct6jp5qddurcalj6dmkrlvl2bxji#i",
+            "image": "bafkreigdbpjg6ogbwbjpf2vj2blj6cct6jp5qddurcalj6dmkrlvl2bxji"
+        },
+        {
+            "assetid": 551845797,
+            "name": "Algo Fighter 104 Gen 1 - Florenc",
+            "url": "ipfs://bafkreiczq4czlvjigxw3ooi7enkpbr5te53iqnl3z3ukf4symyr3zvqjqu#i",
+            "image": "bafkreiczq4czlvjigxw3ooi7enkpbr5te53iqnl3z3ukf4symyr3zvqjqu"
+        },
+        {
+            "assetid": 564011982,
+            "name": "Algo Fighter 105 Gen 1 - Louisa",
+            "url": "ipfs://bafkreihuce2s2fj2gfzk4xrofr7n2oh7l7t2p4x5u5yjfslb72w7yqglpq#i",
+            "image": "bafkreihuce2s2fj2gfzk4xrofr7n2oh7l7t2p4x5u5yjfslb72w7yqglpq"
+        },
+        {
+            "assetid": 564012590,
+            "name": "Algo Fighter 106 Gen 1 - Sosa",
+            "url": "ipfs://bafkreihm36b6rkpausinmmbkl4utyjt2gb6esxe32skh35smgdolnty7wu#i",
+            "image": "bafkreihm36b6rkpausinmmbkl4utyjt2gb6esxe32skh35smgdolnty7wu"
+        },
+        {
+            "assetid": 564013578,
+            "name": "Algo Fighter 107 Gen 1 - Blake",
+            "url": "ipfs://bafkreieekt2vcbsjtjdxy5qctsxccgsmosualithe4zpitkbks427ma25q#i",
+            "image": "bafkreieekt2vcbsjtjdxy5qctsxccgsmosualithe4zpitkbks427ma25q"
+        },
+        {
+            "assetid": 564014900,
+            "name": "Algo Fighter 108 Gen 1 - Zoya",
+            "url": "ipfs://bafkreiesmhzlnq2ydrcfysrdbots7zxmzbsdcjxicysv6enpo274khbszi#i",
+            "image": "bafkreiesmhzlnq2ydrcfysrdbots7zxmzbsdcjxicysv6enpo274khbszi"
+        },
+        {
+            "assetid": 564015273,
+            "name": "Algo Fighter 109 Gen 1 - Tilly",
+            "url": "ipfs://bafkreickqy2imwvir6thkppulaxnbkb5b6zsmkdptrtpwurwrcagx3e3ie#i",
+            "image": "bafkreickqy2imwvir6thkppulaxnbkb5b6zsmkdptrtpwurwrcagx3e3ie"
+        },
+        {
+            "assetid": 564016638,
+            "name": "Algo Fighter 110 Gen 1 - Cobie",
+            "url": "ipfs://bafkreia65j7y7m5cmoxwnblnbx3jjisrrkokdljaq6dlzzqkwi5hlfo7rm#i",
+            "image": "bafkreia65j7y7m5cmoxwnblnbx3jjisrrkokdljaq6dlzzqkwi5hlfo7rm"
+        },
+        {
+            "assetid": 564017556,
+            "name": "Algo Fighter 111 Gen 1 - Jasper",
+            "url": "ipfs://bafkreifveahblxo4smtseooaredsczqcphb75s3dxmnlnj3fmbb7b7qx4a#i",
+            "image": "bafkreifveahblxo4smtseooaredsczqcphb75s3dxmnlnj3fmbb7b7qx4a"
+        },
+        {
+            "assetid": 564018222,
+            "name": "Algo Fighter 112 Gen 1 - Keavy",
+            "url": "ipfs://bafkreiatzux6yhrjdgilbbitp5xlkcfxcm3ctsjlfigozzhhzo5zik7424#i",
+            "image": "bafkreiatzux6yhrjdgilbbitp5xlkcfxcm3ctsjlfigozzhhzo5zik7424"
+        },
+        {
+            "assetid": 564018677,
+            "name": "Algo Fighter 113 Gen 1 - Bird",
+            "url": "ipfs://bafkreidu3sed5r7chgmgcmaoh6zhbqadonmerfn22r2vls4ctlhnlxcz2q#i",
+            "image": "bafkreidu3sed5r7chgmgcmaoh6zhbqadonmerfn22r2vls4ctlhnlxcz2q"
+        },
+        {
+            "assetid": 566510832,
+            "name": "Algo Fighter 101 Gen 1 - Huma",
+            "url": "ipfs://bafkreihclhknin6qpeodm3jt4p4y4qebzgiecmfzmfyhv6zy2ntclg25bi#i",
+            "image": "bafkreihclhknin6qpeodm3jt4p4y4qebzgiecmfzmfyhv6zy2ntclg25bi"
+        },
+        {
+            "assetid": 571994609,
+            "name": "Algo Fighter 114 Gen 1 - Gus",
+            "url": "ipfs://bafkreibb7skkya54riuyttsamg7q3fqiui2uw6465g7jctcxuylbnhlibm#i",
+            "image": "bafkreibb7skkya54riuyttsamg7q3fqiui2uw6465g7jctcxuylbnhlibm"
+        },
+        {
+            "assetid": 571997170,
+            "name": "Algo Fighter 115 Gen 1 - Axl",
+            "url": "ipfs://bafkreico7htpbnrb35b66w6aldffywhro4y3srk5cxifkocdoz36r5guwa#i",
+            "image": "bafkreico7htpbnrb35b66w6aldffywhro4y3srk5cxifkocdoz36r5guwa"
+        },
+        {
+            "assetid": 571999523,
+            "name": "Algo Fighter 116 Gen 1 - Shania",
+            "url": "ipfs://bafkreici3wly4bz4eyrtfak7jl5lbeuq55gu7ee73os6cg3cobsfyiaxzu#i",
+            "image": "bafkreici3wly4bz4eyrtfak7jl5lbeuq55gu7ee73os6cg3cobsfyiaxzu"
+        },
+        {
+            "assetid": 572000247,
+            "name": "Algo Fighter 117 Gen 1 - Saba",
+            "url": "ipfs://bafkreig43t4muxzou2rbba6s7j6qfmd6ocz4qrpx4wfjjelo5dca6zidsu#i",
+            "image": "bafkreig43t4muxzou2rbba6s7j6qfmd6ocz4qrpx4wfjjelo5dca6zidsu"
+        },
+        {
+            "assetid": 572000881,
+            "name": "Algo Fighter 118 Gen 1 - Mihai",
+            "url": "ipfs://bafkreid2aetkbeu2qw4ursn6qdckblisghfscf5cyljavvhtpbm7mgp2pa#i",
+            "image": "bafkreid2aetkbeu2qw4ursn6qdckblisghfscf5cyljavvhtpbm7mgp2pa"
+        },
+        {
+            "assetid": 572001344,
+            "name": "Algo Fighter 119 Gen 1 - Sue",
+            "url": "ipfs://bafkreidd5ooiourth6yynxqyiteefotuaehx7bchmjt623qywwwas6mriu#i",
+            "image": "bafkreidd5ooiourth6yynxqyiteefotuaehx7bchmjt623qywwwas6mriu"
+        },
+        {
+            "assetid": 572001597,
+            "name": "Algo Fighter 120 Gen 1 - Wolf",
+            "url": "ipfs://bafkreiczoptrsz36zwvk5uanig4gnnixr5g3u4r7xypczivfivx3cn25sy#i",
+            "image": "bafkreiczoptrsz36zwvk5uanig4gnnixr5g3u4r7xypczivfivx3cn25sy"
+        },
+        {
+            "assetid": 572002095,
+            "name": "Algo Fighter 121 Gen 1 - Aleena",
+            "url": "ipfs://bafkreihqmcg7olsve367buhykn6ixlqgup7wd6zr44st46b46aehgzuhzm#i",
+            "image": "bafkreihqmcg7olsve367buhykn6ixlqgup7wd6zr44st46b46aehgzuhzm"
+        },
+        {
+            "assetid": 572002502,
+            "name": "Algo Fighter 122 Gen 1 - Troy",
+            "url": "ipfs://bafkreifrivy2uk726imkta2idywg2xsddrmp7d6hywvdtzxhm6qrs2faiu#i",
+            "image": "bafkreifrivy2uk726imkta2idywg2xsddrmp7d6hywvdtzxhm6qrs2faiu"
+        },
+        {
+            "assetid": 572003142,
+            "name": "Algo Fighter 123 Gen 1 - Donell",
+            "url": "ipfs://bafkreifpedbuj4paxb7u4vehuxecftcbvk6w34xonzmfx4uca7ya3jkosu#i",
+            "image": "bafkreifpedbuj4paxb7u4vehuxecftcbvk6w34xonzmfx4uca7ya3jkosu"
+        },
+        {
+            "assetid": 572003421,
+            "name": "Algo Fighter 124 Gen 1 - Katie",
+            "url": "ipfs://bafkreie44vueat5dvqozkehcdj3wmrygqhoq4zdzdr3xdhmdgot7srjebi#i",
+            "image": "bafkreie44vueat5dvqozkehcdj3wmrygqhoq4zdzdr3xdhmdgot7srjebi"
+        },
+        {
+            "assetid": 572003816,
+            "name": "Algo Fighter 125 Gen 1 - Neel",
+            "url": "ipfs://bafkreigjrmlffugkdwtoeiitje5xekrohh4cjf6xei3q5zg4muufv2zjva#i",
+            "image": "bafkreigjrmlffugkdwtoeiitje5xekrohh4cjf6xei3q5zg4muufv2zjva"
+        },
+        {
+            "assetid": 572004454,
+            "name": "Algo Fighter 126 Gen 1 - Zion",
+            "url": "ipfs://bafkreicb762b2w3h7i7hbvy4rmt2qmr5gvsha4dkutiel4bphislhnjyzu#i",
+            "image": "bafkreicb762b2w3h7i7hbvy4rmt2qmr5gvsha4dkutiel4bphislhnjyzu"
+        },
+        {
+            "assetid": 572005118,
+            "name": "Algo Fighter 127 Gen 1 - Pola",
+            "url": "ipfs://bafkreicd6ee7yb632txmq3w3mxm4n54bfywrhcj5ffnjwwrbpiajb22lui#i",
+            "image": "bafkreicd6ee7yb632txmq3w3mxm4n54bfywrhcj5ffnjwwrbpiajb22lui"
+        },
+        {
+            "assetid": 572005560,
+            "name": "Algo Fighter 128 Gen 1 - Calum",
+            "url": "ipfs://bafkreiaypgit2k2udagwvuk7sfpj5lplyyonarzbat7kpeb2zjlsrqljry#i",
+            "image": "bafkreiaypgit2k2udagwvuk7sfpj5lplyyonarzbat7kpeb2zjlsrqljry"
+        },
+        {
+            "assetid": 572006300,
+            "name": "Algo Fighter 129 Gen 1 - Carwyn",
+            "url": "ipfs://bafkreia4njks7jrcjlfzhjly2apapgentekod36t2ormex5ax2lz4f2tiy#i",
+            "image": "bafkreia4njks7jrcjlfzhjly2apapgentekod36t2ormex5ax2lz4f2tiy"
+        },
+        {
+            "assetid": 572006668,
+            "name": "Algo Fighter 130 Gen 1 - Taryn",
+            "url": "ipfs://bafkreigzme2m6tz7niqemwoinv6c6zjda2gjs64ltvwfvfadto42bc6lzu#i",
+            "image": "bafkreigzme2m6tz7niqemwoinv6c6zjda2gjs64ltvwfvfadto42bc6lzu"
+        },
+        {
+            "assetid": 572007010,
+            "name": "Algo Fighter 131 Gen 1 - Callen",
+            "url": "ipfs://bafkreicdmrp6sgs5iz7h3hy5sw6ecso5sjmjyom5guzpgimwrhjcnpahva#i",
+            "image": "bafkreicdmrp6sgs5iz7h3hy5sw6ecso5sjmjyom5guzpgimwrhjcnpahva"
+        }
+    ]
+}
