@@ -1,0 +1,765 @@
+{
+    "Project": "FUNNY DOGS",
+    "Creator": "FUNNY DOGS",
+    "CreatorAddress": [
+        "7NJYVUZVRG4MXUGO7DBGDZL33FQ2HG63OY7Z4VTCGN2QPQH7RGHK6Y3V3I"
+    ],
+    "Assets": [
+        {
+            "assetid": 419132352,
+            "name": "Crazy Lady of Hearts",
+            "url": "ipfs://QmaaEkZNDEe1kDtP8g953i2WF1shPT9RxJY21jXcWizmgy",
+            "image": "QmaaEkZNDEe1kDtP8g953i2WF1shPT9RxJY21jXcWizmgy"
+        },
+        {
+            "assetid": 767700928,
+            "name": "\u2718MAD ALIENS #01\u2718",
+            "url": "ipfs://QmPHXpJhoes2Cbp8REeiNJ456RbPvDvJ9cZV7LNtGaiCs2#arc3",
+            "image": "QmPHXpJhoes2Cbp8REeiNJ456RbPvDvJ9cZV7LNtGaiCs2"
+        },
+        {
+            "assetid": 767701733,
+            "name": "\u2718MAD ALIENS #02\u2718",
+            "url": "ipfs://QmdpZ4CqFKjsH7WneowPn19LsRcafPvWRDB1GLAcwVm6Db#arc3",
+            "image": "QmdpZ4CqFKjsH7WneowPn19LsRcafPvWRDB1GLAcwVm6Db"
+        },
+        {
+            "assetid": 767702442,
+            "name": "\u2718MAD ALIENS #03\u2718",
+            "url": "ipfs://QmaQhvkkUTyNbV7Gi7e9ZcMUJqsowC4dw3Pw2B8qiMhSFL#arc3",
+            "image": "QmaQhvkkUTyNbV7Gi7e9ZcMUJqsowC4dw3Pw2B8qiMhSFL"
+        },
+        {
+            "assetid": 767703018,
+            "name": "\u2718MAD ALIENS #04\u2718",
+            "url": "ipfs://QmSVjTG3GY1tf5B4ZMFcoch2SszqaQwyyw3EN8z1cKTyri#arc3",
+            "image": "QmSVjTG3GY1tf5B4ZMFcoch2SszqaQwyyw3EN8z1cKTyri"
+        },
+        {
+            "assetid": 769232980,
+            "name": "\u2718MAD ALIENS #05\u2718",
+            "url": "ipfs://QmUrVMMsQzxndoddYxyTTv2nLPUbwcas5fw4SDHGqUHpcF#arc3",
+            "image": "QmUrVMMsQzxndoddYxyTTv2nLPUbwcas5fw4SDHGqUHpcF"
+        },
+        {
+            "assetid": 773147144,
+            "name": "\u2718MAD ALIENS #06\u2718",
+            "url": "ipfs://QmTGwqeWXAJLAX3XSaAyP7SQMpZm4dw9kkvnUWSqqUMxUj#arc3",
+            "image": "QmTGwqeWXAJLAX3XSaAyP7SQMpZm4dw9kkvnUWSqqUMxUj"
+        },
+        {
+            "assetid": 780050584,
+            "name": "\u2718MAD ALIENS #07\u2718",
+            "url": "ipfs://QmURSy1r4aWrZAjGvsPX4L4MdZ4FdVghDVANYyRPj9y9ru#arc3",
+            "image": "QmURSy1r4aWrZAjGvsPX4L4MdZ4FdVghDVANYyRPj9y9ru"
+        },
+        {
+            "assetid": 785269952,
+            "name": "\u2718MAD ALIENS #08\u2718",
+            "url": "ipfs://QmXiePTSgFU7x5nSL7mt6siXR1DLciSmFtu3MywYfGkN49#arc3",
+            "image": "QmXiePTSgFU7x5nSL7mt6siXR1DLciSmFtu3MywYfGkN49"
+        },
+        {
+            "assetid": 790506830,
+            "name": "FUNNY DOGS #01",
+            "url": "ipfs://QmZa2D3XStKv823FyP5sKUoJ1ifiwpgkUKDrrbLwiug3g3#arc3",
+            "image": "QmZa2D3XStKv823FyP5sKUoJ1ifiwpgkUKDrrbLwiug3g3"
+        },
+        {
+            "assetid": 790507127,
+            "name": "FUNNY DOGS #02",
+            "url": "ipfs://QmTeAkf9iPK4oB2gp1daGhLw86nAz2CtJxhnBun8D5QmvZ#arc3",
+            "image": "QmTeAkf9iPK4oB2gp1daGhLw86nAz2CtJxhnBun8D5QmvZ"
+        },
+        {
+            "assetid": 790507473,
+            "name": "FUNNY DOGS #03",
+            "url": "ipfs://QmR21Rs4Tgb8YTPSJNVwGz24AP9dPFYqK2nJMjUDdfaJe4#arc3",
+            "image": "QmR21Rs4Tgb8YTPSJNVwGz24AP9dPFYqK2nJMjUDdfaJe4"
+        },
+        {
+            "assetid": 790507809,
+            "name": "FUNNY DOGS #04",
+            "url": "ipfs://QmYWXG8KqmMdfiSnXjpurGWPMKNrMRDMuSQppizNbyyZUi#arc3",
+            "image": "QmYWXG8KqmMdfiSnXjpurGWPMKNrMRDMuSQppizNbyyZUi"
+        },
+        {
+            "assetid": 790508020,
+            "name": "FUNNY DOGS #05",
+            "url": "ipfs://QmTiKd97HJoHBkJRmhs9JaBf1g5SmVUuSNds52XWbqi7w1#arc3",
+            "image": "QmTiKd97HJoHBkJRmhs9JaBf1g5SmVUuSNds52XWbqi7w1"
+        },
+        {
+            "assetid": 790508474,
+            "name": "FUNNY DOGS #06",
+            "url": "ipfs://QmXbGUodEG5gigz2zuUFsZ4kmtmjahQPe5APsYDWiojBEv#arc3",
+            "image": "QmXbGUodEG5gigz2zuUFsZ4kmtmjahQPe5APsYDWiojBEv"
+        },
+        {
+            "assetid": 790508978,
+            "name": "FUNNY DOGS #07",
+            "url": "ipfs://QmaH7dxvarXdW8uwHcRXCqAJP1RWNwaBZuCAChwZu3M4xt#arc3",
+            "image": "QmaH7dxvarXdW8uwHcRXCqAJP1RWNwaBZuCAChwZu3M4xt"
+        },
+        {
+            "assetid": 790509369,
+            "name": "FUNNY DOGS #08",
+            "url": "ipfs://QmRrsxfaMFRPg7y7kKJYdmCVe5BjHLYQXeoYumSwgnwvyC#arc3",
+            "image": "QmRrsxfaMFRPg7y7kKJYdmCVe5BjHLYQXeoYumSwgnwvyC"
+        },
+        {
+            "assetid": 790509773,
+            "name": "FUNNY DOGS #09",
+            "url": "ipfs://QmegyNku77cZqg2U4GX3FAm6recSbXQANvc7gjjfoiUzVp#arc3",
+            "image": "QmegyNku77cZqg2U4GX3FAm6recSbXQANvc7gjjfoiUzVp"
+        },
+        {
+            "assetid": 790510086,
+            "name": "FUNNY DOGS #10",
+            "url": "ipfs://QmTRr9SRTaWuCQx1DdgEWjqTfcSJxDk5xsucc2UUPtogYP#arc3",
+            "image": "QmTRr9SRTaWuCQx1DdgEWjqTfcSJxDk5xsucc2UUPtogYP"
+        },
+        {
+            "assetid": 792435906,
+            "name": "FUNNY DOGS #11",
+            "url": "ipfs://QmPuCvhMw1XyUghuX6sTrbt1WCTdovAJeRfiEe6JghZmbK#arc3",
+            "image": "QmPuCvhMw1XyUghuX6sTrbt1WCTdovAJeRfiEe6JghZmbK"
+        },
+        {
+            "assetid": 792436190,
+            "name": "FUNNY DOGS #12",
+            "url": "ipfs://QmY1kSPuPAVC3kQPEkPfBwo8588JokW3RdwvhuXt7AKpv4#arc3",
+            "image": "QmY1kSPuPAVC3kQPEkPfBwo8588JokW3RdwvhuXt7AKpv4"
+        },
+        {
+            "assetid": 792436397,
+            "name": "FUNNY DOGS #13",
+            "url": "ipfs://QmWYr2o4onKPDVou2ZJZT5ncB4GaGAhCtmqWWRd41s6Dtp#arc3",
+            "image": "QmWYr2o4onKPDVou2ZJZT5ncB4GaGAhCtmqWWRd41s6Dtp"
+        },
+        {
+            "assetid": 792436679,
+            "name": "FUNNY DOGS #14",
+            "url": "ipfs://QmQbj4efsfPsMWRaQMh6XUX5zuLME7kfUpdpZg1789j2eD#arc3",
+            "image": "QmQbj4efsfPsMWRaQMh6XUX5zuLME7kfUpdpZg1789j2eD"
+        },
+        {
+            "assetid": 792436939,
+            "name": "FUNNY DOGS #15",
+            "url": "ipfs://QmaML8BwcEQVuV6eBDjLYVXb6FFyeno79JqsxyaCZDEt6J#arc3",
+            "image": "QmaML8BwcEQVuV6eBDjLYVXb6FFyeno79JqsxyaCZDEt6J"
+        },
+        {
+            "assetid": 794127670,
+            "name": "FUNNY DOGS #16",
+            "url": "ipfs://QmcmcDJAWjLk4xeZpCcXZFatwsMV9eBBAjXbF5UcCahqPF#arc3",
+            "image": "QmcmcDJAWjLk4xeZpCcXZFatwsMV9eBBAjXbF5UcCahqPF"
+        },
+        {
+            "assetid": 794127969,
+            "name": "FUNNY DOGS #17",
+            "url": "ipfs://QmVvm613v1S49WoVXXJeaebgcpcFpKDcGCWHhiwkFgi6Hb#arc3",
+            "image": "QmVvm613v1S49WoVXXJeaebgcpcFpKDcGCWHhiwkFgi6Hb"
+        },
+        {
+            "assetid": 794129036,
+            "name": "FUNNY DOGS #20",
+            "url": "ipfs://QmYJcQUBuumpnmhgDkfKvVqKp9HFzjvYwqKWot5TCPPamy#arc3",
+            "image": "QmYJcQUBuumpnmhgDkfKvVqKp9HFzjvYwqKWot5TCPPamy"
+        },
+        {
+            "assetid": 794240676,
+            "name": "FUNNY DOGS #18",
+            "url": "ipfs://QmZuUucJQu2MXF6d3z4dTMJExR55cHJF3JJFRDvVvRYbpS#arc3",
+            "image": "QmZuUucJQu2MXF6d3z4dTMJExR55cHJF3JJFRDvVvRYbpS"
+        },
+        {
+            "assetid": 794241127,
+            "name": "FUNNY DOGS #19",
+            "url": "ipfs://QmWNefTewzfrUZkEQ8Qq8iwyy72XRdpBfPuZV6uy76YzTe#arc3",
+            "image": "QmWNefTewzfrUZkEQ8Qq8iwyy72XRdpBfPuZV6uy76YzTe"
+        },
+        {
+            "assetid": 797346372,
+            "name": "FUNNY DOGS #21",
+            "url": "ipfs://QmSAbR1YTHth3deJTy2EwtNkqFCQku5atU1WhWtKt5NUuk#arc3",
+            "image": "QmSAbR1YTHth3deJTy2EwtNkqFCQku5atU1WhWtKt5NUuk"
+        },
+        {
+            "assetid": 797347162,
+            "name": "FUNNY DOGS #22",
+            "url": "ipfs://QmYsHRde182XQq9V5Sow8na7rVSCpqsEoqrxC3DDLGpAg4#arc3",
+            "image": "QmYsHRde182XQq9V5Sow8na7rVSCpqsEoqrxC3DDLGpAg4"
+        },
+        {
+            "assetid": 797347456,
+            "name": "FUNNY DOGS #23",
+            "url": "ipfs://Qma7CeXSxhfu9Y6qC6Q3jey5Jio8rn81a86koa9uvvRAvE#arc3",
+            "image": "Qma7CeXSxhfu9Y6qC6Q3jey5Jio8rn81a86koa9uvvRAvE"
+        },
+        {
+            "assetid": 797347736,
+            "name": "FUNNY DOGS #24",
+            "url": "ipfs://QmeMEuvCwJyMdEJTKTp27WEKqWR8iFf2ipvfwVASNKCmmR#arc3",
+            "image": "QmeMEuvCwJyMdEJTKTp27WEKqWR8iFf2ipvfwVASNKCmmR"
+        },
+        {
+            "assetid": 797348008,
+            "name": "FUNNY DOGS #25",
+            "url": "ipfs://Qmc3sV9JrTkBuxuYEwC7YToLBe3ut5DwzGwH4Kkjt9R3Q5#arc3",
+            "image": "Qmc3sV9JrTkBuxuYEwC7YToLBe3ut5DwzGwH4Kkjt9R3Q5"
+        },
+        {
+            "assetid": 799365340,
+            "name": "FUNNY DOGS #26",
+            "url": "ipfs://QmdhWs4xPvdis2S8AUPgPW71VLf6JLTj3B9R5uekQyvA6p#arc3",
+            "image": "QmdhWs4xPvdis2S8AUPgPW71VLf6JLTj3B9R5uekQyvA6p"
+        },
+        {
+            "assetid": 799365753,
+            "name": "FUNNY DOGS #27",
+            "url": "ipfs://QmZK8dBBojbsyFJG3SogGiQ49Yy3zvaZz4mqc81GaWrh28#arc3",
+            "image": "QmZK8dBBojbsyFJG3SogGiQ49Yy3zvaZz4mqc81GaWrh28"
+        },
+        {
+            "assetid": 799366072,
+            "name": "FUNNY DOGS #28",
+            "url": "ipfs://Qmb2KzLVbnFmcRwCNaaC5uXbWBTtUaeEuN6xYA57L5Kyhv#arc3",
+            "image": "Qmb2KzLVbnFmcRwCNaaC5uXbWBTtUaeEuN6xYA57L5Kyhv"
+        },
+        {
+            "assetid": 799366357,
+            "name": "FUNNY DOGS #29",
+            "url": "ipfs://QmTFb4mUr8YpttQF6q8iHXd2ztJKGh9vRmjxDumdnbnLkL#arc3",
+            "image": "QmTFb4mUr8YpttQF6q8iHXd2ztJKGh9vRmjxDumdnbnLkL"
+        },
+        {
+            "assetid": 799366733,
+            "name": "FUNNY DOGS #30",
+            "url": "ipfs://QmZMxY5BPXCvqECqdK962YG7pquNYGQA81h3Bqoa8VDgtY#arc3",
+            "image": "QmZMxY5BPXCvqECqdK962YG7pquNYGQA81h3Bqoa8VDgtY"
+        },
+        {
+            "assetid": 801798290,
+            "name": "FUNNY DOGS #31",
+            "url": "ipfs://QmNncZv9GvCbjj1bBNYw295Pwxd4oyX2kukqhfnMAzRemY#arc3",
+            "image": "QmNncZv9GvCbjj1bBNYw295Pwxd4oyX2kukqhfnMAzRemY"
+        },
+        {
+            "assetid": 801798594,
+            "name": "FUNNY DOGS #32",
+            "url": "ipfs://QmQPb3ob865CQ7DSww69r3HmNUTBmEpjeXemVpu2epy6XD#arc3",
+            "image": "QmQPb3ob865CQ7DSww69r3HmNUTBmEpjeXemVpu2epy6XD"
+        },
+        {
+            "assetid": 801798899,
+            "name": "FUNNY DOGS #33",
+            "url": "ipfs://QmexHPZHmrzhmu4pcYTw5oUoTi9u5Q9xe4FExefgZy2GkB#arc3",
+            "image": "QmexHPZHmrzhmu4pcYTw5oUoTi9u5Q9xe4FExefgZy2GkB"
+        },
+        {
+            "assetid": 801799228,
+            "name": "FUNNY DOGS #34",
+            "url": "ipfs://QmSBCcVpC4ymvbRRutu5NpZtGFXJrr7FYJeWPMnr2X4zhn#arc3",
+            "image": "QmSBCcVpC4ymvbRRutu5NpZtGFXJrr7FYJeWPMnr2X4zhn"
+        },
+        {
+            "assetid": 801799516,
+            "name": "FUNNY DOGS #35",
+            "url": "ipfs://QmcqcSG7LyiHWNcNHGDrCZ7tbDvuMA9joJGk6sY8HhkUpH#arc3",
+            "image": "QmcqcSG7LyiHWNcNHGDrCZ7tbDvuMA9joJGk6sY8HhkUpH"
+        },
+        {
+            "assetid": 805941945,
+            "name": "FUNNY DOGS #36",
+            "url": "ipfs://Qma4tkmM6SUhooENaMFBdQJr8qLe1d93bk1iFgXFgoNXEa#arc3",
+            "image": "Qma4tkmM6SUhooENaMFBdQJr8qLe1d93bk1iFgXFgoNXEa"
+        },
+        {
+            "assetid": 805942777,
+            "name": "FUNNY DOGS #37",
+            "url": "ipfs://QmWRCeTZ8qtF7FKqZWzfrp7LezsUnEKkJPkiQ13nmDB2xM#arc3",
+            "image": "QmWRCeTZ8qtF7FKqZWzfrp7LezsUnEKkJPkiQ13nmDB2xM"
+        },
+        {
+            "assetid": 805943365,
+            "name": "FUNNY DOGS #38",
+            "url": "ipfs://Qmbj6t9QEuh46PjCnu3ixvdgLMqZYrUgho3Ad41mvxVqS1#arc3",
+            "image": "Qmbj6t9QEuh46PjCnu3ixvdgLMqZYrUgho3Ad41mvxVqS1"
+        },
+        {
+            "assetid": 805943892,
+            "name": "FUNNY DOGS #39",
+            "url": "ipfs://QmQn2CwBbhFBibhmoFTRHeih4DpS4UQbwMXrYA1w9EfVjh#arc3",
+            "image": "QmQn2CwBbhFBibhmoFTRHeih4DpS4UQbwMXrYA1w9EfVjh"
+        },
+        {
+            "assetid": 805944403,
+            "name": "FUNNY DOGS #40",
+            "url": "ipfs://QmZk2B5UmVkz6GtAtMYzoj47oEsQX2r8XpNW9aSFfytreU#arc3",
+            "image": "QmZk2B5UmVkz6GtAtMYzoj47oEsQX2r8XpNW9aSFfytreU"
+        },
+        {
+            "assetid": 805944747,
+            "name": "FUNNY DOGS #41",
+            "url": "ipfs://QmWZReyt2JV2DvMRQG533W3dSZiU1U6PGEykeSwN3bdr7E#arc3",
+            "image": "QmWZReyt2JV2DvMRQG533W3dSZiU1U6PGEykeSwN3bdr7E"
+        },
+        {
+            "assetid": 805945417,
+            "name": "FUNNY DOGS #42",
+            "url": "ipfs://QmUqRDwvDbfW3J1G8DKtfgVwPdAxcTm5sHoxtucQhVbmeL#arc3",
+            "image": "QmUqRDwvDbfW3J1G8DKtfgVwPdAxcTm5sHoxtucQhVbmeL"
+        },
+        {
+            "assetid": 805945811,
+            "name": "FUNNY DOGS #43",
+            "url": "ipfs://QmYtuoJzwgamo1HcigBpZruuJwpcbm6NEZST6s7DpXm7r3#arc3",
+            "image": "QmYtuoJzwgamo1HcigBpZruuJwpcbm6NEZST6s7DpXm7r3"
+        },
+        {
+            "assetid": 805946174,
+            "name": "FUNNY DOGS #44",
+            "url": "ipfs://QmQdKazg5DFAtc9iMnkDZZixPMgnaCmtU8SpnrRffgVnqa#arc3",
+            "image": "QmQdKazg5DFAtc9iMnkDZZixPMgnaCmtU8SpnrRffgVnqa"
+        },
+        {
+            "assetid": 805946489,
+            "name": "FUNNY DOGS #45",
+            "url": "ipfs://QmeKAuM6zDBbAxL1oyKHQhszSJ799TmQvY5Jc8Y2yjP2CY#arc3",
+            "image": "QmeKAuM6zDBbAxL1oyKHQhszSJ799TmQvY5Jc8Y2yjP2CY"
+        },
+        {
+            "assetid": 809223954,
+            "name": "FUNNY DOGS #46",
+            "url": "ipfs://QmeEd8oHyRNBKVpGur3XNmcYKndxeoq9L2PVuP6JXVhLJp#arc3",
+            "image": "QmeEd8oHyRNBKVpGur3XNmcYKndxeoq9L2PVuP6JXVhLJp"
+        },
+        {
+            "assetid": 809224203,
+            "name": "FUNNY DOGS #47",
+            "url": "ipfs://QmebhXnS6gjMhfM98E22WX3TKybJjvAhAG2jxc5A9caAGD#arc3",
+            "image": "QmebhXnS6gjMhfM98E22WX3TKybJjvAhAG2jxc5A9caAGD"
+        },
+        {
+            "assetid": 809224442,
+            "name": "FUNNY DOGS #48",
+            "url": "ipfs://QmWP5urLqn4gALdSski3GixB8q2a4xWHAEZK1b756JnvS6#arc3",
+            "image": "QmWP5urLqn4gALdSski3GixB8q2a4xWHAEZK1b756JnvS6"
+        },
+        {
+            "assetid": 809224619,
+            "name": "FUNNY DOGS #49",
+            "url": "ipfs://QmSGj9oG5Yu1mtE3jXkJpK9AffWpDCmemqwr5Q8Bh9Kb3m#arc3",
+            "image": "QmSGj9oG5Yu1mtE3jXkJpK9AffWpDCmemqwr5Q8Bh9Kb3m"
+        },
+        {
+            "assetid": 809225279,
+            "name": "FUNNY DOGS #50",
+            "url": "ipfs://Qmf3EfNJ4cyn8ccAULCPE6RUroAiPUtM5TpteoJKyby3cz#arc3",
+            "image": "Qmf3EfNJ4cyn8ccAULCPE6RUroAiPUtM5TpteoJKyby3cz"
+        },
+        {
+            "assetid": 811712039,
+            "name": "FUNNY DOGS #51",
+            "url": "ipfs://QmTeYyTx26xvguq9gpQM547MVy5pbwYtbhseHfDZJnp5WX#arc3",
+            "image": "QmTeYyTx26xvguq9gpQM547MVy5pbwYtbhseHfDZJnp5WX"
+        },
+        {
+            "assetid": 811712400,
+            "name": "FUNNY DOGS #52",
+            "url": "ipfs://QmbRMgPzQCxeZsLM4GdeaTud9J2HgjqSSgdTpGmLjpCgbn#arc3",
+            "image": "QmbRMgPzQCxeZsLM4GdeaTud9J2HgjqSSgdTpGmLjpCgbn"
+        },
+        {
+            "assetid": 811712622,
+            "name": "FUNNY DOGS #53",
+            "url": "ipfs://QmZha3Hn5x7MPZyeAKWY2fpusaYqjqBsFyqt8XJpfE1Q81#arc3",
+            "image": "QmZha3Hn5x7MPZyeAKWY2fpusaYqjqBsFyqt8XJpfE1Q81"
+        },
+        {
+            "assetid": 811712884,
+            "name": "FUNNY DOGS #54",
+            "url": "ipfs://QmfGRPLsFSSRri2dQtMpTk4sPBHGNx7dJBn1bCJCEWVKX6#arc3",
+            "image": "QmfGRPLsFSSRri2dQtMpTk4sPBHGNx7dJBn1bCJCEWVKX6"
+        },
+        {
+            "assetid": 811713051,
+            "name": "FUNNY DOGS #55",
+            "url": "ipfs://QmSQJxD1AysRGFUaQ435PwM9rBQaJmWWu7mu5K9R5JA8Kc#arc3",
+            "image": "QmSQJxD1AysRGFUaQ435PwM9rBQaJmWWu7mu5K9R5JA8Kc"
+        },
+        {
+            "assetid": 813711264,
+            "name": "FUNNY DOGS #56",
+            "url": "ipfs://QmUTtUbp6oDHLdhzwEJHZy8FqrhkGK1Kmx67R3RT1ht2dB#arc3",
+            "image": "QmUTtUbp6oDHLdhzwEJHZy8FqrhkGK1Kmx67R3RT1ht2dB"
+        },
+        {
+            "assetid": 813711545,
+            "name": "FUNNY DOGS #57",
+            "url": "ipfs://QmcQT2LFf1ZUUyPoLuF22ybSyhV6mrDW8M6pgmX6qs47Si#arc3",
+            "image": "QmcQT2LFf1ZUUyPoLuF22ybSyhV6mrDW8M6pgmX6qs47Si"
+        },
+        {
+            "assetid": 813711889,
+            "name": "FUNNY DOGS #58",
+            "url": "ipfs://QmcCRiTfGZGfgfWLo9NJbnkP42KvD1ZzDvGuYxpGdG7XZT#arc3",
+            "image": "QmcCRiTfGZGfgfWLo9NJbnkP42KvD1ZzDvGuYxpGdG7XZT"
+        },
+        {
+            "assetid": 813712263,
+            "name": "FUNNY DOGS #59",
+            "url": "ipfs://QmdWXmNQZGgcv6FihWbgmTdGAatEa8SAUgycbthr87oQV4#arc3",
+            "image": "QmdWXmNQZGgcv6FihWbgmTdGAatEa8SAUgycbthr87oQV4"
+        },
+        {
+            "assetid": 813712665,
+            "name": "FUNNY DOGS #60",
+            "url": "ipfs://QmS66va97aFFQSAc2iba2NF1wivEi6zs4pYxeorDgv4KW7#arc3",
+            "image": "QmS66va97aFFQSAc2iba2NF1wivEi6zs4pYxeorDgv4KW7"
+        },
+        {
+            "assetid": 815825750,
+            "name": "FUNNY DOGS #61",
+            "url": "ipfs://QmYx1Q9RPUSTQ18M6ZF4EqQA3EDf9ncB2z4j4EYCEQUwfn#arc3",
+            "image": "QmYx1Q9RPUSTQ18M6ZF4EqQA3EDf9ncB2z4j4EYCEQUwfn"
+        },
+        {
+            "assetid": 815826115,
+            "name": "FUNNY DOGS #62",
+            "url": "ipfs://QmTptQmf3jdu2oPfYKJ5XsJbejDXSwefuHemJqMQAjtYQR#arc3",
+            "image": "QmTptQmf3jdu2oPfYKJ5XsJbejDXSwefuHemJqMQAjtYQR"
+        },
+        {
+            "assetid": 815834178,
+            "name": "FUNNY DOGS #63",
+            "url": "ipfs://QmWH92tZGgwAkMUjKA9RW2Fstr88FBdpeVzmrHYgMEAU6r#arc3",
+            "image": "QmWH92tZGgwAkMUjKA9RW2Fstr88FBdpeVzmrHYgMEAU6r"
+        },
+        {
+            "assetid": 818167122,
+            "name": "FUNNY DOGS #64",
+            "url": "ipfs://QmR53nfYQRHoVC4hvFKnAmJFMymZLztM5NN1BvA11JZ746#arc3",
+            "image": "QmR53nfYQRHoVC4hvFKnAmJFMymZLztM5NN1BvA11JZ746"
+        },
+        {
+            "assetid": 818167399,
+            "name": "FUNNY DOGS #65",
+            "url": "ipfs://QmXsZuVbvrXH5xcAKNUCiNkS4Hb3TkGWCeddwyeUMNd32Q#arc3",
+            "image": "QmXsZuVbvrXH5xcAKNUCiNkS4Hb3TkGWCeddwyeUMNd32Q"
+        },
+        {
+            "assetid": 818167690,
+            "name": "FUNNY DOGS #66",
+            "url": "ipfs://QmaZpeFVLsuJC9Vsijiq9hQQv6t6yEqURzHJeYcKA3zu22#arc3",
+            "image": "QmaZpeFVLsuJC9Vsijiq9hQQv6t6yEqURzHJeYcKA3zu22"
+        },
+        {
+            "assetid": 819773268,
+            "name": "FUNNY DOGS #67",
+            "url": "ipfs://QmS8YTHx6ot8yj7eTaiXyZe5S7BcKHFpb8nMAHCuLMzR8y#arc3",
+            "image": "QmS8YTHx6ot8yj7eTaiXyZe5S7BcKHFpb8nMAHCuLMzR8y"
+        },
+        {
+            "assetid": 819773660,
+            "name": "FUNNY DOGS #68",
+            "url": "ipfs://QmNbKQnR4AYuEJqLJuXc5KRtWy8wkysgKCu7R6QCpY7CFQ#arc3",
+            "image": "QmNbKQnR4AYuEJqLJuXc5KRtWy8wkysgKCu7R6QCpY7CFQ"
+        },
+        {
+            "assetid": 819773935,
+            "name": "FUNNY DOGS #69",
+            "url": "ipfs://QmVf8V4xjdDpi63CeKymfTdGaRBpKhdAkhoqdgjJ2m3xiZ#arc3",
+            "image": "QmVf8V4xjdDpi63CeKymfTdGaRBpKhdAkhoqdgjJ2m3xiZ"
+        },
+        {
+            "assetid": 826021144,
+            "name": "FUNNY DOGS #70",
+            "url": "ipfs://QmfEXadVYvsXQXMpBWAFNLfapKaT1tbY1FgRKp47Faa8d3#arc3",
+            "image": "QmfEXadVYvsXQXMpBWAFNLfapKaT1tbY1FgRKp47Faa8d3"
+        },
+        {
+            "assetid": 826021426,
+            "name": "FUNNY DOGS #71",
+            "url": "ipfs://QmV2KFDdBzenmTkGWzjfVNeCLCrFZcWB31m9H3r1WiTcXw#arc3",
+            "image": "QmV2KFDdBzenmTkGWzjfVNeCLCrFZcWB31m9H3r1WiTcXw"
+        },
+        {
+            "assetid": 826021722,
+            "name": "FUNNY DOGS #72",
+            "url": "ipfs://QmZC3hN8joTZPymXHU6FunNCn8WmkE2HrSX71qPer79wov#arc3",
+            "image": "QmZC3hN8joTZPymXHU6FunNCn8WmkE2HrSX71qPer79wov"
+        },
+        {
+            "assetid": 828479545,
+            "name": "FUNNY DOGS #73",
+            "url": "ipfs://QmbjC4VM9q5ziJareN8UViKJv7dyHHwv33zdDcJCaNJmVv#arc3",
+            "image": "QmbjC4VM9q5ziJareN8UViKJv7dyHHwv33zdDcJCaNJmVv"
+        },
+        {
+            "assetid": 828479838,
+            "name": "FUNNY DOGS #74",
+            "url": "ipfs://QmSm5cEGw4vZ8NGqv83K9TdWDJ3sojn5hsjUYiWTTXP5g1#arc3",
+            "image": "QmSm5cEGw4vZ8NGqv83K9TdWDJ3sojn5hsjUYiWTTXP5g1"
+        },
+        {
+            "assetid": 828480238,
+            "name": "FUNNY DOGS #75",
+            "url": "ipfs://QmUcgJtDqD8vt5Pr1mt3n6zSnVaMZeHBUUJZifcqpNCDYP#arc3",
+            "image": "QmUcgJtDqD8vt5Pr1mt3n6zSnVaMZeHBUUJZifcqpNCDYP"
+        },
+        {
+            "assetid": 829495475,
+            "name": "Crazy Jack of Hearts",
+            "url": "ipfs://QmSiYkkt5EaMt8juHXoBfZNT1c5ckEYbAQ1NEG9oes3oLZ#arc3",
+            "image": "QmSiYkkt5EaMt8juHXoBfZNT1c5ckEYbAQ1NEG9oes3oLZ"
+        },
+        {
+            "assetid": 830529577,
+            "name": "FUNNY DOGS #76",
+            "url": "ipfs://QmUuoV2nouXRhgv3cRej7HvTXTcDz49XyGZBmTEzp4i4d9#arc3",
+            "image": "QmUuoV2nouXRhgv3cRej7HvTXTcDz49XyGZBmTEzp4i4d9"
+        },
+        {
+            "assetid": 833473390,
+            "name": "FUNNY DOGS #77",
+            "url": "ipfs://QmYzAqWz23j3whPpS6Amzxa9RUE1V3BxkyCP9FLjUwmgnv#arc3",
+            "image": "QmYzAqWz23j3whPpS6Amzxa9RUE1V3BxkyCP9FLjUwmgnv"
+        },
+        {
+            "assetid": 833473798,
+            "name": "FUNNY DOGS #78",
+            "url": "ipfs://QmWdcd4Q2LXZwmBar7UGRUH2UU12rkQ9XegAhAh6NULGak#arc3",
+            "image": "QmWdcd4Q2LXZwmBar7UGRUH2UU12rkQ9XegAhAh6NULGak"
+        },
+        {
+            "assetid": 833474282,
+            "name": "FUNNY DOGS #79",
+            "url": "ipfs://QmUBLFENkWGfCCmmhUjoYiorZdGigKrLUj3A1wdfY3REE1#arc3",
+            "image": "QmUBLFENkWGfCCmmhUjoYiorZdGigKrLUj3A1wdfY3REE1"
+        },
+        {
+            "assetid": 835256803,
+            "name": "FUNNY DOGS #80",
+            "url": "ipfs://QmaY45azvaTQjGepGrn3FVt3GDHDF7FXJe4zxfUPFf7Q6r#arc3",
+            "image": "QmaY45azvaTQjGepGrn3FVt3GDHDF7FXJe4zxfUPFf7Q6r"
+        },
+        {
+            "assetid": 844348922,
+            "name": "FUNNY DOGS #81",
+            "url": "ipfs://QmZsCnFb9hdGnndc61VwJQ6KwecnVk2CQXz95Mt75MxUC3#arc3",
+            "image": "QmZsCnFb9hdGnndc61VwJQ6KwecnVk2CQXz95Mt75MxUC3"
+        },
+        {
+            "assetid": 844349654,
+            "name": "FUNNY DOGS #82",
+            "url": "ipfs://QmfF9yjjsHwE12rGGicuwWd8RPTe1PvWqgAXX5NgTE7fAm#arc3",
+            "image": "QmfF9yjjsHwE12rGGicuwWd8RPTe1PvWqgAXX5NgTE7fAm"
+        },
+        {
+            "assetid": 850128993,
+            "name": "FUNNY DOGS #83",
+            "url": "ipfs://QmZmgZSWc4mi4NNLdjUbU4FSLvNh8zLywAY2C2CR9RfUbn#arc3",
+            "image": "QmZmgZSWc4mi4NNLdjUbU4FSLvNh8zLywAY2C2CR9RfUbn"
+        },
+        {
+            "assetid": 856211379,
+            "name": "FUNNY DOGS #84",
+            "url": "ipfs://QmVRfqYFYfNxwSyHnxWTgnUXoHkV3jFpa6u4KdXS7NN2JR#arc3",
+            "image": "QmVRfqYFYfNxwSyHnxWTgnUXoHkV3jFpa6u4KdXS7NN2JR"
+        },
+        {
+            "assetid": 858478472,
+            "name": "FUNNY DOGS #85",
+            "url": "ipfs://QmRMerJKXVQPbsZA4h8mKupPAEei162SNxgQVYMfnXz4EG#arc3",
+            "image": "QmRMerJKXVQPbsZA4h8mKupPAEei162SNxgQVYMfnXz4EG"
+        },
+        {
+            "assetid": 861193858,
+            "name": "FUNNY DOGS #86",
+            "url": "ipfs://QmSpzWpCKoUSsZ96WWCFsWZr9HQDAA5Q5JUrf1TE8wzncd#arc3",
+            "image": "QmSpzWpCKoUSsZ96WWCFsWZr9HQDAA5Q5JUrf1TE8wzncd"
+        },
+        {
+            "assetid": 865412107,
+            "name": "FUNNY DOGS #87",
+            "url": "ipfs://QmX7r95n3XSsjFrNGDxBcEqBjgXh9ujfWMATQJKaMZUcTP#arc3",
+            "image": "QmX7r95n3XSsjFrNGDxBcEqBjgXh9ujfWMATQJKaMZUcTP"
+        },
+        {
+            "assetid": 865412572,
+            "name": "FUNNY DOGS #88",
+            "url": "ipfs://QmbzwtvoQwphS9biW5rpbPRLEuokSqNKXRkRwRZytWJA4T#arc3",
+            "image": "QmbzwtvoQwphS9biW5rpbPRLEuokSqNKXRkRwRZytWJA4T"
+        },
+        {
+            "assetid": 870296395,
+            "name": "\u2718MAD ALIENS #09\u2718",
+            "url": "ipfs://Qmam37oR9p1V6pR4uTNSnpZWW71XjQW4Ls7sFEZfepEszz#arc3",
+            "image": "Qmam37oR9p1V6pR4uTNSnpZWW71XjQW4Ls7sFEZfepEszz"
+        },
+        {
+            "assetid": 872816464,
+            "name": "FUNNY DOGS #89",
+            "url": "ipfs://QmNUXUYZhQnFtAfwmRc2hAT1GkujdGqW2FyYfDWNGiHR3E#arc3",
+            "image": "QmNUXUYZhQnFtAfwmRc2hAT1GkujdGqW2FyYfDWNGiHR3E"
+        },
+        {
+            "assetid": 874684106,
+            "name": "FUNNY DOGS #90",
+            "url": "ipfs://QmdpfTrxJ3fXUdHUvndtCgg3j9A3KMcpSf3M3cmcQxM6yg#arc3",
+            "image": "QmdpfTrxJ3fXUdHUvndtCgg3j9A3KMcpSf3M3cmcQxM6yg"
+        },
+        {
+            "assetid": 906833498,
+            "name": "FUNNY DOGS #91",
+            "url": "ipfs://QmWfMQD7dstqFMVMAkTGQ5LysDzCVn6hzcxiymduqx9osN#arc3",
+            "image": "QmWfMQD7dstqFMVMAkTGQ5LysDzCVn6hzcxiymduqx9osN"
+        },
+        {
+            "assetid": 911150805,
+            "name": "FUNNY DOGS #92",
+            "url": "ipfs://QmfVbE58yFz9z4nXb7VXV5J2PKAe3bZfbgwetFwmjhGrqC#arc3",
+            "image": "QmfVbE58yFz9z4nXb7VXV5J2PKAe3bZfbgwetFwmjhGrqC"
+        },
+        {
+            "assetid": 919914420,
+            "name": "FUNNY DOGS #93",
+            "url": "ipfs://QmNzyx835DarnfWFUTgZT5VWCJbj2y9SJsusviy2SfCoN5#arc3",
+            "image": "QmNzyx835DarnfWFUTgZT5VWCJbj2y9SJsusviy2SfCoN5"
+        },
+        {
+            "assetid": 919914615,
+            "name": "FUNNY DOGS #94",
+            "url": "ipfs://QmYbpQ8NFx9TGn9yyQa9SExpviGXvNnM7KNNaH3VFQRik4#arc3",
+            "image": "QmYbpQ8NFx9TGn9yyQa9SExpviGXvNnM7KNNaH3VFQRik4"
+        },
+        {
+            "assetid": 947906855,
+            "name": "FUNNY DOGS #95",
+            "url": "ipfs://QmVKfTZ33C4UaKHxEXZvX7X4s3ij3mJFMzngUw2DngSheg#arc3",
+            "image": "QmVKfTZ33C4UaKHxEXZvX7X4s3ij3mJFMzngUw2DngSheg"
+        },
+        {
+            "assetid": 947907304,
+            "name": "FUNNY DOGS #96",
+            "url": "ipfs://QmQk7iVXgSbqfM9Y5kZ9qDZ3KYUqkpsZK2Gf7gCoMvyGSF#arc3",
+            "image": "QmQk7iVXgSbqfM9Y5kZ9qDZ3KYUqkpsZK2Gf7gCoMvyGSF"
+        },
+        {
+            "assetid": 947907565,
+            "name": "FUNNY DOGS #97",
+            "url": "ipfs://QmVvYQwMxgrogsGoykmnys7wDRVC6otWTje4FwnXCD1Gid#arc3",
+            "image": "QmVvYQwMxgrogsGoykmnys7wDRVC6otWTje4FwnXCD1Gid"
+        },
+        {
+            "assetid": 947907791,
+            "name": "FUNNY DOGS #98",
+            "url": "ipfs://QmctBGpDim6SpoRKkCgVp9Hq8Wb8zeKJpCBA9DLTKinLGK#arc3",
+            "image": "QmctBGpDim6SpoRKkCgVp9Hq8Wb8zeKJpCBA9DLTKinLGK"
+        },
+        {
+            "assetid": 947908012,
+            "name": "FUNNY DOGS #99",
+            "url": "ipfs://QmNVreY9Tbae5Y5QnqSg4hFUazRALmCEFYNpULNwy6EwmD#arc3",
+            "image": "QmNVreY9Tbae5Y5QnqSg4hFUazRALmCEFYNpULNwy6EwmD"
+        },
+        {
+            "assetid": 947908226,
+            "name": "FUNNY DOGS #100 (SPECIAL EDITIO",
+            "url": "ipfs://QmdGpBEscNYWFTaXzc76XktwRMJbsoYahcLqYpad15HUPg#arc3",
+            "image": "QmdGpBEscNYWFTaXzc76XktwRMJbsoYahcLqYpad15HUPg"
+        },
+        {
+            "assetid": 949000891,
+            "name": "\u2718MAD ALIENS #10\u2718",
+            "url": "ipfs://QmSDSFpsk73kjNfCfz8Y68JFC8dUak9cXoF79WEHnj2xVz#arc3",
+            "image": "QmSDSFpsk73kjNfCfz8Y68JFC8dUak9cXoF79WEHnj2xVz"
+        },
+        {
+            "assetid": 968126819,
+            "name": "FUNNY DOGS #101",
+            "url": "ipfs://QmWwLZjFwytQ7LgXKCK1tEeqqkUzrK4TZtVk63f6yZsuxN#arc3",
+            "image": "QmWwLZjFwytQ7LgXKCK1tEeqqkUzrK4TZtVk63f6yZsuxN"
+        },
+        {
+            "assetid": 968128076,
+            "name": "FUNNY DOGS #102",
+            "url": "ipfs://QmS5Cesx6cUFqUBrzxksTBLe4gmtxg86KgtFqukbiugLLm#arc3",
+            "image": "QmS5Cesx6cUFqUBrzxksTBLe4gmtxg86KgtFqukbiugLLm"
+        },
+        {
+            "assetid": 968128456,
+            "name": "FUNNY DOGS #103",
+            "url": "ipfs://QmXp8oHNhxVZw82USwe76VJ5udFcnnw3kpKXAfqTo4gP8G#arc3",
+            "image": "QmXp8oHNhxVZw82USwe76VJ5udFcnnw3kpKXAfqTo4gP8G"
+        },
+        {
+            "assetid": 972544689,
+            "name": "FUNNY DOGS #104",
+            "url": "ipfs://QmeJ1hBMRe2dHsBG3Abodx83VKgYAmiA9grR1RmkPe6oAk#arc3",
+            "image": "QmeJ1hBMRe2dHsBG3Abodx83VKgYAmiA9grR1RmkPe6oAk"
+        },
+        {
+            "assetid": 972545942,
+            "name": "FUNNY DOGS #105",
+            "url": "ipfs://QmY9JRnh13haGJ7UT3N8i61MUteueSeSHk15D9vH9vtV6j#arc3",
+            "image": "QmY9JRnh13haGJ7UT3N8i61MUteueSeSHk15D9vH9vtV6j"
+        },
+        {
+            "assetid": 972546378,
+            "name": "FUNNY DOGS #106",
+            "url": "ipfs://QmSA83NXjzy5sNpamxBtaGgziyrMDuYFwZzenWJy9MFbof#arc3",
+            "image": "QmSA83NXjzy5sNpamxBtaGgziyrMDuYFwZzenWJy9MFbof"
+        },
+        {
+            "assetid": 974072182,
+            "name": "FUNNY DOGS #107",
+            "url": "ipfs://QmQf6bwxYQPTgAr8Lni4ykvnhRoEj9pZrsaaFGsRnnfp56#arc3",
+            "image": "QmQf6bwxYQPTgAr8Lni4ykvnhRoEj9pZrsaaFGsRnnfp56"
+        },
+        {
+            "assetid": 974072628,
+            "name": "FUNNY DOGS #108",
+            "url": "ipfs://QmbdvMXa4uwuNMmeNm9hdxSsBuPA3nk8Wwq3RDbh9uePDX#arc3",
+            "image": "QmbdvMXa4uwuNMmeNm9hdxSsBuPA3nk8Wwq3RDbh9uePDX"
+        },
+        {
+            "assetid": 981902062,
+            "name": "FUNNY DOGS #109",
+            "url": "ipfs://QmNa4fWjrfDtqvrmzvNGbsYtAQVourNXXsYw51JUJQJBfR#arc3",
+            "image": "QmNa4fWjrfDtqvrmzvNGbsYtAQVourNXXsYw51JUJQJBfR"
+        },
+        {
+            "assetid": 1008865713,
+            "name": "FUNNY DOGS #110",
+            "url": "ipfs://QmVv92fujbTSFxhL2bEy87ZwMrGtE3RbRJd2jXE2mY9aqA#arc3",
+            "image": "QmVv92fujbTSFxhL2bEy87ZwMrGtE3RbRJd2jXE2mY9aqA"
+        },
+        {
+            "assetid": 1008866075,
+            "name": "FUNNY DOGS #111",
+            "url": "ipfs://QmeDDzVmnU8D1cwuXrP5vMTEGgo7mNaCPtBakSpaREkbxN#arc3",
+            "image": "QmeDDzVmnU8D1cwuXrP5vMTEGgo7mNaCPtBakSpaREkbxN"
+        },
+        {
+            "assetid": 1008866357,
+            "name": "FUNNY DOGS #112",
+            "url": "ipfs://QmWhFAzPh44BuZd9weAq3vNtrH361En5LrFrgsgFHoNQWh#arc3",
+            "image": "QmWhFAzPh44BuZd9weAq3vNtrH361En5LrFrgsgFHoNQWh"
+        },
+        {
+            "assetid": 1025018022,
+            "name": "FUNNY DOGS #113",
+            "url": "ipfs://QmYGtV6SoM2uc9P2n4XUPrMTnQ4J2KJBjgbrJhMy4oqL14#arc3",
+            "image": "QmYGtV6SoM2uc9P2n4XUPrMTnQ4J2KJBjgbrJhMy4oqL14"
+        },
+        {
+            "assetid": 1025019227,
+            "name": "FUNNY DOGS #114",
+            "url": "ipfs://QmW4jGoHwpWktZ87m1EEDdkkq6KzCahecXeykAnp9EWTYD#arc3",
+            "image": "QmW4jGoHwpWktZ87m1EEDdkkq6KzCahecXeykAnp9EWTYD"
+        }
+    ]
+}

@@ -2,7 +2,8 @@
     "Project": "Han Hope",
     "Creator": "House of Peace",
     "CreatorAddress": [
-        "4XAA4TVEUC7REU4VCPHK3KESMWUTQTSPCQP56FYFVYHBKZMVYO55UKJ2HA"
+        "4XAA4TVEUC7REU4VCPHK3KESMWUTQTSPCQP56FYFVYHBKZMVYO55UKJ2HA",
+        "NDPZ36FDXSFJRGPMZKF5X3X4OAZLAZE5BHNN754W3TYCL5LPOYMLWP3RBY"
     ],
     "Assets": [
         {
@@ -6334,6 +6335,180 @@
             "name": "Blade of the Ancestors",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhaa9ETE8RvRP1uC7ve1fTSZD882LWJLiF6xTDGhyWr32s"
+        },
+        {
+            "assetid": 1219630288,
+            "name": "HAN parts",
+            "url": "ipfs://bafybeiff2ixmw2zs6h555jeqbeazg3jdc2qoukigodhgcz7scokqw76fj4#i",
+            "image": "bafybeiff2ixmw2zs6h555jeqbeazg3jdc2qoukigodhgcz7scokqw76fj4"
+        },
+        {
+            "assetid": 1230605679,
+            "name": "001 the voice BG",
+            "url": "ipfs://bafybeigqgqb67wd4nytjsuemk5z6kl5qinx5272jt4ey4dal5ihkfhluwi#i",
+            "image": "bafybeigqgqb67wd4nytjsuemk5z6kl5qinx5272jt4ey4dal5ihkfhluwi"
+        },
+        {
+            "assetid": 1230606190,
+            "name": "001 The voice clothes",
+            "url": "ipfs://bafybeibetoawrhwmmxi53jzj3edzkeofmtmtymkmrh6c224euhqouktfrm#i",
+            "image": "bafybeibetoawrhwmmxi53jzj3edzkeofmtmtymkmrh6c224euhqouktfrm"
+        },
+        {
+            "assetid": 1230606686,
+            "name": "001 the voice head",
+            "url": "ipfs://bafybeifogcd54h2iwzw6cttrtk2rcjtkl455ou7jbpt2l5nltr6y45meqy#i",
+            "image": "bafybeifogcd54h2iwzw6cttrtk2rcjtkl455ou7jbpt2l5nltr6y45meqy"
+        },
+        {
+            "assetid": 1230609407,
+            "name": "002 The mystery BG",
+            "url": "ipfs://bafybeicz6tokeo5eeflfkty7oezebfrshcigdbwloh76qangxt32jv6pee#i",
+            "image": "bafybeicz6tokeo5eeflfkty7oezebfrshcigdbwloh76qangxt32jv6pee"
+        },
+        {
+            "assetid": 1230609866,
+            "name": "002 the mystery clothes",
+            "url": "ipfs://bafybeigo6lnutubaeqicoefjyoibygvdgt47sngi7y7x7fifhppejbjhva#i",
+            "image": "bafybeigo6lnutubaeqicoefjyoibygvdgt47sngi7y7x7fifhppejbjhva"
+        },
+        {
+            "assetid": 1230610354,
+            "name": "002 the mystery mask",
+            "url": "ipfs://bafybeibtikr5wutal27ubxfnolp53kc3py62dcqymlclacd7bvr2kmp4n4#i",
+            "image": "bafybeibtikr5wutal27ubxfnolp53kc3py62dcqymlclacd7bvr2kmp4n4"
+        },
+        {
+            "assetid": 1230618364,
+            "name": "003 sword of light",
+            "url": "ipfs://bafybeibaaoayrnitp5naylwhjpaeczvj5v3kmabzcmpczgngtceh5ujmyu#i",
+            "image": "bafybeibaaoayrnitp5naylwhjpaeczvj5v3kmabzcmpczgngtceh5ujmyu"
+        },
+        {
+            "assetid": 1230618975,
+            "name": "003 sword of light clothes",
+            "url": "ipfs://bafybeie62gfgwzojqxgp35im5ijptdnbbpydqyckdenjrjihieqnddzugm#i",
+            "image": "bafybeie62gfgwzojqxgp35im5ijptdnbbpydqyckdenjrjihieqnddzugm"
+        },
+        {
+            "assetid": 1230619730,
+            "name": "003 sword of light hair",
+            "url": "ipfs://bafybeibxesotiudgyovvhhtfwcbq2rbvfhjlhnv2d3nder34i5ptxdwsa4#i",
+            "image": "bafybeibxesotiudgyovvhhtfwcbq2rbvfhjlhnv2d3nder34i5ptxdwsa4"
+        },
+        {
+            "assetid": 1230620532,
+            "name": "003 the sword",
+            "url": "ipfs://bafybeigsfhdgf2burwziu7zikxvgjzffh2qqgmzqgzhis5nviveipkkapq#i",
+            "image": "bafybeigsfhdgf2burwziu7zikxvgjzffh2qqgmzqgzhis5nviveipkkapq"
+        },
+        {
+            "assetid": 1230622997,
+            "name": "004 The chain BG",
+            "url": "ipfs://bafybeifpbo4akrica4xxl5hj6hcbqxpjbxcicrf7fyy44zn6hygjd4qoz4#i",
+            "image": "bafybeifpbo4akrica4xxl5hj6hcbqxpjbxcicrf7fyy44zn6hygjd4qoz4"
+        },
+        {
+            "assetid": 1230623483,
+            "name": "004 The chain clothes",
+            "url": "ipfs://bafybeifhye3zgglp3k5pzrqruefrllq6sfq2xwgp3f7tymjitzdur7eyhe#i",
+            "image": "bafybeifhye3zgglp3k5pzrqruefrllq6sfq2xwgp3f7tymjitzdur7eyhe"
+        },
+        {
+            "assetid": 1230623987,
+            "name": "004 The chain mask",
+            "url": "ipfs://bafybeiegzzfwnajbvlfwcqn3fnhfbg37ynl52ij5hmydu57l4lbm3gqeem#i",
+            "image": "bafybeiegzzfwnajbvlfwcqn3fnhfbg37ynl52ij5hmydu57l4lbm3gqeem"
+        },
+        {
+            "assetid": 1230624732,
+            "name": "004 the chain sword",
+            "url": "ipfs://bafybeicvusirhiikrojkpd6enqwvvahdjibtfzzh7k3ris5xdf2v2awy4m#i",
+            "image": "bafybeicvusirhiikrojkpd6enqwvvahdjibtfzzh7k3ris5xdf2v2awy4m"
+        },
+        {
+            "assetid": 1230625238,
+            "name": "005 the future bg",
+            "url": "ipfs://bafybeihebfcwvtu3pxboc7sja3nqzqq4qlxbxlc4gfs7umjiyl2zhzwbqq#i",
+            "image": "bafybeihebfcwvtu3pxboc7sja3nqzqq4qlxbxlc4gfs7umjiyl2zhzwbqq"
+        },
+        {
+            "assetid": 1230626530,
+            "name": "005 the future clothes",
+            "url": "ipfs://bafybeibvfe3l2nnq36bun7cj7bryfhc4ktzdjf5o5aiqbu3s56uc5fiupe#i",
+            "image": "bafybeibvfe3l2nnq36bun7cj7bryfhc4ktzdjf5o5aiqbu3s56uc5fiupe"
+        },
+        {
+            "assetid": 1230627378,
+            "name": "005 the future mask",
+            "url": "ipfs://bafybeidkcis6txmwzqp5q4sdssdxbircfh5beu445nw56qozf5niu3j3a4#i",
+            "image": "bafybeidkcis6txmwzqp5q4sdssdxbircfh5beu445nw56qozf5niu3j3a4"
+        },
+        {
+            "assetid": 1230628097,
+            "name": "006 the mask bg",
+            "url": "ipfs://bafybeidagvghwdkdjzxd64hgzs4kbcla3mkfoyfvtdnatkfejid5m4wmhi#i",
+            "image": "bafybeidagvghwdkdjzxd64hgzs4kbcla3mkfoyfvtdnatkfejid5m4wmhi"
+        },
+        {
+            "assetid": 1230628728,
+            "name": "006 the mask  clothes",
+            "url": "ipfs://bafybeih7mwuxonfadwohsvqxnamauis7ucyw6luuapzme3pobhyrbmtjbm#i",
+            "image": "bafybeih7mwuxonfadwohsvqxnamauis7ucyw6luuapzme3pobhyrbmtjbm"
+        },
+        {
+            "assetid": 1230629076,
+            "name": "006 the mask",
+            "url": "ipfs://bafybeihqzyddilrmgxjxrxs6iodwz5l73l5otacoyukoo65dyzjtvvbj4a#i",
+            "image": "bafybeihqzyddilrmgxjxrxs6iodwz5l73l5otacoyukoo65dyzjtvvbj4a"
+        },
+        {
+            "assetid": 1230629748,
+            "name": "007 the option bg",
+            "url": "ipfs://bafybeibezleaofiu477w5liqs6mr4jmkmhxfjar37a6s2i7unkhuintgdm#i",
+            "image": "bafybeibezleaofiu477w5liqs6mr4jmkmhxfjar37a6s2i7unkhuintgdm"
+        },
+        {
+            "assetid": 1230630066,
+            "name": "007 the option clothes",
+            "url": "ipfs://bafybeienn3l64irak5obxk4ffb42gw5vpysrgxkfc2pnnueatqytb7rtxa#i",
+            "image": "bafybeienn3l64irak5obxk4ffb42gw5vpysrgxkfc2pnnueatqytb7rtxa"
+        },
+        {
+            "assetid": 1230630444,
+            "name": "007 the option glasses",
+            "url": "ipfs://bafkreieivo3u4vctrrejyuom4bpdtaokkkojivnn2spwctjl75paihfeei#i",
+            "image": "bafkreieivo3u4vctrrejyuom4bpdtaokkkojivnn2spwctjl75paihfeei"
+        },
+        {
+            "assetid": 1230631067,
+            "name": "008 the brave weapon bg",
+            "url": "ipfs://bafybeiclst5aekyjiaxuwxpzhypappplq66wiwfshhtlkkfthgdasacffe#i",
+            "image": "bafybeiclst5aekyjiaxuwxpzhypappplq66wiwfshhtlkkfthgdasacffe"
+        },
+        {
+            "assetid": 1230631814,
+            "name": "008 the brave weapon clothes",
+            "url": "ipfs://bafybeidvfay2rhw744ye5kbrwsbualciqcrdebll4ghflenfgm6iwljpie#i",
+            "image": "bafybeidvfay2rhw744ye5kbrwsbualciqcrdebll4ghflenfgm6iwljpie"
+        },
+        {
+            "assetid": 1230632270,
+            "name": "008 the brave weapon hair",
+            "url": "ipfs://bafybeibfvxjrcejinjtg2tsfrploxbsz3w6k4gljuuqadftrgazhnsc4be#i",
+            "image": "bafybeibfvxjrcejinjtg2tsfrploxbsz3w6k4gljuuqadftrgazhnsc4be"
+        },
+        {
+            "assetid": 1230632573,
+            "name": "008 the brave weapon gun",
+            "url": "ipfs://bafybeifxjjbp7cme36wkmbi2av4ydoqtvzrfik222bx5cmp5zx6a6o5wvq#i",
+            "image": "bafybeifxjjbp7cme36wkmbi2av4ydoqtvzrfik222bx5cmp5zx6a6o5wvq"
+        },
+        {
+            "assetid": 1231550805,
+            "name": "001 the voice BG 2",
+            "url": "ipfs://bafybeigqgqb67wd4nytjsuemk5z6kl5qinx5272jt4ey4dal5ihkfhluwi#i",
+            "image": "bafybeigqgqb67wd4nytjsuemk5z6kl5qinx5272jt4ey4dal5ihkfhluwi"
         }
     ]
 }

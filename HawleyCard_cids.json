@@ -1,0 +1,135 @@
+{
+    "Project": "HawleyCard",
+    "Creator": "HawleyCard",
+    "CreatorAddress": [
+        "SYZO2DP7RIWGZF3FUVII2IUEZAQVQKJZUE5W7CH6ZHNRQDGA5DOVHRT7Y4"
+    ],
+    "Assets": [
+        {
+            "assetid": 818152801,
+            "name": "Hawleycard Protos S1 C1 The Core",
+            "url": "ipfs://QmPyR8W45mSmN3SKn2p6YYFZ9G3nNuBDv6i4nT2j8t5A1j",
+            "image": "QmPyR8W45mSmN3SKn2p6YYFZ9G3nNuBDv6i4nT2j8t5A1j"
+        },
+        {
+            "assetid": 818282368,
+            "name": "Hawleycard Protos S1 C2 FourPort",
+            "url": "ipfs://QmXvrAfgLuQLnkr1syxTSgrF2FFNyNB1AoEwzEFzebYhTH",
+            "image": "QmXvrAfgLuQLnkr1syxTSgrF2FFNyNB1AoEwzEFzebYhTH"
+        },
+        {
+            "assetid": 818352948,
+            "name": "Hawleycard Protos S1 C3 Battery",
+            "url": "ipfs://QmeUcsW1wHmmEj8TvLnmihfu8TU2vAxfNoxKhqeyoUyNLr",
+            "image": "QmeUcsW1wHmmEj8TvLnmihfu8TU2vAxfNoxKhqeyoUyNLr"
+        },
+        {
+            "assetid": 818444310,
+            "name": "Hawleycard Protos S1 C4 EG1",
+            "url": "ipfs://QmUr7CrjCv2dzHJda26bEqCW8ZgA8GqkC8evE9kb27ZU5p",
+            "image": "QmUr7CrjCv2dzHJda26bEqCW8ZgA8GqkC8evE9kb27ZU5p"
+        },
+        {
+            "assetid": 818698668,
+            "name": "Hawleycard Protos S1C6 Stabilize",
+            "url": "ipfs://QmXA93J5cJoTGF5diyAgiLg2b1HnUnFWxFgfBvCNFxW82G",
+            "image": "QmXA93J5cJoTGF5diyAgiLg2b1HnUnFWxFgfBvCNFxW82G"
+        },
+        {
+            "assetid": 822104663,
+            "name": "HCard Protos S1C7 Parasitic",
+            "url": "ipfs://QmS6Thg63SQWJvT532MKufs126fBCPmqbyFLUGYRkTLRzq",
+            "image": "QmS6Thg63SQWJvT532MKufs126fBCPmqbyFLUGYRkTLRzq"
+        },
+        {
+            "assetid": 974084282,
+            "name": "HCard Protos S1C8 Disruptor",
+            "url": "ipfs://Qmf1UZ5tH8KrJNGTBfCQxna2vD8oRoHkrMDvzBVVz6Wg8q",
+            "image": "Qmf1UZ5tH8KrJNGTBfCQxna2vD8oRoHkrMDvzBVVz6Wg8q"
+        },
+        {
+            "assetid": 974186585,
+            "name": "HCard Sp22-1b Greenstar",
+            "url": "ipfs://QmefjnxogTUPbxBvkjnJXfXBkPTsctaQzoF989CeXwKcgZ",
+            "image": "QmefjnxogTUPbxBvkjnJXfXBkPTsctaQzoF989CeXwKcgZ"
+        },
+        {
+            "assetid": 974656553,
+            "name": "HCard SR22-2 Jadeguard",
+            "url": "ipfs://QmRScuVA9bYzP7PXbU3sPKiB6SvgmRMr44pSXeMKEvPhVo",
+            "image": "QmRScuVA9bYzP7PXbU3sPKiB6SvgmRMr44pSXeMKEvPhVo"
+        },
+        {
+            "assetid": 975477513,
+            "name": "HCard SR22-3 Black Pearl",
+            "url": "ipfs://QmSB751eGGBEkB66QATkFBxAGuMrSRCKKa1kFqcWvFNsEg",
+            "image": "QmSB751eGGBEkB66QATkFBxAGuMrSRCKKa1kFqcWvFNsEg"
+        },
+        {
+            "assetid": 976311577,
+            "name": "HCard HC2023-1 Ranger",
+            "url": "ipfs://QmQfzibXwRNKqr7LuXPJZnTfgunFBZBh1JmUsVKykprATy",
+            "image": "QmQfzibXwRNKqr7LuXPJZnTfgunFBZBh1JmUsVKykprATy"
+        },
+        {
+            "assetid": 1015508446,
+            "name": "HCard CAM SOC1 Shield",
+            "url": "ipfs://QmVcgArquAB2sktE1wwPZsrGSZSNnYKfZYRJnJdzcuTaFw",
+            "image": "QmVcgArquAB2sktE1wwPZsrGSZSNnYKfZYRJnJdzcuTaFw"
+        },
+        {
+            "assetid": 1015821394,
+            "name": "HCard CAM ASC1 Parasitic",
+            "url": "ipfs://QmQprrFrr5JfLF5HiRtgbrsiEoJVJSnWnS8tfznsqdkfk9",
+            "image": "QmQprrFrr5JfLF5HiRtgbrsiEoJVJSnWnS8tfznsqdkfk9"
+        },
+        {
+            "assetid": 1020007168,
+            "name": "HCard CAM SOC2 4PORT",
+            "url": "ipfs://QmXg8agjNkK1dPZzEYUVSzMnECZjA1NFgrWattwicGTg6V",
+            "image": "QmXg8agjNkK1dPZzEYUVSzMnECZjA1NFgrWattwicGTg6V"
+        },
+        {
+            "assetid": 1021183551,
+            "name": "HCard CAM SOC3 3PORT",
+            "url": "ipfs://QmRNniQxzqmvsJ719UnXVXgv9idsYAaQf2QjsiPTtQfUgp",
+            "image": "QmRNniQxzqmvsJ719UnXVXgv9idsYAaQf2QjsiPTtQfUgp"
+        },
+        {
+            "assetid": 1021772055,
+            "name": "HCard CAM ASC2 Battery",
+            "url": "ipfs://QmdddjkzkUQa11nYcjz1FiPmT3CoKPxjsMnUNykf4a8qsi",
+            "image": "QmdddjkzkUQa11nYcjz1FiPmT3CoKPxjsMnUNykf4a8qsi"
+        },
+        {
+            "assetid": 1031122293,
+            "name": "HCard CAM SOC4 Memory",
+            "url": "ipfs://QmcEKteKEskoekYDxTr3b2CwZfT65pWvxveh2Bzn4rRvCL",
+            "image": "QmcEKteKEskoekYDxTr3b2CwZfT65pWvxveh2Bzn4rRvCL"
+        },
+        {
+            "assetid": 1031927096,
+            "name": "HCard CAM SOC5 CR-L1V2",
+            "url": "ipfs://QmXVWQgqb9hEf8Ro1rJWiSiX5HUMJnabw8dUvnT1yhz2kE",
+            "image": "QmXVWQgqb9hEf8Ro1rJWiSiX5HUMJnabw8dUvnT1yhz2kE"
+        },
+        {
+            "assetid": 1037471132,
+            "name": "Di Richeson A-1 Watercolor 2009",
+            "url": "ipfs://QmZJjUhH7qYQgStKeRywJJhEfwXF2VYLKUNPijbKM5BztK",
+            "image": "QmZJjUhH7qYQgStKeRywJJhEfwXF2VYLKUNPijbKM5BztK"
+        },
+        {
+            "assetid": 1053228599,
+            "name": "HCard QDC1 HIGSxTear777",
+            "url": "ipfs://QmfWLZcrn95MED71j7yBepnFsvR6NQNLV7DAUpreS35QR7",
+            "image": "QmfWLZcrn95MED71j7yBepnFsvR6NQNLV7DAUpreS35QR7"
+        },
+        {
+            "assetid": 1053290445,
+            "name": "HCard QDC2 HIGSxCarnage",
+            "url": "ipfs://QmVhdiNFuxTifLn3pAM1VotDyP4ezA2NL8pVUSucB1ytRM",
+            "image": "QmVhdiNFuxTifLn3pAM1VotDyP4ezA2NL8pVUSucB1ytRM"
+        }
+    ]
+}

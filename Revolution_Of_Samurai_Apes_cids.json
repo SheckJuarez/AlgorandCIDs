@@ -1,0 +1,411 @@
+{
+    "Project": "Revolution Of Samurai Apes",
+    "Creator": "Revolution Of Samurai Apes",
+    "CreatorAddress": [
+        "C3SX2TGL65MMYNQPSUVUHBFXGG4KEJCYKWHQ2F3O46SU7TELKEDDOWTYDE"
+    ],
+    "Assets": [
+        {
+            "assetid": 1044097521,
+            "name": "ROSA9",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhoSG2sbsRBavGGSrUkevzDk4VEEMQ8A9y5UC3V1pQvBCc"
+        },
+        {
+            "assetid": 1044189887,
+            "name": "ROSA10",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhjEMvYJuTATcousdayCbqrTrQ6LMuWPNcxTw2KVBPbUhx"
+        },
+        {
+            "assetid": 1044232176,
+            "name": "ROSA11",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhgXbZsrTgHoMdwhuWw1KVHfEMTnj8GpJTv9xcnwVXs1Wo"
+        },
+        {
+            "assetid": 1044266232,
+            "name": "ROSA12",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhgVTdYtsgxcizZpsgQXkQxdtPLU6sRYtZU4kF6csAYWmc"
+        },
+        {
+            "assetid": 1044267614,
+            "name": "ROSA16",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhfiVGkLRC9fSn7Zw5www9DFpFCqwi14eZjCoH3QNKd4Nu"
+        },
+        {
+            "assetid": 1044267620,
+            "name": "ROSA15",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhgXEaTqeFQvv8sA1nbhKPiT3N2vr6aUxsyrCwJ9nKH7L2"
+        },
+        {
+            "assetid": 1044267630,
+            "name": "ROSA18",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhfBgTV6qriFg8c6icGBn5GYyjoKEVYf3Gt6B4j4UW3Red"
+        },
+        {
+            "assetid": 1044267636,
+            "name": "ROSA14",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhZZmnAfYf966DjgTT9kNz1zq6uceJbPBahnwrgRhn6one"
+        },
+        {
+            "assetid": 1044267642,
+            "name": "ROSA17",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhh4wgcUvAkzD6aBVEZu5WLqpkpuHgW6M12ehhtDKY6S9Y"
+        },
+        {
+            "assetid": 1044267648,
+            "name": "ROSA20",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhXficUt5BbgiA3Aog9xvX5sLG6mGCyVB6LoKdNT8PD25g"
+        },
+        {
+            "assetid": 1044267662,
+            "name": "ROSA19",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhkz8jV8njygabtuqtVd4LVdF7bWmsRX2mAAD1WitjRsMr"
+        },
+        {
+            "assetid": 1044267675,
+            "name": "ROSA13",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhfmNa1JHDVT9LvPvPRvPgEvz45NvKawzdPPwE4c4daJEh"
+        },
+        {
+            "assetid": 1044605847,
+            "name": "Samurai Ape 100",
+            "url": "ipfs://QmY6Zd4usmELUCBatTak7fyeNjcSabJfhDTH7YDVXiBAgf",
+            "image": "QmY6Zd4usmELUCBatTak7fyeNjcSabJfhDTH7YDVXiBAgf"
+        },
+        {
+            "assetid": 1044611278,
+            "name": "Samurai Ape #101",
+            "url": "ipfs://QmZTYp7N9B4GgBsa6Nw4HZL9myEdbjZcf74bSYc2833Ahj",
+            "image": "QmZTYp7N9B4GgBsa6Nw4HZL9myEdbjZcf74bSYc2833Ahj"
+        },
+        {
+            "assetid": 1044613129,
+            "name": "Samurai Ape #102",
+            "url": "ipfs://Qma3zow7pGhjY297MhbQgScaieEeD6RKe7xVJWbnTKgXZk",
+            "image": "Qma3zow7pGhjY297MhbQgScaieEeD6RKe7xVJWbnTKgXZk"
+        },
+        {
+            "assetid": 1044614196,
+            "name": "Samurai Ape #103",
+            "url": "ipfs://QmPNuhG5jrsYCWGr1C7kdRA8PrqnGwyPpPKjhK5dLmWUUZ",
+            "image": "QmPNuhG5jrsYCWGr1C7kdRA8PrqnGwyPpPKjhK5dLmWUUZ"
+        },
+        {
+            "assetid": 1044617993,
+            "name": "Samurai Ape #104",
+            "url": "ipfs://bafybeigcwofflaikdgxwlw2jq2chyaujlos4b252dliiywxhhdzsuutagu",
+            "image": "bafybeigcwofflaikdgxwlw2jq2chyaujlos4b252dliiywxhhdzsuutagu"
+        },
+        {
+            "assetid": 1044620271,
+            "name": "Samurai Ape #105",
+            "url": "ipfs://bafybeibxwswyiz42d7h6tvc7i5fhn3nkwvna6t33b2iwjgsw67sj6hu4jm#i",
+            "image": "bafybeibxwswyiz42d7h6tvc7i5fhn3nkwvna6t33b2iwjgsw67sj6hu4jm"
+        },
+        {
+            "assetid": 1044620961,
+            "name": "Samurai Ape #106",
+            "url": "ipfs://bafybeiacvhdusr4youwb4h6sysy3hfyjq5pi64h227qete4sbkvn5i2gf4#i",
+            "image": "bafybeiacvhdusr4youwb4h6sysy3hfyjq5pi64h227qete4sbkvn5i2gf4"
+        },
+        {
+            "assetid": 1044622596,
+            "name": "Samurai Ape #107",
+            "url": "ipfs://bafybeico7skn4nlycn6oi27us4zkkwdoangl54qy7drc4ice65vd3dmxha#i",
+            "image": "bafybeico7skn4nlycn6oi27us4zkkwdoangl54qy7drc4ice65vd3dmxha"
+        },
+        {
+            "assetid": 1044623169,
+            "name": "Samurai Ape #108",
+            "url": "ipfs://bafybeigp5kdlmkqxnfs33jl7slcm3ki6noa2z4q7ilra5sceiq72qob2pm#i",
+            "image": "bafybeigp5kdlmkqxnfs33jl7slcm3ki6noa2z4q7ilra5sceiq72qob2pm"
+        },
+        {
+            "assetid": 1044623912,
+            "name": "Samurai Ape #111",
+            "url": "ipfs://bafybeiar6oaxibl5zv3idjvkskzccbwv3qumo4qrf7gityfdhkfzkaobzi#i",
+            "image": "bafybeiar6oaxibl5zv3idjvkskzccbwv3qumo4qrf7gityfdhkfzkaobzi"
+        },
+        {
+            "assetid": 1044625529,
+            "name": "Samurai Ape #109",
+            "url": "ipfs://bafybeiayb2n4t5i3bwccvqrp3fe34eygisdezmydz5sbyswf5antlzn3fe#i",
+            "image": "bafybeiayb2n4t5i3bwccvqrp3fe34eygisdezmydz5sbyswf5antlzn3fe"
+        },
+        {
+            "assetid": 1044626024,
+            "name": "Samurai Ape #110",
+            "url": "ipfs://bafybeifvkdapghy77eexhvph6qjuqh4lrqcrtbavq7hg6ufhyqlgns3u5e#i",
+            "image": "bafybeifvkdapghy77eexhvph6qjuqh4lrqcrtbavq7hg6ufhyqlgns3u5e"
+        },
+        {
+            "assetid": 1044626366,
+            "name": "Samurai Ape #112",
+            "url": "ipfs://bafybeia37ufsnma6sf2lpawdwgxcbo3ryklnuhffbkjcgaagjhyeledqbu#i",
+            "image": "bafybeia37ufsnma6sf2lpawdwgxcbo3ryklnuhffbkjcgaagjhyeledqbu"
+        },
+        {
+            "assetid": 1044626801,
+            "name": "Samurai Ape #113",
+            "url": "ipfs://bafybeigrfqs2zefcg2z5daftlmuav5fnfnezd56mbgfsvmdlrbes4533j4#i",
+            "image": "bafybeigrfqs2zefcg2z5daftlmuav5fnfnezd56mbgfsvmdlrbes4533j4"
+        },
+        {
+            "assetid": 1047210128,
+            "name": "Samurai Ape #14",
+            "url": "ipfs://bafybeiezmb7ilfabuotrwdxzruwwtxzz2daomup2daf4brs2gvea3crhd4#i",
+            "image": "bafybeiezmb7ilfabuotrwdxzruwwtxzz2daomup2daf4brs2gvea3crhd4"
+        },
+        {
+            "assetid": 1047211614,
+            "name": "Samurai Ape #15",
+            "url": "ipfs://bafybeif22v6sz5pgt4blarjjn2bucluvt75m7ezckexz7qxkft4t2rwv3a#i",
+            "image": "bafybeif22v6sz5pgt4blarjjn2bucluvt75m7ezckexz7qxkft4t2rwv3a"
+        },
+        {
+            "assetid": 1047212479,
+            "name": "Samurai Ape",
+            "url": "ipfs://bafybeig2qo5msjf643jlkuia4jwthfh6ajgoktwk7psubkfb7uh2dysveu#i",
+            "image": "bafybeig2qo5msjf643jlkuia4jwthfh6ajgoktwk7psubkfb7uh2dysveu"
+        },
+        {
+            "assetid": 1047212970,
+            "name": "Samurai Ape #17",
+            "url": "ipfs://bafybeigwyk6kt6pxjv6puj235zl37hm2jqgsua5xucygepvjcmoqq6fpdq#i",
+            "image": "bafybeigwyk6kt6pxjv6puj235zl37hm2jqgsua5xucygepvjcmoqq6fpdq"
+        },
+        {
+            "assetid": 1047213279,
+            "name": "Samurai Ape #18",
+            "url": "ipfs://bafybeibzlqfkumvtaacot4dsinfjdayfbsu36ngloyuctafo2kw3zigvgm#i",
+            "image": "bafybeibzlqfkumvtaacot4dsinfjdayfbsu36ngloyuctafo2kw3zigvgm"
+        },
+        {
+            "assetid": 1047213719,
+            "name": "Samurai Ape #19",
+            "url": "ipfs://bafybeielumvaxqgbjyw7z3tf3xf4hyjdw5xob4cen5tk3mslymvp5s33gm#i",
+            "image": "bafybeielumvaxqgbjyw7z3tf3xf4hyjdw5xob4cen5tk3mslymvp5s33gm"
+        },
+        {
+            "assetid": 1047214002,
+            "name": "Samurai Ape #20",
+            "url": "ipfs://bafybeidppftlzrksssxl7brbmh6zwvtvnmau24kd3t2nhdpptiplmxb4o4#i",
+            "image": "bafybeidppftlzrksssxl7brbmh6zwvtvnmau24kd3t2nhdpptiplmxb4o4"
+        },
+        {
+            "assetid": 1047214434,
+            "name": "Samurai Ape #21",
+            "url": "ipfs://bafybeicpjwmeneat5vmneopmh7yoso4riwjea6tky4ajpcwekus3mgidui#i",
+            "image": "bafybeicpjwmeneat5vmneopmh7yoso4riwjea6tky4ajpcwekus3mgidui"
+        },
+        {
+            "assetid": 1047214699,
+            "name": "Samurai Ape #22",
+            "url": "ipfs://bafybeibtifhdq74xjr55db5mbplskwhneu3weoqyixuieyk3vk3rj7j72e#i",
+            "image": "bafybeibtifhdq74xjr55db5mbplskwhneu3weoqyixuieyk3vk3rj7j72e"
+        },
+        {
+            "assetid": 1047215086,
+            "name": "Samurai Ape #23",
+            "url": "ipfs://bafybeif2pjwhnssyb5mtrxswrkdx5cst7q6hctqlupxjbl3gqhrbb634c4#i",
+            "image": "bafybeif2pjwhnssyb5mtrxswrkdx5cst7q6hctqlupxjbl3gqhrbb634c4"
+        },
+        {
+            "assetid": 1047216386,
+            "name": "Samurai Ape #24",
+            "url": "ipfs://bafybeih4bi67cojm2ahabc3l2jzq457n3lknfyzyhvlx6p66pu2ylluqgy#i",
+            "image": "bafybeih4bi67cojm2ahabc3l2jzq457n3lknfyzyhvlx6p66pu2ylluqgy"
+        },
+        {
+            "assetid": 1047216956,
+            "name": "Samurai Ape #25",
+            "url": "ipfs://bafybeieg7ivvp343pat365qqemdqun273ia7ombjvkijargh7kdvfqxiqu#i",
+            "image": "bafybeieg7ivvp343pat365qqemdqun273ia7ombjvkijargh7kdvfqxiqu"
+        },
+        {
+            "assetid": 1047217799,
+            "name": "Samurai Ape #26",
+            "url": "ipfs://bafybeiejo3mgpkolnp6uosz3ky3vabe5rspckqccfz723l3rpqsaxbrlne#i",
+            "image": "bafybeiejo3mgpkolnp6uosz3ky3vabe5rspckqccfz723l3rpqsaxbrlne"
+        },
+        {
+            "assetid": 1047218565,
+            "name": "Samurai Ape #27",
+            "url": "ipfs://bafybeihw6uxhsz4x6wdnznzbonb5zpr7yc65xwsu3nwefqosm3zetg4ayi#i",
+            "image": "bafybeihw6uxhsz4x6wdnznzbonb5zpr7yc65xwsu3nwefqosm3zetg4ayi"
+        },
+        {
+            "assetid": 1047219544,
+            "name": "Samurai Ape #28",
+            "url": "ipfs://bafybeibenfw2v2ms4hxo5lze3zwt4ssg6hssg6raajjhfdtuotqcw2fx2a#i",
+            "image": "bafybeibenfw2v2ms4hxo5lze3zwt4ssg6hssg6raajjhfdtuotqcw2fx2a"
+        },
+        {
+            "assetid": 1047219859,
+            "name": "Samurai Ape #29",
+            "url": "ipfs://bafybeiauwercxufmeelsk7ckpggvozz4vkp5e6tjrfb4zi3cp2fgpg5ucy#i",
+            "image": "bafybeiauwercxufmeelsk7ckpggvozz4vkp5e6tjrfb4zi3cp2fgpg5ucy"
+        },
+        {
+            "assetid": 1047220191,
+            "name": "Samurai Ape #30",
+            "url": "ipfs://bafybeied7axl22drvbaeitx7uwjupe4bakaawdmz3eo7visaok5dki4uji#i",
+            "image": "bafybeied7axl22drvbaeitx7uwjupe4bakaawdmz3eo7visaok5dki4uji"
+        },
+        {
+            "assetid": 1049001337,
+            "name": "WOW1",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhWzGX97dVQNs3nndKP2CPvbdWDKDJXxyRb1bzAVTFzP4u"
+        },
+        {
+            "assetid": 1049001343,
+            "name": "WOW7",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhZLdo7cdvj8EuR47V7rF5PbComLX1U3YprpUrBNkMeXXM"
+        },
+        {
+            "assetid": 1049001362,
+            "name": "WOW2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhY8B2HzpREEizDzrkjaRFaXLeXbsNzRxzCHVcy4NuoUkq"
+        },
+        {
+            "assetid": 1049001368,
+            "name": "WOW8",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhk5xvkkBpsgvf6m7yaED8cGQp2SVmuXQFJo8eNmyLdy5G"
+        },
+        {
+            "assetid": 1049001374,
+            "name": "WOW6",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rho4QEJMeFaRn4Cbw87aWYVfDftoikhdRJy4s7gN2Lgzhp"
+        },
+        {
+            "assetid": 1049001380,
+            "name": "WOW4",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhjX1XfCFEYuJJd5nR171WbKnbrtuf1fFtKCpC44GLjSYi"
+        },
+        {
+            "assetid": 1049001387,
+            "name": "WOW3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhZhsc5fbELAc6h9LhkB2EELsrd48vxVzWN64TfqG3PGj5"
+        },
+        {
+            "assetid": 1049001401,
+            "name": "WOW5",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhf6TUKmUrm7pAUWjhurnb5at1m2xcSKod91SkBgYsovpk"
+        },
+        {
+            "assetid": 1051501368,
+            "name": "WOW10",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhenhxTBMrmvAZKucMHocsZQBjhUiFgrf5RB4S6rQzPN8r"
+        },
+        {
+            "assetid": 1051501385,
+            "name": "WOW13",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhdPiZeZBmKoVtPcvjSBZJPVcXFC1zmQk2jq8DqCXBdBcS"
+        },
+        {
+            "assetid": 1051501393,
+            "name": "WOW11",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhoohDgQmwYXkxbDmGawx6ifWgHK3Kr2J5ktZw6KFykgVD"
+        },
+        {
+            "assetid": 1051501401,
+            "name": "WOW14",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rheWqHqHbbn5LgUpvXq93Q7RGSA4MvM6P3MQq7L2ZFMvon"
+        },
+        {
+            "assetid": 1051501407,
+            "name": "WOW16",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhnjWkod4PEmkZXRAeFDhZahFmgmxBqHx7mGP54ExNqw4q"
+        },
+        {
+            "assetid": 1051501413,
+            "name": "WOW9",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhfwwFA6DSmx2tHyJPnXpGq4TgTS2tYmBS34jyMnc28kj9"
+        },
+        {
+            "assetid": 1051501419,
+            "name": "WOW12",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhmpj3RUNJ1LQmQ2xhD1EZvsEXFtrEWtKFKoDvd1KddGNT"
+        },
+        {
+            "assetid": 1051501428,
+            "name": "WOW15",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhmAG8XnoizhiP1ZLbVEfHtWc3c3TZwrQGEynrwnJjbqhh"
+        },
+        {
+            "assetid": 1051502556,
+            "name": "ROSA23",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhi9q1kUmHcteYYqZrZcyB8S25J1646gNjdc9prYQxTYzE"
+        },
+        {
+            "assetid": 1051502562,
+            "name": "ROSA25",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhkWynSxSZpAt2uRdA4SDrZ8HeLfPNnBJFMxnjZx2K1sHj"
+        },
+        {
+            "assetid": 1051502568,
+            "name": "ROSA22",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhbpmfu9VNHWWDc5Eh78gv1Mx3ZY6PBf9GeRsvCtMitUEr"
+        },
+        {
+            "assetid": 1051502575,
+            "name": "ROSA26",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhmrqEhw1ycoi8qsbYDqMtYPTpDH3Wycf9pAoW5h3ZucZd"
+        },
+        {
+            "assetid": 1051502581,
+            "name": "ROSA27",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rheTCKB4XC7tLHymcvE7Sj6yxta6mxMwjwVed8oeG3YmnK"
+        },
+        {
+            "assetid": 1051502589,
+            "name": "ROSA21",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhk7gsUBfmZdydc7M4etcuVfEjyuV9zuKSCKdkLnD4tgEY"
+        },
+        {
+            "assetid": 1051502595,
+            "name": "ROSA24",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhgRu8p8LGiscgZCgtJ5M6dppRpBrSY6fFxsd3f11GphPD"
+        },
+        {
+            "assetid": 1051502601,
+            "name": "ROSA28",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}#arc3",
+            "image": "zb2rhjCB4zZodT6KHrhMYNoQ7uDFvMWrtxvSguVVoXzhJdau8"
+        }
+    ]
+}

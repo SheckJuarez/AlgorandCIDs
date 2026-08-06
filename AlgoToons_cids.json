@@ -1,0 +1,639 @@
+{
+    "Project": "AlgoToons",
+    "Creator": "AlgoToons",
+    "CreatorAddress": [
+        "4SKHLFFQLIUSWKJEBJFBX4JXJSKOKBAH7OPSHOGXQNODOZM3MS4DLDQNBU"
+    ],
+    "Assets": [
+        {
+            "assetid": 446939920,
+            "name": "Flying Little Devil",
+            "url": "ipfs://QmagGqxdReRvSVMJcBpRwK4Y6SGoADdLaCojZu5Lv856ey",
+            "image": "QmagGqxdReRvSVMJcBpRwK4Y6SGoADdLaCojZu5Lv856ey"
+        },
+        {
+            "assetid": 450474293,
+            "name": "Mecha Duck",
+            "url": "ipfs://QmYAN5YTjKCbxVUfFpzXBfafVAPhMzYD75U9FQCXqhNftz",
+            "image": "QmYAN5YTjKCbxVUfFpzXBfafVAPhMzYD75U9FQCXqhNftz"
+        },
+        {
+            "assetid": 451732859,
+            "name": "Elusive Snowman",
+            "url": "ipfs://Qmf54ZdeEHnL59MnCkNiz12RBJ3RefBxgxcb5N9uKDPsqV",
+            "image": "Qmf54ZdeEHnL59MnCkNiz12RBJ3RefBxgxcb5N9uKDPsqV"
+        },
+        {
+            "assetid": 453414474,
+            "name": "Little Grim Reaper",
+            "url": "ipfs://QmUTF5MHo47keN4AkYYfSTEb1j2ToK7U7Q7xtXAHczrk7i",
+            "image": "QmUTF5MHo47keN4AkYYfSTEb1j2ToK7U7Q7xtXAHczrk7i"
+        },
+        {
+            "assetid": 454761973,
+            "name": "Drools Puppy",
+            "url": "ipfs://QmSa5DiyWp6XLudh5yRzKsjZH2ybR97BMjMAzy3cdAna4H",
+            "image": "QmSa5DiyWp6XLudh5yRzKsjZH2ybR97BMjMAzy3cdAna4H"
+        },
+        {
+            "assetid": 456209661,
+            "name": "Flying Bull",
+            "url": "ipfs://QmdwE8mpwaCGjNfjTHxMi9jmg2ewXB7C9TVv4JMEwrU24f",
+            "image": "QmdwE8mpwaCGjNfjTHxMi9jmg2ewXB7C9TVv4JMEwrU24f"
+        },
+        {
+            "assetid": 457257456,
+            "name": "Jack The Dwarf",
+            "url": "ipfs://QmYm3ivT741g2gQeXAMqHcPmEe5SVu6PNpieexZZmsdPLW",
+            "image": "QmYm3ivT741g2gQeXAMqHcPmEe5SVu6PNpieexZZmsdPLW"
+        },
+        {
+            "assetid": 458893929,
+            "name": "Sweet Frog",
+            "url": "ipfs://QmPFrrvmDwaSMBZsE36BJoZZUsC5x2vmiSQiLkqDCjCZrP",
+            "image": "QmPFrrvmDwaSMBZsE36BJoZZUsC5x2vmiSQiLkqDCjCZrP"
+        },
+        {
+            "assetid": 460835148,
+            "name": "Electric Mushroom",
+            "url": "ipfs://QmaETZEGnx6Ks44XPUWkc6UTzkrpNQSeSy6DjpUDoY3RLZ",
+            "image": "QmaETZEGnx6Ks44XPUWkc6UTzkrpNQSeSy6DjpUDoY3RLZ"
+        },
+        {
+            "assetid": 467677057,
+            "name": "Amica",
+            "url": "ipfs://QmcwV9KXPCqKegXYiWD3rZLHgYGSxn34BcW6Fd95dj1Lh8",
+            "image": "QmcwV9KXPCqKegXYiWD3rZLHgYGSxn34BcW6Fd95dj1Lh8"
+        },
+        {
+            "assetid": 477982550,
+            "name": "Armana The Swordsman",
+            "url": "ipfs://QmPyN31cu4LZbRj917qiH9W68qUN4y7b43d4jFZfhPtvB6",
+            "image": "QmPyN31cu4LZbRj917qiH9W68qUN4y7b43d4jFZfhPtvB6"
+        },
+        {
+            "assetid": 484950259,
+            "name": "Shina The Archer",
+            "url": "ipfs://QmPhGXugjkmXS8T2ypyc5dr5DNFwFcT9UxAJAsfuJvFw9M",
+            "image": "QmPhGXugjkmXS8T2ypyc5dr5DNFwFcT9UxAJAsfuJvFw9M"
+        },
+        {
+            "assetid": 484956162,
+            "name": "Vixia The Assassin",
+            "url": "ipfs://Qmcur6Bp1deR4zJb7q9NsN2ATyLEFpLSuDX25vh8fAEuwp",
+            "image": "Qmcur6Bp1deR4zJb7q9NsN2ATyLEFpLSuDX25vh8fAEuwp"
+        },
+        {
+            "assetid": 484956663,
+            "name": "Salva The Wizard",
+            "url": "ipfs://QmZGSsbtfkvhVirfUYi2HHNFLHgr8zJ4JBfYvk55SZZ8qC",
+            "image": "QmZGSsbtfkvhVirfUYi2HHNFLHgr8zJ4JBfYvk55SZZ8qC"
+        },
+        {
+            "assetid": 484957135,
+            "name": "Exogia The Strategist",
+            "url": "ipfs://QmfGTuGs2FjmRic97XnXe9hqMZF5FnoeCYad5iYKMbAFXQ",
+            "image": "QmfGTuGs2FjmRic97XnXe9hqMZF5FnoeCYad5iYKMbAFXQ"
+        },
+        {
+            "assetid": 512286778,
+            "name": "Stormbreaker",
+            "url": "ipfs://QmWVZGdLUZuL6dmUjPNsHRm58zG83Gev5F6htUE6RMSFQo",
+            "image": "QmWVZGdLUZuL6dmUjPNsHRm58zG83Gev5F6htUE6RMSFQo"
+        },
+        {
+            "assetid": 518424441,
+            "name": "Mecha Gorilla",
+            "url": "ipfs://QmQJhnq8Mv2vqoY7qRsna6H2h38np5fygGTDPR1KMvgyrt",
+            "image": "QmQJhnq8Mv2vqoY7qRsna6H2h38np5fygGTDPR1KMvgyrt"
+        },
+        {
+            "assetid": 522528289,
+            "name": "Mecha Doggo",
+            "url": "ipfs://Qmbxhz4Q8TtG9RAYsnjEawVAsG7U68UaojVUJdB8nPKAi3",
+            "image": "Qmbxhz4Q8TtG9RAYsnjEawVAsG7U68UaojVUJdB8nPKAi3"
+        },
+        {
+            "assetid": 536247913,
+            "name": "Algotoons x Cubeman",
+            "url": "ipfs://bafkreib27bto2fuiphy7d66pv2gs7kzjj2ul2w4qlve6my3shzsaxtnkiu#i",
+            "image": "bafkreib27bto2fuiphy7d66pv2gs7kzjj2ul2w4qlve6my3shzsaxtnkiu"
+        },
+        {
+            "assetid": 539939899,
+            "name": "Purpleworks",
+            "url": "ipfs://QmWKxgQzVaeLnUBPpqkw2VSD7brkVbeCDB97eWzfzd78m8",
+            "image": "QmWKxgQzVaeLnUBPpqkw2VSD7brkVbeCDB97eWzfzd78m8"
+        },
+        {
+            "assetid": 543872758,
+            "name": "Devilion",
+            "url": "ipfs://QmXhMQMxK7XyzAszKy27m5qEaNMoK7DHjLcuxg5m5SYAWS",
+            "image": "QmXhMQMxK7XyzAszKy27m5qEaNMoK7DHjLcuxg5m5SYAWS"
+        },
+        {
+            "assetid": 551510464,
+            "name": "Supernova",
+            "url": "ipfs://QmV9u1Xk27iUJxU2EJh7BkvPtkB8A6aeAXhZZNPn7bep7G",
+            "image": "QmV9u1Xk27iUJxU2EJh7BkvPtkB8A6aeAXhZZNPn7bep7G"
+        },
+        {
+            "assetid": 555307760,
+            "name": "Void",
+            "url": "ipfs://QmfY8teLeUCPW4rNgqyGLYj5hM5bshHsopWbC87GgGstai",
+            "image": "QmfY8teLeUCPW4rNgqyGLYj5hM5bshHsopWbC87GgGstai"
+        },
+        {
+            "assetid": 557702640,
+            "name": "Veriza",
+            "url": "ipfs://QmQviVKRrfqfroByzgg27V5bfsnHt3D3LH9bsAy2xsNn8T",
+            "image": "QmQviVKRrfqfroByzgg27V5bfsnHt3D3LH9bsAy2xsNn8T"
+        },
+        {
+            "assetid": 559819280,
+            "name": "Stellar",
+            "url": "ipfs://QmVv3nmPC8GTnoUMZSYcM745PLXwqRrdKXA3r86VtAA1qN",
+            "image": "QmVv3nmPC8GTnoUMZSYcM745PLXwqRrdKXA3r86VtAA1qN"
+        },
+        {
+            "assetid": 561825045,
+            "name": "Revoke",
+            "url": "ipfs://QmRWbQMAhZrfAeN9KANSVMMuNAFEujB2x8kYbTaPd1sPth",
+            "image": "QmRWbQMAhZrfAeN9KANSVMMuNAFEujB2x8kYbTaPd1sPth"
+        },
+        {
+            "assetid": 563517763,
+            "name": "Ryuzo",
+            "url": "ipfs://Qma77RqHbsDByotLjyEofNJ6MFRv8srkNQb7YoUXBDyy27",
+            "image": "Qma77RqHbsDByotLjyEofNJ6MFRv8srkNQb7YoUXBDyy27"
+        },
+        {
+            "assetid": 564836684,
+            "name": "Degen Forever #031",
+            "url": "ipfs://bafybeif53p5uenknrdjsi2wh5aioaotprxd3jxreeh4i7s5ddvjt3g5cxa#i",
+            "image": "bafybeif53p5uenknrdjsi2wh5aioaotprxd3jxreeh4i7s5ddvjt3g5cxa"
+        },
+        {
+            "assetid": 564840562,
+            "name": "Degen Forever #032",
+            "url": "ipfs://bafybeia554py6he4itjcb5mmdkzjz2k64pdcdmvapjv57uqdymwty2e2gi#i",
+            "image": "bafybeia554py6he4itjcb5mmdkzjz2k64pdcdmvapjv57uqdymwty2e2gi"
+        },
+        {
+            "assetid": 564843945,
+            "name": "Degen Forever #033",
+            "url": "ipfs://bafybeigmwbydkorh3eicyqtojytjnfgcdtfd4tnqnbll2wfd57br2loq3e#i",
+            "image": "bafybeigmwbydkorh3eicyqtojytjnfgcdtfd4tnqnbll2wfd57br2loq3e"
+        },
+        {
+            "assetid": 564846287,
+            "name": "Degen Forever #034",
+            "url": "ipfs://bafybeia26lsjtwyg5s3ayzhh3el73qxuvwprq3knsnopaj4zfi3unt56me#i",
+            "image": "bafybeia26lsjtwyg5s3ayzhh3el73qxuvwprq3knsnopaj4zfi3unt56me"
+        },
+        {
+            "assetid": 564848209,
+            "name": "Degen Forever #035",
+            "url": "ipfs://bafybeig53yxg2nbkvmfeqmwmbee3mkvfvrrggc6fr3wswfvzqsbrsfyzfa#i",
+            "image": "bafybeig53yxg2nbkvmfeqmwmbee3mkvfvrrggc6fr3wswfvzqsbrsfyzfa"
+        },
+        {
+            "assetid": 564851689,
+            "name": "Degen Forever #036",
+            "url": "ipfs://bafybeigbwujj5cvubmld4g676ql5kdmbrmfyr6ki6mmtbwbsxjtgjrp7lm#i",
+            "image": "bafybeigbwujj5cvubmld4g676ql5kdmbrmfyr6ki6mmtbwbsxjtgjrp7lm"
+        },
+        {
+            "assetid": 564853704,
+            "name": "Degen Forever #037",
+            "url": "ipfs://bafybeihw7ofihmb2yzkdrtkjrqcfr6yfojf3zhdtrmqre6kyka62tiqgdi#i",
+            "image": "bafybeihw7ofihmb2yzkdrtkjrqcfr6yfojf3zhdtrmqre6kyka62tiqgdi"
+        },
+        {
+            "assetid": 564856333,
+            "name": "Degen Forever #038",
+            "url": "ipfs://bafybeifx5fged46jyzqmwmhxinrlnx55s2kpxs7kf2xv3mpy4kyspuev6y#i",
+            "image": "bafybeifx5fged46jyzqmwmhxinrlnx55s2kpxs7kf2xv3mpy4kyspuev6y"
+        },
+        {
+            "assetid": 564858496,
+            "name": "Degen Forever #039",
+            "url": "ipfs://bafybeibgbqbz4jejynixc7ewexfgtil4fpkbnyjptdxv2eifghhgtakrn4#i",
+            "image": "bafybeibgbqbz4jejynixc7ewexfgtil4fpkbnyjptdxv2eifghhgtakrn4"
+        },
+        {
+            "assetid": 564859960,
+            "name": "Degen Forever #040",
+            "url": "ipfs://bafybeiclavkhetqjphyej76uks3wsjiczc7vuxostqb2szcysuj332qjiq#i",
+            "image": "bafybeiclavkhetqjphyej76uks3wsjiczc7vuxostqb2szcysuj332qjiq"
+        },
+        {
+            "assetid": 567631378,
+            "name": "Hurricane",
+            "url": "ipfs://QmQGrn9tmEFzrDYGeY4HEwQSwxWSsFHxCgsgDKcsHArHCj",
+            "image": "QmQGrn9tmEFzrDYGeY4HEwQSwxWSsFHxCgsgDKcsHArHCj"
+        },
+        {
+            "assetid": 570276410,
+            "name": "Tursha",
+            "url": "ipfs://Qmbd4sokcu7ARadidcpSqon6KEH3WozvDHTwfwi7GU6f2o#arc3",
+            "image": "Qmbd4sokcu7ARadidcpSqon6KEH3WozvDHTwfwi7GU6f2o"
+        },
+        {
+            "assetid": 570277532,
+            "name": "Helena",
+            "url": "ipfs://QmUQN2AJohPRRGmTCQW6vErDZ8vyQZ7LRxZGrmx9i5wAce#arc3",
+            "image": "QmUQN2AJohPRRGmTCQW6vErDZ8vyQZ7LRxZGrmx9i5wAce"
+        },
+        {
+            "assetid": 571510954,
+            "name": "Wiznaya",
+            "url": "ipfs://QmSDrwJpGYGeNg9mELTg2HaZvBNAmJoNdfeBTzsbTknaA5#arc3",
+            "image": "QmSDrwJpGYGeNg9mELTg2HaZvBNAmJoNdfeBTzsbTknaA5"
+        },
+        {
+            "assetid": 575905609,
+            "name": "Artecs",
+            "url": "ipfs://Qmf5uULHKZskfF2bKz4p1E81xKvLhi93D8ARxxHUNWLBhr#arc3",
+            "image": "Qmf5uULHKZskfF2bKz4p1E81xKvLhi93D8ARxxHUNWLBhr"
+        },
+        {
+            "assetid": 578201393,
+            "name": "Lion Dance",
+            "url": "ipfs://QmPvLVXgVGLBRG15MDEMBkc6pcoYyDC64QrDpt7X3puq5E#arc3",
+            "image": "QmPvLVXgVGLBRG15MDEMBkc6pcoYyDC64QrDpt7X3puq5E"
+        },
+        {
+            "assetid": 580436408,
+            "name": "Knight",
+            "url": "ipfs://QmRuxArMpQMA4M8VXCv7xpSJFpaKEjxifjDYf9qrsrA8Sh#arc3",
+            "image": "QmRuxArMpQMA4M8VXCv7xpSJFpaKEjxifjDYf9qrsrA8Sh"
+        },
+        {
+            "assetid": 582379159,
+            "name": "Archer",
+            "url": "ipfs://QmTqH6b9hwT9XKe1xdu9T1VBWxUoCkYVT7DqingHyRoF3i#arc3",
+            "image": "QmTqH6b9hwT9XKe1xdu9T1VBWxUoCkYVT7DqingHyRoF3i"
+        },
+        {
+            "assetid": 582380125,
+            "name": "Wizard",
+            "url": "ipfs://QmSavTcu2XMMK94WDTWcvscR4LvjYB6CYb678mCdez2MHi#arc3",
+            "image": "QmSavTcu2XMMK94WDTWcvscR4LvjYB6CYb678mCdez2MHi"
+        },
+        {
+            "assetid": 584408709,
+            "name": "Assassin",
+            "url": "ipfs://QmWSDvmigvV55AvEbanDmgRMYMk4EGo2uAttYvu5MgZzmh#arc3",
+            "image": "QmWSDvmigvV55AvEbanDmgRMYMk4EGo2uAttYvu5MgZzmh"
+        },
+        {
+            "assetid": 584412063,
+            "name": "Cleric",
+            "url": "ipfs://QmPTJj58H25Pd2JpUvPzxGVxuieupJaErquQWXZswr8ERc#arc3",
+            "image": "QmPTJj58H25Pd2JpUvPzxGVxuieupJaErquQWXZswr8ERc"
+        },
+        {
+            "assetid": 586605753,
+            "name": "Vrahna",
+            "url": "ipfs://QmdX8MsMDZnfJTEgspTK39J76WibQSsm7vzYkTk3ty8QWT#arc3",
+            "image": "QmdX8MsMDZnfJTEgspTK39J76WibQSsm7vzYkTk3ty8QWT"
+        },
+        {
+            "assetid": 589271162,
+            "name": "Phantom",
+            "url": "ipfs://QmbXhKfshytCFsuDjsqonm5xnMxKtmJr6Fc32KCsg2TSST#arc3",
+            "image": "QmbXhKfshytCFsuDjsqonm5xnMxKtmJr6Fc32KCsg2TSST"
+        },
+        {
+            "assetid": 592510974,
+            "name": "Tenebris",
+            "url": "ipfs://QmapHiPYzGeJraTGitgrg3hn6RkbGq4pfwZjDkZua9XtYc#arc3",
+            "image": "QmapHiPYzGeJraTGitgrg3hn6RkbGq4pfwZjDkZua9XtYc"
+        },
+        {
+            "assetid": 595377911,
+            "name": "Algotoons x Bob Stance",
+            "url": "ipfs://bafkreigniolwifdoamr4jt2cjz4vfgq426lbl4plqhjmv6huyc5xy4e7ue",
+            "image": "bafkreigniolwifdoamr4jt2cjz4vfgq426lbl4plqhjmv6huyc5xy4e7ue"
+        },
+        {
+            "assetid": 597583101,
+            "name": "Arborea",
+            "url": "ipfs://QmPwSRj7zesMDVif6RdjY16ja6BQvtLG6tie41Th1tY74D#arc3",
+            "image": "QmPwSRj7zesMDVif6RdjY16ja6BQvtLG6tie41Th1tY74D"
+        },
+        {
+            "assetid": 599477627,
+            "name": "Thyra",
+            "url": "ipfs://QmRoQiANYzbAJdjhin66uFx2bg9BqvhpSsTx7agF6xm6BR#arc3",
+            "image": "QmRoQiANYzbAJdjhin66uFx2bg9BqvhpSsTx7agF6xm6BR"
+        },
+        {
+            "assetid": 601191019,
+            "name": "Project B",
+            "url": "ipfs://QmavZNaKbTkvRS1WcoFHtWucEG3zLguwBnMKJxrdoWQSdc#arc3",
+            "image": "QmavZNaKbTkvRS1WcoFHtWucEG3zLguwBnMKJxrdoWQSdc"
+        },
+        {
+            "assetid": 603211790,
+            "name": "Oceania",
+            "url": "ipfs://QmNMLjir6RtEUiRhDQRfZze5QjzgorXvYzVbBxd8rD5FnR#arc3",
+            "image": "QmNMLjir6RtEUiRhDQRfZze5QjzgorXvYzVbBxd8rD5FnR"
+        },
+        {
+            "assetid": 604963447,
+            "name": "Terrax",
+            "url": "ipfs://QmW8WWEZjtrBG2C8aMr1n3QXhWNdRDK7cCCfiJu3xfpvsr#arc3",
+            "image": "QmW8WWEZjtrBG2C8aMr1n3QXhWNdRDK7cCCfiJu3xfpvsr"
+        },
+        {
+            "assetid": 607174864,
+            "name": "Infernia",
+            "url": "ipfs://QmcvypdJ7KaDbp1hVDoxep7nWoe8vjVGZDYCmfhNjxvTZZ#arc3",
+            "image": "QmcvypdJ7KaDbp1hVDoxep7nWoe8vjVGZDYCmfhNjxvTZZ"
+        },
+        {
+            "assetid": 610106745,
+            "name": "Lordia",
+            "url": "ipfs://QmP7rRKF1z54BmGss7pBrpn48cHESGmoKkkqPbmx6Y3Z6Y#arc3",
+            "image": "QmP7rRKF1z54BmGss7pBrpn48cHESGmoKkkqPbmx6Y3Z6Y"
+        },
+        {
+            "assetid": 614390914,
+            "name": "Zerach",
+            "url": "ipfs://QmRnXV1mewmWc2UVnkHkNXQyiZi3wk7uuqVidgff5mbMC4#arc3",
+            "image": "QmRnXV1mewmWc2UVnkHkNXQyiZi3wk7uuqVidgff5mbMC4"
+        },
+        {
+            "assetid": 614391729,
+            "name": "Aether",
+            "url": "ipfs://QmUKMgZgPwX7ytgiPFvWpWAfaRMfZMFLwC6YWQoVQaT4Bh#arc3",
+            "image": "QmUKMgZgPwX7ytgiPFvWpWAfaRMfZMFLwC6YWQoVQaT4Bh"
+        },
+        {
+            "assetid": 614392593,
+            "name": "Luminaire",
+            "url": "ipfs://QmYd7VaWQBEPvQMYT5BKvKGx2S8L6ohW55Re9SrSBcT88a#arc3",
+            "image": "QmYd7VaWQBEPvQMYT5BKvKGx2S8L6ohW55Re9SrSBcT88a"
+        },
+        {
+            "assetid": 616554475,
+            "name": "King Rexa",
+            "url": "ipfs://QmRoyAPwu1i7xVC5sj6tfmLE999uvnwmGqgMAffhPXgwDj#arc3",
+            "image": "QmRoyAPwu1i7xVC5sj6tfmLE999uvnwmGqgMAffhPXgwDj"
+        },
+        {
+            "assetid": 625867553,
+            "name": "Ace",
+            "url": "ipfs://QmQmhFo2PsqFRo2ddn1kFoJk8NkLKKndhdryJ57S49BNn8#arc3",
+            "image": "QmQmhFo2PsqFRo2ddn1kFoJk8NkLKKndhdryJ57S49BNn8"
+        },
+        {
+            "assetid": 625868527,
+            "name": "Phillip",
+            "url": "ipfs://Qme62cjSj9C7Kgwo3Vjj522YVFvXZUe8WknAE5Rjgjh68q#arc3",
+            "image": "Qme62cjSj9C7Kgwo3Vjj522YVFvXZUe8WknAE5Rjgjh68q"
+        },
+        {
+            "assetid": 625869363,
+            "name": "Zephyr",
+            "url": "ipfs://QmUV52L2xzW5SAppJF4W7nXjiijNyGVb84dLR2pUfZJRkH#arc3",
+            "image": "QmUV52L2xzW5SAppJF4W7nXjiijNyGVb84dLR2pUfZJRkH"
+        },
+        {
+            "assetid": 627572585,
+            "name": "Aeron",
+            "url": "ipfs://QmTnxfLCtZtqPW54a3hka7bQLQGNHBuPHYva1YMWQpg6nY#arc3",
+            "image": "QmTnxfLCtZtqPW54a3hka7bQLQGNHBuPHYva1YMWQpg6nY"
+        },
+        {
+            "assetid": 629298483,
+            "name": "Nyx",
+            "url": "ipfs://QmRAZjMoTZQubzhA4B6CgVG1VajU789Pb51Xi2TK7ijq64#arc3",
+            "image": "QmRAZjMoTZQubzhA4B6CgVG1VajU789Pb51Xi2TK7ijq64"
+        },
+        {
+            "assetid": 632662034,
+            "name": "Eleric",
+            "url": "ipfs://QmfKV5FVLL1SETxo4sTTBuNRzRD3acTaaaSed7L28NffWd#arc3",
+            "image": "QmfKV5FVLL1SETxo4sTTBuNRzRD3acTaaaSed7L28NffWd"
+        },
+        {
+            "assetid": 634524369,
+            "name": "Atreus",
+            "url": "ipfs://QmRtUrsFqsDd7DduGzCPU7BXwMjbLvnWADBYyonWU4u3dp#arc3",
+            "image": "QmRtUrsFqsDd7DduGzCPU7BXwMjbLvnWADBYyonWU4u3dp"
+        },
+        {
+            "assetid": 635901566,
+            "name": "Cosmo",
+            "url": "ipfs://bafkreih3tnbrm47oxiljjfub4tqvx22od5uycz4db2gmqg57zkkzbkq5uy#i",
+            "image": "bafkreih3tnbrm47oxiljjfub4tqvx22od5uycz4db2gmqg57zkkzbkq5uy"
+        },
+        {
+            "assetid": 636823249,
+            "name": "Asura",
+            "url": "ipfs://QmYc3q3YTvLpMcGCnMYfATaQKPZzro7u5bMRKypnQ2H294#arc3",
+            "image": "QmYc3q3YTvLpMcGCnMYfATaQKPZzro7u5bMRKypnQ2H294"
+        },
+        {
+            "assetid": 636823720,
+            "name": "Cronos",
+            "url": "ipfs://QmWE8wY3Qf97gkuH7QtyxZrdKKpjwayHaZ78kLJveubonH#arc3",
+            "image": "QmWE8wY3Qf97gkuH7QtyxZrdKKpjwayHaZ78kLJveubonH"
+        },
+        {
+            "assetid": 638669512,
+            "name": "Celesta",
+            "url": "ipfs://QmTvKC68MUTVxEECRT4oaunjbP24bxnEoszcLx4ZguMVva#arc3",
+            "image": "QmTvKC68MUTVxEECRT4oaunjbP24bxnEoszcLx4ZguMVva"
+        },
+        {
+            "assetid": 642244037,
+            "name": "Sierra",
+            "url": "ipfs://QmPhT798gJAVUKyUtCio4j1BERxa5DVy1FF7SeYL2wHCPc#arc3",
+            "image": "QmPhT798gJAVUKyUtCio4j1BERxa5DVy1FF7SeYL2wHCPc"
+        },
+        {
+            "assetid": 642245092,
+            "name": "Ronin",
+            "url": "ipfs://QmXQxf54zqvzwgDe9rba2F241GynDfwGPxyRK63yLXYTNP#arc3",
+            "image": "QmXQxf54zqvzwgDe9rba2F241GynDfwGPxyRK63yLXYTNP"
+        },
+        {
+            "assetid": 643738914,
+            "name": "Siverus",
+            "url": "ipfs://QmeVQWyZu48FBMsuekohsSFLRgq9HfArs9P2u6atmAZSjN#arc3",
+            "image": "QmeVQWyZu48FBMsuekohsSFLRgq9HfArs9P2u6atmAZSjN"
+        },
+        {
+            "assetid": 645490731,
+            "name": "Blaze",
+            "url": "ipfs://QmZ81pBzsDzzBNuSPqLp5fu8j61A45pCFsMsYKmGDgnQFJ#arc3",
+            "image": "QmZ81pBzsDzzBNuSPqLp5fu8j61A45pCFsMsYKmGDgnQFJ"
+        },
+        {
+            "assetid": 645709913,
+            "name": "Pantheon",
+            "url": "ipfs://QmauMsaLkFTHGG7KFFvQvMqjvw2KdDaaCjC4pxw1MQzg3H#arc3",
+            "image": "QmauMsaLkFTHGG7KFFvQvMqjvw2KdDaaCjC4pxw1MQzg3H"
+        },
+        {
+            "assetid": 646037698,
+            "name": "Bone",
+            "url": "ipfs://QmeZENZfNQGvoKdiSsr1zYDhM8SvLizuM3Ehms3jvT5aSC#arc3",
+            "image": "QmeZENZfNQGvoKdiSsr1zYDhM8SvLizuM3Ehms3jvT5aSC"
+        },
+        {
+            "assetid": 647045776,
+            "name": "Magnus",
+            "url": "ipfs://QmPhy9KgrABfE7xgYqFvd66MT7TapCfAn64mXEozkCCAD4#arc3",
+            "image": "QmPhy9KgrABfE7xgYqFvd66MT7TapCfAn64mXEozkCCAD4"
+        },
+        {
+            "assetid": 647329825,
+            "name": "Reginleif",
+            "url": "ipfs://QmaTZoYAzSjcX7nrcCTygxLqzjxbCPHrzZah6oWsCmPqwP#arc3",
+            "image": "QmaTZoYAzSjcX7nrcCTygxLqzjxbCPHrzZah6oWsCmPqwP"
+        },
+        {
+            "assetid": 648891678,
+            "name": "Chleo",
+            "url": "ipfs://QmUkZexA2Y2RpaRtaagSgyHKMyhU9fFbiafC7A2DwfcvWz#arc3",
+            "image": "QmUkZexA2Y2RpaRtaagSgyHKMyhU9fFbiafC7A2DwfcvWz"
+        },
+        {
+            "assetid": 650848167,
+            "name": "Orpheus",
+            "url": "ipfs://QmSj4qKutviRSmGwHdiuMTcSNKZi1z67ZRFXMMbBm6AKWG#arc3",
+            "image": "QmSj4qKutviRSmGwHdiuMTcSNKZi1z67ZRFXMMbBm6AKWG"
+        },
+        {
+            "assetid": 652378324,
+            "name": "XP1 - OBSERVER",
+            "url": "ipfs://QmSL1UoCMqXDSzfp66yTw5M3GHyWSnASarppocaoTGPTNx#arc3",
+            "image": "QmSL1UoCMqXDSzfp66yTw5M3GHyWSnASarppocaoTGPTNx"
+        },
+        {
+            "assetid": 655519928,
+            "name": "XP1 - STRIKE",
+            "url": "ipfs://QmV1vchiy4D6VnUZRRe1Ww1NhrvEfPGhpvJ8oYfwQGJa48#arc3",
+            "image": "QmV1vchiy4D6VnUZRRe1Ww1NhrvEfPGhpvJ8oYfwQGJa48"
+        },
+        {
+            "assetid": 655817535,
+            "name": "XP1 - DEFENDER",
+            "url": "ipfs://QmYF5427sr4XvrwSBZBGdzYeWiPFcC7JLfcNuvHETZrLDL#arc3",
+            "image": "QmYF5427sr4XvrwSBZBGdzYeWiPFcC7JLfcNuvHETZrLDL"
+        },
+        {
+            "assetid": 657334843,
+            "name": "XP1 - COMBAT",
+            "url": "ipfs://QmY7DvRBCk3DQJ2vmLvXLgq49EUAmGUhFkQiXEjfSQ56Nm#arc3",
+            "image": "QmY7DvRBCk3DQJ2vmLvXLgq49EUAmGUhFkQiXEjfSQ56Nm"
+        },
+        {
+            "assetid": 657398174,
+            "name": "XP1 - SAVIOR",
+            "url": "ipfs://QmTcpSruTV5Qo6bakJKMEopvG5x4FQdDrGKuanKyeamMbw#arc3",
+            "image": "QmTcpSruTV5Qo6bakJKMEopvG5x4FQdDrGKuanKyeamMbw"
+        },
+        {
+            "assetid": 658908172,
+            "name": "XP1 - FLANKER",
+            "url": "ipfs://QmRaFx9oFUXoh6AEkrVEKwPg6usJwEw2oSGqcfZp6NhRf5#arc3",
+            "image": "QmRaFx9oFUXoh6AEkrVEKwPg6usJwEw2oSGqcfZp6NhRf5"
+        },
+        {
+            "assetid": 658909571,
+            "name": "XP1 - ASSAULT",
+            "url": "ipfs://QmSFqpzA2g2o8MAvrWbtma2UwSGBLkLeTvTu8QiSvA57Yd#arc3",
+            "image": "QmSFqpzA2g2o8MAvrWbtma2UwSGBLkLeTvTu8QiSvA57Yd"
+        },
+        {
+            "assetid": 661933691,
+            "name": "XP1 - ENERGIZE",
+            "url": "ipfs://QmarDY23AuG8SUADVeVogbWspaA9HmdSDCvWvVfFMSbMVB#arc3",
+            "image": "QmarDY23AuG8SUADVeVogbWspaA9HmdSDCvWvVfFMSbMVB"
+        },
+        {
+            "assetid": 663556895,
+            "name": "XP1 - SEIZURE",
+            "url": "ipfs://QmYSYjXa7Uw9XzAXnD89C9Kf6eeUdVPnchEcNeyYPSumeD#arc3",
+            "image": "QmYSYjXa7Uw9XzAXnD89C9Kf6eeUdVPnchEcNeyYPSumeD"
+        },
+        {
+            "assetid": 666312825,
+            "name": "XP1 - COMMANDER",
+            "url": "ipfs://QmaWKxR7do5Jtjfe4nC7oSZ6cV3NAt4WJC1i3aLJpg7yVQ#arc3",
+            "image": "QmaWKxR7do5Jtjfe4nC7oSZ6cV3NAt4WJC1i3aLJpg7yVQ"
+        },
+        {
+            "assetid": 668325260,
+            "name": "Asterisk",
+            "url": "ipfs://QmNpiMBnzjCRgenLNqq63sooRE1M6WdjYLa2TSWN2wtghp#arc3",
+            "image": "QmNpiMBnzjCRgenLNqq63sooRE1M6WdjYLa2TSWN2wtghp"
+        },
+        {
+            "assetid": 673598495,
+            "name": "Ajax",
+            "url": "ipfs://QmZRkJCn4gtf45f52PWriUhwwnHGmGaqU73GEPMgqrafNz#arc3",
+            "image": "QmZRkJCn4gtf45f52PWriUhwwnHGmGaqU73GEPMgqrafNz"
+        },
+        {
+            "assetid": 676671734,
+            "name": "Rhys",
+            "url": "ipfs://QmQkE5JsSixcJq6wPKECmhCPA7v6Gnzpi3SSMj82rWgZLT#arc3",
+            "image": "QmQkE5JsSixcJq6wPKECmhCPA7v6Gnzpi3SSMj82rWgZLT"
+        },
+        {
+            "assetid": 679586424,
+            "name": "Triton",
+            "url": "ipfs://QmSu5wPe9at5BDmuTfeTk1nnKLUHV15mAiCcmV9fSiSw9c#arc3",
+            "image": "QmSu5wPe9at5BDmuTfeTk1nnKLUHV15mAiCcmV9fSiSw9c"
+        },
+        {
+            "assetid": 679586813,
+            "name": "Raven",
+            "url": "ipfs://QmTKZJWMowXD7JbEpGQFvrQZKr7u2UC15xjxh8ykhi5YAu#arc3",
+            "image": "QmTKZJWMowXD7JbEpGQFvrQZKr7u2UC15xjxh8ykhi5YAu"
+        },
+        {
+            "assetid": 683224892,
+            "name": "Nexus",
+            "url": "ipfs://Qmbya25JuPATZDdD4XNRVahDaQ7rvkSeF1gQD55fPRRBUy#arc3",
+            "image": "Qmbya25JuPATZDdD4XNRVahDaQ7rvkSeF1gQD55fPRRBUy"
+        },
+        {
+            "assetid": 700766524,
+            "name": "Primus Rangvald",
+            "url": "ipfs://QmeLR7rJpov4Vieopf1RQhVphBVnoeoWDPEDw6WcyfFBiX#arc3",
+            "image": "QmeLR7rJpov4Vieopf1RQhVphBVnoeoWDPEDw6WcyfFBiX"
+        },
+        {
+            "assetid": 707300176,
+            "name": "Parthenios",
+            "url": "ipfs://QmSTyr7xdwjhy9zL3a2hTsGjWCpxsZLfbkZ7mD6wiFHjas#arc3",
+            "image": "QmSTyr7xdwjhy9zL3a2hTsGjWCpxsZLfbkZ7mD6wiFHjas"
+        },
+        {
+            "assetid": 742482969,
+            "name": "Heracles",
+            "url": "ipfs://QmPAvNFPg5JA8U9W7CZ4ZpMxh75Hb9Cu1gpbWm6NEg4mzT#arc3",
+            "image": "QmPAvNFPg5JA8U9W7CZ4ZpMxh75Hb9Cu1gpbWm6NEg4mzT"
+        },
+        {
+            "assetid": 742483294,
+            "name": "Neosa",
+            "url": "ipfs://QmaUXavQ3BjVbFfKjKM4WQYjUtVTmEEuXVStuL6TCythLn#arc3",
+            "image": "QmaUXavQ3BjVbFfKjKM4WQYjUtVTmEEuXVStuL6TCythLn"
+        },
+        {
+            "assetid": 742483555,
+            "name": "Violett",
+            "url": "ipfs://Qmb1c3LNVTQG3aUAzgrfo7rbrTrtGDJSRYZzf4NYDGcNhd#arc3",
+            "image": "Qmb1c3LNVTQG3aUAzgrfo7rbrTrtGDJSRYZzf4NYDGcNhd"
+        }
+    ]
+}
