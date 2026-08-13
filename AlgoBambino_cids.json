@@ -2,7 +2,8 @@
     "Project": "AlgoBambino",
     "Creator": "kimchiblock",
     "CreatorAddress": [
-        "UXTZ63OLZWXWBZKGRCSYVOZ5KURNJ773ITBVCPKYANZULEXKXPWYDEOG5Q"
+        "UXTZ63OLZWXWBZKGRCSYVOZ5KURNJ773ITBVCPKYANZULEXKXPWYDEOG5Q",
+        "OZUUPC2B6SKD4MHNFOHZAWOBCRGBBWH7QWZJ4GREGAM7Q43RBYNO6ILW5Q"
     ],
     "Assets": [
         {
@@ -6688,6 +6689,18 @@
             "name": "Bambino NFT x EXA Market",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}#arc3",
             "image": "QmaRUsHTxUMJbC6WqR1rS7oGe5spKdS98xnvEeYJds49tA"
+        },
+        {
+            "assetid": 1194440284,
+            "name": "Bambino Pass",
+            "url": "ipfs://bafkreie6we67clkvnxtfxfb7ux2uod6mhiilscsbbtmnu5nfmd3wcj3euu#arc3",
+            "image": "bafkreie6we67clkvnxtfxfb7ux2uod6mhiilscsbbtmnu5nfmd3wcj3euu"
+        },
+        {
+            "assetid": 1418249687,
+            "name": "Bambino AVAX Mint Pass",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhoTABsfz6d9FZMoiPzYkpihXuttK1bvnmqRYtwj55fo37"
         }
     ]
 }

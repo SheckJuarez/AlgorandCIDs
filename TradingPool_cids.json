@@ -1,0 +1,63 @@
+{
+    "Project": "TradingPool",
+    "Creator": "Tradingpool.algo",
+    "CreatorAddress": [
+        "PZIVHPCDFRQSVK3KQJQRV5KMRHAT34D3BFNYVZFENELA3OP5UAX64VRIZY"
+    ],
+    "Assets": [
+        {
+            "assetid": 1620631473,
+            "name": "TP Bearish Engulfing",
+            "url": "ipfs://bafybeifmkge2ijhzu54sy5vm5pzdtuucscl7nob6h6yn3z6yhneslameua#i",
+            "image": "bafybeifmkge2ijhzu54sy5vm5pzdtuucscl7nob6h6yn3z6yhneslameua"
+        },
+        {
+            "assetid": 1620641646,
+            "name": "TP Bullish Engulfing",
+            "url": "ipfs://bafybeiad2supecotr67zyizbldbelwldo3ez5lfaf3vyekc52y6oh2lydm#i",
+            "image": "bafybeiad2supecotr67zyizbldbelwldo3ez5lfaf3vyekc52y6oh2lydm"
+        },
+        {
+            "assetid": 1620645888,
+            "name": "TP Double Bottom",
+            "url": "ipfs://bafybeibm3jk36vh2s4ideod6t4spw6f3tijipyruodv26vq2vkviynkgwm#i",
+            "image": "bafybeibm3jk36vh2s4ideod6t4spw6f3tijipyruodv26vq2vkviynkgwm"
+        },
+        {
+            "assetid": 1620653632,
+            "name": "TP Double Top",
+            "url": "ipfs://bafybeie3dw3rfbsfowdd5yuvtn7f555jfcrunq4dtrgaejyhelql6e7mqi#i",
+            "image": "bafybeie3dw3rfbsfowdd5yuvtn7f555jfcrunq4dtrgaejyhelql6e7mqi"
+        },
+        {
+            "assetid": 1620667639,
+            "name": "TP Descending Triangle",
+            "url": "ipfs://bafybeigojfk67zgdsseruqeitcl2xvytpyuriywekk7liwslou4ittxghy#i",
+            "image": "bafybeigojfk67zgdsseruqeitcl2xvytpyuriywekk7liwslou4ittxghy"
+        },
+        {
+            "assetid": 1620721734,
+            "name": "TP Ascending Triangle",
+            "url": "ipfs://bafybeic6xaypu2rz33s3wdki6xzc3oa5mvtvghbomy5cgz3hzzht53ri5e#i",
+            "image": "bafybeic6xaypu2rz33s3wdki6xzc3oa5mvtvghbomy5cgz3hzzht53ri5e"
+        },
+        {
+            "assetid": 1620762051,
+            "name": "TP Golden Cross",
+            "url": "ipfs://bafybeiek6qoapv2sj3vzk4o42snz3w3z3xi7e6qktwgu6hqsq2bo6cpite#i",
+            "image": "bafybeiek6qoapv2sj3vzk4o42snz3w3z3xi7e6qktwgu6hqsq2bo6cpite"
+        },
+        {
+            "assetid": 1620775777,
+            "name": "TP Death Cross",
+            "url": "ipfs://bafybeifkhy674dr5v64hmsg4fxdkb5otxsmpjo6sfxtlknhsxq2kuuwkte#i",
+            "image": "bafybeifkhy674dr5v64hmsg4fxdkb5otxsmpjo6sfxtlknhsxq2kuuwkte"
+        },
+        {
+            "assetid": 1813287753,
+            "name": "Medusa maiden",
+            "url": "ipfs://bafybeide6izb7yfytnn4zcppiit2wafmmopjxknllbt7cmsix7txfopq24#v",
+            "image": "bafybeide6izb7yfytnn4zcppiit2wafmmopjxknllbt7cmsix7txfopq24"
+        }
+    ]
+}
