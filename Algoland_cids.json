@@ -2,7 +2,8 @@
     "Project": "Algoland",
     "Creator": "Algorand Foundation",
     "CreatorAddress": [
-        "XDVGX6AEIRD63367XELQQSAAMSMTT5J2KIDM2D44QKVQMVC3TL6WR4E3UA"
+        "XDVGX6AEIRD63367XELQQSAAMSMTT5J2KIDM2D44QKVQMVC3TL6WR4E3UA",
+        "QYGKTYL5S2GE56ZF5QCSFFYTLGIAYKQ3K67WXOQIBBDFP2JHB4CCCBKIL4"
     ],
     "Assets": [
         {
@@ -10,6 +11,12 @@
             "name": "Elite Share",
             "url": "ipfs://QmfJ3YiSSroWPQ6ZN8FEUPnukdLT2yARgx8Bbi7BVxYCks",
             "image": "QmfJ3YiSSroWPQ6ZN8FEUPnukdLT2yARgx8Bbi7BVxYCks"
+        },
+        {
+            "assetid": 3300355513,
+            "name": "Exclusive Token",
+            "url": "ipfs://QmPpawzLV92cDUGcEynhVMaXWM2oMQ2xe8XFn8D3Lh41CU",
+            "image": "QmPpawzLV92cDUGcEynhVMaXWM2oMQ2xe8XFn8D3Lh41CU"
         }
     ]
 }

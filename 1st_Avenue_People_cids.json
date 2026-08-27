@@ -3,7 +3,8 @@
     "Creator": "1st Avenue People",
     "CreatorAddress": [
         "UFAH3ONINSGRMT2V64HEZZCX35VUEXVJONCD4G5MN2F6MHWXMKIWQOIM4Y",
-        "OOHGE3NZMMCJAFCW4X3FTU5KRMGY6X66DQECZTK73EBC6BTHQ7FWXJVR2Y"
+        "OOHGE3NZMMCJAFCW4X3FTU5KRMGY6X66DQECZTK73EBC6BTHQ7FWXJVR2Y",
+        "EM3PC6R376CHOMQPALVMQ65A5ONE3UCQXMGY2QFM5MOUHV5GT2GHHWGMXY"
     ],
     "Assets": [
         {
@@ -1907,6 +1908,18 @@
             "name": "1stAvenueBeyonder-95",
             "url": "ipfs://bafybeifayd25joruyb3xvjhx2726hcoiuxueom5v6pmghtxsib3julnk7a#i",
             "image": "bafybeifayd25joruyb3xvjhx2726hcoiuxueom5v6pmghtxsib3julnk7a"
+        },
+        {
+            "assetid": 993108781,
+            "name": "Avenue Gems (1stAvenue Token)",
+            "url": "http://bafybeigqgbobx5vnszccaze36ztvyltgywavpi7gzx3pqwz7622hrsrk5a.ipfs.localhost:8080/",
+            "image": "http:"
+        },
+        {
+            "assetid": 1079872288,
+            "name": "Avenue Gems BUDdy",
+            "url": "ipfs://bafybeihmfideksdmnhp5khy5lo5th2kpd4npeoycmvoqyfzq2thsuzcbau#i",
+            "image": "bafybeihmfideksdmnhp5khy5lo5th2kpd4npeoycmvoqyfzq2thsuzcbau"
         }
     ]
 }
