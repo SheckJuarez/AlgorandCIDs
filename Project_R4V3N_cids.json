@@ -4,7 +4,8 @@
     "CreatorAddress": [
         "R4V3NQKUDJKQWV74JZWEVDNJ6HMHHZK253FGMRQHAE6RA5MAKXBCYVVLQE",
         "R4V3NI5QQSJNSYJZH63PJUN3O2HOVUX5N4OUO754H4STN472DES2MS5JSY",
-        "R4V3NBVSRDR5UF3JNODCKBHO5IC6RG74SEJEOA3SVMB2XNQB6YBXGC3WF4"
+        "R4V3NBVSRDR5UF3JNODCKBHO5IC6RG74SEJEOA3SVMB2XNQB6YBXGC3WF4",
+        "DEBTNJNAQOBNLSJIP4K6KU7HID23V7HHBIQKVRDTUBHAJ46TOOQKCPRXHE"
     ],
     "Assets": [
         {
@@ -7122,6 +7123,24 @@
             "name": "R4V3N Trait - Hair 40",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmQtAmFpRrJqvXAqdX1S6g7LsgrDYc1nsdkZg8NAB4Dijp"
+        },
+        {
+            "assetid": 1191007064,
+            "name": "R4V3N Trait - Background 23",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmTmk8VZFooRRTsWaiaBh977bhqGuaGafCMxQ88BEgq3ng"
+        },
+        {
+            "assetid": 1191007701,
+            "name": "R4V3N Trait - Back 28",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZNLx2MhQ3qiAnqKBLc8x9PPYEhNivhuZx5oLqxFyNtw1"
+        },
+        {
+            "assetid": 1191008127,
+            "name": "R4V3N Trait - Basewear 27",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmPy4y3HXgELWi321dvNbu66Wup2YpW1w4XAYd4LYDRN8c"
         }
     ]
 }
