@@ -1,0 +1,836 @@
+{
+    "Project": "Trippy Gorillas",
+    "Creator": "Trippy Gorillas",
+    "CreatorAddress": [
+        "SX4Z3X6HV6XLKFWMQTQS4QAF6A7SLT7YAN23TSHHEUAKKCWIVK3UKXZLTY"
+    ],
+    "Assets": [
+        {
+            "assetid": 1226281396,
+            "name": "Trippy Baby Ape #01",
+            "url": "ipfs://bafybeicu46szosv3vk2btgm65l3s4b5epzizfudpuyyfh54ik3e6xkzlwm#i",
+            "image": "bafybeicu46szosv3vk2btgm65l3s4b5epzizfudpuyyfh54ik3e6xkzlwm"
+        },
+        {
+            "assetid": 1226281784,
+            "name": "Trippy Baby Ape #02",
+            "url": "ipfs://bafybeicrjzkor7birpu6ae3qa7xlp7i7r737veopfo4iyvswckz6xatkvy#i",
+            "image": "bafybeicrjzkor7birpu6ae3qa7xlp7i7r737veopfo4iyvswckz6xatkvy"
+        },
+        {
+            "assetid": 1226282041,
+            "name": "Trippy Baby Ape #03",
+            "url": "ipfs://bafybeiaotftjuljnepprjegbch7i4ehit5o2lkn42ma4p3bpkx5fhqjtsi#i",
+            "image": "bafybeiaotftjuljnepprjegbch7i4ehit5o2lkn42ma4p3bpkx5fhqjtsi"
+        },
+        {
+            "assetid": 1226282391,
+            "name": "Trippy Baby Ape #04",
+            "url": "ipfs://bafybeid2qrj7w7vazmfbqz5nhhcnh4pzd64lgfxr4ns46bxcbuzumghe3y#i",
+            "image": "bafybeid2qrj7w7vazmfbqz5nhhcnh4pzd64lgfxr4ns46bxcbuzumghe3y"
+        },
+        {
+            "assetid": 1226282835,
+            "name": "Trippy Baby Ape #05",
+            "url": "ipfs://bafybeigw36zk5awavuihxcgceme6mqqgjfcqunyx5hwaw7j2chf7urinlm#i",
+            "image": "bafybeigw36zk5awavuihxcgceme6mqqgjfcqunyx5hwaw7j2chf7urinlm"
+        },
+        {
+            "assetid": 1226283731,
+            "name": "Trippy Baby Ape #06",
+            "url": "ipfs://bafkreidpimgymxctsu7skgr5fd6cozqksguf25r3xrhznuwwdohxiv54zq#i",
+            "image": "bafkreidpimgymxctsu7skgr5fd6cozqksguf25r3xrhznuwwdohxiv54zq"
+        },
+        {
+            "assetid": 1226284043,
+            "name": "Trippy Baby Ape #08",
+            "url": "ipfs://bafybeihotkdjuekyhfkaavmbr2eqx2s5ahmh4z4opk7c3lpbvv64o6s464#i",
+            "image": "bafybeihotkdjuekyhfkaavmbr2eqx2s5ahmh4z4opk7c3lpbvv64o6s464"
+        },
+        {
+            "assetid": 1226284724,
+            "name": "Trippy Baby Ape #09",
+            "url": "ipfs://bafkreicltcvl4q5g6nxglyfr6jsxbzgg6oxub4absqp4yih64sv5qngbnm#i",
+            "image": "bafkreicltcvl4q5g6nxglyfr6jsxbzgg6oxub4absqp4yih64sv5qngbnm"
+        },
+        {
+            "assetid": 1226285041,
+            "name": "Trippy Baby Ape #10",
+            "url": "ipfs://bafkreif45kjqdn62kiw4hfhbv6iztej6a6zsdlmkafbfo53l2nqfydm4z4#i",
+            "image": "bafkreif45kjqdn62kiw4hfhbv6iztej6a6zsdlmkafbfo53l2nqfydm4z4"
+        },
+        {
+            "assetid": 1226286757,
+            "name": "Trippy Baby Ape #07",
+            "url": "ipfs://bafybeifqnzryhbzclak6ps6nhie7sfnd4ih2bidb4zxmbex4t7cdbauoza#i",
+            "image": "bafybeifqnzryhbzclak6ps6nhie7sfnd4ih2bidb4zxmbex4t7cdbauoza"
+        },
+        {
+            "assetid": 1226287068,
+            "name": "Trippy Baby Ape #11",
+            "url": "ipfs://bafkreig5xcvafstrlcrl4t2uan3jlobnljhh7h4fshqwjk4mkgzyckjmwm#i",
+            "image": "bafkreig5xcvafstrlcrl4t2uan3jlobnljhh7h4fshqwjk4mkgzyckjmwm"
+        },
+        {
+            "assetid": 1226287468,
+            "name": "Trippy Baby Ape #12",
+            "url": "ipfs://bafkreigfmjiscfjtidiibbnetkb2gh5vu334sb4rhswgi7cw4sk7zr24zq#i",
+            "image": "bafkreigfmjiscfjtidiibbnetkb2gh5vu334sb4rhswgi7cw4sk7zr24zq"
+        },
+        {
+            "assetid": 1226287784,
+            "name": "Trippy Baby Ape #13",
+            "url": "ipfs://bafkreibjyfwc55av5i4hpjkund3eruezos5lp7jqj644jkvl266cl4kdl4#i",
+            "image": "bafkreibjyfwc55av5i4hpjkund3eruezos5lp7jqj644jkvl266cl4kdl4"
+        },
+        {
+            "assetid": 1228624063,
+            "name": "Trippy Baby Ape #14",
+            "url": "ipfs://bafkreicspgp5ncmd2iis2i7mnh7gzjrfajzsw5svxqhfzkvrd7dsaecng4#i",
+            "image": "bafkreicspgp5ncmd2iis2i7mnh7gzjrfajzsw5svxqhfzkvrd7dsaecng4"
+        },
+        {
+            "assetid": 1228628471,
+            "name": "Trippy Baby Ape #15",
+            "url": "ipfs://bafybeifekccaropd7d353okp7jale4svi64xie6u65o4ah6q6mqlainjui#i",
+            "image": "bafybeifekccaropd7d353okp7jale4svi64xie6u65o4ah6q6mqlainjui"
+        },
+        {
+            "assetid": 1266829938,
+            "name": "Trippy Baby Ape #16",
+            "url": "ipfs://bafkreib5tr6jbuombwqbydmc26sszagxkpxcr4eemz2f3y5mepbzlgxuoq#i",
+            "image": "bafkreib5tr6jbuombwqbydmc26sszagxkpxcr4eemz2f3y5mepbzlgxuoq"
+        },
+        {
+            "assetid": 1266830400,
+            "name": "Trippy Baby Ape #17",
+            "url": "ipfs://bafkreia54wu54tzpjmv5fhs7jtdqxxianb3rr2uwsdvs3s3xspslmlakne#i",
+            "image": "bafkreia54wu54tzpjmv5fhs7jtdqxxianb3rr2uwsdvs3s3xspslmlakne"
+        },
+        {
+            "assetid": 1266830669,
+            "name": "Trippy Baby Ape #18",
+            "url": "ipfs://bafkreicre7niktp7matji4x6uvpfvrc6aotyr5q6qmgoqmrldu557a4rre#i",
+            "image": "bafkreicre7niktp7matji4x6uvpfvrc6aotyr5q6qmgoqmrldu557a4rre"
+        },
+        {
+            "assetid": 1266831156,
+            "name": "Trippy Baby Ape #19",
+            "url": "ipfs://bafkreig54fh3rxnhmiv34qmffyx3wwpgtxmvgza7aiu2pf3jbgm7is76ku#i",
+            "image": "bafkreig54fh3rxnhmiv34qmffyx3wwpgtxmvgza7aiu2pf3jbgm7is76ku"
+        },
+        {
+            "assetid": 1266833160,
+            "name": "Trippy Baby Ape #21",
+            "url": "ipfs://bafybeid4wa3xefkzcvfgrxefsyjx4hih7seluxpdrq24k4l33f7fjyex6y#i",
+            "image": "bafybeid4wa3xefkzcvfgrxefsyjx4hih7seluxpdrq24k4l33f7fjyex6y"
+        },
+        {
+            "assetid": 1266836039,
+            "name": "Trippy Baby Ape #23",
+            "url": "ipfs://bafkreietoysvdq4p4v3p2lpxsynb7gu3yz3nuvu7jl6e3t7rlbkyoe4xja#i",
+            "image": "bafkreietoysvdq4p4v3p2lpxsynb7gu3yz3nuvu7jl6e3t7rlbkyoe4xja"
+        },
+        {
+            "assetid": 1266836717,
+            "name": "Trippy Baby Ape #24",
+            "url": "ipfs://bafkreicgltwb7etk6thrdyicn3esjwzaa5yu3txyekas6ygsjgt3pjd7t4#i",
+            "image": "bafkreicgltwb7etk6thrdyicn3esjwzaa5yu3txyekas6ygsjgt3pjd7t4"
+        },
+        {
+            "assetid": 1266839158,
+            "name": "Trippy Baby Ape #25",
+            "url": "ipfs://bafkreih2q3ux4kgptnaocdtmcsrhei26leg6lvon77cgrciz6m56tvkjvi#i",
+            "image": "bafkreih2q3ux4kgptnaocdtmcsrhei26leg6lvon77cgrciz6m56tvkjvi"
+        },
+        {
+            "assetid": 1266839635,
+            "name": "Trippy Baby Ape #26",
+            "url": "ipfs://bafkreihf2gdbr7flhk2se2hm7tph2y45xaio5syigyxctssw5rbw2wcawy#i",
+            "image": "bafkreihf2gdbr7flhk2se2hm7tph2y45xaio5syigyxctssw5rbw2wcawy"
+        },
+        {
+            "assetid": 1266839962,
+            "name": "Trippy Baby Ape #27",
+            "url": "ipfs://bafkreifiyg6qoopcspmnrvvcdfn4blbboa2km7cz3wq56lzb25wivqgwaa#i",
+            "image": "bafkreifiyg6qoopcspmnrvvcdfn4blbboa2km7cz3wq56lzb25wivqgwaa"
+        },
+        {
+            "assetid": 1266841056,
+            "name": "Trippy Baby Ape #28",
+            "url": "ipfs://bafkreiar7kltacckslwbyfxryxiqefvqhjngjgpkgs3zfyz2sqenzocgzy#i",
+            "image": "bafkreiar7kltacckslwbyfxryxiqefvqhjngjgpkgs3zfyz2sqenzocgzy"
+        },
+        {
+            "assetid": 1266841284,
+            "name": "Trippy Baby Ape #29",
+            "url": "ipfs://bafkreiczpqmf25foqy7ih2q62v47uavqictabzrkltjysxajsaesm25ene#i",
+            "image": "bafkreiczpqmf25foqy7ih2q62v47uavqictabzrkltjysxajsaesm25ene"
+        },
+        {
+            "assetid": 1266841568,
+            "name": "Trippy Baby Ape #30",
+            "url": "ipfs://bafkreigi5jjmpshz2li3u4gxpwm4w7jt5fo4gk7rmq6voqiwnxe3xi4y7i#i",
+            "image": "bafkreigi5jjmpshz2li3u4gxpwm4w7jt5fo4gk7rmq6voqiwnxe3xi4y7i"
+        },
+        {
+            "assetid": 1266844275,
+            "name": "Trippy Baby Ape #31",
+            "url": "ipfs://bafkreiep7x4o62rqywbejk3euk7rdsojp7nrszudarivbqjl3u5mz5f2lm#i",
+            "image": "bafkreiep7x4o62rqywbejk3euk7rdsojp7nrszudarivbqjl3u5mz5f2lm"
+        },
+        {
+            "assetid": 1266844496,
+            "name": "Trippy Baby Ape #32",
+            "url": "ipfs://bafkreiadqgpwlkh2np4pnubqn2pstnloierepskdziukz4nzik26p43nwm#i",
+            "image": "bafkreiadqgpwlkh2np4pnubqn2pstnloierepskdziukz4nzik26p43nwm"
+        },
+        {
+            "assetid": 1266844937,
+            "name": "Trippy Baby Ape #33",
+            "url": "ipfs://bafkreifa4fjxciisjhygv6unqbr3h7dcybr5lnnhzv5tcv6wh7tffbx7pq#i",
+            "image": "bafkreifa4fjxciisjhygv6unqbr3h7dcybr5lnnhzv5tcv6wh7tffbx7pq"
+        },
+        {
+            "assetid": 1270721404,
+            "name": "Trippy Baby Ape #34",
+            "url": "ipfs://bafkreibskiff7ww2t3izmgn7zvswerukob3hbuc6hmcl5fu7l5sjv5s7ce#i",
+            "image": "bafkreibskiff7ww2t3izmgn7zvswerukob3hbuc6hmcl5fu7l5sjv5s7ce"
+        },
+        {
+            "assetid": 1270721721,
+            "name": "Trippy Baby Ape #35",
+            "url": "ipfs://bafkreibdmk3cvieoonzb4jytuscpnq5vyt5ebqnfboxhiz7wtkegklrlqq#i",
+            "image": "bafkreibdmk3cvieoonzb4jytuscpnq5vyt5ebqnfboxhiz7wtkegklrlqq"
+        },
+        {
+            "assetid": 1270721976,
+            "name": "Trippy Baby Ape #36",
+            "url": "ipfs://bafkreih2akapnkk7kcvxxe6z65x26rmeghkjazv5qpaz5webdqxi27xybm#i",
+            "image": "bafkreih2akapnkk7kcvxxe6z65x26rmeghkjazv5qpaz5webdqxi27xybm"
+        },
+        {
+            "assetid": 1270722319,
+            "name": "Trippy Baby Ape #37",
+            "url": "ipfs://bafkreicm2ywe5wcrywdr43aqtgdcuw54binq4tdb36qgtokpghigcf6of4#i",
+            "image": "bafkreicm2ywe5wcrywdr43aqtgdcuw54binq4tdb36qgtokpghigcf6of4"
+        },
+        {
+            "assetid": 1270722913,
+            "name": "Trippy Baby Ape #38",
+            "url": "ipfs://bafkreiheiaxz6ppvxx2fweu5zirwbzelygkxsjtmpkm62pikiif2jipd5u#i",
+            "image": "bafkreiheiaxz6ppvxx2fweu5zirwbzelygkxsjtmpkm62pikiif2jipd5u"
+        },
+        {
+            "assetid": 1270723179,
+            "name": "Trippy Baby Ape #39",
+            "url": "ipfs://bafkreih2vbopyuhi2cjct4jqnrflonw55hjjdvoq6j65f35njmqiodocti#i",
+            "image": "bafkreih2vbopyuhi2cjct4jqnrflonw55hjjdvoq6j65f35njmqiodocti"
+        },
+        {
+            "assetid": 1277186850,
+            "name": "Trippy Baby Ape #40",
+            "url": "ipfs://bafkreid6yj3jts2em6an6y5ibpkn6acosqmhost4jogfaduegkca5kbksm#i",
+            "image": "bafkreid6yj3jts2em6an6y5ibpkn6acosqmhost4jogfaduegkca5kbksm"
+        },
+        {
+            "assetid": 1277187195,
+            "name": "Trippy Baby Ape #41",
+            "url": "ipfs://bafkreihjqa33b3cxo2ogmdgby25ldoyfneowbviilxs7ocv74a4r5fwcxa#i",
+            "image": "bafkreihjqa33b3cxo2ogmdgby25ldoyfneowbviilxs7ocv74a4r5fwcxa"
+        },
+        {
+            "assetid": 1277187614,
+            "name": "Trippy Baby Ape #42",
+            "url": "ipfs://bafkreifuxy7wdvuqhmjf6jugdkwe44naeubgefac5qdm5chobhtlygvhf4#i",
+            "image": "bafkreifuxy7wdvuqhmjf6jugdkwe44naeubgefac5qdm5chobhtlygvhf4"
+        },
+        {
+            "assetid": 1277187961,
+            "name": "Trippy Baby Ape #43",
+            "url": "ipfs://bafkreigk5rrazogorw6ikeqjqk7axh2bzx6kgpquybcugoe5m5cwli3uyq#i",
+            "image": "bafkreigk5rrazogorw6ikeqjqk7axh2bzx6kgpquybcugoe5m5cwli3uyq"
+        },
+        {
+            "assetid": 1277188285,
+            "name": "Trippy Baby Ape #44",
+            "url": "ipfs://bafkreicvqapz7jynkostmi4zfpbdhb4rkf2k257nuisjwjzpws6uqied3q#i",
+            "image": "bafkreicvqapz7jynkostmi4zfpbdhb4rkf2k257nuisjwjzpws6uqied3q"
+        },
+        {
+            "assetid": 1277188719,
+            "name": "Trippy Baby Ape #45",
+            "url": "ipfs://bafkreicsczi4yj66l6eqei3am4ara3olltbsrixg3ldvf66ettm53gdore#i",
+            "image": "bafkreicsczi4yj66l6eqei3am4ara3olltbsrixg3ldvf66ettm53gdore"
+        },
+        {
+            "assetid": 1277189144,
+            "name": "Trippy Baby Ape #46",
+            "url": "ipfs://bafkreifz2jzayg5sxjuylm5vrv4w7z4xqpxdaugsttltjo5jemdkjs3uey#i",
+            "image": "bafkreifz2jzayg5sxjuylm5vrv4w7z4xqpxdaugsttltjo5jemdkjs3uey"
+        },
+        {
+            "assetid": 1277189664,
+            "name": "Trippy Baby Ape #47",
+            "url": "ipfs://bafkreibbrji5mf6fkkrclpwa4zv5ow3jvtha2mqqnwfxlql3z6lk7q4q2q#i",
+            "image": "bafkreibbrji5mf6fkkrclpwa4zv5ow3jvtha2mqqnwfxlql3z6lk7q4q2q"
+        },
+        {
+            "assetid": 1277197093,
+            "name": "Trippy Baby Ape #49",
+            "url": "ipfs://bafkreidtdwkwuvqr4i2cgdlhenrp7sntboitbwqjktsailfupwm65ibu2a#i",
+            "image": "bafkreidtdwkwuvqr4i2cgdlhenrp7sntboitbwqjktsailfupwm65ibu2a"
+        },
+        {
+            "assetid": 1277197546,
+            "name": "Trippy Baby Ape #48",
+            "url": "ipfs://bafkreibniodzdrcepzyhlcslmtcgovpck3v3yokmawytcardzwx7cb6qci#i",
+            "image": "bafkreibniodzdrcepzyhlcslmtcgovpck3v3yokmawytcardzwx7cb6qci"
+        },
+        {
+            "assetid": 1277198808,
+            "name": "Trippy Baby Ape #50",
+            "url": "ipfs://bafkreiaqe26vr7yaxm2cchx3idfxkdckdoufzyx6wfos2zfjv3ot2suo2a#i",
+            "image": "bafkreiaqe26vr7yaxm2cchx3idfxkdckdoufzyx6wfos2zfjv3ot2suo2a"
+        },
+        {
+            "assetid": 1277202393,
+            "name": "Trippy Baby Ape #51",
+            "url": "ipfs://bafkreihlxj4igbknaoqwzxuymidv6lttg2joez5ijs2hr5jssenzsraika#i",
+            "image": "bafkreihlxj4igbknaoqwzxuymidv6lttg2joez5ijs2hr5jssenzsraika"
+        },
+        {
+            "assetid": 1277218235,
+            "name": "Trippy Baby Ape #52",
+            "url": "ipfs://bafkreihezjecmoarniumdbsxa4lpuvlegsqlr2daee3qslj3rxvueoj7ya#i",
+            "image": "bafkreihezjecmoarniumdbsxa4lpuvlegsqlr2daee3qslj3rxvueoj7ya"
+        },
+        {
+            "assetid": 1277219566,
+            "name": "Trippy Baby Ape #53",
+            "url": "ipfs://bafkreihx5pmoybpgp43aukfeek2wlovc5alyesb4kmb3hjkajs556zegcy#i",
+            "image": "bafkreihx5pmoybpgp43aukfeek2wlovc5alyesb4kmb3hjkajs556zegcy"
+        },
+        {
+            "assetid": 1277219776,
+            "name": "Trippy Baby Ape #54",
+            "url": "ipfs://bafkreidfvivqqin5m6fv4tud4xaplle7e77cazxfzkgdgvrphu2xds4cny#i",
+            "image": "bafkreidfvivqqin5m6fv4tud4xaplle7e77cazxfzkgdgvrphu2xds4cny"
+        },
+        {
+            "assetid": 1277224989,
+            "name": "Trippy Baby Ape #55",
+            "url": "ipfs://bafkreigiosb6ik3cgaonpv366rexlcb2eykf3vqfvgmvbpqe3zg7nvlgue#i",
+            "image": "bafkreigiosb6ik3cgaonpv366rexlcb2eykf3vqfvgmvbpqe3zg7nvlgue"
+        },
+        {
+            "assetid": 1280321387,
+            "name": "Trippy Baby Ape #56",
+            "url": "ipfs://bafybeihkaf6gormz736tgt2anb4k77tn4aiuou5xhinjj4ag3lutf76yj4#i",
+            "image": "bafybeihkaf6gormz736tgt2anb4k77tn4aiuou5xhinjj4ag3lutf76yj4"
+        },
+        {
+            "assetid": 1280323854,
+            "name": "Trippy Baby Ape #57",
+            "url": "ipfs://bafkreidg4yxdtffbivb23uezrnjihagnvrfun5ac6zkhpfrnqltzwdf6ta#i",
+            "image": "bafkreidg4yxdtffbivb23uezrnjihagnvrfun5ac6zkhpfrnqltzwdf6ta"
+        },
+        {
+            "assetid": 1280324379,
+            "name": "Trippy Baby Ape #59",
+            "url": "ipfs://bafkreiandjoij3ghufotdbmow6khirbzgk2zfzymjsd56sh5k2ttpi6bti#i",
+            "image": "bafkreiandjoij3ghufotdbmow6khirbzgk2zfzymjsd56sh5k2ttpi6bti"
+        },
+        {
+            "assetid": 1280325751,
+            "name": "Trippy Baby Ape #60",
+            "url": "ipfs://bafkreiebnr3jsibmrqhyqm2vqpwb3b4kjsrextwpr556w52too5ah26dlm#i",
+            "image": "bafkreiebnr3jsibmrqhyqm2vqpwb3b4kjsrextwpr556w52too5ah26dlm"
+        },
+        {
+            "assetid": 1280326052,
+            "name": "Trippy Baby Ape #61",
+            "url": "ipfs://bafkreidvsmqh5q6d3ugr7wcazebqnhg5bnkvqyiujvphxfwmt7gfioyx6m#i",
+            "image": "bafkreidvsmqh5q6d3ugr7wcazebqnhg5bnkvqyiujvphxfwmt7gfioyx6m"
+        },
+        {
+            "assetid": 1280328138,
+            "name": "Trippy Baby Ape #62",
+            "url": "ipfs://bafkreia7i623qxpx2z3dpnq7ryxh7xk7ylzh5yuxmkjromdg33knwtexxi#i",
+            "image": "bafkreia7i623qxpx2z3dpnq7ryxh7xk7ylzh5yuxmkjromdg33knwtexxi"
+        },
+        {
+            "assetid": 1280330385,
+            "name": "Trippy Baby Ape #63",
+            "url": "ipfs://bafybeidsui4uixj55dvvivev5wnzokstuoryje5q67mduuimsq447ijplu#i",
+            "image": "bafybeidsui4uixj55dvvivev5wnzokstuoryje5q67mduuimsq447ijplu"
+        },
+        {
+            "assetid": 1280330903,
+            "name": "Trippy Baby Ape #64",
+            "url": "ipfs://bafkreigq7z4aq333eixpqcv3lvpqyz6so7soc54z4t6ci5fgcrgjmcna4a#i",
+            "image": "bafkreigq7z4aq333eixpqcv3lvpqyz6so7soc54z4t6ci5fgcrgjmcna4a"
+        },
+        {
+            "assetid": 1280333695,
+            "name": "Trippy Baby Ape #65",
+            "url": "ipfs://bafkreifukgyrt2kby3jf7oi4al4dk4x25jgxnk6blrb4dhyb4i2ij2q5ve#i",
+            "image": "bafkreifukgyrt2kby3jf7oi4al4dk4x25jgxnk6blrb4dhyb4i2ij2q5ve"
+        },
+        {
+            "assetid": 1280333941,
+            "name": "Trippy Baby Ape #66",
+            "url": "ipfs://bafkreig2pr2tt4dromkv5q6jmwviv5wqrykgslpv5otbrhc74il5wr5hqi#i",
+            "image": "bafkreig2pr2tt4dromkv5q6jmwviv5wqrykgslpv5otbrhc74il5wr5hqi"
+        },
+        {
+            "assetid": 1280334187,
+            "name": "Trippy Baby Ape #67",
+            "url": "ipfs://bafkreidl3nsvczoaqzljotmes5xmomcweudwiynl6opaq6wfyhtbptq33u#i",
+            "image": "bafkreidl3nsvczoaqzljotmes5xmomcweudwiynl6opaq6wfyhtbptq33u"
+        },
+        {
+            "assetid": 1280334435,
+            "name": "Trippy Baby Ape #68",
+            "url": "ipfs://bafkreiaodton3dhytejrtnsje2h2gdt7vgbt6ubiamr6shhoedde5bs63y#i",
+            "image": "bafkreiaodton3dhytejrtnsje2h2gdt7vgbt6ubiamr6shhoedde5bs63y"
+        },
+        {
+            "assetid": 1280334659,
+            "name": "Trippy Baby Ape #69",
+            "url": "ipfs://bafkreidu6ko5zvawoyx3sfquyzfoc2662fdnssgydxhfgrfmjaf57omex4#i",
+            "image": "bafkreidu6ko5zvawoyx3sfquyzfoc2662fdnssgydxhfgrfmjaf57omex4"
+        },
+        {
+            "assetid": 1280334970,
+            "name": "Trippy Baby Ape #70",
+            "url": "ipfs://bafkreibjqa4bpryz6cht35leuopt6h2ziz3rnaqdsbhlx65ntwxvi33evq#i",
+            "image": "bafkreibjqa4bpryz6cht35leuopt6h2ziz3rnaqdsbhlx65ntwxvi33evq"
+        },
+        {
+            "assetid": 1289310509,
+            "name": "Trippy Baby Ape #71",
+            "url": "ipfs://bafybeihrb3m3vfrn6oqfg4zooomcrqoywwrjbqja7tzzipceqt3niarnue#i",
+            "image": "bafybeihrb3m3vfrn6oqfg4zooomcrqoywwrjbqja7tzzipceqt3niarnue"
+        },
+        {
+            "assetid": 1289310976,
+            "name": "Trippy Baby Ape #72",
+            "url": "ipfs://bafkreihn3u3d5yvyuc5zkoaxw6fbu2au4g4bcjm56rfwwswxc7yqx75rne#i",
+            "image": "bafkreihn3u3d5yvyuc5zkoaxw6fbu2au4g4bcjm56rfwwswxc7yqx75rne"
+        },
+        {
+            "assetid": 1289901159,
+            "name": "Trippy Baby Ape #73",
+            "url": "ipfs://bafybeiaa2hwwwj5e5t3h5cgao2rdk7qckky5gyfv4xuvoeprecspwip3xy#i",
+            "image": "bafybeiaa2hwwwj5e5t3h5cgao2rdk7qckky5gyfv4xuvoeprecspwip3xy"
+        },
+        {
+            "assetid": 1289901870,
+            "name": "Trippy Baby Ape #74",
+            "url": "ipfs://bafkreiab4ffdgy43xmzdktkaj725ube5gvns7iyhf562w3mci3o6invhom#i",
+            "image": "bafkreiab4ffdgy43xmzdktkaj725ube5gvns7iyhf562w3mci3o6invhom"
+        },
+        {
+            "assetid": 1289902518,
+            "name": "Trippy Baby Ape #75",
+            "url": "ipfs://bafkreicnnm4pf34zhk3w2ip6e5b37zaye2lcq2yrm4o65bewnlmmdtusg4#i",
+            "image": "bafkreicnnm4pf34zhk3w2ip6e5b37zaye2lcq2yrm4o65bewnlmmdtusg4"
+        },
+        {
+            "assetid": 1289903155,
+            "name": "Trippy Baby Ape #76",
+            "url": "ipfs://bafkreidijvum6ae4axksojpy5z25hhbfzdbmstvqlxp4uf6e6lqii7nwg4#i",
+            "image": "bafkreidijvum6ae4axksojpy5z25hhbfzdbmstvqlxp4uf6e6lqii7nwg4"
+        },
+        {
+            "assetid": 1289904076,
+            "name": "Trippy Baby Ape #77",
+            "url": "ipfs://bafkreia565w7huidex24wl64s5tyc76arbrbrxrimp2a6aa4u3wba4spfy#i",
+            "image": "bafkreia565w7huidex24wl64s5tyc76arbrbrxrimp2a6aa4u3wba4spfy"
+        },
+        {
+            "assetid": 1289904764,
+            "name": "Trippy Baby Ape #78",
+            "url": "ipfs://bafkreiebxmljyxh35ug67b47ncbipafajpdltpeesw5arknmbmvqp4jjnm#i",
+            "image": "bafkreiebxmljyxh35ug67b47ncbipafajpdltpeesw5arknmbmvqp4jjnm"
+        },
+        {
+            "assetid": 1289905954,
+            "name": "Trippy Baby Ape #79",
+            "url": "ipfs://bafkreigp6uy3wvjkxi2mg77jezbam5y3tszswqthk7ecnikcc2zuhojdai#i",
+            "image": "bafkreigp6uy3wvjkxi2mg77jezbam5y3tszswqthk7ecnikcc2zuhojdai"
+        },
+        {
+            "assetid": 1289907865,
+            "name": "Trippy Baby Ape #80",
+            "url": "ipfs://bafkreihtcgnxqxo7kj2le4q7htjnuwiiu6qv56rjrjtqhamh3qt4lmgwsi#i",
+            "image": "bafkreihtcgnxqxo7kj2le4q7htjnuwiiu6qv56rjrjtqhamh3qt4lmgwsi"
+        },
+        {
+            "assetid": 1289909657,
+            "name": "Trippy Baby Ape #81",
+            "url": "ipfs://bafkreiagaykpxsc4excev3szxwfur6wkekn3v4ttjgmxxdj7sytn63lv5a#i",
+            "image": "bafkreiagaykpxsc4excev3szxwfur6wkekn3v4ttjgmxxdj7sytn63lv5a"
+        },
+        {
+            "assetid": 1289910459,
+            "name": "Trippy Baby Ape #82",
+            "url": "ipfs://bafkreife5v2cyujulnavgp2yo7cualcxeme4b7lveri6fczjjmpfctrqke#i",
+            "image": "bafkreife5v2cyujulnavgp2yo7cualcxeme4b7lveri6fczjjmpfctrqke"
+        },
+        {
+            "assetid": 1290363503,
+            "name": "Trippy Baby Ape #83",
+            "url": "ipfs://bafkreihxpq2kt6fws2po4xq6i64rqelf74yfy2q5k2zwxv54h3qg7wzfry#i",
+            "image": "bafkreihxpq2kt6fws2po4xq6i64rqelf74yfy2q5k2zwxv54h3qg7wzfry"
+        },
+        {
+            "assetid": 1290363813,
+            "name": "Trippy Baby Ape #84",
+            "url": "ipfs://bafkreict5hh67wklhav2g7diilz6nq2pmrc6kzaqvcelp7h4d2qqqelrzi#i",
+            "image": "bafkreict5hh67wklhav2g7diilz6nq2pmrc6kzaqvcelp7h4d2qqqelrzi"
+        },
+        {
+            "assetid": 1290364128,
+            "name": "Trippy Baby Ape #85",
+            "url": "ipfs://bafkreia7bw2tccnoknxk6wjjo5z2porvisupyixs5nbvj4vuqzmm224bqu#i",
+            "image": "bafkreia7bw2tccnoknxk6wjjo5z2porvisupyixs5nbvj4vuqzmm224bqu"
+        },
+        {
+            "assetid": 1290364592,
+            "name": "Trippy Baby Ape #86",
+            "url": "ipfs://bafkreibvmcx52u5ttby2l4yra2oxh444k3cgvaf34nwxbcdrmgmdilzkuy#i",
+            "image": "bafkreibvmcx52u5ttby2l4yra2oxh444k3cgvaf34nwxbcdrmgmdilzkuy"
+        },
+        {
+            "assetid": 1290364906,
+            "name": "Trippy Baby Ape #87",
+            "url": "ipfs://bafkreidpwcozjhi52otqnlfrpelt2grt25qgdf44t7gehxvg6ocwrbgtze#i",
+            "image": "bafkreidpwcozjhi52otqnlfrpelt2grt25qgdf44t7gehxvg6ocwrbgtze"
+        },
+        {
+            "assetid": 1290365139,
+            "name": "Trippy Baby Ape #88",
+            "url": "ipfs://bafkreig4pvjgdsbsghhijdylvgdn5ucrwko4bj6ldtmaucdjkzkbphxbya#i",
+            "image": "bafkreig4pvjgdsbsghhijdylvgdn5ucrwko4bj6ldtmaucdjkzkbphxbya"
+        },
+        {
+            "assetid": 1290365332,
+            "name": "Trippy Baby Ape #89",
+            "url": "ipfs://bafkreiguxjvgj4vwgmbdflvt2ztjphbz3nr6kkuovwppai4r5ol2wuab34#i",
+            "image": "bafkreiguxjvgj4vwgmbdflvt2ztjphbz3nr6kkuovwppai4r5ol2wuab34"
+        },
+        {
+            "assetid": 1290621835,
+            "name": "Trippy Baby Ape #90",
+            "url": "ipfs://bafkreidophvtwykmp3rcmfyb6ottdmozojuypl34lxfbzvn2cfhegxfvvm#i",
+            "image": "bafkreidophvtwykmp3rcmfyb6ottdmozojuypl34lxfbzvn2cfhegxfvvm"
+        },
+        {
+            "assetid": 1393512485,
+            "name": "Coinme Token",
+            "url": ""
+        },
+        {
+            "assetid": 1408403104,
+            "name": "Trippy Baby Ape #91",
+            "url": "ipfs://bafkreifzcv2bx2cpsw56wumqlme5sevk4dsbdigrkgnpgrv7objmloupx4#i",
+            "image": "bafkreifzcv2bx2cpsw56wumqlme5sevk4dsbdigrkgnpgrv7objmloupx4"
+        },
+        {
+            "assetid": 1408404024,
+            "name": "Trippy Baby Ape #92",
+            "url": "ipfs://bafkreigvoljbtaxbhpru5plxuc5v7sn7vtlbf2vmdd6rwb52jec27lt35y#i",
+            "image": "bafkreigvoljbtaxbhpru5plxuc5v7sn7vtlbf2vmdd6rwb52jec27lt35y"
+        },
+        {
+            "assetid": 1408404705,
+            "name": "Trippy Baby Ape #93",
+            "url": "ipfs://bafkreiakkxzxqjwxwssbhnfjaso5ij3b56ruebx63ktntjk3p7y33jhzhq#i",
+            "image": "bafkreiakkxzxqjwxwssbhnfjaso5ij3b56ruebx63ktntjk3p7y33jhzhq"
+        },
+        {
+            "assetid": 1408406320,
+            "name": "Trippy Baby Ape #94",
+            "url": "ipfs://bafkreia6xfvmowsvrlevxgea4l2mr22hsllbiakwpjnhfrfyg7tyy4pfle#i",
+            "image": "bafkreia6xfvmowsvrlevxgea4l2mr22hsllbiakwpjnhfrfyg7tyy4pfle"
+        },
+        {
+            "assetid": 1408407077,
+            "name": "Trippy Baby Ape #95",
+            "url": "ipfs://bafkreifcrxufg4xxyckxebv5jj5fa6aihs2bxu4rmcdlz6toyru2lznmwm#i",
+            "image": "bafkreifcrxufg4xxyckxebv5jj5fa6aihs2bxu4rmcdlz6toyru2lznmwm"
+        },
+        {
+            "assetid": 1408409006,
+            "name": "Trippy Baby Ape #96",
+            "url": "ipfs://bafkreibm4ytksamoayr2d4gssbvex76wqgtgvjv7cllhywnp6cwl7zi25u#i",
+            "image": "bafkreibm4ytksamoayr2d4gssbvex76wqgtgvjv7cllhywnp6cwl7zi25u"
+        },
+        {
+            "assetid": 1408410709,
+            "name": "Trippy Baby Ape #97",
+            "url": "ipfs://bafybeifyathkzmgdgxxtprf4qsg3if5o5qttx5nr4zynpbrudfoacyv37e#i",
+            "image": "bafybeifyathkzmgdgxxtprf4qsg3if5o5qttx5nr4zynpbrudfoacyv37e"
+        },
+        {
+            "assetid": 1408411302,
+            "name": "Trippy Baby Ape #98",
+            "url": "ipfs://bafybeihyzlmogr3fmr73aoew3yknawqnvji4t62jwkaezmurtpnxnlw44u#i",
+            "image": "bafybeihyzlmogr3fmr73aoew3yknawqnvji4t62jwkaezmurtpnxnlw44u"
+        },
+        {
+            "assetid": 1408467428,
+            "name": "Trippy Baby Ape #99",
+            "url": "ipfs://bafkreihezpn32f6lumi3i44imyfsowvyt5i4fe5apg2xdjekdzmcr44ha4#i",
+            "image": "bafkreihezpn32f6lumi3i44imyfsowvyt5i4fe5apg2xdjekdzmcr44ha4"
+        },
+        {
+            "assetid": 1408468660,
+            "name": "Trippy Baby Ape #100",
+            "url": "ipfs://bafkreib6dhlu666uamabj2jlfiw5hhgfcoqeqbgkemzfzek5juxbs4zkna#i",
+            "image": "bafkreib6dhlu666uamabj2jlfiw5hhgfcoqeqbgkemzfzek5juxbs4zkna"
+        },
+        {
+            "assetid": 1408469527,
+            "name": "Trippy Baby Ape #101",
+            "url": "ipfs://bafkreicrmun6jb4oorxiio7bpnh36byqjm6llun6qalkkui67nks75mqia#i",
+            "image": "bafkreicrmun6jb4oorxiio7bpnh36byqjm6llun6qalkkui67nks75mqia"
+        },
+        {
+            "assetid": 1408470002,
+            "name": "Trippy Baby Ape #102",
+            "url": "ipfs://bafkreigvqg4ehwkmhdhzydwszftidxvrw3j6jsvnero7klp75vkll3vosi#i",
+            "image": "bafkreigvqg4ehwkmhdhzydwszftidxvrw3j6jsvnero7klp75vkll3vosi"
+        },
+        {
+            "assetid": 1408470411,
+            "name": "Trippy Baby Ape #103",
+            "url": "ipfs://bafkreigzuw7mfvnmzvfzjjbvza36vv4ao4lxj5tj5vyxusyiarm6bx64wa#i",
+            "image": "bafkreigzuw7mfvnmzvfzjjbvza36vv4ao4lxj5tj5vyxusyiarm6bx64wa"
+        },
+        {
+            "assetid": 1408471172,
+            "name": "Trippy Baby Ape #104",
+            "url": "ipfs://bafybeigp4gn65osbs65432zq3bhwd7udfcwagvev4kebjlu6jyvzyfmbtq#i",
+            "image": "bafybeigp4gn65osbs65432zq3bhwd7udfcwagvev4kebjlu6jyvzyfmbtq"
+        },
+        {
+            "assetid": 1408471587,
+            "name": "Trippy Baby Ape #105",
+            "url": "ipfs://bafkreicba6qha5xxgqudaku3a3524dhkx56mjyrfksvyky6irpbxh23434#i",
+            "image": "bafkreicba6qha5xxgqudaku3a3524dhkx56mjyrfksvyky6irpbxh23434"
+        },
+        {
+            "assetid": 1408473409,
+            "name": "Trippy Baby Ape #106",
+            "url": "ipfs://bafkreihhydkpqcue73z3swt7mbkqjffwgmb3lbjbrlgwccqntcl7yqcuou#i",
+            "image": "bafkreihhydkpqcue73z3swt7mbkqjffwgmb3lbjbrlgwccqntcl7yqcuou"
+        },
+        {
+            "assetid": 1408473934,
+            "name": "Trippy Baby Ape #107",
+            "url": "ipfs://bafkreicmzmaya6amaxxs2ksrjzkultbztoqmn3ggc5bwpmaujulj2azpke#i",
+            "image": "bafkreicmzmaya6amaxxs2ksrjzkultbztoqmn3ggc5bwpmaujulj2azpke"
+        },
+        {
+            "assetid": 1408474975,
+            "name": "Trippy Baby Ape #109",
+            "url": "ipfs://bafkreigzuw7mfvnmzvfzjjbvza36vv4ao4lxj5tj5vyxusyiarm6bx64wa#i",
+            "image": "bafkreigzuw7mfvnmzvfzjjbvza36vv4ao4lxj5tj5vyxusyiarm6bx64wa"
+        },
+        {
+            "assetid": 1408476136,
+            "name": "Trippy Baby Ape #110",
+            "url": "ipfs://bafkreicpnincn34yfytcl32vjbyxeg73ycufwh6f4u2r2xm5tf334plnem#i",
+            "image": "bafkreicpnincn34yfytcl32vjbyxeg73ycufwh6f4u2r2xm5tf334plnem"
+        },
+        {
+            "assetid": 1437786381,
+            "name": "Trippy Baby Ape #111",
+            "url": "https://algoxnft.com/inscriptions",
+            "image": "https:"
+        },
+        {
+            "assetid": 1631851805,
+            "name": "Trippy Gorilla #02",
+            "url": "ipfs://bafybeibtd44nftdzua3ebx3hg5coxwhfsh7botbko52clisrbvuijhdvdq#i",
+            "image": "bafybeibtd44nftdzua3ebx3hg5coxwhfsh7botbko52clisrbvuijhdvdq"
+        },
+        {
+            "assetid": 1631853646,
+            "name": "Trippy Gorilla #03",
+            "url": "ipfs://bafybeibb6y3d52tfgll6osd67jy4vmk6msu2nr7r7orwkwl4jhqv6p3ofm#i",
+            "image": "bafybeibb6y3d52tfgll6osd67jy4vmk6msu2nr7r7orwkwl4jhqv6p3ofm"
+        },
+        {
+            "assetid": 1631854239,
+            "name": "Trippy Gorilla #04",
+            "url": "ipfs://bafybeigtpwrkuj2y2ckul5ze4hw7svopj26r3azeq764dteiheomdftvza#i",
+            "image": "bafybeigtpwrkuj2y2ckul5ze4hw7svopj26r3azeq764dteiheomdftvza"
+        },
+        {
+            "assetid": 1631858071,
+            "name": "Trippy Gorilla #05",
+            "url": "ipfs://bafkreiboqex5lhw7bdmgrgnqufraq4wnbbmr2klqvxsd66agagzkggrjge#i",
+            "image": "bafkreiboqex5lhw7bdmgrgnqufraq4wnbbmr2klqvxsd66agagzkggrjge"
+        },
+        {
+            "assetid": 1631858556,
+            "name": "Trippy Gorilla #06",
+            "url": "ipfs://bafkreidnqflxextrhvauzmvyfuh3nhoj4zqt5gqdycmois3rcxw3vrz4vi#i",
+            "image": "bafkreidnqflxextrhvauzmvyfuh3nhoj4zqt5gqdycmois3rcxw3vrz4vi"
+        },
+        {
+            "assetid": 1631859421,
+            "name": "Trippy Gorilla #07",
+            "url": "ipfs://bafybeig7c42ailrd77ur6lexlnyoe3o7odeapqeuzxnj4gj3acy2clf74y#i",
+            "image": "bafybeig7c42ailrd77ur6lexlnyoe3o7odeapqeuzxnj4gj3acy2clf74y"
+        },
+        {
+            "assetid": 1631861113,
+            "name": "Trippy Gorilla #09",
+            "url": "ipfs://bafkreicipmppelp4hifyvm6enwcls4ndy4bqaxswa6oqpuw6umkobfarba#i",
+            "image": "bafkreicipmppelp4hifyvm6enwcls4ndy4bqaxswa6oqpuw6umkobfarba"
+        },
+        {
+            "assetid": 1631871883,
+            "name": "Trippy Gorilla #14",
+            "url": "ipfs://bafybeif4io2bmib6k432vhaangtil5byatakf73yoheta6suti2nd3agrm#i",
+            "image": "bafybeif4io2bmib6k432vhaangtil5byatakf73yoheta6suti2nd3agrm"
+        },
+        {
+            "assetid": 1631874689,
+            "name": "Trippy Gorilla #16",
+            "url": "ipfs://bafybeibyalq3dlr7727f4uyzj324r2gnjoiiobf34xknhx63cqn5tof4na#i",
+            "image": "bafybeibyalq3dlr7727f4uyzj324r2gnjoiiobf34xknhx63cqn5tof4na"
+        },
+        {
+            "assetid": 1631881288,
+            "name": "Trippy Gorilla #12",
+            "url": "ipfs://bafybeidqeebkoxewvd3xug6muevbd3mzv7y3y6ap2kqimqz5uyqpfxdsdq#i",
+            "image": "bafybeidqeebkoxewvd3xug6muevbd3mzv7y3y6ap2kqimqz5uyqpfxdsdq"
+        },
+        {
+            "assetid": 1631904486,
+            "name": "Trippy Gorilla #22",
+            "url": "ipfs://bafybeige2sn65odijdslolbig2ajxdmefru4ztdbafbbnhxjsuczxug3a4#i",
+            "image": "bafybeige2sn65odijdslolbig2ajxdmefru4ztdbafbbnhxjsuczxug3a4"
+        },
+        {
+            "assetid": 1631916934,
+            "name": "Trippy Gorilla #23",
+            "url": "ipfs://bafybeialt7rl4xidksnmh53l2ojivrjhalve3i47ksaw6fbcugs3xrmrx4#i",
+            "image": "bafybeialt7rl4xidksnmh53l2ojivrjhalve3i47ksaw6fbcugs3xrmrx4"
+        },
+        {
+            "assetid": 1631965194,
+            "name": "Trippy Gorilla #29",
+            "url": "ipfs://bafkreiedlqcxtnkos735dbmg6aeidycm2fwddq4jkuxo63y7tb4nnluiai#i",
+            "image": "bafkreiedlqcxtnkos735dbmg6aeidycm2fwddq4jkuxo63y7tb4nnluiai"
+        },
+        {
+            "assetid": 1631965948,
+            "name": "Trippy Gorilla #30",
+            "url": "ipfs://bafybeifdmizmyjt7wgnzr5mxewsyk6a5p7zudgn7k6zpmumhd52mj3rzda#i",
+            "image": "bafybeifdmizmyjt7wgnzr5mxewsyk6a5p7zudgn7k6zpmumhd52mj3rzda"
+        },
+        {
+            "assetid": 1631967983,
+            "name": "Trippy Gorilla #33",
+            "url": "ipfs://bafkreibcmehf3gxwsnscdb7j2fg5ankpadr2cwcglkt6qesht3t6jpi7sy#i",
+            "image": "bafkreibcmehf3gxwsnscdb7j2fg5ankpadr2cwcglkt6qesht3t6jpi7sy"
+        },
+        {
+            "assetid": 1631968906,
+            "name": "Trippy Gorilla #34",
+            "url": "ipfs://bafkreidbiptglrpqh2bgh2xet73u24drkivvxkhuky3j4ixzaxfk6v47ye#i",
+            "image": "bafkreidbiptglrpqh2bgh2xet73u24drkivvxkhuky3j4ixzaxfk6v47ye"
+        },
+        {
+            "assetid": 1631969874,
+            "name": "Trippy Gorilla #35",
+            "url": "ipfs://bafkreifhvsjb6xun5v2yxhpyj4ipezjl4smjbpzavgcjbbtiaxdm5fe45y#i",
+            "image": "bafkreifhvsjb6xun5v2yxhpyj4ipezjl4smjbpzavgcjbbtiaxdm5fe45y"
+        },
+        {
+            "assetid": 1631971253,
+            "name": "Trippy Gorilla #37",
+            "url": "ipfs://bafkreig5f4k2vcevger5nco7qkr2snzlvi5mh43s6ut5omshhuf3rc3veq#i",
+            "image": "bafkreig5f4k2vcevger5nco7qkr2snzlvi5mh43s6ut5omshhuf3rc3veq"
+        },
+        {
+            "assetid": 1631971629,
+            "name": "Trippy Gorilla #38",
+            "url": "ipfs://bafkreiftc7odtigjt4cdiwewhxkawmaydw7ec3yzcrfdjksoxyg5lnctbe#i",
+            "image": "bafkreiftc7odtigjt4cdiwewhxkawmaydw7ec3yzcrfdjksoxyg5lnctbe"
+        },
+        {
+            "assetid": 1631974129,
+            "name": "Trippy Gorilla #41",
+            "url": "ipfs://bafkreifrbjvcru2kojwfzjxaxyxm5xgzznnxxajztmk2jspicqzxveu55e#i",
+            "image": "bafkreifrbjvcru2kojwfzjxaxyxm5xgzznnxxajztmk2jspicqzxveu55e"
+        },
+        {
+            "assetid": 1640363878,
+            "name": "Trippy Gorilla #43",
+            "url": "ipfs://bafkreihtx4ojtfmtqmqbnkaevdpl7mqdzvxs2a4nbi432vd24zbyhb6tt4#i",
+            "image": "bafkreihtx4ojtfmtqmqbnkaevdpl7mqdzvxs2a4nbi432vd24zbyhb6tt4"
+        },
+        {
+            "assetid": 1640367482,
+            "name": "Trippy Gorilla #48",
+            "url": "ipfs://bafybeibnmkkxzr6z5coaukmhuhbs2mhdvtnl722ivwod6qvjfstpkhix7m#i",
+            "image": "bafybeibnmkkxzr6z5coaukmhuhbs2mhdvtnl722ivwod6qvjfstpkhix7m"
+        },
+        {
+            "assetid": 1640479611,
+            "name": "Trippy Gorilla #49",
+            "url": "ipfs://bafkreibi6kwkasxmkmzlbs74bbjmekenonfnjmwwobomnynk2lc5wf62rq#i",
+            "image": "bafkreibi6kwkasxmkmzlbs74bbjmekenonfnjmwwobomnynk2lc5wf62rq"
+        },
+        {
+            "assetid": 1640480082,
+            "name": "Trippy Gorilla #50",
+            "url": "ipfs://bafkreidbauaeimk5oi6rmh6xpu7mvfgn2aquqlxezx3hcyzos2zw7pidwe#i",
+            "image": "bafkreidbauaeimk5oi6rmh6xpu7mvfgn2aquqlxezx3hcyzos2zw7pidwe"
+        },
+        {
+            "assetid": 1640480771,
+            "name": "Trippy Gorilla #51",
+            "url": "ipfs://bafkreihskadqldasczcl47kivbfyvsuj56isywnnoxprmwj6hfspftjata#i",
+            "image": "bafkreihskadqldasczcl47kivbfyvsuj56isywnnoxprmwj6hfspftjata"
+        },
+        {
+            "assetid": 1640481156,
+            "name": "Trippy Gorilla #52",
+            "url": "ipfs://bafkreic2vyzqws52x3qonol53m3eyqqj45khvgnhlii3aus3dvfi3hn5ra#i",
+            "image": "bafkreic2vyzqws52x3qonol53m3eyqqj45khvgnhlii3aus3dvfi3hn5ra"
+        },
+        {
+            "assetid": 2077610343,
+            "name": "Trippy Gorilla #53",
+            "url": "ipfs://bafkreifxukmnsx4nns2axincubvqscio4urpffnqica6qqmza5a7hj37om#i",
+            "image": "bafkreifxukmnsx4nns2axincubvqscio4urpffnqica6qqmza5a7hj37om"
+        },
+        {
+            "assetid": 2191488970,
+            "name": "Trippy Baby Ape #112",
+            "url": "ipfs://bafkreifmaeolvpo23l5ygxluik3w7go52lytj2e65vyaizivrvs3ap7usa",
+            "image": "bafkreifmaeolvpo23l5ygxluik3w7go52lytj2e65vyaizivrvs3ap7usa"
+        },
+        {
+            "assetid": 2191490291,
+            "name": "Trippy Baby Ape #113",
+            "url": "ipfs://bafkreifvp25mas7a6qoov37xvppzthh5dw6bnccqu4ipm5xg6yzpn2srmy",
+            "image": "bafkreifvp25mas7a6qoov37xvppzthh5dw6bnccqu4ipm5xg6yzpn2srmy"
+        },
+        {
+            "assetid": 2191542710,
+            "name": "Trippy Baby Ape #114",
+            "url": "ipfs://bafkreid6gck2i5jtap5xuutu7ky6ajjxd2tjawvuzmtfiiyqkrw2xbnqp4",
+            "image": "bafkreid6gck2i5jtap5xuutu7ky6ajjxd2tjawvuzmtfiiyqkrw2xbnqp4"
+        }
+    ]
+}
