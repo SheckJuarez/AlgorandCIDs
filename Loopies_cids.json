@@ -2,7 +2,8 @@
     "Project": "Loopies",
     "Creator": "Josh",
     "CreatorAddress": [
-        "63HIY3QOFNGW4KLG2GGYDILZ27UTCRDYNFHCXDTBOZLYBLPWDYEZ4ZP4BI"
+        "63HIY3QOFNGW4KLG2GGYDILZ27UTCRDYNFHCXDTBOZLYBLPWDYEZ4ZP4BI",
+        "GGHGZJC56GCETFSQELHKJTB57X3223YGBYYBVHDXZ3TXNBPCHYWH7MVDSA"
     ],
     "Assets": [
         {
@@ -13336,6 +13337,78 @@
             "name": "Loopie #2222",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhinCPRsJ6ddVRGJASqoe2XWyrwqgJNXki5YTb8oxdnvHF"
+        },
+        {
+            "assetid": 1383843165,
+            "name": "Collector - Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhff8JyV9G7P4vUSjJgsWqJhuvDo2C54nb8YKDj7v1YhpW"
+        },
+        {
+            "assetid": 1383846291,
+            "name": "Collector - Silver",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheCimReLGH46BZLHuwE32ken6FyTNJ36bsp1yQWtSeqNX"
+        },
+        {
+            "assetid": 1383850032,
+            "name": "King Midas - Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rho7V8cXBcm6BHH75Q8b44DhzBgQFVDcAFroqMMHUnQCsw"
+        },
+        {
+            "assetid": 1383853720,
+            "name": "King Midas - Silver",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbvA3ygGa8AtBUZetvUgHfRTM8i8d4Wtmtz8tW6CMisKT"
+        },
+        {
+            "assetid": 1383856006,
+            "name": "Loner - Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhirgUEjTRtfmc8ihLmXEChFRsfoFpPHdG8WaUw1BJLW6V"
+        },
+        {
+            "assetid": 1383857845,
+            "name": "Loner - Silver",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfgcbVEXqQubg7uuDrimMdZsEtgzMTqNsU4mLbjwbHkJ4"
+        },
+        {
+            "assetid": 1383861304,
+            "name": "Loopie Maxi - Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhVG2zH2ho2RFWJxhJ9jMoDV9KamsV6JXtbYFV2iZ5Gbs"
+        },
+        {
+            "assetid": 1383862891,
+            "name": "Loopie Maxi - Silver",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXmiNy1r2x5HPnyvX35tdJVkZZg61u4DXtEE3ttKBi8if"
+        },
+        {
+            "assetid": 1383865029,
+            "name": "Weird Faces - Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaSmF8okoqN8dVmFtrYeP11WoXR323qizsDEkD3vspMHz"
+        },
+        {
+            "assetid": 1383867227,
+            "name": "Weird Faces - Silver",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnNe95gNtfDbNm4m49Dni24CynP6yz1uvNzLDL2ZFBxHF"
+        },
+        {
+            "assetid": 1383869866,
+            "name": "Zookeeper - Gold",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhYsonLyvhtDTqyg5dLvFTNnNLuJ8vtfxt4dcoZMrht7Nx"
+        },
+        {
+            "assetid": 1383872000,
+            "name": "Zookeeper - Silver",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhWkndKSzX58hvocYKKQQpr7PZb5sTdAqrGWZDmnvBk42c"
         }
     ]
 }

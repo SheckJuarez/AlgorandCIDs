@@ -1,0 +1,609 @@
+{
+    "Project": "AlgoShoes",
+    "Creator": "AlgoZen",
+    "CreatorAddress": [
+        "SC67EFSIHZNPALWFNAXEG5G7SG2VNC5BD6RVQWOCUGM2EEAKH53LU75GPU"
+    ],
+    "Assets": [
+        {
+            "assetid": 325508733,
+            "name": "AlgoZen1",
+            "url": "https://ipfs.io/ipfs/bafkreielh4q6zwmno7mj5cfjdp3yonueyrpyksq42yqunfleqjsuu37goi",
+            "image": "bafkreielh4q6zwmno7mj5cfjdp3yonueyrpyksq42yqunfleqjsuu37goi"
+        },
+        {
+            "assetid": 325811216,
+            "name": "AlgoSamurai1",
+            "url": "https://ipfs.io/ipfs/bafkreiawh4ty2iptbrpeaypugbrjdp56rcyglyx7vinxffnlucq4cp62cu",
+            "image": "bafkreiawh4ty2iptbrpeaypugbrjdp56rcyglyx7vinxffnlucq4cp62cu"
+        },
+        {
+            "assetid": 326992754,
+            "name": "AlgoZen2",
+            "url": "https://ipfs.io/ipfs/bafkreier7urgnndnqxbdal22igsxxhqr7dufjayepuoiyo6n4aqx5i5wtu",
+            "image": "bafkreier7urgnndnqxbdal22igsxxhqr7dufjayepuoiyo6n4aqx5i5wtu"
+        },
+        {
+            "assetid": 328976280,
+            "name": "AlgoZen3",
+            "url": "https://ipfs.io/ipfs/bafybeiahg2s6b73tppodjdw2tu66npnizvhdjigidqlh3jutzy7plsk4f4",
+            "image": "bafybeiahg2s6b73tppodjdw2tu66npnizvhdjigidqlh3jutzy7plsk4f4"
+        },
+        {
+            "assetid": 344176330,
+            "name": "AlgoZen SD5",
+            "url": "https://ipfs.io/ipfs/bafkreierwrcjrgqsxe4q3kvkfdpfapdfaxd54572guweenz64aku6qy75y",
+            "image": "bafkreierwrcjrgqsxe4q3kvkfdpfapdfaxd54572guweenz64aku6qy75y"
+        },
+        {
+            "assetid": 344347237,
+            "name": "AlgoZen SD4",
+            "url": "https://ipfs.io/ipfs/bafkreibql7se2kj32kyg7a75gakbjxkx4dadmkshyabwvbbfhf3zxf6eey",
+            "image": "bafkreibql7se2kj32kyg7a75gakbjxkx4dadmkshyabwvbbfhf3zxf6eey"
+        },
+        {
+            "assetid": 344354915,
+            "name": "AlgoZen SD3",
+            "url": "https://ipfs.io/ipfs/bafybeibmhsz6m7fibichnmnkzid2bkk4vuc5yigp6wj4polm6qfyt2nqou",
+            "image": "bafybeibmhsz6m7fibichnmnkzid2bkk4vuc5yigp6wj4polm6qfyt2nqou"
+        },
+        {
+            "assetid": 344363988,
+            "name": "AlgoZen SD2",
+            "url": "https://ipfs.io/ipfs/bafybeigoabkw6cvmcampud3rvawljzaj7zgwpmgboazqzqmnae4r3fr2me",
+            "image": "bafybeigoabkw6cvmcampud3rvawljzaj7zgwpmgboazqzqmnae4r3fr2me"
+        },
+        {
+            "assetid": 344374549,
+            "name": "AlgoZen SD1",
+            "url": "https://ipfs.io/ipfs/bafybeifq4oguh5cvq5g2ugcmkkjc7g7ypaanqgarjghfz53u5p2cwxciyq",
+            "image": "bafybeifq4oguh5cvq5g2ugcmkkjc7g7ypaanqgarjghfz53u5p2cwxciyq"
+        },
+        {
+            "assetid": 359499752,
+            "name": "AlgoShoe1 Original Beige",
+            "url": "https://ipfs.io/ipfs/bafybeibsq4eixlwsi3bfvkccma3r2hdpfxokwmtsw45youecajht55d26q",
+            "image": "bafybeibsq4eixlwsi3bfvkccma3r2hdpfxokwmtsw45youecajht55d26q"
+        },
+        {
+            "assetid": 359517594,
+            "name": "AlgoShoe2 Original Coral",
+            "url": "https://ipfs.io/ipfs/bafybeia4ein3a5lcceiymfivrfhqdfpazxg3tvgqxtgwlgoxjimwco7qp4",
+            "image": "bafybeia4ein3a5lcceiymfivrfhqdfpazxg3tvgqxtgwlgoxjimwco7qp4"
+        },
+        {
+            "assetid": 359605603,
+            "name": "AlgoShoe3 Exotic Volcano",
+            "url": "https://ipfs.io/ipfs/bafybeiarchtz3q3yqw6amlkdnpldlxogbumpyqd33rkjrfr6pzzaahpmhi",
+            "image": "bafybeiarchtz3q3yqw6amlkdnpldlxogbumpyqd33rkjrfr6pzzaahpmhi"
+        },
+        {
+            "assetid": 359609250,
+            "name": "AlgoShoe4 Original Seafoam Green",
+            "url": "https://ipfs.io/ipfs/bafybeibbb4iamjmdhhfrrccqdri2h3lrnl4j7gnwdsuu3zu6hyly7cevyu",
+            "image": "bafybeibbb4iamjmdhhfrrccqdri2h3lrnl4j7gnwdsuu3zu6hyly7cevyu"
+        },
+        {
+            "assetid": 360074579,
+            "name": "AlgoShoe5 Exotic Grass Coral",
+            "url": "https://ipfs.io/ipfs/bafybeibfztky4hyiyusfvvp7adr3atgeu4i3kc7cea6tzpdus62ma4wgse",
+            "image": "bafybeibfztky4hyiyusfvvp7adr3atgeu4i3kc7cea6tzpdus62ma4wgse"
+        },
+        {
+            "assetid": 360076738,
+            "name": "AlgoShoe6 Exotic Burger",
+            "url": "https://ipfs.io/ipfs/bafkreifr4nyghfu3jj7xpezoiesm4wg662plfh4m4pyx45ko7oitmfkgtu",
+            "image": "bafkreifr4nyghfu3jj7xpezoiesm4wg662plfh4m4pyx45ko7oitmfkgtu"
+        },
+        {
+            "assetid": 360078991,
+            "name": "AlgoShoe7 Original Arctic Blue",
+            "url": "https://ipfs.io/ipfs/bafybeieubwnog7jcbwbgup5cxmyl45od6siwoc3hk4gy6vf7movy2orsta",
+            "image": "bafybeieubwnog7jcbwbgup5cxmyl45od6siwoc3hk4gy6vf7movy2orsta"
+        },
+        {
+            "assetid": 360088916,
+            "name": "AlgoShoe8 Exotic Cupcake",
+            "url": "https://ipfs.io/ipfs/bafybeigqp5nmorw7mtg3rwlrgjoorpywudgjzc6ijj6427ma5qodlr3fgq",
+            "image": "bafybeigqp5nmorw7mtg3rwlrgjoorpywudgjzc6ijj6427ma5qodlr3fgq"
+        },
+        {
+            "assetid": 360091821,
+            "name": "AlgoShoe9 Original Orchid Purple",
+            "url": "https://ipfs.io/ipfs/bafybeib4slworuiypdkqrclhl66zo6vhdjyokuedvkb7dpaf523ezf54cq",
+            "image": "bafybeib4slworuiypdkqrclhl66zo6vhdjyokuedvkb7dpaf523ezf54cq"
+        },
+        {
+            "assetid": 360100049,
+            "name": "AlgoShoe10 Original Fuchsia Pink",
+            "url": "https://ipfs.io/ipfs/bafybeihomlkwmfoh47jjvvz3nfuzsma7ko6nsgtymm76tjww56dvah3l5u",
+            "image": "bafybeihomlkwmfoh47jjvvz3nfuzsma7ko6nsgtymm76tjww56dvah3l5u"
+        },
+        {
+            "assetid": 366348329,
+            "name": "AlgoShoe11 Exotic Red Flowers",
+            "url": "ipfs://bafkreibhnxdhrgsigo2i7vzn6rtwfvx2w4qcljgzkf4h2p3obg3gooig5a",
+            "image": "bafkreibhnxdhrgsigo2i7vzn6rtwfvx2w4qcljgzkf4h2p3obg3gooig5a"
+        },
+        {
+            "assetid": 366357896,
+            "name": "AlgoShoe12 Original Ultramarine",
+            "url": "ipfs://bafkreicxwwg35itbplizcl2psxnudgewdlj2iu75zobejzsve7zrxcztdq",
+            "image": "bafkreicxwwg35itbplizcl2psxnudgewdlj2iu75zobejzsve7zrxcztdq"
+        },
+        {
+            "assetid": 366377994,
+            "name": "AlgoShoe16 Exotic Masked Beige",
+            "url": "ipfs://bafkreiejp6x6eql3vjbbpzolhqfapksh2tgjblxdvsm2khpus2xc2el5xi",
+            "image": "bafkreiejp6x6eql3vjbbpzolhqfapksh2tgjblxdvsm2khpus2xc2el5xi"
+        },
+        {
+            "assetid": 368208617,
+            "name": "AlgoShoe18 Exotic Red Teeth",
+            "url": "ipfs://bafkreigpkqz7pcvtwgl2pdr2lnc2ycdbtdmk3hvqtplfwg2fp3gy6ayioq",
+            "image": "bafkreigpkqz7pcvtwgl2pdr2lnc2ycdbtdmk3hvqtplfwg2fp3gy6ayioq"
+        },
+        {
+            "assetid": 369583810,
+            "name": "AlgoShoe13 Original Pink UMarine",
+            "url": "ipfs://bafkreifotykjtgixugot4dch3bczrwwdakwbdewezyeqcyfbmhm3zfko7a",
+            "image": "bafkreifotykjtgixugot4dch3bczrwwdakwbdewezyeqcyfbmhm3zfko7a"
+        },
+        {
+            "assetid": 369609168,
+            "name": "AlgoShoe15 Exotic Disco",
+            "url": "ipfs://bafkreiflapt2zyeatz3lmy2ytahmsarokp3vcacs7qrfzu2dij26tgwgcy",
+            "image": "bafkreiflapt2zyeatz3lmy2ytahmsarokp3vcacs7qrfzu2dij26tgwgcy"
+        },
+        {
+            "assetid": 369715837,
+            "name": "AlgoShoe17 Exotic Goldfish",
+            "url": "ipfs://bafybeifbflj5za6znktcrjn56pglveai2qrboq4jgczpsglxd5on3yxqxa",
+            "image": "bafybeifbflj5za6znktcrjn56pglveai2qrboq4jgczpsglxd5on3yxqxa"
+        },
+        {
+            "assetid": 369736091,
+            "name": "AlgoShoe19 Original RED on RED",
+            "url": "ipfs://bafkreihftg762d4grvt3z2q5itsoaot6c2agtomlqsx4ehnth34jggrswm",
+            "image": "bafkreihftg762d4grvt3z2q5itsoaot6c2agtomlqsx4ehnth34jggrswm"
+        },
+        {
+            "assetid": 369748566,
+            "name": "AlgoShoe14 Algo Beige",
+            "url": "ipfs://bafkreig3lapx7ii6dwy7mveodnpxq2v3m272wwkqvxy4jcsikfnwgdhiyu",
+            "image": "bafkreig3lapx7ii6dwy7mveodnpxq2v3m272wwkqvxy4jcsikfnwgdhiyu"
+        },
+        {
+            "assetid": 369958120,
+            "name": "AlgoShoe20 Original Canary",
+            "url": "ipfs://bafybeia7p5p5umgwgxjr4tvr7w5cc7ro67hr7x3hkho6g6achuzakitn5e",
+            "image": "bafybeia7p5p5umgwgxjr4tvr7w5cc7ro67hr7x3hkho6g6achuzakitn5e"
+        },
+        {
+            "assetid": 374894158,
+            "name": "AlgoShoe29 Exotic Fresh Teeth",
+            "url": "ipfs://bafybeifrosvw3lil5dxzn6eul2bvtefzichyn3dps4re3hkhurmxjktnwe",
+            "image": "bafybeifrosvw3lil5dxzn6eul2bvtefzichyn3dps4re3hkhurmxjktnwe"
+        },
+        {
+            "assetid": 378882859,
+            "name": "AlgoShoe21 Original Lime Green",
+            "url": "ipfs://bafkreieru2g2pnrczesdcueba53cg25cpmb4mjelazsulp4x75z55my5hq",
+            "image": "bafkreieru2g2pnrczesdcueba53cg25cpmb4mjelazsulp4x75z55my5hq"
+        },
+        {
+            "assetid": 378884942,
+            "name": "AlgoShoe22 Original Algo Ride",
+            "url": "ipfs://bafkreiely3yda4yruivvrz7xeuvs6ywutttnddyxexjmd7e4og5yuhx4xy",
+            "image": "bafkreiely3yda4yruivvrz7xeuvs6ywutttnddyxexjmd7e4og5yuhx4xy"
+        },
+        {
+            "assetid": 378891190,
+            "name": "AlgoShoe23 Exotic Grass Ride",
+            "url": "ipfs://bafybeieq5x5wylaykzvcswi2q6gagnltcxcvyyslvpcfrgeyanc7g27wzu",
+            "image": "bafybeieq5x5wylaykzvcswi2q6gagnltcxcvyyslvpcfrgeyanc7g27wzu"
+        },
+        {
+            "assetid": 378895780,
+            "name": "AlgoShoe24 Turquoise Blue",
+            "url": "ipfs://bafkreif5cpdgkjgsowbd7gvzzmvtbiuoja4raszeqd3j722dbdfcyxeiuy",
+            "image": "bafkreif5cpdgkjgsowbd7gvzzmvtbiuoja4raszeqd3j722dbdfcyxeiuy"
+        },
+        {
+            "assetid": 378900873,
+            "name": "AlgoShoe25 Balloon Fly",
+            "url": "ipfs://bafybeiaeluplxuoipywlphvaomw7dnig27l3keinndgevvgf6rmwdxjuhy",
+            "image": "bafybeiaeluplxuoipywlphvaomw7dnig27l3keinndgevvgf6rmwdxjuhy"
+        },
+        {
+            "assetid": 379606871,
+            "name": "AlgoShoe26 Original MellowYellow",
+            "url": "ipfs://bafkreifiao5mbeuvq3y25s42emsnj7gpbnlv3ikhawpom2jqcwimgjliim",
+            "image": "bafkreifiao5mbeuvq3y25s42emsnj7gpbnlv3ikhawpom2jqcwimgjliim"
+        },
+        {
+            "assetid": 379609617,
+            "name": "AlgoShoe27 Exotic Take Cover",
+            "url": "ipfs://bafkreia7wxferswx772zsig7sj4snahheqiktkazhbnvacmff4rxryulc4",
+            "image": "bafkreia7wxferswx772zsig7sj4snahheqiktkazhbnvacmff4rxryulc4"
+        },
+        {
+            "assetid": 379611907,
+            "name": "AlgoShoe28 Exotic Snake",
+            "url": "ipfs://bafkreifbqr5wrtc2xpoopqyhp4mjz64k3ndpcnrhthiyzyeonwuaj4cegy",
+            "image": "bafkreifbqr5wrtc2xpoopqyhp4mjz64k3ndpcnrhthiyzyeonwuaj4cegy"
+        },
+        {
+            "assetid": 379618489,
+            "name": "AlgoShoe30 Original Tiger Orange",
+            "url": "ipfs://bafybeicrahuz2jptq33rrnnhomdr5tgzh3zayxdkyve47gfna6bttwoj5y",
+            "image": "bafybeicrahuz2jptq33rrnnhomdr5tgzh3zayxdkyve47gfna6bttwoj5y"
+        },
+        {
+            "assetid": 388396395,
+            "name": "AlgoShoe31 Exotic PUMPkin Shoe",
+            "url": "ipfs://bafybeigu4bfy4fhnntcccsblz7jhimp63moqplrnzfzcrpyez3ubkwsz3q",
+            "image": "bafybeigu4bfy4fhnntcccsblz7jhimp63moqplrnzfzcrpyez3ubkwsz3q"
+        },
+        {
+            "assetid": 388442245,
+            "name": "AlgoShoe32 Exotic PUMPkin Face",
+            "url": "ipfs://bafybeihri6apkcrep7g3lncufdn27fuoj77qqj5wi7dfnz4stsdtzlg2qq",
+            "image": "bafybeihri6apkcrep7g3lncufdn27fuoj77qqj5wi7dfnz4stsdtzlg2qq"
+        },
+        {
+            "assetid": 388457230,
+            "name": "AlgoShoe33 Exotic Ghosted",
+            "url": "ipfs://bafybeidyagpq3f7lubnownubj4rzqs6wqsfliz4675l4njafr36rfboicy",
+            "image": "bafybeidyagpq3f7lubnownubj4rzqs6wqsfliz4675l4njafr36rfboicy"
+        },
+        {
+            "assetid": 388514467,
+            "name": "AlgoShoe34 Exotic Bat",
+            "url": "ipfs://bafybeiccehefuthuhvg36yuhejfkl6uhy7nygexqcu5xlavm3qwzuzczxe",
+            "image": "bafybeiccehefuthuhvg36yuhejfkl6uhy7nygexqcu5xlavm3qwzuzczxe"
+        },
+        {
+            "assetid": 388528793,
+            "name": "AlgoShoe35 Exotic Boo",
+            "url": "ipfs://bafkreih3ahjucx53vmgyxy5cpvto555i3rcw7ynre6n45ynrnchz4qyvzy",
+            "image": "bafkreih3ahjucx53vmgyxy5cpvto555i3rcw7ynre6n45ynrnchz4qyvzy"
+        },
+        {
+            "assetid": 391569731,
+            "name": "AlgoShoe36 Exotic Nebula Stitch",
+            "url": "ipfs://bafkreicn7wr75edpqkjngcdr74bl6wlmd3mvarv3hep2uc75tjprgsvgua",
+            "image": "bafkreicn7wr75edpqkjngcdr74bl6wlmd3mvarv3hep2uc75tjprgsvgua"
+        },
+        {
+            "assetid": 391587034,
+            "name": "AlgoShoe37 Exotic Vampire",
+            "url": "ipfs://bafybeiemufkdd4fexeu3reptos3ie3t546ytymhjik4xzqsdug275ygysq",
+            "image": "bafybeiemufkdd4fexeu3reptos3ie3t546ytymhjik4xzqsdug275ygysq"
+        },
+        {
+            "assetid": 391608061,
+            "name": "AlgoShoe38 Exotic Witch",
+            "url": "ipfs://bafkreibxhbqk5zftosuhydycaaqxwchbnflj22lpxfc4nu2zgikpfm7hyu",
+            "image": "bafkreibxhbqk5zftosuhydycaaqxwchbnflj22lpxfc4nu2zgikpfm7hyu"
+        },
+        {
+            "assetid": 391644167,
+            "name": "AlgoShoe39 Exotic Friendly Ghost",
+            "url": "ipfs://bafkreifsvhopqc2bnr2gztnltcvvdi2sigc36yxj3ezlw73lv6unah5kyy",
+            "image": "bafkreifsvhopqc2bnr2gztnltcvvdi2sigc36yxj3ezlw73lv6unah5kyy"
+        },
+        {
+            "assetid": 391650871,
+            "name": "AlgoShoe40 Exotic Strained Blood",
+            "url": "ipfs://bafkreifphpczz4enrnh4depijv2mx7tvhsoycjsjieix5wwiwjhedlmhne",
+            "image": "bafkreifphpczz4enrnh4depijv2mx7tvhsoycjsjieix5wwiwjhedlmhne"
+        },
+        {
+            "assetid": 412751143,
+            "name": "AlgoShoe43 Exotic Albert the Cat",
+            "url": "ipfs://bafkreif4lerzkizmqtekaekxjx4tl4kqfqrstjc3g4sqg7uiltepsrqoq4",
+            "image": "bafkreif4lerzkizmqtekaekxjx4tl4kqfqrstjc3g4sqg7uiltepsrqoq4"
+        },
+        {
+            "assetid": 412759720,
+            "name": "AlgoShoe44 Punk the Cat",
+            "url": "ipfs://bafkreicnwaksqkjqyofplyr4z2mv2cqc6c5zfzo7jxpjkuw4vinuctpjfq",
+            "image": "bafkreicnwaksqkjqyofplyr4z2mv2cqc6c5zfzo7jxpjkuw4vinuctpjfq"
+        },
+        {
+            "assetid": 412765137,
+            "name": "AlgoShoe45 Chewie the Dog",
+            "url": "ipfs://bafybeifcpik5vbcnms3jkapecdzbq3uxhvn6rvqivnpwwb66gh2wm4dtxm",
+            "image": "bafybeifcpik5vbcnms3jkapecdzbq3uxhvn6rvqivnpwwb66gh2wm4dtxm"
+        },
+        {
+            "assetid": 412782426,
+            "name": "AlgoShoe46 Floating Chewie",
+            "url": "ipfs://bafybeifpe2ldcgm5j7wcovbuubrdr5bl3sdpxgnrj7iqxh6sermkhqkvz4",
+            "image": "bafybeifpe2ldcgm5j7wcovbuubrdr5bl3sdpxgnrj7iqxh6sermkhqkvz4"
+        },
+        {
+            "assetid": 412787970,
+            "name": "AlgoShoe47 Exotic Kitten Yarn",
+            "url": "ipfs://bafkreidkhk4lg3wif24dmevzsgfaoe4tlacb7xrjenay6hgookjkvnx2zm",
+            "image": "bafkreidkhk4lg3wif24dmevzsgfaoe4tlacb7xrjenay6hgookjkvnx2zm"
+        },
+        {
+            "assetid": 412816633,
+            "name": "AlgoShoe41 Exotic Bibi the Dog",
+            "url": "ipfs://bafkreiajuscpf4s22lmrx7fkut3nuzule3nwivoatjngukd6dugy5dpnu4",
+            "image": "bafkreiajuscpf4s22lmrx7fkut3nuzule3nwivoatjngukd6dugy5dpnu4"
+        },
+        {
+            "assetid": 416857840,
+            "name": "AlgoShoe48 Exotic Blue String",
+            "url": "ipfs://bafkreifqfooknuxnldeh3bkxjeg4qwifrbai57yivueejbrl24hplrnxbi",
+            "image": "bafkreifqfooknuxnldeh3bkxjeg4qwifrbai57yivueejbrl24hplrnxbi"
+        },
+        {
+            "assetid": 416876428,
+            "name": "AlgoShoe49 Original Floater",
+            "url": "ipfs://bafybeibks7ae26t2epdyi4de63zz624vzancvmtt4t4kqvpo62dpyjglrq",
+            "image": "bafybeibks7ae26t2epdyi4de63zz624vzancvmtt4t4kqvpo62dpyjglrq"
+        },
+        {
+            "assetid": 418548909,
+            "name": "AlgoShoe42 Bibi on Green",
+            "url": "ipfs://bafkreidqf6skhorolhtyifuoxbnrgzk3s4gavfgcopauru32i5oj5pksly",
+            "image": "bafkreidqf6skhorolhtyifuoxbnrgzk3s4gavfgcopauru32i5oj5pksly"
+        },
+        {
+            "assetid": 418555195,
+            "name": "AlgoShoe50 Exotic Leyla Fluo",
+            "url": "ipfs://bafkreihcic3firdbiew4z4ykp5ncifrmrpqbd73d5r4tf7cphrp2wruvqy",
+            "image": "bafkreihcic3firdbiew4z4ykp5ncifrmrpqbd73d5r4tf7cphrp2wruvqy"
+        },
+        {
+            "assetid": 418572717,
+            "name": "AlgoShoe51 Kate the Cat",
+            "url": "ipfs://bafkreidtpej42snb5ukuhlkhqqap47wewozegqd2dcyharbaiofurmnj4u",
+            "image": "bafkreidtpej42snb5ukuhlkhqqap47wewozegqd2dcyharbaiofurmnj4u"
+        },
+        {
+            "assetid": 418577105,
+            "name": "AlgoShoe52 Needy Pinky Stringy",
+            "url": "ipfs://bafkreihk6enit7vo6hrelpkvohbuelrx4qi4oe6uas4qzrtyjsqyraxa5a",
+            "image": "bafkreihk6enit7vo6hrelpkvohbuelrx4qi4oe6uas4qzrtyjsqyraxa5a"
+        },
+        {
+            "assetid": 418644853,
+            "name": "AlgoShoe53 Hide da Dog",
+            "url": "ipfs://bafkreigot45mbyjvv4oyvmeyzgnvq6upyk4f5letgbd3cfbx4doovkkl3q",
+            "image": "bafkreigot45mbyjvv4oyvmeyzgnvq6upyk4f5letgbd3cfbx4doovkkl3q"
+        },
+        {
+            "assetid": 418661113,
+            "name": "AlgoShoe54 Purple Me Dog",
+            "url": "ipfs://bafkreiej55moitiww7m4wvmnqme5ayuaafiqax2jxed42isrewwzkthtdi",
+            "image": "bafkreiej55moitiww7m4wvmnqme5ayuaafiqax2jxed42isrewwzkthtdi"
+        },
+        {
+            "assetid": 418683930,
+            "name": "AlgoShoe55 Kittie that Mask",
+            "url": "ipfs://bafybeihi7msvvxneany2g3jzbafmfp6q776qzxorjxaqrlhd3hnuvublni",
+            "image": "bafybeihi7msvvxneany2g3jzbafmfp6q776qzxorjxaqrlhd3hnuvublni"
+        },
+        {
+            "assetid": 418699721,
+            "name": "AlgoShoe56 Orange Dalmatian",
+            "url": "ipfs://bafybeifxraib4zjidb3vcxkf7fdm2pjkct4grm2e3ksry4bfz6neirdaku",
+            "image": "bafybeifxraib4zjidb3vcxkf7fdm2pjkct4grm2e3ksry4bfz6neirdaku"
+        },
+        {
+            "assetid": 418702912,
+            "name": "AlgoShoe57 Red Dalmatian",
+            "url": "ipfs://bafybeiehii7bywunazqwawq75nmmmack5b7zure7k2nt6rmrarhqpvcgye",
+            "image": "bafybeiehii7bywunazqwawq75nmmmack5b7zure7k2nt6rmrarhqpvcgye"
+        },
+        {
+            "assetid": 418724668,
+            "name": "AlgoShoe58 School Time Cat",
+            "url": "ipfs://bafybeiddrxelqsydu3mcbscwjal2aysgkl6as5ubsp3pwxvepyxxkhly34",
+            "image": "bafybeiddrxelqsydu3mcbscwjal2aysgkl6as5ubsp3pwxvepyxxkhly34"
+        },
+        {
+            "assetid": 418793603,
+            "name": "AlgoShoe59 Original BoneFire",
+            "url": "ipfs://bafybeid23wz3xnns3acwoofusgbzkpj3sancmmtwz3tag7wygn4qgbnz5u",
+            "image": "bafybeid23wz3xnns3acwoofusgbzkpj3sancmmtwz3tag7wygn4qgbnz5u"
+        },
+        {
+            "assetid": 418802777,
+            "name": "AlgoShoe60 Original DarkBone",
+            "url": "ipfs://bafybeieu5ojqiabkpdytj7voysdmrhchqnqodebrwyymqtfhdodwkucuaq",
+            "image": "bafybeieu5ojqiabkpdytj7voysdmrhchqnqodebrwyymqtfhdodwkucuaq"
+        },
+        {
+            "assetid": 440929134,
+            "name": "AShoe61 Original Comfort Yellow",
+            "url": "ipfs://bafybeih64s323t7u5vm6oem3axquczwwzuxyp6dgvnaavnflknctfg6e2e",
+            "image": "bafybeih64s323t7u5vm6oem3axquczwwzuxyp6dgvnaavnflknctfg6e2e"
+        },
+        {
+            "assetid": 440931920,
+            "name": "AShoe62 Original Yellow Stars",
+            "url": "ipfs://bafybeig2v7oilrrl3jao624ajwzh4pavcxlh6a3g6uci4tvqdmpiafaobi",
+            "image": "bafybeig2v7oilrrl3jao624ajwzh4pavcxlh6a3g6uci4tvqdmpiafaobi"
+        },
+        {
+            "assetid": 440955930,
+            "name": "AShoe63 Original Purple Stripes",
+            "url": "ipfs://bafybeietum6ghiwy3ljvfh3wpe4ok6xlq4xgesn6xu5tgi7k4ggo6iid7m",
+            "image": "bafybeietum6ghiwy3ljvfh3wpe4ok6xlq4xgesn6xu5tgi7k4ggo6iid7m"
+        },
+        {
+            "assetid": 440964552,
+            "name": "AShoe64 Original Purple Warp",
+            "url": "ipfs://bafybeihwllrr6vawxckqkyz2citne7alz5oyoyeu6tbbwtyvlg56x3m5ku",
+            "image": "bafybeihwllrr6vawxckqkyz2citne7alz5oyoyeu6tbbwtyvlg56x3m5ku"
+        },
+        {
+            "assetid": 440978436,
+            "name": "AShoe65 Exotic Nebula Stars",
+            "url": "ipfs://bafybeick3p3ctty4uczw36odm7fdtndt2t3v4inapns4ahxr23n3ngvybm",
+            "image": "bafybeick3p3ctty4uczw36odm7fdtndt2t3v4inapns4ahxr23n3ngvybm"
+        },
+        {
+            "assetid": 445595829,
+            "name": "AShoe66 Exotic Melting Planet",
+            "url": "ipfs://bafkreibw6isxwa2jqtusw7w2y6ny5r3432ajuuyvbswn5cgaaj3siu5kne",
+            "image": "bafkreibw6isxwa2jqtusw7w2y6ny5r3432ajuuyvbswn5cgaaj3siu5kne"
+        },
+        {
+            "assetid": 445596977,
+            "name": "AShoe67 Original Sneaker",
+            "url": "ipfs://bafybeigbnypvrnpmsats3j2x44p7pzfr7ixfjdt4yvbiabp5zl6cjftazy",
+            "image": "bafybeigbnypvrnpmsats3j2x44p7pzfr7ixfjdt4yvbiabp5zl6cjftazy"
+        },
+        {
+            "assetid": 445599262,
+            "name": "AShoe68 Super Exotic Black&White",
+            "url": "ipfs://bafkreiarqp52u3klxiizzbh4vmrpaif2xmlhypi2jzmf3pgancips6wrwy",
+            "image": "bafkreiarqp52u3klxiizzbh4vmrpaif2xmlhypi2jzmf3pgancips6wrwy"
+        },
+        {
+            "assetid": 445833610,
+            "name": "AShoe69 Original Zebra Sparks",
+            "url": "ipfs://bafybeievtvgqznc4fyopqtouwbkztaxtpc4u5n2yi4yi53umphuosu6mzm",
+            "image": "bafybeievtvgqznc4fyopqtouwbkztaxtpc4u5n2yi4yi53umphuosu6mzm"
+        },
+        {
+            "assetid": 446124167,
+            "name": "AShoe70 Original Smile",
+            "url": "ipfs://bafybeihekxn3cbsci5lek365dwv7bh2ay42bzy2tuukaq2u2fslikbqhra",
+            "image": "bafybeihekxn3cbsci5lek365dwv7bh2ay42bzy2tuukaq2u2fslikbqhra"
+        },
+        {
+            "assetid": 446275553,
+            "name": "AShoe71 Exotic Smile Attack",
+            "url": "ipfs://bafybeif5rxhpywyuvm6mvbao2lypncyzcpigpenbyazjzgzfm6uypc3zmm",
+            "image": "bafybeif5rxhpywyuvm6mvbao2lypncyzcpigpenbyazjzgzfm6uypc3zmm"
+        },
+        {
+            "assetid": 446280973,
+            "name": "AShoe72 Opul Sneaker Nirvana",
+            "url": "ipfs://bafybeiguhcjkdzy3vp4ek5s2jmgumenikh4fpzjrftskvayrfuuha4kmxu",
+            "image": "bafybeiguhcjkdzy3vp4ek5s2jmgumenikh4fpzjrftskvayrfuuha4kmxu"
+        },
+        {
+            "assetid": 447254082,
+            "name": "AShoe75 Exotic Invisible Sneaker",
+            "url": "ipfs://bafybeiaf46b2nszft7jqfhbi34w7owouxvrwseoblngvgcnsnp4iyif4yi",
+            "image": "bafybeiaf46b2nszft7jqfhbi34w7owouxvrwseoblngvgcnsnp4iyif4yi"
+        },
+        {
+            "assetid": 447310329,
+            "name": "AShoe73 USDC on Algo",
+            "url": "ipfs://bafybeiey4zsnhmq2rnlcbnopsyk4vkj4xfdmevyosc6aztdd22izj3wb44",
+            "image": "bafybeiey4zsnhmq2rnlcbnopsyk4vkj4xfdmevyosc6aztdd22izj3wb44"
+        },
+        {
+            "assetid": 447329210,
+            "name": "AShoe74 Exotic USDC Whirlpool",
+            "url": "ipfs://bafybeiajnbtqwngv3kxj32mmjbj56rr6y35gyatfmpsj33ydlgacjdaupm",
+            "image": "bafybeiajnbtqwngv3kxj32mmjbj56rr6y35gyatfmpsj33ydlgacjdaupm"
+        },
+        {
+            "assetid": 447344513,
+            "name": "AShoe76 Vector me Now!",
+            "url": "ipfs://bafybeiablxozpjcgmogotunhxzghgtbukd5lohs6ffmedq6sk5e7652fqq",
+            "image": "bafybeiablxozpjcgmogotunhxzghgtbukd5lohs6ffmedq6sk5e7652fqq"
+        },
+        {
+            "assetid": 447357257,
+            "name": "AShoe77 Original Golden Yieldly",
+            "url": "ipfs://bafkreiax3p3y7ofx43asflxskpm6yftapuantvrnikubqde3qlbev6kgmu",
+            "image": "bafkreiax3p3y7ofx43asflxskpm6yftapuantvrnikubqde3qlbev6kgmu"
+        },
+        {
+            "assetid": 447360657,
+            "name": "AShoe78 Got Yieldly Swag",
+            "url": "ipfs://bafkreidf5sxphvs2omjadgkshgypwnhdpa5dknuon6pwrnjnqrkxwxrjtq",
+            "image": "bafkreidf5sxphvs2omjadgkshgypwnhdpa5dknuon6pwrnjnqrkxwxrjtq"
+        },
+        {
+            "assetid": 447384165,
+            "name": "AShoe79 Original Lime & Lemon",
+            "url": "ipfs://bafybeih6tx5burvfah42unzq2fd66boao5vrukiqodudtimmuqekrviloy",
+            "image": "bafybeih6tx5burvfah42unzq2fd66boao5vrukiqodudtimmuqekrviloy"
+        },
+        {
+            "assetid": 447399930,
+            "name": "AShoe80 Up Down & Around",
+            "url": "ipfs://bafybeiaxme2g54gqqkgywtnlmmmqcfexmsjrthqr2h5jhrdlvymngfprpy",
+            "image": "bafybeiaxme2g54gqqkgywtnlmmmqcfexmsjrthqr2h5jhrdlvymngfprpy"
+        },
+        {
+            "assetid": 453185570,
+            "name": "AlgoZenZero",
+            "url": "ipfs://bafkreihjy5rpcayozjnxfrgvqbzjmrmctaigbajpqrorsmovxmt45jg6s4",
+            "image": "bafkreihjy5rpcayozjnxfrgvqbzjmrmctaigbajpqrorsmovxmt45jg6s4"
+        },
+        {
+            "assetid": 469259406,
+            "name": "AShoe81 SW Green Alien",
+            "url": "ipfs://bafkreihxkmvkbrbemiutfywl74iekkz7rzb6myabazpygq672ssxinybxe",
+            "image": "bafkreihxkmvkbrbemiutfywl74iekkz7rzb6myabazpygq672ssxinybxe"
+        },
+        {
+            "assetid": 469283785,
+            "name": "AShoe82 SW Dark Masked Villain",
+            "url": "ipfs://bafybeibc2ulzlqqsatp3ftxshukdb2vm3sgeaj7itqkah2cmhsnfe6scky",
+            "image": "bafybeibc2ulzlqqsatp3ftxshukdb2vm3sgeaj7itqkah2cmhsnfe6scky"
+        },
+        {
+            "assetid": 469532566,
+            "name": "AShoe83 SW Bright Masked Villain",
+            "url": "ipfs://bafybeias3yo7jtcpo63ijexd44inu2bhe7ekd4tsppy4iqih3qhzf662ka",
+            "image": "bafybeias3yo7jtcpo63ijexd44inu2bhe7ekd4tsppy4iqih3qhzf662ka"
+        },
+        {
+            "assetid": 469622214,
+            "name": "AShoe84 SW Red Monster on Lime",
+            "url": "ipfs://bafybeiep2rvhcndrxc74ocvwnvtzyazzmhr3g5rkrukv5tpcji4hbcxdbu",
+            "image": "bafybeiep2rvhcndrxc74ocvwnvtzyazzmhr3g5rkrukv5tpcji4hbcxdbu"
+        },
+        {
+            "assetid": 470899039,
+            "name": "AShoe85 SW Spotted Green Alien",
+            "url": "ipfs://bafkreihoayijzk2se7d4truxkc236m6d2rwekcw4xljddwwcuzcd5ykor4",
+            "image": "bafkreihoayijzk2se7d4truxkc236m6d2rwekcw4xljddwwcuzcd5ykor4"
+        },
+        {
+            "assetid": 471016651,
+            "name": "AShoe86 SW Red Monster on Khaki",
+            "url": "ipfs://bafybeifjyrvwwr6ckrirqrsllytuey2vckvqp2oi35gtyspmfdgs6to54a",
+            "image": "bafybeifjyrvwwr6ckrirqrsllytuey2vckvqp2oi35gtyspmfdgs6to54a"
+        },
+        {
+            "assetid": 471018462,
+            "name": "AShoe87 SW Dark Ren in Shade",
+            "url": "ipfs://bafybeihew6mhlbndzo7swjt5gxzvqbdg4yaqeczlh25hqajudnrxy6napm",
+            "image": "bafybeihew6mhlbndzo7swjt5gxzvqbdg4yaqeczlh25hqajudnrxy6napm"
+        },
+        {
+            "assetid": 471139019,
+            "name": "AShoe88 SW Green Lightsaber",
+            "url": "ipfs://bafybeifbgppbngb7dnom4q7io4bmdsqfrv3bmd4or25gljduyqgfd3hnqu",
+            "image": "bafybeifbgppbngb7dnom4q7io4bmdsqfrv3bmd4or25gljduyqgfd3hnqu"
+        },
+        {
+            "assetid": 471149189,
+            "name": "AShoe89 SW Red Lightsaber",
+            "url": "ipfs://bafybeignn4rby2gdegyd2dpkmbrbsjc6o3gwhytitkaqlcx4ijqpw75csy",
+            "image": "bafybeignn4rby2gdegyd2dpkmbrbsjc6o3gwhytitkaqlcx4ijqpw75csy"
+        },
+        {
+            "assetid": 471171868,
+            "name": "AShoe90 SW Dark Ren on Purple",
+            "url": "ipfs://bafybeifej22mffvohwuia7nsk6u3qaursknbvbswkovldzy4cx6v5j3rlq",
+            "image": "bafybeifej22mffvohwuia7nsk6u3qaursknbvbswkovldzy4cx6v5j3rlq"
+        }
+    ]
+}

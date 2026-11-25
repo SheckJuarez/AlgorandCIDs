@@ -1,0 +1,21 @@
+{
+    "Project": "ASA Compass",
+    "Creator": "AsaCompass",
+    "CreatorAddress": [
+        "ASA5AYECLOIYYPFHAUXEX6QB4ZXC3X3DMOPBULLI4LKIVOEOB7CGJRHDX4"
+    ],
+    "Assets": [
+        {
+            "assetid": 3782163915,
+            "name": "Compass World Stone",
+            "url": "https://asacompass.com/stone",
+            "image": "https:"
+        },
+        {
+            "assetid": 3782212205,
+            "name": "Geologist Hammer",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjEUHUZSxZpHBZoV1xurzSogjSp6Y2FfDJEkkgMCiPaBo"
+        }
+    ]
+}

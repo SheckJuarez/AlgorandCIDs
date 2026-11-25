@@ -2,7 +2,8 @@
     "Project": "Higher Ape Circle",
     "Creator": "NFTSandMan",
     "CreatorAddress": [
-        "HACLH3SXFFQT6EX3LUE4VINYO5RC5KCI6MCARPTSXG7PHMIURHUKXOGM5U"
+        "HACLH3SXFFQT6EX3LUE4VINYO5RC5KCI6MCARPTSXG7PHMIURHUKXOGM5U",
+        "HACLME3YWMVPYUWWFKQ3EQ4Y35MWJTIT222YP2F3SKTOX4ZAWPNJXEDV5I"
     ],
     "Assets": [
         {
@@ -30004,6 +30005,12 @@
             "name": "HASH",
             "url": "https://bafybeihv7zrurvx4h6mjagdkemufyev2o5mhsu3fccfytfkgd5o6luzm34.ipfs.nftstorage.link/",
             "image": "https:"
+        },
+        {
+            "assetid": 887687571,
+            "name": "HASHER",
+            "url": "ipfs://bafkreie653q6b3p6slgqwqhkc6ci6frpj6mrw2vybtumkdd6wzbt5sx7wa#i",
+            "image": "bafkreie653q6b3p6slgqwqhkc6ci6frpj6mrw2vybtumkdd6wzbt5sx7wa"
         }
     ]
 }

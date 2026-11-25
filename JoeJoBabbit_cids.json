@@ -2,7 +2,8 @@
     "Project": "JoeJoBabbit",
     "Creator": "Lucas Scapinello",
     "CreatorAddress": [
-        "A5LY5KBYK3TOGZTDVQMPRVWBP3QBTH646VPCJ4JTPEWF7AGLSDJCTOCN3Q"
+        "A5LY5KBYK3TOGZTDVQMPRVWBP3QBTH646VPCJ4JTPEWF7AGLSDJCTOCN3Q",
+        "D363XNNTH64WB4GDSOZ7WEXDREKKAQZD6AUFG5IJGBTK6ADKATCZ6J5FTE"
     ],
     "Assets": [
         {
@@ -2596,6 +2597,210 @@
             "name": "JoeJoBabbit",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmWaWA6nngqSDyfFoKKB8MA6GqtHaszz3QLU3imvhRa9NL"
+        },
+        {
+            "assetid": 3625946702,
+            "name": "JoeJo Babbit",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZxbeaRRpHjwouPpjeLLQmGbS5EB3g4b4MLv6covRtmcY"
+        },
+        {
+            "assetid": 3625946942,
+            "name": "JoeJo Babbit",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmZeoGJ5Pg7dapgyM7Kce5qSiTuMrKMqQqDx4AjyANZxnx"
+        },
+        {
+            "assetid": 677118887,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeiavuygnmtj4cx2sfzf2xtxgbn3ehtwnay4u7rnqoibtezfj3rz2fu#i",
+            "image": "bafybeiavuygnmtj4cx2sfzf2xtxgbn3ehtwnay4u7rnqoibtezfj3rz2fu"
+        },
+        {
+            "assetid": 680384870,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeifdkmfsa42tosprgnp2vwvpvnsw2iklajtgcur6bnea5mibjfjfry#i",
+            "image": "bafybeifdkmfsa42tosprgnp2vwvpvnsw2iklajtgcur6bnea5mibjfjfry"
+        },
+        {
+            "assetid": 680385993,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeiaaunrf3djjpiuoirubqznvtae5mdd3z2z2xu5jliayoondpduoli#i",
+            "image": "bafybeiaaunrf3djjpiuoirubqznvtae5mdd3z2z2xu5jliayoondpduoli"
+        },
+        {
+            "assetid": 680390653,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeiaeoeec3ax7bp6fcrxcm2qxdwrscvr536bs5ltiniwtidvbsszloq#i",
+            "image": "bafybeiaeoeec3ax7bp6fcrxcm2qxdwrscvr536bs5ltiniwtidvbsszloq"
+        },
+        {
+            "assetid": 680397881,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeigedmxyuwx6v2633mdepcitz7jtyjhtr6jeprg7tcy2hovofgbwyu#i",
+            "image": "bafybeigedmxyuwx6v2633mdepcitz7jtyjhtr6jeprg7tcy2hovofgbwyu"
+        },
+        {
+            "assetid": 689971504,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeiacs2jocs3xnfy72me4g4xac4kk2is34pn2bwg2vu3fftaroncdzu#i",
+            "image": "bafybeiacs2jocs3xnfy72me4g4xac4kk2is34pn2bwg2vu3fftaroncdzu"
+        },
+        {
+            "assetid": 689972709,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeicpr3up4njzm5lbg4s5eute3eret5ufueajf5jwwi2xqai7oh7tuu#i",
+            "image": "bafybeicpr3up4njzm5lbg4s5eute3eret5ufueajf5jwwi2xqai7oh7tuu"
+        },
+        {
+            "assetid": 689973360,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafkreiad3iv7ypkokfpncelnwulxtg7ulhxkgsim2zh6hxfybuikpevl4e#i",
+            "image": "bafkreiad3iv7ypkokfpncelnwulxtg7ulhxkgsim2zh6hxfybuikpevl4e"
+        },
+        {
+            "assetid": 694685299,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafkreib7u3k7qkr7tqrepi5ew3wa2whq77ez6m2hpz5i6h2mckoxoklsbi#i",
+            "image": "bafkreib7u3k7qkr7tqrepi5ew3wa2whq77ez6m2hpz5i6h2mckoxoklsbi"
+        },
+        {
+            "assetid": 694687169,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeib4mcn4sqwmg3ggxq3klbf3vptjlo7l62uqcdu7dszeyzkekqjqfu#i",
+            "image": "bafybeib4mcn4sqwmg3ggxq3klbf3vptjlo7l62uqcdu7dszeyzkekqjqfu"
+        },
+        {
+            "assetid": 694688199,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeievpmxpaxgeh2bhkbqslhlmglwqnyrhi4dove3wo5ru4yauojxd7a#i",
+            "image": "bafybeievpmxpaxgeh2bhkbqslhlmglwqnyrhi4dove3wo5ru4yauojxd7a"
+        },
+        {
+            "assetid": 694709070,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeif2ohjrmrl4mvazqxhj446zjhqb6zvxzczz5bweh6gwnopp6ud4dm#i",
+            "image": "bafybeif2ohjrmrl4mvazqxhj446zjhqb6zvxzczz5bweh6gwnopp6ud4dm"
+        },
+        {
+            "assetid": 698076528,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafkreihi56dd7l2slqupqprkoq2keriw6qfhbfwpclajr66j45fnislrsa#i",
+            "image": "bafkreihi56dd7l2slqupqprkoq2keriw6qfhbfwpclajr66j45fnislrsa"
+        },
+        {
+            "assetid": 770822519,
+            "name": "JoeJoBabbit",
+            "url": "ipfs://bafybeigftuz3tw6l3jq5hzjcwdn4q4dyot76imd2rudr6alf6fh6iyk7oi#i",
+            "image": "bafybeigftuz3tw6l3jq5hzjcwdn4q4dyot76imd2rudr6alf6fh6iyk7oi"
+        },
+        {
+            "assetid": 2707811975,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXnvZV3JJgjq6LmsVmu3bZXuxyK9b6kDnUhbbqg2pqNp4"
+        },
+        {
+            "assetid": 2707812841,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheqr3VNMeYVbQMn5LifvbX1DeJHZXQKKmcwALqUiivTVS"
+        },
+        {
+            "assetid": 2707813433,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZMNL3Rbph7F1dFMH8AqeSVKVSeFpDJVwBFy7VEcC2sov"
+        },
+        {
+            "assetid": 2707814510,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgrFQCKTcfqwCJxnxe4h6b2We6kyDREvtwewJ9fvRkXcX"
+        },
+        {
+            "assetid": 2707815416,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhfVDfVNxHds2yre8x5dgApQXB8Dio6wggRhwC5UJCm4Gx"
+        },
+        {
+            "assetid": 2721639603,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaDvEtJQrCt3T18t6ZDxQSGEsE3Tw53mYrkUXq4TKmL2W"
+        },
+        {
+            "assetid": 2721640979,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhaN9y5n7KBSjwjUPxMvYY4r5gx6dSXCRAN8VSeMzoKfc7"
+        },
+        {
+            "assetid": 2738012470,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmxTdrkSa4RQqqrqXjBteTjaJ6M1a5ykqNKPi5p8ED21A"
+        },
+        {
+            "assetid": 2738013239,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhokKici3cAYzeQPKZDL3nCYuCqnhBTmp6EZq6ogKqpegt"
+        },
+        {
+            "assetid": 2738013780,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhjLTmkDaKNyX9rxVmCncSE58F5LeHWp38LYy1aGmkdE5M"
+        },
+        {
+            "assetid": 2738014301,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhbpPRQag2TkDwmmUrVTuDYYXCMRUUVDbcH5HqYFyh1hht"
+        },
+        {
+            "assetid": 2773926032,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhcb6U1zwKRTFjuhcb2fYSsnKhi4PxKZ2BuFsBFbAZRMQL"
+        },
+        {
+            "assetid": 2773927065,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhZZyKCsdyLiZrNEBBaKGcoiD8rvaUkf4iWZsXCf2Hn1b5"
+        },
+        {
+            "assetid": 2773927763,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnkWwLN1Z4n5AeLNLo34AQr674Mp6KU4ASBAYnV48A6sA"
+        },
+        {
+            "assetid": 2773928775,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rheaPLQsPGXZKeQN15nCDLki65uNZf6egP17N6KRufTyWD"
+        },
+        {
+            "assetid": 2801214784,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhdSTcSHts65J6AAdtj8Wod9bWrHfgM1NhoWrmHBqQL2Zs"
+        },
+        {
+            "assetid": 2801215901,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhmuMcJaLMuQMwQ9nMLApAeWgD4tRMo3aqmcBbZbSbpGgS"
+        },
+        {
+            "assetid": 2801216401,
+            "name": "JoeJo Collabs",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhidFmPUFBDwhHACq6v9fXjE1jitPZeENdLxMkhjAz1Mwb"
         }
     ]
 }

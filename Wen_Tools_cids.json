@@ -1,0 +1,27 @@
+{
+    "Project": "Wen Tools",
+    "Creator": "wen.tools",
+    "CreatorAddress": [
+        "RBZ4GUE7FFDZWCN532FFR5AIYJ6K4V2GKJS5B42JPSWOAVWUT4OHWG57YQ"
+    ],
+    "Assets": [
+        {
+            "assetid": 3555768397,
+            "name": "BEACON-Protocol",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmaE7nAcYj6KVCAomW4WX66Asn88MqMJcXCUgBrJeAeWgb"
+        },
+        {
+            "assetid": 3555824463,
+            "name": "BEACON-Protocol",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmcysFNvWLkDqYWHMe82fEafY374w4gn9n7okPYVvPyFWv"
+        },
+        {
+            "assetid": 3555926856,
+            "name": "wen-tools",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWCsMvqHZRyy9uo5xZtsqfDdUwND7V9EuGAH86wuMQMt7"
+        }
+    ]
+}

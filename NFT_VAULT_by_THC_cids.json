@@ -2,7 +2,9 @@
     "Project": "NFT VAULT by THC",
     "Creator": "AlgoNFTBuddies",
     "CreatorAddress": [
-        "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA"
+        "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "GASTVTSB3UI3RKFQXAVNSSVW7OG5JCTOANQSQIQCDWS7QBRK3FNAEH24MM",
+        "YO6MUL3ZAAKBDIMVJDBCMD5T52AWZL2WLID4NZD5CUL5IM64FJFROJZ3GI"
     ],
     "Assets": [
         {
@@ -262,6 +264,35 @@
             "name": "NFT VAULT by THC",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmPgqhADeSNibLXoivJhUfyh1rs3tyBfFWpn5VqubP4pYM"
+        },
+        {
+            "assetid": 1144340594,
+            "name": "GAS",
+            "url": ""
+        },
+        {
+            "assetid": 1708906146,
+            "name": "NFT VAULT by THC",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhhRHUGfc7Uy9pdbbd72JiULurRJjacYRje1iWWoXVvJBZ"
+        },
+        {
+            "assetid": 1709225980,
+            "name": "NFT VAULT by THC",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhk5fRFPfqVuK6hAghS6hkda3pHzqPST1oK4yRBAsjKtj8"
+        },
+        {
+            "assetid": 1709236099,
+            "name": "NFT VAULT by THC",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rha1vm71VPypPCAWfZn2RA4KhWMHVuFCdxyVMH6KbSnKaK"
+        },
+        {
+            "assetid": 1708719333,
+            "name": "NFT VAULT by THC",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgrdFgukdxjGz3uWGThRdAHgRwXyt9aCPzXoE47Sq4Pwt"
         }
     ]
 }

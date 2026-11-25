@@ -5,7 +5,9 @@
         "R4V3NQKUDJKQWV74JZWEVDNJ6HMHHZK253FGMRQHAE6RA5MAKXBCYVVLQE",
         "R4V3NI5QQSJNSYJZH63PJUN3O2HOVUX5N4OUO754H4STN472DES2MS5JSY",
         "R4V3NBVSRDR5UF3JNODCKBHO5IC6RG74SEJEOA3SVMB2XNQB6YBXGC3WF4",
-        "DEBTNJNAQOBNLSJIP4K6KU7HID23V7HHBIQKVRDTUBHAJ46TOOQKCPRXHE"
+        "DEBTNJNAQOBNLSJIP4K6KU7HID23V7HHBIQKVRDTUBHAJ46TOOQKCPRXHE",
+        "ROHTBEEGOS6LNTQAEZMLMYQHZDKYZES652Z5GORGVPAJ5IRFYYWAOYQZS4",
+        "OCTTPXIOFE4JHLFFMNMWWODK5RZ76EITZ2A4TFNWTZXC446ACNXNMSC55I"
     ],
     "Assets": [
         {
@@ -7141,6 +7143,78 @@
             "name": "R4V3N Trait - Basewear 27",
             "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
             "image": "QmPy4y3HXgELWi321dvNbu66Wup2YpW1w4XAYd4LYDRN8c"
+        },
+        {
+            "assetid": 1178079230,
+            "name": "R4V3N Trait - Background 22",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmRtCczjuo6CqA3b4CLHgFWh1o5TXAWf4GD6a4siutsSyg"
+        },
+        {
+            "assetid": 1178080846,
+            "name": "R4V3N Trait - Back 27",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbaTgq361e2jD1pZGCZz83rK5fEb9QHLT4uQo3cRGik11"
+        },
+        {
+            "assetid": 1178081254,
+            "name": "R4V3N Trait - Mouth 17",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWjiPD4MeWsd7qDzkNDeT36ZUt8uFctJDoYaZwXP8QApe"
+        },
+        {
+            "assetid": 1178081672,
+            "name": "R4V3N Trait - Eyes 16",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmafQCMnNxirTmapziu7abCoQUEwpQru2bpY8zz9syxZhv"
+        },
+        {
+            "assetid": 1178082154,
+            "name": "R4V3N Trait - Basewear 26",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmbKZJDXjwV8NyqPwpDhXEmQLSBj2AocdTjHbFqEFnFFC7"
+        },
+        {
+            "assetid": 1178082608,
+            "name": "R4V3N Trait - Outerwear 27",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmXb5FqfZDpPoVXH8uvSVzeswVzAY21vHochzb7EYGbgum"
+        },
+        {
+            "assetid": 1178083518,
+            "name": "R4V3N Trait - Hair 35",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmVbfh9k8g2EK1bZwG6t3oMr5prpMDXFPzZhoB3XcvNYiG"
+        },
+        {
+            "assetid": 1656202379,
+            "name": "R4V3N Trait - Background 24",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmaRbCAxBi8LcD7U4fSNiCnaXDMhJr4f7CNQN7DR8Umuib"
+        },
+        {
+            "assetid": 1656203894,
+            "name": "R4V3N Trait - Back 30",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmWVbJ2MwMQjBmL6dirabpSXC8RKkkyWBfHDiCYcRnAuZW"
+        },
+        {
+            "assetid": 1656207203,
+            "name": "R4V3N Trait - Eyes 17",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdQtT52mgpQQkGWeiD6i8EdppYpUyn6vPHzpRVi5X4K2G"
+        },
+        {
+            "assetid": 1656210353,
+            "name": "R4V3N Trait - Outerwear 29",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmNmRksBNUqjnSjVK4XDceUtE96SBxbjoPrN2rZyabMuyn"
+        },
+        {
+            "assetid": 1656213520,
+            "name": "R4V3N Trait - Hair 37",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmSLhh9RnbceUf2uQWCmM9qwrAiXw9Wk3uTGNtsAKH52Tf"
         }
     ]
 }

@@ -2,7 +2,9 @@
     "Project": "B-KARTEL: SQUADDIES",
     "Creator": "Facility of E",
     "CreatorAddress": [
-        "FOEUI7GSVBOKPBFPNPKO7NQ64Z4HDI2EVZWHANXHPLJJCS4Q35S3JRTZHA"
+        "FOEUI7GSVBOKPBFPNPKO7NQ64Z4HDI2EVZWHANXHPLJJCS4Q35S3JRTZHA",
+        "KFOEYPB7S6WPJWW4SUZFO5IVZUMWJYDCR4TKR6GSAFYQKV5CSRFL55BMIA",
+        "WRKDZI5LYUEY5I74LXEI25GPFLCA33FKRINRBUPT67UYL63VGLG3C54EP4"
     ],
     "Assets": [
         {
@@ -16204,6 +16206,24 @@
             "name": "B-KARTEL: SQUADDIES #2700",
             "url": "ipfs://bafybeihxypinfnxuc5pcjkdhwob2uyqd232vjjpttthpsbxy7wfieldjma/2700.png",
             "image": "bafybeihxypinfnxuc5pcjkdhwob2uyqd232vjjpttthpsbxy7wfieldjma"
+        },
+        {
+            "assetid": 1057956765,
+            "name": "B-KARTEL: Utility Token",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}",
+            "image": "QmdP8q5zofnSbtE9FUnnghovUgnkgNqBswGF4YYSnJwjZX"
+        },
+        {
+            "assetid": 3759693245,
+            "name": "WRKDUP: SQUAD-PACK",
+            "url": "ipfs://bafkreifxgyxwehucsc3pfkeisii576i53w3kmjf44dpdgetop7vzuz7a5y",
+            "image": "bafkreifxgyxwehucsc3pfkeisii576i53w3kmjf44dpdgetop7vzuz7a5y"
+        },
+        {
+            "assetid": 3759872171,
+            "name": "WRKDUP: SQUAD-PACK",
+            "url": "ipfs://bafkreifxgyxwehucsc3pfkeisii576i53w3kmjf44dpdgetop7vzuz7a5y",
+            "image": "bafkreifxgyxwehucsc3pfkeisii576i53w3kmjf44dpdgetop7vzuz7a5y"
         }
     ]
 }

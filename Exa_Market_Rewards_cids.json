@@ -2,7 +2,8 @@
     "Project": "Exa Market Rewards",
     "Creator": "Exa Market",
     "CreatorAddress": [
-        "232VIDSFUKLONJDMTLSQMW2XHGHJHJFNU7VQHNSAJ7HN6LDMLUS47OGA2I"
+        "232VIDSFUKLONJDMTLSQMW2XHGHJHJFNU7VQHNSAJ7HN6LDMLUS47OGA2I",
+        "EXA42WJF36XWLZBTLJOVKOIOEXNL2QYHCT3HEJMFQKAAJLXAKPHXKGRLTU"
     ],
     "Assets": [
         {
@@ -148,6 +149,36 @@
             "name": "25 ALGO redeemable token",
             "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
             "image": "zb2rhkBcymotQBzRnLfLxaifcFN1kQNdFci5r4mXJhLF78B1b"
+        },
+        {
+            "assetid": 1003527093,
+            "name": "EXA Lootbox",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhXKyX7zwgoYuDDr3Qv7FA1cEn89hb5vMToJWGGTH3VEL9"
+        },
+        {
+            "assetid": 1108385957,
+            "name": "EXA Lootbox L2",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhgtnupnS2pcQ8N5UYARoqkuXEy7YuvYsxX43zU5TsM7p7"
+        },
+        {
+            "assetid": 1108387538,
+            "name": "EXA Lootbox L3",
+            "url": "template-ipfs://{ipfscid:1:raw:reserve:sha2-256}",
+            "image": "zb2rhnYMoWZ7vQXBaPx3H9mfV6a95LqNTjAty92RAcv1MfAqN"
+        },
+        {
+            "assetid": 1592908918,
+            "name": "EXA Paris Event",
+            "url": "ipfs://QmaNTizoSqwQTxP6MWfn4kga9tCokQwoq3MHL9NnL8N6AW#arc3",
+            "image": "QmaNTizoSqwQTxP6MWfn4kga9tCokQwoq3MHL9NnL8N6AW"
+        },
+        {
+            "assetid": 2295053610,
+            "name": "EXA Party Ticket",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}#arc3",
+            "image": "QmZQu7MCEQ21aeKisq7bk2YXFGzXrfCWQxDhuDUMJBGDMA"
         }
     ]
 }

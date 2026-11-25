@@ -1,0 +1,27 @@
+{
+    "Project": "Vanta",
+    "Creator": "Vanta_algo",
+    "CreatorAddress": [
+        "WTWW5ERLHJUFDHHX2GJP6FHBGZ7NJ2QZHSMRYRYH2GQMYU5XKSEUU755NU"
+    ],
+    "Assets": [
+        {
+            "assetid": 3297094692,
+            "name": "Vanta Silver",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}#arc3",
+            "image": "QmfVyo5Meovu7hwq3e3s31MBgLHBqPvxnMfDLMhUuqR7Vv"
+        },
+        {
+            "assetid": 3297098916,
+            "name": "Vanta Gold",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}#arc3",
+            "image": "QmbN5J897gQ5YUTASkmWVbEnMAvMhiF5KPtsnMh4VWfphx"
+        },
+        {
+            "assetid": 3297101750,
+            "name": "Vanta Diamond",
+            "url": "template-ipfs://{ipfscid:0:dag-pb:reserve:sha2-256}#arc3",
+            "image": "QmfLw7KtEko5w5pZzsJp8AR9ePJJM6NC9uUnQE9o4sTxGw"
+        }
+    ]
+}

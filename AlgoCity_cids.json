@@ -1,0 +1,608 @@
+{
+    "Project": "AlgoCity",
+    "Creator": "AlgoCity",
+    "CreatorAddress": [
+        "7JKAX2LFCQZP5LPY6FSRQKTLF5E2BCTVQDYBE5O45K3TZ6ZP7JCALBXJSU",
+        "DTOXR6U3WEEUFXJOPFRDXVMUXN7QTCUUOBFDJVENVP2M7PHZ7I6EVLURTI",
+        "FVBDKXG4RBWW54VG4CMBFCYQUN4SP5XLJQOGVX6WF26GEDJ7YEQ5LFJFQ4",
+        "LBRD7L5WHFABBSKO7AHHHBQBDS4MQ2ADXKIJKHGMGA2KVM3Y2RHTJEPWUQ",
+        "LJ7XOOKZJQWGEOU2IR4QTPJ7PFXVUMTOZJ7UU2PJQU2KNUJYRIDDDFBY44",
+        "SKDNSNNDTCG43T5JWNRHDNBIL7ZW2CSDEJHH2JHEPDF3YDR27YUJMIXCKE"
+    ],
+    "Assets": [
+        {
+            "assetid": 3727100624,
+            "name": "Poly",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/game-money.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100625,
+            "name": "AlgoCity House",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/house.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100626,
+            "name": "AlgoCity Hotel",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/hotel.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100627,
+            "name": "Oracle Lockup Pass",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/card-07.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100628,
+            "name": "Commons Lockup Pass",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/card-20.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100631,
+            "name": "Ledger Lane",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-00.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100632,
+            "name": "Block Row",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-01.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100633,
+            "name": "North Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-02.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100635,
+            "name": "Hash Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-03.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100636,
+            "name": "Nonce Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-04.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100637,
+            "name": "Salt Way",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-05.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100639,
+            "name": "Relay Court",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-06.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100640,
+            "name": "Power Grid",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-07.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100641,
+            "name": "Beacon Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-08.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100643,
+            "name": "Round Road",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-09.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100644,
+            "name": "East Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-10.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100645,
+            "name": "Atomic Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-11.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100647,
+            "name": "Group Lane",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-12.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100648,
+            "name": "Inner Way",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-13.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100649,
+            "name": "Vault Boulevard",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-14.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100651,
+            "name": "Escrow Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-15.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100652,
+            "name": "Bid Square",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-16.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100653,
+            "name": "South Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-17.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100655,
+            "name": "Deed Park",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-18.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100656,
+            "name": "Mint Terrace",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-19.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100657,
+            "name": "Water Grid",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-20.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100659,
+            "name": "Supply Hill",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-21.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100660,
+            "name": "Validator Row",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-22.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100661,
+            "name": "Consensus Court",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-23.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100663,
+            "name": "Finality Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-24.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100664,
+            "name": "West Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-25.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100665,
+            "name": "Sandbox Heights",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-26.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727100667,
+            "name": "Genesis Point",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-27.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269121,
+            "name": "Ledger Lane",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-00.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269122,
+            "name": "Block Row",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-01.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269123,
+            "name": "North Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-02.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269125,
+            "name": "Hash Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-03.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269126,
+            "name": "Nonce Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-04.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269127,
+            "name": "Salt Way",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-05.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269129,
+            "name": "Relay Court",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-06.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269130,
+            "name": "Power Grid",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-07.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269131,
+            "name": "Beacon Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-08.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269133,
+            "name": "Round Road",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-09.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269134,
+            "name": "East Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-10.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269135,
+            "name": "Atomic Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-11.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269137,
+            "name": "Group Lane",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-12.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269138,
+            "name": "Inner Way",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-13.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269139,
+            "name": "Vault Boulevard",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-14.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269141,
+            "name": "Escrow Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-15.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269142,
+            "name": "Bid Square",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-16.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269143,
+            "name": "South Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-17.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269145,
+            "name": "Deed Park",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-18.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269146,
+            "name": "Mint Terrace",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-19.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269147,
+            "name": "Water Grid",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-20.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269149,
+            "name": "Supply Hill",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-21.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269150,
+            "name": "Validator Row",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-22.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269151,
+            "name": "Consensus Court",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-23.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269153,
+            "name": "Finality Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-24.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269154,
+            "name": "West Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-25.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269155,
+            "name": "Sandbox Heights",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-26.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269157,
+            "name": "Genesis Point",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-27.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064076,
+            "name": "Ledger Lane",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-00.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064077,
+            "name": "Block Row",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-01.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064078,
+            "name": "North Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-02.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064080,
+            "name": "Hash Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-03.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064081,
+            "name": "Nonce Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-04.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064082,
+            "name": "Salt Way",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-05.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064084,
+            "name": "Relay Court",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-06.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064085,
+            "name": "Power Grid",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-07.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064086,
+            "name": "Beacon Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-08.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064088,
+            "name": "Round Road",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-09.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064089,
+            "name": "East Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-10.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064090,
+            "name": "Atomic Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-11.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064092,
+            "name": "Group Lane",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-12.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064093,
+            "name": "Inner Way",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-13.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064094,
+            "name": "Vault Boulevard",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-14.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064096,
+            "name": "Escrow Street",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-15.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064097,
+            "name": "Bid Square",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-16.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064098,
+            "name": "South Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-17.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064100,
+            "name": "Deed Park",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-18.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064101,
+            "name": "Mint Terrace",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-19.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064102,
+            "name": "Water Grid",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-20.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064104,
+            "name": "Supply Hill",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-21.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064105,
+            "name": "Validator Row",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-22.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064106,
+            "name": "Consensus Court",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-23.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064108,
+            "name": "Finality Avenue",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-24.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064109,
+            "name": "West Line",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-25.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064110,
+            "name": "Sandbox Heights",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-26.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064112,
+            "name": "Genesis Point",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/deed-27.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269114,
+            "name": "Poly",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/game-money.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269115,
+            "name": "AlgoCity House",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/house.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269116,
+            "name": "AlgoCity Hotel",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/hotel.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269117,
+            "name": "Oracle Lockup Pass",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/card-07.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727269118,
+            "name": "Commons Lockup Pass",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/card-20.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064069,
+            "name": "Poly",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/game-money.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064070,
+            "name": "AlgoCity House",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/house.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064071,
+            "name": "AlgoCity Hotel",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/hotel.png#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064072,
+            "name": "Oracle Lockup Pass",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/card-07.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        },
+        {
+            "assetid": 3727064073,
+            "name": "Commons Lockup Pass",
+            "url": "ipfs://bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla/card-20.svg#i",
+            "image": "bafybeig5higmyfjnul5gstitxuxiobsd53bg3fmzrkgsovjfakkym36jla"
+        }
+    ]
+}
